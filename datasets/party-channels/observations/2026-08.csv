@@ -77,3 +77,10 @@ checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,ht
 2026-08-29T15:23:17Z,de-by-csu,0029VaD4cMMEawdhJl5YBj1d,http_error,,,it-IT,,429,channel
 2026-08-30T10:28:42Z,fr-lfi,0029VaigBPdLNSa5rfQMSp3t,ok,11930,exact,de-DE,La France insoumise,200,channel
 2026-08-30T10:28:42Z,at-grune,0029VagPEHPCnA7uajcDvi2u,ok,1331,exact,de-DE,Team fürs Klima,200,channel
+2026-08-31T11:36:04Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,20391,exact,de-DE,CDU Deutschlands,200,channel
+2026-08-31T11:36:04Z,de-be-gruene,0029VaxyPKoFi8xV3B1jXA2B,ok,68,exact,de-DE,GRÜNE Marzahn-Hellersdorf,200,channel
+2026-08-31T11:36:04Z,at-spo,0029VaCBWZyAe5Vqthvl7Q1M,ok,13103,exact,de-DE,SPÖ,200,channel
+2026-08-31T11:36:05Z,fr-ps,0029VaDvUzm9cDDdqPbhmj19,ok,8455,exact,de-DE,Parti socialiste,200,channel
+2026-08-31T11:36:06Z,gb-nir-sinn-fein,0029VaG5zpf9RZAUcorlw410,ok,7350,exact,de-DE,Sinn Féin ,200,channel
+2026-08-31T11:36:06Z,nl-christenunie,0029VaPnmvj0gcfQd0YkS200,ok,1506,exact,de-DE,ChristenUnie,200,channel
+2026-08-31T11:36:07Z,nl-sgp,0029VaDLxdM7z4kfdsHvfS2K,ok,7148,exact,de-DE,SGP,200,channel

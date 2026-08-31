@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T21:59:33Z",
+  "updatedAt": "2026-08-31T11:36:07Z",
   "profiles": {
     "0029Va84lfy0wajvPNPdOz0T": {
       "id": "0029Va84lfy0wajvPNPdOz0T",
@@ -121,6 +121,21 @@
       "status": "ok",
       "verified": false,
       "seenAt": "2026-08-29T14:56:50Z"
+    },
+    "0029VaCBWZyAe5Vqthvl7Q1M": {
+      "id": "0029VaCBWZyAe5Vqthvl7Q1M",
+      "kind": "channel",
+      "partyId": "at-spo",
+      "url": "https://www.whatsapp.com/channel/0029VaCBWZyAe5Vqthvl7Q1M",
+      "title": "SPÖ",
+      "description": "Wir bringen Österreich wieder auf Kurs: https://www.spoe.at/fuer-oesterreich/ 🇦🇹",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-zXEW2AqmA-woSgVhtONbpqFU9Inti0knxK0FghqfCSTjN7dSd8iHF5CmVaS7wmO80eASoEKHIqXnMIITMUOcyqNpCqUh6BSSqIz2futC8dFUrGNCFG9vGAGwLdPuY7PztR7qKE_w5LeCYvJCx?_nc_gid=7hp8Q2z42ldnVIG8fTinvw&_nc_oc=Adp80qis-rldnBa03SlPH3ZKpjDzftewf6nbiqa0EOO72wC5twYpBJweiiDcCqCoqoU&ccb=10-5&oh=01_Q5Aa5QFXmjk-C6Mp3OJkzMwzwVvaDk5oEuJpiyWV3vEx050Taw&oe=6ABCC64C&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029VaCBWZyAe5Vqthvl7Q1M.jpg?v=22cced34c5cd",
+      "followers": 13103,
+      "precision": "exact",
+      "status": "ok",
+      "verified": true,
+      "seenAt": "2026-08-31T11:36:04Z"
     },
     "0029VaCOS6XAjPXLhdgcZR2f": {
       "id": "0029VaCOS6XAjPXLhdgcZR2f",
@@ -257,6 +272,36 @@
       "verified": false,
       "seenAt": "2026-08-29T15:22:07Z"
     },
+    "0029VaDLxdM7z4kfdsHvfS2K": {
+      "id": "0029VaDLxdM7z4kfdsHvfS2K",
+      "kind": "channel",
+      "partyId": "nl-sgp",
+      "url": "https://www.whatsapp.com/channel/0029VaDLxdM7z4kfdsHvfS2K",
+      "title": "SGP",
+      "description": "Via dit WhatsApp kanaal blijft u op de hoogte van de actualiteiten rondom de SGP.",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An9UwOnrMOmSYoUSl2S_AVRI2Tg7G8LSIPwNDl96d3XUZiDruGBT9duyBpjbu7yD5jod7HStY0qV2Y2mk3B9-9YYpUuvgrFvfA6bBlWTVEKqIsKkf3Jd0ci7eJBU1sWE_Cck0fNB926_IqWvuGe1?_nc_gid=5Ue-gG6HDzs-OZ16On-5-Q&_nc_oc=AdpfebrbTTofluPE2DnxCoGb444Lf0Ype4NMw-5KB2M0PUaGZK2lgTwox4ilxxzUBqg&ccb=10-5&oh=01_Q5Aa5QFbu5jfWzd2vjE7_KuLq9iwHA0Cwwd_JZ0glRxXeLpcFA&oe=6ABCE2ED&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029VaDLxdM7z4kfdsHvfS2K.jpg?v=a42ee9629747",
+      "followers": 7148,
+      "precision": "exact",
+      "status": "ok",
+      "verified": true,
+      "seenAt": "2026-08-31T11:36:07Z"
+    },
+    "0029VaDvUzm9cDDdqPbhmj19": {
+      "id": "0029VaDvUzm9cDDdqPbhmj19",
+      "kind": "channel",
+      "partyId": "fr-ps",
+      "url": "https://www.whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19",
+      "title": "Parti socialiste",
+      "description": "Suivez toute l'actualité socialiste en temps réel !",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An85y8QNBPQZyvpMHcHNteQSJ1bNJASWxE1zj5XmgJzDSEH7uOZlQ-PZOU4LlRza86fEOpWpCInpYNV5-sXAxo_u0u_pYCBhfLPCAHuOY8BrmzXGvAFwlNdmRMkowuesgc7WdNW9QHMNAhz1YhXb?_nc_gid=P7IB7hSyHYrXdqY9guGFoQ&_nc_oc=AdrwCDzkk8kVFUi_vep82LYE_wI5h6pb7HD_eZ7AU7t7tlgqCNbMuVmvuHKEVWz7m6A&ccb=10-5&oh=01_Q5Aa5QESaI-N24hOdlWiq0ubpk1CO7gzvIs_vtuMiN-2qMZKGg&oe=6ABCF14B&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029VaDvUzm9cDDdqPbhmj19.jpg?v=23e537b7f74e",
+      "followers": 8455,
+      "precision": "exact",
+      "status": "ok",
+      "verified": true,
+      "seenAt": "2026-08-31T11:36:05Z"
+    },
     "0029VadW99X2kNFogn540h07": {
       "id": "0029VadW99X2kNFogn540h07",
       "kind": "channel",
@@ -362,6 +407,21 @@
       "verified": true,
       "seenAt": "2026-08-29T15:22:05Z"
     },
+    "0029VaG5zpf9RZAUcorlw410": {
+      "id": "0029VaG5zpf9RZAUcorlw410",
+      "kind": "channel",
+      "partyId": "gb-nir-sinn-fein",
+      "url": "https://www.whatsapp.com/channel/0029VaG5zpf9RZAUcorlw410",
+      "title": "Sinn Féin ",
+      "description": "Irish Republican party leading change for a better, fairer and united Ireland and putting the needs of ordinary workers and families at the heart of everything we do.",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/405614958_385129957278614_9221702744214635082_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=0PWg4caVo_IQ7kNvwHhGhT2&_nc_oc=AdpNdUyLWsGDwHtYqvlyizLVb9sZE3okoPpuPRx-TFv1TRyJz36QiMuxJ5u1fQFYhfM&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=zFPMR1rYn2SVdvLQ2hkOzQ&_nc_ss=70289&oh=01_Q5Aa5QE1lTYwHrxhsU9Nec9FKH1bzSX-mK2HLPEFxj5KDlJC1w&oe=6ABCE58A",
+      "avatar": "/party-avatar/0029VaG5zpf9RZAUcorlw410.jpg?v=457f81abc974",
+      "followers": 7350,
+      "precision": "exact",
+      "status": "ok",
+      "verified": true,
+      "seenAt": "2026-08-31T11:36:06Z"
+    },
     "0029VagPEHPCnA7uajcDvi2u": {
       "id": "0029VagPEHPCnA7uajcDvi2u",
       "kind": "channel",
@@ -391,6 +451,21 @@
       "status": "ok",
       "verified": false,
       "seenAt": "2026-08-29T15:21:02Z"
+    },
+    "0029VaHl2dj6mYPGKPOnK636": {
+      "id": "0029VaHl2dj6mYPGKPOnK636",
+      "kind": "channel",
+      "partyId": "de-cdu",
+      "url": "https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636",
+      "title": "CDU Deutschlands",
+      "description": "Herzlich willkommen auf dem offiziellen WhatsApp-Kanal der CDU Deutschlands.",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/410306483_377584708105931_2539003059727344446_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=BvLRI_AFbt4Q7kNvwHEuw_G&_nc_oc=AdrJk3PpR9hCksj3VzRlDRTMS5KayN9zTe4v79hl43l-FkSocfL7VsFHInGnnCOStjQ&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=YwjZB_QvTnCY_TGXCNyVtw&_nc_ss=70289&oh=01_Q5Aa5QFnpCdmikwzIOniK1o5oIFfLaAsfLw3R85R77CKjBSf_g&oe=6ABCCF61",
+      "avatar": "/party-avatar/0029VaHl2dj6mYPGKPOnK636.jpg?v=407a0e2aa31b",
+      "followers": 20391,
+      "precision": "exact",
+      "status": "ok",
+      "verified": true,
+      "seenAt": "2026-08-31T11:36:04Z"
     },
     "0029VaigBPdLNSa5rfQMSp3t": {
       "id": "0029VaigBPdLNSa5rfQMSp3t",
@@ -467,6 +542,21 @@
       "verified": false,
       "seenAt": "2026-08-29T15:20:58Z"
     },
+    "0029VaPnmvj0gcfQd0YkS200": {
+      "id": "0029VaPnmvj0gcfQd0YkS200",
+      "kind": "channel",
+      "partyId": "nl-christenunie",
+      "url": "https://www.whatsapp.com/channel/0029VaPnmvj0gcfQd0YkS200",
+      "title": "ChristenUnie",
+      "description": "Welkom bij het ChristenUnie kanaal!",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-P9tLaVDc6GSidoFgdZ09bq__YpyOPIWIbTTpiHyg-7kwIQZNkeYertmTbhC34YpMiQcCjn2jyEEraXLHCe5cohVihGSLzg_nVwKBQMjsJrBAK2Cy4A1cpingyImx2ObE4FVzGUNVI9yKC9bkc?_nc_gid=jfvJYbPpmS_GCunjYw0MfQ&_nc_oc=Adp2Q6qG1F4K0BOxALLOrqpgocMSTNdJYPJdFuZv1mHtsmRaKK5EAZZi69Rrb2im05A&ccb=10-5&oh=01_Q5Aa5QGl-fokwnyNVZ-l2dJioO1Ac833DrZ5cD_R0yB0UddGig&oe=6ABCCAF0&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029VaPnmvj0gcfQd0YkS200.jpg?v=0effd894f13d",
+      "followers": 1506,
+      "precision": "exact",
+      "status": "ok",
+      "verified": false,
+      "seenAt": "2026-08-31T11:36:06Z"
+    },
     "0029VauE700AInPjDfFFPT0j": {
       "id": "0029VauE700AInPjDfFFPT0j",
       "kind": "channel",
@@ -481,6 +571,21 @@
       "status": "http_error",
       "verified": false,
       "seenAt": "2026-08-29T15:23:08Z"
+    },
+    "0029VaxyPKoFi8xV3B1jXA2B": {
+      "id": "0029VaxyPKoFi8xV3B1jXA2B",
+      "kind": "channel",
+      "partyId": "de-be-gruene",
+      "url": "https://www.whatsapp.com/channel/0029VaxyPKoFi8xV3B1jXA2B",
+      "title": "GRÜNE Marzahn-Hellersdorf",
+      "description": "Öffentliche Informationen zu Wahlkampf und Parteiarbeit von Bündnis 90/Die Grünen Marzahn-Hellersdorf, insbesondere für Nichtmitglieder\n\nVerwaltet durch die Mitglieder des Kreisvorstandes Neele Kuhn und Tim Demisch\n\nBÜNDNIS 90/DIE GRÜNEN\nKreisverband Marzahn-Hellersdorf\nHellersdorfer Promenade 29\n12627 Berlin\n\nE-Mail: wahlkampf@gruenemahe.de\nTelefon: 030 541 40 19\nWebsite: https://www.gruenemahe.de\n\nImpressum: https://www.gruenemahe.de/impressum\nDatenschutz: https://www.gruenemahe.de/datenschutz",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-KNZUcy_j0MDfmkO7DOFme6NaSL9t63TVt0hNERK7RTa1ZDs94SUJrPJb5QRnStElSlEqXLFaBEWXA0g2xoPcZ1tM3GgyrmOcHihcq_fSwhCDyazawUV6BQ0tFfmNTIwmF43_CVMbxehN6EJF9?_nc_gid=oGDonOuBNbNEur1hguBPbA&_nc_oc=AdoLwn3ek8RAtHlGgIMKHVuWs8o5j91DLzn8-jm0D7mNLXXXxWpjR3kNrgmoq6Y4qYE&ccb=10-5&oh=01_Q5Aa5QHQadTAgYV75P8Ie3hihirY2vnW1P_JLGonfy-cif_6RQ&oe=6ABCD91B&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029VaxyPKoFi8xV3B1jXA2B.jpg?v=b33dbd9e90d2",
+      "followers": 68,
+      "precision": "exact",
+      "status": "ok",
+      "verified": false,
+      "seenAt": "2026-08-31T11:36:04Z"
     },
     "0029VazVsXCDZ4Le9S1VyK10": {
       "id": "0029VazVsXCDZ4Le9S1VyK10",

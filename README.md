@@ -1,7 +1,4 @@
-<!-- DOI badge: after the first Zenodo release, replace XXXXXXX in both URLs on
-     the next line with the *concept* DOI's number (the "Cite all versions" DOI
-     Zenodo shows for the record), then delete this comment. -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22206853.svg)](https://doi.org/10.5281/zenodo.22206853)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # Political party WhatsApp channels
@@ -240,13 +237,15 @@ WhatsApp starts refusing the requests, the failure is visible rather than silent
 
 ## How to cite
 
-Please cite the dataset if you use it. After the first release, Zenodo mints a
-DOI; cite the **concept DOI** (Zenodo's "Cite all versions"), which always
-resolves to the newest version:
+Please cite the dataset if you use it. Cite the **concept DOI**
+(Zenodo's "Cite all versions"), which always resolves to the newest version:
 
 > WhaTools (2026). *Political party WhatsApp channels: an open dataset of parties'
-> WhatsApp presence across Europe* (Version 0.1.0) [Data set]. Zenodo.
-> https://doi.org/10.5281/zenodo.XXXXXXX
+> WhatsApp presence across Europe* [Data set]. Zenodo.
+> https://doi.org/10.5281/zenodo.22206853
+
+To cite the exact snapshot you used, use the version DOI Zenodo shows for that
+release instead (v0.1.0 is `10.5281/zenodo.22206854`).
 
 `CITATION.cff` in this repository carries the same metadata, so GitHub's "Cite
 this repository" button produces a ready-made citation, and reference managers

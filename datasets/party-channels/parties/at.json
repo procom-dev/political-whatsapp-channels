@@ -48,8 +48,15 @@
       "abbreviation": "SPÖ",
       "englishName": "Social Democratic Party of Austria",
       "website": "https://www.spoe.at/",
-      "verified": "2026-08-29",
-      "epGroup": "SD"
+      "verified": "2026-08-31",
+      "epGroup": "SD",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaCBWZyAe5Vqthvl7Q1M",
+        "id": "0029VaCBWZyAe5Vqthvl7Q1M",
+        "added": "2026-08-31",
+        "source": "https://www.spoe.at/"
+      }
     }
   ]
 }

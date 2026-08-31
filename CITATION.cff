@@ -28,8 +28,9 @@ keywords:
   - open data
 version: "0.1.0"
 date-released: "2026-08-31"
-# --- DOI (add after the first Zenodo release — see docs in the README) ---------
-# Zenodo mints two DOIs: a *concept* DOI that always resolves to the newest
-# version, and a *version* DOI for each release. Cite the concept DOI here.
-# Uncomment the next line and paste the concept DOI Zenodo shows for the record:
-# doi: "10.5281/zenodo.XXXXXXX"
+# Concept DOI — always resolves to the latest version (Zenodo "Cite all versions").
+doi: "10.5281/zenodo.22206853"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22206854"
+    description: "Versioned DOI for the v0.1.0 release."

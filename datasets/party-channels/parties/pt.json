@@ -30,8 +30,15 @@
       "abbreviation": "CDS-PP",
       "englishName": "Democratic and Social Centre – People's Party",
       "website": "https://www.cds.pt/",
-      "verified": "2026-08-29",
-      "epGroup": "EPP"
+      "verified": "2026-08-31",
+      "epGroup": "EPP",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/351930485510",
+        "id": "351930485510",
+        "added": "2026-08-31",
+        "source": "https://www.cds.pt/"
+      }
     },
     {
       "id": "pt-cdu",
@@ -39,8 +46,15 @@
       "abbreviation": "CDU",
       "englishName": "Unitary Democratic Coalition (Communists–Greens)",
       "website": "https://www.pcp.pt/",
-      "verified": "2026-08-29",
-      "epGroup": "LEFT"
+      "verified": "2026-08-31",
+      "epGroup": "LEFT",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X",
+        "id": "0029Va7ceYdAjPXEILlfID1X",
+        "added": "2026-08-31",
+        "source": "https://www.pcp.pt/"
+      }
     },
     {
       "id": "pt-ch",
@@ -89,8 +103,15 @@
       "abbreviation": "PS",
       "englishName": "Socialist Party",
       "website": "https://ps.pt/",
-      "verified": "2026-08-29",
-      "epGroup": "SD"
+      "verified": "2026-08-31",
+      "epGroup": "SD",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbC2MLyC6ZvqoK7nK900",
+        "id": "0029VbC2MLyC6ZvqoK7nK900",
+        "added": "2026-08-31",
+        "source": "https://ps.pt/"
+      }
     },
     {
       "id": "pt-psd",

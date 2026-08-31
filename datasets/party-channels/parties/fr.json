@@ -66,8 +66,15 @@
       "abbreviation": "PS",
       "englishName": "Socialist Party",
       "website": "https://www.parti-socialiste.fr/",
-      "verified": "2026-08-29",
-      "epGroup": "SD"
+      "verified": "2026-08-31",
+      "epGroup": "SD",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19",
+        "id": "0029VaDvUzm9cDDdqPbhmj19",
+        "added": "2026-08-31",
+        "source": "https://www.parti-socialiste.fr/"
+      }
     },
     {
       "id": "fr-re",

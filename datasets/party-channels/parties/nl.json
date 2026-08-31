@@ -22,7 +22,14 @@
       "name": "ChristenUnie",
       "englishName": "Christian Union",
       "website": "https://www.christenunie.nl/",
-      "verified": "2026-08-29"
+      "verified": "2026-08-31",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaPnmvj0gcfQd0YkS200",
+        "id": "0029VaPnmvj0gcfQd0YkS200",
+        "added": "2026-08-31",
+        "source": "https://www.christenunie.nl/"
+      }
     },
     {
       "id": "nl-d66",
@@ -52,7 +59,14 @@
       "name": "GroenLinks-PvdA",
       "englishName": "GreenLeft–Labour",
       "website": "https://groenlinkspvda.nl/",
-      "verified": "2026-08-29"
+      "verified": "2026-08-31",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/31639827986",
+        "id": "31639827986",
+        "added": "2026-08-31",
+        "source": "https://groenlinkspvda.nl/"
+      }
     },
     {
       "id": "nl-ja21",
@@ -84,8 +98,15 @@
       "name": "SGP",
       "englishName": "Reformed Political Party",
       "website": "https://www.sgp.nl/",
-      "verified": "2026-08-29",
-      "epGroup": "ECR"
+      "verified": "2026-08-31",
+      "epGroup": "ECR",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaDLxdM7z4kfdsHvfS2K",
+        "id": "0029VaDLxdM7z4kfdsHvfS2K",
+        "added": "2026-08-31",
+        "source": "https://www.sgp.nl/"
+      }
     },
     {
       "id": "nl-sp",
@@ -107,8 +128,22 @@
       "name": "VVD",
       "englishName": "People's Party for Freedom and Democracy",
       "website": "https://www.vvd.nl/",
-      "verified": "2026-08-29",
-      "epGroup": "RENEW"
+      "verified": "2026-08-31",
+      "epGroup": "RENEW",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaCyQQpC1FuAiUvfWJ3S",
+        "id": "0029VaCyQQpC1FuAiUvfWJ3S",
+        "added": "2026-08-31",
+        "source": "https://www.vvd.nl/contact/"
+      },
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/31610456251",
+        "id": "31610456251",
+        "added": "2026-08-31",
+        "source": "https://www.vvd.nl/contact/"
+      }
     }
   ]
 }

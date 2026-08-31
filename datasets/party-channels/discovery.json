@@ -1,0 +1,430 @@
+{
+  "version": 1,
+  "parties": {
+    "at-fpo": {
+      "checkedAt": "2026-08-31",
+      "outcome": "robots",
+      "pages": 0
+    },
+    "at-neos": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 8
+    },
+    "at-ovp": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 1
+    },
+    "at-spo": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 8
+    },
+    "be-pvda-ptb": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "be-vlg-cd-v": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "be-vlg-groen": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "be-vlg-n-va": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "be-vlg-open-vld": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "be-vlg-vb": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "be-vlg-vooruit": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "be-wal-ecolo": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "be-wal-le": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 6
+    },
+    "be-wal-mr": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "be-wal-ps": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "de-afd": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 8
+    },
+    "de-be-afd": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 6
+    },
+    "de-be-cdu": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 4
+    },
+    "de-be-gruene": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 8
+    },
+    "de-be-linke": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "de-be-spd": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 6
+    },
+    "de-cdu": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 8
+    },
+    "de-die-linke": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "de-gruene": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 1
+    },
+    "de-sh-ssw": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 8
+    },
+    "es-ct-pp": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 4
+    },
+    "es-ct-vox": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "es-sumar": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 1
+    },
+    "europe-alde": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 5
+    },
+    "europe-ecr": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "europe-egp": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 7
+    },
+    "europe-el": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 8
+    },
+    "europe-epp": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 4
+    },
+    "europe-pes": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "europe-volt": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "fr-eelv": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "fr-horizons": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "fr-lr": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "fr-modem": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "fr-pcf": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "fr-ps": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 6
+    },
+    "fr-re": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "fr-rn": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "gb-con": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "gb-lab": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 4
+    },
+    "gb-ld": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 5
+    },
+    "gb-nir-dup": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "gb-ruk": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "gb-sct-snp": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "gr": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 8
+    },
+    "gr-el": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "gr-kke": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "gr-nd": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "gr-niki": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 1
+    },
+    "gr-pasok": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "gr-syriza": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "it-avs": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 1
+    },
+    "it-az": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "it-ev": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "it-fdi": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 1
+    },
+    "it-lega": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "it-m5s": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 1
+    },
+    "it-si": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 1
+    },
+    "nl-bbb": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "nl-cda": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "nl-christenunie": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 2
+    },
+    "nl-d66": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "nl-denk": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "nl-fvd": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "nl-groenlinks-pvda": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 4
+    },
+    "nl-ja21": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 4
+    },
+    "nl-pvdd": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "nl-pvv": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "nl-sgp": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 1
+    },
+    "nl-sp": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "nl-volt": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "nl-vvd": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 3
+    },
+    "pt-30-jpp": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 1
+    },
+    "pt-cds-pp": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 2
+    },
+    "pt-cdu": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 2
+    },
+    "pt-il": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 1
+    },
+    "pt-l": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    },
+    "pt-pan": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 3
+    },
+    "pt-ps": {
+      "checkedAt": "2026-08-31",
+      "outcome": "found",
+      "pages": 8
+    },
+    "pt-psd": {
+      "checkedAt": "2026-08-31",
+      "outcome": "none",
+      "pages": 2
+    }
+  }
+}

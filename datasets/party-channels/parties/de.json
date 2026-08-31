@@ -60,7 +60,14 @@
       "parentId": "de-gruene",
       "website": "https://www.gruene-berlin.de/",
       "cadence": "daily",
-      "verified": "2026-08-28"
+      "verified": "2026-08-31",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaxyPKoFi8xV3B1jXA2B",
+        "id": "0029VaxyPKoFi8xV3B1jXA2B",
+        "added": "2026-08-31",
+        "source": "https://gruene.berlin/mach-mit/chatgruppen"
+      }
     },
     {
       "id": "de-be-linke",
@@ -108,8 +115,15 @@
       "abbreviation": "CDU",
       "englishName": "Christian Democratic Union of Germany",
       "website": "https://www.cdu.de/",
-      "verified": "2026-08-29",
-      "epGroup": "EPP"
+      "verified": "2026-08-31",
+      "epGroup": "EPP",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636",
+        "id": "0029VaHl2dj6mYPGKPOnK636",
+        "added": "2026-08-31",
+        "source": "https://www.cdu.de/"
+      }
     },
     {
       "id": "de-die-linke",
