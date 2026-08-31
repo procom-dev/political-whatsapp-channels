@@ -1,0 +1,91 @@
+{
+  "country": "FR",
+  "parties": [
+    {
+      "id": "fr-eelv",
+      "name": "Les Écologistes",
+      "abbreviation": "EELV",
+      "englishName": "The Ecologists",
+      "website": "https://lesecologistes.fr/",
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "fr-horizons",
+      "name": "Horizons",
+      "englishName": "Horizons",
+      "website": "https://horizons-leparti.fr/",
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    },
+    {
+      "id": "fr-lfi",
+      "name": "La France insoumise",
+      "abbreviation": "LFI",
+      "englishName": "France Unbowed",
+      "website": "https://lafranceinsoumise.fr/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaigBPdLNSa5rfQMSp3t",
+        "id": "0029VaigBPdLNSa5rfQMSp3t",
+        "added": "2026-08-29"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "fr-lr",
+      "name": "Les Républicains",
+      "abbreviation": "LR",
+      "englishName": "The Republicans",
+      "website": "https://www.republicains.fr/",
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "fr-modem",
+      "name": "Mouvement Démocrate",
+      "abbreviation": "MoDem",
+      "englishName": "Democratic Movement",
+      "website": "https://mouvementdemocrate.fr/",
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    },
+    {
+      "id": "fr-pcf",
+      "name": "Parti communiste français",
+      "abbreviation": "PCF",
+      "englishName": "French Communist Party",
+      "website": "https://www.pcf.fr/",
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "fr-ps",
+      "name": "Parti socialiste",
+      "abbreviation": "PS",
+      "englishName": "Socialist Party",
+      "website": "https://www.parti-socialiste.fr/",
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    },
+    {
+      "id": "fr-re",
+      "name": "Renaissance",
+      "abbreviation": "RE",
+      "englishName": "Renaissance",
+      "website": "https://parti-renaissance.fr/",
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    },
+    {
+      "id": "fr-rn",
+      "name": "Rassemblement National",
+      "abbreviation": "RN",
+      "englishName": "National Rally",
+      "website": "https://rassemblementnational.fr/",
+      "verified": "2026-08-29",
+      "epGroup": "PFE"
+    }
+  ]
+}

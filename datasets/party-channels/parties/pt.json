@@ -1,0 +1,104 @@
+{
+  "country": "PT",
+  "parties": [
+    {
+      "id": "pt-30-jpp",
+      "name": "JPP",
+      "englishName": "Together for the People",
+      "region": "PT-30",
+      "website": "https://www.jpp.pt/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "pt-be",
+      "name": "Bloco de Esquerda",
+      "abbreviation": "BE",
+      "englishName": "Left Bloc",
+      "epGroup": "LEFT",
+      "website": "https://www.bloco.org/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaHrLkJEAKW5iusblX1K",
+        "id": "0029VaHrLkJEAKW5iusblX1K",
+        "added": "2026-08-30"
+      },
+      "verified": "2026-08-30"
+    },
+    {
+      "id": "pt-cds-pp",
+      "name": "CDS – Partido Popular",
+      "abbreviation": "CDS-PP",
+      "englishName": "Democratic and Social Centre – People's Party",
+      "website": "https://www.cds.pt/",
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "pt-cdu",
+      "name": "CDU (PCP-PEV)",
+      "abbreviation": "CDU",
+      "englishName": "Unitary Democratic Coalition (Communists–Greens)",
+      "website": "https://www.pcp.pt/",
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "pt-ch",
+      "name": "CHEGA",
+      "abbreviation": "CH",
+      "englishName": "Enough",
+      "website": "https://partidochega.pt/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaD2DqD3QxS133VKTQ2z",
+        "id": "0029VaD2DqD3QxS133VKTQ2z",
+        "added": "2026-08-29",
+        "source": "https://partidochega.pt/",
+        "personal": true
+      },
+      "verified": "2026-08-29",
+      "epGroup": "PFE"
+    },
+    {
+      "id": "pt-il",
+      "name": "Iniciativa Liberal",
+      "abbreviation": "IL",
+      "englishName": "Liberal Initiative",
+      "website": "https://iniciativaliberal.pt/",
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    },
+    {
+      "id": "pt-l",
+      "name": "LIVRE",
+      "abbreviation": "L",
+      "englishName": "Free",
+      "website": "https://partidolivre.pt/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "pt-pan",
+      "name": "PAN",
+      "englishName": "People–Animals–Nature",
+      "website": "https://www.pan.com.pt/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "pt-ps",
+      "name": "Partido Socialista",
+      "abbreviation": "PS",
+      "englishName": "Socialist Party",
+      "website": "https://ps.pt/",
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    },
+    {
+      "id": "pt-psd",
+      "name": "PSD",
+      "englishName": "Social Democratic Party",
+      "website": "https://www.psd.pt/",
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    }
+  ]
+}

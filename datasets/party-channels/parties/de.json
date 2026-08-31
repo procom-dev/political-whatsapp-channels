@@ -1,0 +1,377 @@
+{
+  "country": "DE",
+  "parties": [
+    {
+      "id": "de-afd",
+      "name": "AfD",
+      "abbreviation": "AfD",
+      "englishName": "Alternative for Germany",
+      "website": "https://www.afd.de/",
+      "verified": "2026-08-29",
+      "epGroup": "ESN"
+    },
+    {
+      "id": "de-bb-grune",
+      "name": "Bündnis 90/Die Grünen Oder-Spree",
+      "abbreviation": "Grüne",
+      "englishName": "Alliance 90/The Greens Oder-Spree (district association)",
+      "region": "DE-BB",
+      "website": "https://gruene-oder-spree.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VauE700AInPjDfFFPT0j",
+        "id": "0029VauE700AInPjDfFFPT0j",
+        "added": "2026-08-29",
+        "source": "https://gruene-oder-spree.de/2025/01/11/wir-haben-jetzt-einen-info-kanal-auf-whatsapp/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "de-be-afd",
+      "name": "AfD Berlin",
+      "abbreviation": "AfD",
+      "englishName": "Alternative for Germany Berlin",
+      "region": "DE-BE",
+      "city": "Berlin",
+      "parentId": "de-afd",
+      "website": "https://www.afd-berlin.de/",
+      "cadence": "daily",
+      "verified": "2026-08-28"
+    },
+    {
+      "id": "de-be-cdu",
+      "name": "CDU Berlin",
+      "abbreviation": "CDU",
+      "region": "DE-BE",
+      "city": "Berlin",
+      "parentId": "de-cdu",
+      "website": "https://www.cdu.berlin/",
+      "cadence": "daily",
+      "verified": "2026-08-28"
+    },
+    {
+      "id": "de-be-gruene",
+      "name": "Bündnis 90/Die Grünen Berlin",
+      "abbreviation": "Grüne",
+      "englishName": "Alliance 90/The Greens Berlin",
+      "region": "DE-BE",
+      "city": "Berlin",
+      "parentId": "de-gruene",
+      "website": "https://www.gruene-berlin.de/",
+      "cadence": "daily",
+      "verified": "2026-08-28"
+    },
+    {
+      "id": "de-be-linke",
+      "name": "Die Linke Berlin",
+      "abbreviation": "Linke",
+      "region": "DE-BE",
+      "city": "Berlin",
+      "parentId": "de-linke",
+      "website": "https://www.dielinke.berlin/",
+      "cadence": "daily",
+      "verified": "2026-08-28"
+    },
+    {
+      "id": "de-be-spd",
+      "name": "SPD Berlin",
+      "abbreviation": "SPD",
+      "region": "DE-BE",
+      "city": "Berlin",
+      "parentId": "de-spd",
+      "website": "https://www.spd.berlin/",
+      "cadence": "daily",
+      "verified": "2026-08-28"
+    },
+    {
+      "id": "de-by-csu",
+      "name": "CSU Bürgstadt",
+      "abbreviation": "CSU",
+      "englishName": "CSU Bürgstadt (local association)",
+      "region": "DE-BY",
+      "city": "Bürgstadt",
+      "website": "https://www.csu.de/verbaende/ov/buergstadt/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaD4cMMEawdhJl5YBj1d",
+        "id": "0029VaD4cMMEawdhJl5YBj1d",
+        "added": "2026-08-29",
+        "source": "https://www.csu.de/verbaende/ov/buergstadt/neu/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "de-cdu",
+      "name": "CDU",
+      "abbreviation": "CDU",
+      "englishName": "Christian Democratic Union of Germany",
+      "website": "https://www.cdu.de/",
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "de-die-linke",
+      "name": "Die Linke",
+      "abbreviation": "Die Linke",
+      "englishName": "The Left",
+      "website": "https://www.die-linke.de/",
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "de-fdp",
+      "name": "FDP",
+      "abbreviation": "FDP",
+      "englishName": "Free Democratic Party",
+      "website": "https://www.fdp.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k",
+        "id": "0029VaFlergKmCPOtXP4aM1k",
+        "added": "2026-08-28"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    },
+    {
+      "id": "de-gruene",
+      "name": "Bündnis 90/Die Grünen",
+      "abbreviation": "Grüne",
+      "englishName": "Alliance 90/The Greens",
+      "website": "https://www.gruene.de/",
+      "verified": "2026-08-28",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "de-grune",
+      "name": "Bündnis 90/Die Grünen",
+      "abbreviation": "Grüne",
+      "englishName": "Alliance 90/The Greens",
+      "website": "https://www.gruene.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07",
+        "id": "0029VadW99X2kNFogn540h07",
+        "added": "2026-08-29",
+        "source": "https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "de-he-cdu",
+      "name": "CDU Neu-Isenburg",
+      "abbreviation": "CDU",
+      "englishName": "CDU Neu-Isenburg (town association)",
+      "region": "DE-HE",
+      "city": "Neu-Isenburg",
+      "website": "https://cdu-neu-isenburg.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb6BhfqGU3BKpXuYrC32",
+        "id": "0029Vb6BhfqGU3BKpXuYrC32",
+        "added": "2026-08-28",
+        "source": "https://cdu-neu-isenburg.de/2025/12/18/neu-whatsapp-kanal/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "de-hh-cdu",
+      "name": "CDU Hamburg",
+      "abbreviation": "CDU",
+      "englishName": "CDU Hamburg (state association)",
+      "region": "DE-HH",
+      "website": "https://www.cduhamburg.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaDIdTgHLHQVxYVxZB2q",
+        "id": "0029VaDIdTgHLHQVxYVxZB2q",
+        "added": "2026-08-28",
+        "source": "https://www.cdu-kvwandsbek.de/cdu-hamburg-mit-eigenem-whatsapp-channel-jetzt-kostenfrei-abonnieren/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "de-linke",
+      "name": "Die Linke",
+      "abbreviation": "Linke",
+      "englishName": "The Left",
+      "website": "https://www.die-linke.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S",
+        "id": "0029VaaFcBp8aKvCtcymPg1S",
+        "added": "2026-08-28"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "de-ni-cdu",
+      "name": "CDU-Stadtverband Friesoythe",
+      "abbreviation": "CDU",
+      "englishName": "CDU Friesoythe (town association)",
+      "region": "DE-NI",
+      "city": "Friesoythe",
+      "website": "https://cdu-friesoythe.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaaE9wmCHDyfdJwcmR08",
+        "id": "0029VaaE9wmCHDyfdJwcmR08",
+        "added": "2026-08-28",
+        "source": "https://cdu-friesoythe.de/cdu-stadtverband-mit-neuem-whatsapp-kanal/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "de-nw-cdu",
+      "name": "CDU Rüthen",
+      "abbreviation": "CDU",
+      "englishName": "CDU Rüthen (town association)",
+      "region": "DE-NW",
+      "city": "Rüthen",
+      "website": "https://www.facebook.com/cduruethen/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VamylMu11ulWqPBc5S3T",
+        "id": "0029VamylMu11ulWqPBc5S3T",
+        "added": "2026-08-29",
+        "source": "https://www.facebook.com/cduruethen/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "de-nw-grune",
+      "name": "Bündnis 90/Die Grünen NRW",
+      "abbreviation": "Grüne",
+      "englishName": "Alliance 90/The Greens North Rhine-Westphalia",
+      "region": "DE-NW",
+      "website": "https://gruene-nrw.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbBv7Y9GZNCzTwFg7A3n",
+        "id": "0029VbBv7Y9GZNCzTwFg7A3n",
+        "added": "2026-08-29",
+        "source": "https://gruene-nrw.de/whatsapp/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "de-rp-cdu",
+      "name": "CDU-Gemeindeverband Vallendar",
+      "abbreviation": "CDU",
+      "englishName": "CDU Vallendar (municipal association)",
+      "region": "DE-RP",
+      "city": "Vallendar",
+      "website": "https://www.cdu-myk.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbBNMxSEQIafUT13xE0h",
+        "id": "0029VbBNMxSEQIafUT13xE0h",
+        "added": "2026-08-28",
+        "source": "https://www.cdu-myk.de/2026/06/09/cdu-gemeindeverband-vallendar-startet-eigenen-whatsapp-kanal/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "de-rp-spd",
+      "name": "SPD-Stadtverband Wörth",
+      "abbreviation": "SPD",
+      "englishName": "SPD Wörth am Rhein (town association)",
+      "region": "DE-RP",
+      "city": "Wörth am Rhein",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VadzcDYL7UVOaCWd271d",
+        "id": "0029VadzcDYL7UVOaCWd271d",
+        "added": "2026-08-29",
+        "source": "https://www.pfalz-express.de/spd-stadtverband-woerth-startet-eigenen-whatsapp-kanal-buerger-sollen-besser-informiert-werden/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    },
+    {
+      "id": "de-sh-ssw",
+      "name": "Südschleswigscher Wählerverband",
+      "abbreviation": "SSW",
+      "englishName": "South Schleswig Voters' Association",
+      "region": "DE-SH",
+      "website": "https://www.ssw.de/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "de-spd",
+      "name": "SPD",
+      "abbreviation": "SPD",
+      "englishName": "Social Democratic Party of Germany",
+      "website": "https://www.spd.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaDCDYDKrWQzJXHTJv0e",
+        "id": "0029VaDCDYDKrWQzJXHTJv0e",
+        "added": "2026-08-28",
+        "source": "https://www.spd.de/whatsapp"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    },
+    {
+      "id": "de-st-afd",
+      "name": "AfD Magdeburg",
+      "abbreviation": "AfD",
+      "englishName": "Alternative for Germany (Magdeburg branch)",
+      "region": "DE-ST",
+      "city": "Magdeburg",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaDxRq5Fy72FGcxBW93K",
+        "id": "0029VaDxRq5Fy72FGcxBW93K",
+        "added": "2026-08-29",
+        "source": "https://x.com/AfD_Magdeburg/status/1796245845635199315"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "ESN"
+    },
+    {
+      "id": "de-st-die-linke",
+      "name": "Die Linke Sachsen-Anhalt (Landtagsfraktion)",
+      "abbreviation": "Die Linke",
+      "englishName": "The Left – Saxony-Anhalt state-parliament group",
+      "region": "DE-ST",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaMm2t3CMY0JNGNsou1u",
+        "id": "0029VaMm2t3CMY0JNGNsou1u",
+        "added": "2026-08-29",
+        "source": "https://www.evavonangern.de/willkommen/aktuell/detail/fraktion-die-linke-bei-whatsapp/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "de-st-grune",
+      "name": "Bündnis 90/Die Grünen Sachsen-Anhalt",
+      "abbreviation": "Grüne",
+      "englishName": "Alliance 90/The Greens Saxony-Anhalt",
+      "region": "DE-ST",
+      "website": "https://www.gruene-lsa.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VakBvxx0Vyc7cCq2sM1A",
+        "id": "0029VakBvxx0Vyc7cCq2sM1A",
+        "added": "2026-08-29",
+        "source": "https://www.facebook.com/gruenelsa"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    }
+  ]
+}

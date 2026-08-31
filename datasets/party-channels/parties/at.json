@@ -1,0 +1,55 @@
+{
+  "country": "AT",
+  "parties": [
+    {
+      "id": "at-fpo",
+      "name": "Freiheitliche Partei Österreichs",
+      "abbreviation": "FPÖ",
+      "englishName": "Freedom Party of Austria",
+      "website": "https://www.fpoe.at/",
+      "verified": "2026-08-29",
+      "epGroup": "PFE"
+    },
+    {
+      "id": "at-grune",
+      "name": "Die Grünen",
+      "abbreviation": "Grüne",
+      "englishName": "The Greens – The Green Alternative",
+      "website": "https://www.gruene.at/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VagPEHPCnA7uajcDvi2u",
+        "id": "0029VagPEHPCnA7uajcDvi2u",
+        "added": "2026-08-29"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "at-neos",
+      "name": "NEOS",
+      "englishName": "NEOS – The New Austria",
+      "website": "https://www.neos.eu/",
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    },
+    {
+      "id": "at-ovp",
+      "name": "Österreichische Volkspartei",
+      "abbreviation": "ÖVP",
+      "englishName": "Austrian People's Party",
+      "website": "https://www.dieneuevolkspartei.at/",
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "at-spo",
+      "name": "Sozialdemokratische Partei Österreichs",
+      "abbreviation": "SPÖ",
+      "englishName": "Social Democratic Party of Austria",
+      "website": "https://www.spoe.at/",
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "country": "IT",
+  "parties": [
+    {
+      "id": "it-34-m5s",
+      "name": "Movimento 5 Stelle Treviso",
+      "abbreviation": "M5S",
+      "englishName": "Five Star Movement (Treviso branch)",
+      "region": "IT-34",
+      "city": "Treviso",
+      "website": "https://www.movimento5stelletreviso.it/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va8uTsIDZ4LasSWUct30",
+        "id": "0029Va8uTsIDZ4LasSWUct30",
+        "added": "2026-08-29",
+        "source": "https://www.movimento5stelletreviso.it/il-movimento5stelle-di-treviso-su-telegram-e-whatsapp/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "it-avs",
+      "name": "Alleanza Verdi e Sinistra",
+      "abbreviation": "AVS",
+      "englishName": "Greens and Left Alliance",
+      "website": "https://www.sinistraitaliana.si/chi-siamo/alleanza-verdi-sinistra/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "it-az",
+      "name": "Azione",
+      "abbreviation": "Az",
+      "englishName": "Action",
+      "website": "https://www.azione.it/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "it-e",
+      "name": "+Europa",
+      "abbreviation": "+E",
+      "englishName": "More Europe",
+      "website": "https://www.piueuropa.eu/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d",
+        "id": "0029VaazaCd0wajweqtOWT0d",
+        "added": "2026-08-29",
+        "source": "https://www.piueuropa.eu/"
+      },
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "it-ev",
+      "name": "Europa Verde",
+      "abbreviation": "EV",
+      "englishName": "Green Europe",
+      "website": "https://europaverde.it/",
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "it-fdi",
+      "name": "Fratelli d'Italia",
+      "abbreviation": "FdI",
+      "englishName": "Brothers of Italy",
+      "website": "https://www.fratelli-italia.it/",
+      "verified": "2026-08-29",
+      "epGroup": "ECR"
+    },
+    {
+      "id": "it-fi",
+      "name": "Forza Italia",
+      "abbreviation": "FI",
+      "englishName": "Forward Italy",
+      "website": "https://forzaitalia.it/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VazVsXCDZ4Le9S1VyK10",
+        "id": "0029VazVsXCDZ4Le9S1VyK10",
+        "added": "2026-08-29",
+        "source": "https://forzaitalia.it/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "it-iv",
+      "name": "Italia Viva",
+      "abbreviation": "IV",
+      "englishName": "Italy Alive",
+      "website": "https://www.italiaviva.it/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaCOS6XAjPXLhdgcZR2f",
+        "id": "0029VaCOS6XAjPXLhdgcZR2f",
+        "added": "2026-08-29",
+        "source": "https://www.facebook.com/matteorenziufficiale/",
+        "personal": true
+      },
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "it-lega",
+      "name": "Lega",
+      "abbreviation": "Lega",
+      "englishName": "League",
+      "website": "https://www.legaonline.it/",
+      "verified": "2026-08-29",
+      "epGroup": "PFE"
+    },
+    {
+      "id": "it-m5s",
+      "name": "Movimento 5 Stelle",
+      "abbreviation": "M5S",
+      "englishName": "Five Star Movement",
+      "website": "https://www.movimento5stelle.eu/",
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "it-pd",
+      "name": "Partito Democratico",
+      "abbreviation": "PD",
+      "englishName": "Democratic Party",
+      "website": "https://www.partitodemocratico.it/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaD4YKtEKyZEEzxkW83U",
+        "id": "0029VaD4YKtEKyZEEzxkW83U",
+        "added": "2026-08-29",
+        "source": "https://www.pdmonza.org/il-partito/5374-nasce-il-canale-whatsapp-del-pd.html"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    },
+    {
+      "id": "it-si",
+      "name": "Sinistra Italiana",
+      "abbreviation": "SI",
+      "englishName": "Italian Left",
+      "website": "https://www.sinistraitaliana.si/",
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "profile": "data-package",
+  "name": "political-whatsapp-channels",
+  "title": "Political party WhatsApp channels",
+  "description": "European political parties' presence on WhatsApp, with public follower counts of their Channels tracked over time. Follower readings are append-only CSV; the party registry, observed profiles and ISO 3166 geography are JSON. See README.md for the full methodology, field definitions and limitations.",
+  "homepage": "https://wha.tools/political-parties-whatsapp-channels",
+  "version": "0.1.0",
+  "created": "2026-08-31",
+  "keywords": [
+    "WhatsApp",
+    "WhatsApp Channels",
+    "political parties",
+    "Europe",
+    "follower counts",
+    "open data"
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "WhaTools",
+      "path": "https://wha.tools",
+      "role": "author"
+    }
+  ],
+  "sources": [
+    {
+      "title": "WhatsApp Channel public preview pages",
+      "path": "https://www.whatsapp.com/"
+    },
+    {
+      "title": "wha.tools — political party WhatsApp channels",
+      "path": "https://wha.tools/political-parties-whatsapp-channels"
+    }
+  ],
+  "resources": [
+    {
+      "name": "observations",
+      "title": "Follower readings",
+      "description": "Append-only follower readings, one row per check of one surface. Files are partitioned by month as datasets/party-channels/observations/<YYYY-MM>.csv and all share this schema. Rows are never edited or deleted, so the git history of that directory is the complete measurement record. A failed check is recorded with a status and no follower number; a count is never stored as 0 to mean 'unknown'.",
+      "path": "datasets/party-channels/observations/*.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true
+      },
+      "schema": {
+        "missingValues": [""],
+        "fields": [
+          {
+            "name": "checked_at",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M:%SZ",
+            "title": "Checked at",
+            "description": "ISO-8601 UTC timestamp of the check, second precision.",
+            "constraints": { "required": true }
+          },
+          {
+            "name": "party_id",
+            "type": "string",
+            "title": "Party id",
+            "description": "Registry party id; join key to the registry (parties/*.json).",
+            "constraints": { "required": true }
+          },
+          {
+            "name": "channel_id",
+            "type": "string",
+            "title": "Surface id",
+            "description": "The surface's id: a Channel id, a group/community invite code, or a phone number. Join key to profiles.json.",
+            "constraints": { "required": true }
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "title": "Status",
+            "description": "Outcome of the read. 'ok' is the only status that carries a follower count.",
+            "constraints": {
+              "required": true,
+              "enum": ["ok", "not_found", "no_count", "http_error", "network_error", "not_supported"]
+            }
+          },
+          {
+            "name": "followers",
+            "type": "integer",
+            "title": "Followers",
+            "description": "Follower count. Empty unless status is 'ok'. Never 0 standing in for 'unknown'.",
+            "constraints": { "minimum": 0 }
+          },
+          {
+            "name": "precision",
+            "type": "string",
+            "title": "Precision",
+            "description": "Whether the source printed the exact number ('exact') or a rounded one ('rounded'). WhatsApp prints the whole number only in some languages, so the collector requests de-DE and falls back to it-IT.",
+            "constraints": { "enum": ["exact", "rounded"] }
+          },
+          {
+            "name": "locale",
+            "type": "string",
+            "title": "Locale",
+            "description": "The Accept-Language value that produced the reading, e.g. de-DE."
+          },
+          {
+            "name": "channel_name",
+            "type": "string",
+            "title": "Channel name",
+            "description": "The surface's own name at check time (observed, may change between checks)."
+          },
+          {
+            "name": "http_status",
+            "type": "integer",
+            "title": "HTTP status",
+            "description": "The HTTP response status, when there was one."
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "title": "Surface kind",
+            "description": "The kind of WhatsApp surface. Only a Channel publishes a follower count.",
+            "constraints": { "enum": ["channel", "group", "community", "account"] }
+          }
+        ]
+      }
+    },
+    {
+      "name": "registry",
+      "title": "Party registry",
+      "description": "The curated registry: one JSON file per country (parties/<iso2>.json, lowercase) plus parties/_<continent>.json for supranational parties with no country (e.g. _europe.json). Each file is an object with a 'country' code (absent in the _continent files) and a 'parties' array. One entry is one party in one place, carrying: id (stable join key, never renamed), name, abbreviation, englishName, the place fields (country from the filename, optional region as an ISO 3166-2 code, optional free-text city, or continent/worldwide for supranational/global entries), parentId (linking a branch to its national party), website, email, epGroup (European Parliament group), optional europarty, optional orientation with a required orientationSource when overridden, cadence, a verified date, an optional dated noChannel flag, an optional note, and up to one 'channel' surface plus one 'other' surface. A surface has kind/url/id/added and an optional source; a channel may be flagged personal. All fields are documented in README.md.",
+      "path": "datasets/party-channels/parties/*.json",
+      "profile": "data-resource",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "profiles",
+      "title": "Observed channel profiles",
+      "description": "Observed state per surface, overwritten on each check: title, description, the observed CDN image URL and a stable mirrored avatar path, the latest follower count and precision, the last status, the verification-badge flag, and the time it was seen. Keyed by surface id. These are observed (not curated) values, kept apart from the registry so a channel rename is never confused with a typo.",
+      "path": "datasets/party-channels/profiles.json",
+      "profile": "data-resource",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "places-countries",
+      "title": "Countries (ISO 3166-1)",
+      "description": "European countries with ISO 3166-1 alpha-2 codes, names, slugs and capital. Generated reference table; places are referenced by code, never by typed-in name.",
+      "path": "datasets/places/countries.json",
+      "profile": "data-resource",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "places-regions",
+      "title": "Regions (ISO 3166-2)",
+      "description": "Country subdivisions with ISO 3166-2 codes, parent country code, names, slugs and subdivision type.",
+      "path": "datasets/places/regions.json",
+      "profile": "data-resource",
+      "format": "json",
+      "mediatype": "application/json"
+    }
+  ]
+}

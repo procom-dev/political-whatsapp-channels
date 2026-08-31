@@ -1,0 +1,74 @@
+{
+  "parties": [
+    {
+      "id": "europe-alde",
+      "name": "Alliance of Liberals and Democrats for Europe Party",
+      "abbreviation": "ALDE",
+      "continent": "EU",
+      "epGroup": "RENEW",
+      "europarty": "ALDE",
+      "website": "https://www.aldeparty.eu/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "europe-ecr",
+      "name": "European Conservatives and Reformists Party",
+      "abbreviation": "ECR",
+      "continent": "EU",
+      "epGroup": "ECR",
+      "europarty": "ECR_PARTY",
+      "website": "https://ecrparty.eu/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "europe-egp",
+      "name": "European Green Party",
+      "abbreviation": "EGP",
+      "continent": "EU",
+      "epGroup": "GREENS_EFA",
+      "europarty": "EGP",
+      "website": "https://europeangreens.eu/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "europe-el",
+      "name": "Party of the European Left",
+      "abbreviation": "EL",
+      "continent": "EU",
+      "epGroup": "LEFT",
+      "europarty": "EL",
+      "website": "https://www.european-left.org/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "europe-epp",
+      "name": "European People's Party",
+      "abbreviation": "EPP",
+      "continent": "EU",
+      "epGroup": "EPP",
+      "europarty": "EPP",
+      "website": "https://www.epp.eu/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "europe-pes",
+      "name": "Party of European Socialists",
+      "abbreviation": "PES",
+      "continent": "EU",
+      "epGroup": "SD",
+      "europarty": "PES",
+      "website": "https://www.pes.eu/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "europe-volt",
+      "name": "Volt Europa",
+      "abbreviation": "Volt",
+      "continent": "EU",
+      "epGroup": "GREENS_EFA",
+      "europarty": "VOLT",
+      "website": "https://www.volteuropa.org/",
+      "verified": "2026-08-29"
+    }
+  ]
+}

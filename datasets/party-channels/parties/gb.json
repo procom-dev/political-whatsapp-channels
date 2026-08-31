@@ -1,0 +1,69 @@
+{
+  "country": "GB",
+  "parties": [
+    {
+      "id": "gb-con",
+      "name": "Conservative Party",
+      "abbreviation": "Con",
+      "englishName": "Conservative and Unionist Party",
+      "website": "https://www.conservatives.com/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "gb-lab",
+      "name": "Labour Party",
+      "abbreviation": "Lab",
+      "englishName": "Labour Party",
+      "website": "https://labour.org.uk/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "gb-ld",
+      "name": "Liberal Democrats",
+      "abbreviation": "LD",
+      "englishName": "Liberal Democrats",
+      "website": "https://www.libdems.org.uk/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "gb-nir-dup",
+      "name": "Democratic Unionist Party",
+      "abbreviation": "DUP",
+      "englishName": "Democratic Unionist Party",
+      "region": "GB-NIR",
+      "website": "https://mydup.com/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "gb-nir-sinn-fein",
+      "name": "Sinn Féin",
+      "englishName": "Sinn Féin",
+      "region": "GB-NIR",
+      "website": "https://www.sinnfein.ie/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaG5zpf9RZAUcorlw410",
+        "id": "0029VaG5zpf9RZAUcorlw410",
+        "added": "2026-08-30"
+      },
+      "verified": "2026-08-30"
+    },
+    {
+      "id": "gb-ruk",
+      "name": "Reform UK",
+      "abbreviation": "RUK",
+      "englishName": "Reform UK",
+      "website": "https://www.reformparty.uk/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "gb-sct-snp",
+      "name": "Scottish National Party",
+      "abbreviation": "SNP",
+      "englishName": "Scottish National Party",
+      "region": "GB-SCT",
+      "website": "https://www.snp.org/",
+      "verified": "2026-08-29"
+    }
+  ]
+}

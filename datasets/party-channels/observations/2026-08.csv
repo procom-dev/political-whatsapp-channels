@@ -1,0 +1,79 @@
+checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind
+2026-08-28T10:16:29Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,31121,exact,de-DE,SPD,200,
+2026-08-28T10:16:29Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,60818,exact,de-DE,Die Linke,200,
+2026-08-28T10:16:29Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,7648,exact,de-DE,FDP,200,
+2026-08-28T14:13:03Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,60822,exact,de-DE,Die Linke,200,channel
+2026-08-28T14:13:03Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,7647,exact,de-DE,FDP,200,channel
+2026-08-28T14:13:03Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,31134,exact,de-DE,SPD,200,channel
+2026-08-28T14:22:43Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,60822,exact,de-DE,Die Linke,200,channel
+2026-08-28T14:22:44Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,7647,exact,de-DE,FDP,200,channel
+2026-08-28T14:22:44Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,31134,exact,de-DE,SPD,200,channel
+2026-08-28T14:24:13Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,7647,exact,de-DE,FDP,200,channel
+2026-08-28T14:24:13Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,31134,exact,de-DE,SPD,200,channel
+2026-08-28T14:24:13Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,60822,exact,de-DE,Die Linke,200,channel
+2026-08-28T16:29:56Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,31137,exact,de-DE,SPD,200,channel
+2026-08-28T16:29:56Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,60824,exact,de-DE,Die Linke,200,channel
+2026-08-28T16:29:56Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,7648,exact,de-DE,FDP,200,channel
+2026-08-28T18:54:54Z,es-ct-bcomu,0029Va97rJf0AgW3PrmreK3m,ok,1245,exact,de-DE,Barcelona en Comú,200,channel
+2026-08-28T18:54:54Z,es-ct-erc,0029VaEe6Y6FCCoOpegXkQ3h,ok,4244,exact,de-DE,Esquerra Republicana,200,channel
+2026-08-28T18:54:55Z,es-cn-psoe,0029VaNV8JKFSAsvpMzKpM08,ok,302,exact,de-DE,PSOE Canarias 🌹🇮🇨,200,channel
+2026-08-28T18:54:56Z,es-ct-pp,0029VaCtnXdJuyABqpryQc3T,ok,6561,exact,de-DE,Partido Popular,200,channel
+2026-08-28T18:54:56Z,es-ct-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,37738,exact,de-DE,Santiago Abascal 🇪🇸,200,channel
+2026-08-28T18:54:56Z,es-ga-bng,0029Va84lfy0wajvPNPdOz0T,ok,2345,exact,de-DE,BNG - Bloque Nacionalista Galego,200,channel
+2026-08-28T18:54:57Z,es-pv-eaj-pnv,0029Va8Vp1T2UPBGAcxMBz32,ok,5460,exact,de-DE,EAJ-PNV,200,channel
+2026-08-28T18:54:58Z,es-pv-eh-bildu,0029VaETvrgKLaHr4JYmrl3V,ok,3360,exact,de-DE,EH Bildu,200,channel
+2026-08-28T18:54:58Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,31142,exact,de-DE,SPD,200,channel
+2026-08-28T18:54:59Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,60820,exact,de-DE,Die Linke,200,channel
+2026-08-28T18:54:59Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,7648,exact,de-DE,FDP,200,channel
+2026-08-28T23:00:56Z,de-he-cdu,0029Vb6BhfqGU3BKpXuYrC32,ok,47,exact,de-DE,Bereit für morgen. CDU Neu-Isenburg,200,channel
+2026-08-28T23:01:16Z,de-hh-cdu,0029VaDIdTgHLHQVxYVxZB2q,http_error,,,de-DE,,429,channel
+2026-08-28T23:01:20Z,de-ni-cdu,0029VaaE9wmCHDyfdJwcmR08,http_error,,,de-DE,,429,channel
+2026-08-28T23:30:38Z,de-ni-cdu,0029VaaE9wmCHDyfdJwcmR08,ok,221,exact,de-DE,CDU-Stadtverband Friesoythe,200,channel
+2026-08-28T23:30:38Z,de-rp-cdu,0029VbBNMxSEQIafUT13xE0h,ok,40,exact,de-DE,CDU VG Vallendar,200,channel
+2026-08-28T23:30:38Z,de-hh-cdu,0029VaDIdTgHLHQVxYVxZB2q,ok,120,exact,de-DE,CDU Hamburg,200,channel
+2026-08-29T09:55:30Z,de-grune,0029VadW99X2kNFogn540h07,http_error,,,it-IT,,429,channel
+2026-08-29T09:55:32Z,de-by-csu,0029VaD4cMMEawdhJl5YBj1d,http_error,,,it-IT,,429,channel
+2026-08-29T09:55:36Z,de-bb-grune,0029VauE700AInPjDfFFPT0j,http_error,,,it-IT,,429,channel
+2026-08-29T14:56:43Z,de-grune,0029VadW99X2kNFogn540h07,ok,28229,exact,de-DE,BÜNDNIS 90/DIE GRÜNEN,200,channel
+2026-08-29T14:56:43Z,de-bb-grune,0029VauE700AInPjDfFFPT0j,ok,78,exact,de-DE,GRÜNE Oder-Spree,200,channel
+2026-08-29T14:56:43Z,de-by-csu,0029VaD4cMMEawdhJl5YBj1d,ok,134,exact,de-DE,CSU Bürgstadt,200,channel
+2026-08-29T14:56:45Z,de-nw-grune,0029VbBv7Y9GZNCzTwFg7A3n,ok,813,exact,de-DE,GRÜNE NRW,200,channel
+2026-08-29T14:56:45Z,de-rp-spd,0029VadzcDYL7UVOaCWd271d,ok,28,exact,de-DE,SPD-Stadtverband Wörth am Rhein,200,channel
+2026-08-29T14:56:45Z,de-nw-cdu,0029VamylMu11ulWqPBc5S3T,ok,78,exact,de-DE,CDU Rüthen,200,channel
+2026-08-29T14:56:47Z,de-st-afd,0029VaDxRq5Fy72FGcxBW93K,ok,1159,exact,de-DE,AfD Magdeburg💙,200,channel
+2026-08-29T14:56:47Z,de-st-die-linke,0029VaMm2t3CMY0JNGNsou1u,ok,431,exact,de-DE,Fraktion Die Linke im Landtag von Sachsen-Anhalt,200,channel
+2026-08-29T14:56:47Z,de-st-grune,0029VakBvxx0Vyc7cCq2sM1A,ok,1766,exact,de-DE,DIE GRÜNEN Sachsen-Anhalt,200,channel
+2026-08-29T14:56:49Z,es-cm-pp,0029VaH9MuxE50UqY3Z98x3k,ok,118,exact,de-DE,PP Ayuntamiento Cuenca 🇪🇸,200,channel
+2026-08-29T14:56:49Z,es-cm-psoe,0029VbAvKQ460eBY9dqz1T2z,ok,70,exact,de-DE,🔴PSOE Almagro,200,channel
+2026-08-29T14:56:50Z,it-34-m5s,0029Va8uTsIDZ4LasSWUct30,ok,44,exact,de-DE,M5S News Treviso,200,channel
+2026-08-29T14:56:50Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,228,exact,de-DE,'+Europa,200,channel
+2026-08-29T14:56:51Z,it-fi,0029VazVsXCDZ4Le9S1VyK10,ok,15457,exact,de-DE,Forza Italia,200,channel
+2026-08-29T14:56:52Z,it-iv,0029VaCOS6XAjPXLhdgcZR2f,ok,34455,exact,de-DE,Matteo Renzi,200,channel
+2026-08-29T14:56:53Z,it-pd,0029VaD4YKtEKyZEEzxkW83U,ok,33529,exact,de-DE,Partito Democratico,200,channel
+2026-08-29T14:56:53Z,pt-ch,0029VaD2DqD3QxS133VKTQ2z,ok,12632,exact,de-DE,André Ventura,200,channel
+2026-08-29T15:05:38Z,de-st-die-linke,0029VaMm2t3CMY0JNGNsou1u,ok,431,exact,de-DE,Fraktion Die Linke im Landtag von Sachsen-Anhalt,200,channel
+2026-08-29T15:05:38Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,60831,exact,de-DE,Die Linke,200,channel
+2026-08-29T15:20:56Z,es-ct-junts,0029VaEaDDp1XquSCIpDOp2z,ok,1408,exact,de-DE,Junts per Catalunya,200,channel
+2026-08-29T15:20:56Z,es-psoe,0029VaCqsmk1XquVbS6T1u08,ok,5102,exact,de-DE,PSOE 🌹,200,channel
+2026-08-29T15:20:56Z,es-podemos,0029Va8DejyIiRowrYG9PK0C,ok,8212,exact,de-DE,Canal Podemos,200,channel
+2026-08-29T15:20:58Z,es-ct-bcomu,0029Va97rJf0AgW3PrmreK3m,ok,1243,exact,de-DE,Barcelona en Comú,200,channel
+2026-08-29T15:20:58Z,es-ct-erc,0029VaEe6Y6FCCoOpegXkQ3h,ok,4242,exact,de-DE,Esquerra Republicana,200,channel
+2026-08-29T15:20:58Z,es-cn-psoe,0029VaNV8JKFSAsvpMzKpM08,ok,302,exact,de-DE,PSOE Canarias 🌹🇮🇨,200,channel
+2026-08-29T15:21:00Z,es-ga-bng,0029Va84lfy0wajvPNPdOz0T,ok,2345,exact,de-DE,BNG - Bloque Nacionalista Galego,200,channel
+2026-08-29T15:21:00Z,es-pp,0029VaCtnXdJuyABqpryQc3T,ok,6560,exact,de-DE,Partido Popular,200,channel
+2026-08-29T15:21:00Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,39206,exact,de-DE,Santiago Abascal 🇪🇸,200,channel
+2026-08-29T15:21:02Z,es-pv-eaj-pnv,0029Va8Vp1T2UPBGAcxMBz32,ok,5458,exact,de-DE,EAJ-PNV,200,channel
+2026-08-29T15:21:02Z,es-pv-eh-bildu,0029VaETvrgKLaHr4JYmrl3V,ok,3360,exact,de-DE,EH Bildu,200,channel
+2026-08-29T15:21:02Z,es-cm-pp,0029VaH9MuxE50UqY3Z98x3k,ok,118,exact,de-DE,PP Ayuntamiento Cuenca 🇪🇸,200,channel
+2026-08-29T15:21:03Z,es-cm-psoe,0029VbAvKQ460eBY9dqz1T2z,ok,70,exact,de-DE,🔴PSOE Almagro,200,channel
+2026-08-29T15:22:05Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,31166,exact,de-DE,SPD,200,channel
+2026-08-29T15:22:05Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,7640,exact,de-DE,FDP,200,channel
+2026-08-29T15:22:05Z,de-he-cdu,0029Vb6BhfqGU3BKpXuYrC32,ok,47,exact,de-DE,Bereit für morgen. CDU Neu-Isenburg,200,channel
+2026-08-29T15:22:07Z,de-ni-cdu,0029VaaE9wmCHDyfdJwcmR08,ok,220,exact,de-DE,CDU-Stadtverband Friesoythe,200,channel
+2026-08-29T15:22:07Z,de-hh-cdu,0029VaDIdTgHLHQVxYVxZB2q,ok,120,exact,de-DE,CDU Hamburg,200,channel
+2026-08-29T15:22:07Z,de-rp-cdu,0029VbBNMxSEQIafUT13xE0h,ok,40,exact,de-DE,CDU VG Vallendar,200,channel
+2026-08-29T15:23:08Z,de-bb-grune,0029VauE700AInPjDfFFPT0j,http_error,,,it-IT,,429,channel
+2026-08-29T15:23:12Z,de-grune,0029VadW99X2kNFogn540h07,http_error,,,it-IT,,429,channel
+2026-08-29T15:23:17Z,de-by-csu,0029VaD4cMMEawdhJl5YBj1d,http_error,,,it-IT,,429,channel
+2026-08-30T10:28:42Z,fr-lfi,0029VaigBPdLNSa5rfQMSp3t,ok,11930,exact,de-DE,La France insoumise,200,channel
+2026-08-30T10:28:42Z,at-grune,0029VagPEHPCnA7uajcDvi2u,ok,1331,exact,de-DE,Team fürs Klima,200,channel

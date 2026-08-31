@@ -1,0 +1,35 @@
+# Citation File Format — https://citation-file-format.github.io/
+# GitHub reads this file to offer a "Cite this repository" button.
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Political party WhatsApp channels: an open dataset of parties' WhatsApp presence across Europe"
+abstract: >-
+  An open dataset of European political parties' presence on WhatsApp — their
+  Channels, groups and click-to-chat numbers — with public follower counts of
+  their Channels tracked over time and ranked by city, region, country and
+  continent. Follower counts are read from each Channel's own public preview
+  page; failed reads are recorded as failures, never as zero. Covers political
+  parties and their territorial branches only. Published under CC BY 4.0.
+type: dataset
+authors:
+  - name: "WhaTools"
+    website: "https://wha.tools"
+license: CC-BY-4.0
+repository-code: "https://github.com/procom-dev/political-whatsapp-channels"
+url: "https://wha.tools/political-parties-whatsapp-channels"
+keywords:
+  - WhatsApp
+  - WhatsApp Channels
+  - political parties
+  - Europe
+  - follower counts
+  - social media
+  - political communication
+  - open data
+version: "0.1.0"
+date-released: "2026-08-31"
+# --- DOI (add after the first Zenodo release — see docs in the README) ---------
+# Zenodo mints two DOIs: a *concept* DOI that always resolves to the newest
+# version, and a *version* DOI for each release. Cite the concept DOI here.
+# Uncomment the next line and paste the concept DOI Zenodo shows for the record:
+# doi: "10.5281/zenodo.XXXXXXX"

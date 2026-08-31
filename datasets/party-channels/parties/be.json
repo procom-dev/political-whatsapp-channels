@@ -1,0 +1,109 @@
+{
+  "country": "BE",
+  "parties": [
+    {
+      "id": "be-pvda-ptb",
+      "name": "PVDA-PTB",
+      "englishName": "Workers' Party of Belgium",
+      "website": "https://www.pvda.be/",
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "be-vlg-cd-v",
+      "name": "cd&v",
+      "abbreviation": "CD&V",
+      "englishName": "Christian Democratic and Flemish",
+      "region": "BE-VLG",
+      "website": "https://cdenv.be/",
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "be-vlg-groen",
+      "name": "Groen",
+      "englishName": "Green (Flemish greens)",
+      "region": "BE-VLG",
+      "website": "https://www.groen.be/",
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "be-vlg-n-va",
+      "name": "Nieuw-Vlaamse Alliantie",
+      "abbreviation": "N-VA",
+      "englishName": "New Flemish Alliance",
+      "region": "BE-VLG",
+      "website": "https://www.n-va.be/",
+      "verified": "2026-08-29",
+      "epGroup": "ECR"
+    },
+    {
+      "id": "be-vlg-open-vld",
+      "name": "Open Vld",
+      "englishName": "Open Flemish Liberals and Democrats",
+      "region": "BE-VLG",
+      "website": "https://www.openvld.be/",
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    },
+    {
+      "id": "be-vlg-vb",
+      "name": "Vlaams Belang",
+      "abbreviation": "VB",
+      "englishName": "Flemish Interest",
+      "region": "BE-VLG",
+      "website": "https://www.vlaamsbelang.org/",
+      "verified": "2026-08-29",
+      "epGroup": "PFE"
+    },
+    {
+      "id": "be-vlg-vooruit",
+      "name": "Vooruit",
+      "englishName": "Forward (Flemish socialists)",
+      "region": "BE-VLG",
+      "website": "https://vooruit.org/",
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    },
+    {
+      "id": "be-wal-ecolo",
+      "name": "Ecolo",
+      "englishName": "Confederated Ecologists (Francophone greens)",
+      "region": "BE-WAL",
+      "website": "https://ecolo.be/",
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "be-wal-le",
+      "name": "Les Engagés",
+      "abbreviation": "LE",
+      "englishName": "The Committed Ones (ex-cdH)",
+      "region": "BE-WAL",
+      "website": "https://lesengages.be/",
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "be-wal-mr",
+      "name": "Mouvement Réformateur",
+      "abbreviation": "MR",
+      "englishName": "Reformist Movement",
+      "region": "BE-WAL",
+      "website": "https://www.mr.be/",
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    },
+    {
+      "id": "be-wal-ps",
+      "name": "Parti Socialiste",
+      "abbreviation": "PS",
+      "englishName": "Socialist Party (Francophone)",
+      "region": "BE-WAL",
+      "website": "https://www.ps.be/",
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    }
+  ]
+}

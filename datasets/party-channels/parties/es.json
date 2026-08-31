@@ -1,0 +1,264 @@
+{
+  "country": "ES",
+  "parties": [
+    {
+      "id": "es-cm-pp",
+      "name": "PP Ayuntamiento de Cuenca",
+      "abbreviation": "PP",
+      "englishName": "People's Party — Cuenca municipal group",
+      "region": "ES-CM",
+      "city": "Cuenca",
+      "website": "https://www.enciendecuenca.com/2023/12/30/el-grupo-popular-del-ayuntamiento-de-cuenca-estrena-canal-de-whatsapp/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaH9MuxE50UqY3Z98x3k",
+        "id": "0029VaH9MuxE50UqY3Z98x3k",
+        "added": "2026-08-29",
+        "source": "https://www.enciendecuenca.com/2023/12/30/el-grupo-popular-del-ayuntamiento-de-cuenca-estrena-canal-de-whatsapp/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "es-cm-psoe",
+      "name": "PSOE de Almagro",
+      "abbreviation": "PSOE",
+      "englishName": "PSOE Almagro (local branch)",
+      "region": "ES-CM",
+      "city": "Almagro",
+      "website": "https://almagronoticias.com/el-psoe-de-almagro-lanza-su-canal-oficial-de-whatsapp-para-ofrecer-informacion-directa-transparente-y-actualizada-a-sus-vecinos/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbAvKQ460eBY9dqz1T2z",
+        "id": "0029VbAvKQ460eBY9dqz1T2z",
+        "added": "2026-08-29",
+        "source": "https://almagronoticias.com/el-psoe-de-almagro-lanza-su-canal-oficial-de-whatsapp-para-ofrecer-informacion-directa-transparente-y-actualizada-a-sus-vecinos/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    },
+    {
+      "id": "es-cn-psoe",
+      "name": "PSOE Canarias",
+      "abbreviation": "PSOE",
+      "englishName": "PSOE (Canary Islands federation)",
+      "region": "ES-CN",
+      "website": "https://psoecanarias.com/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaNV8JKFSAsvpMzKpM08",
+        "id": "0029VaNV8JKFSAsvpMzKpM08",
+        "added": "2026-08-28",
+        "source": "https://psoecanarias.com/web/nuestro-whatsapp/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    },
+    {
+      "id": "es-ct-bcomu",
+      "name": "Barcelona en Comú",
+      "abbreviation": "BComú",
+      "englishName": "Barcelona in Common",
+      "region": "ES-CT",
+      "city": "Barcelona",
+      "website": "https://barcelonaencomu.cat/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va97rJf0AgW3PrmreK3m",
+        "id": "0029Va97rJf0AgW3PrmreK3m",
+        "added": "2026-08-28"
+      },
+      "cadence": "daily",
+      "verified": "2026-08-28",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "es-ct-erc",
+      "name": "Esquerra Republicana de Catalunya",
+      "abbreviation": "ERC",
+      "englishName": "Republican Left of Catalonia",
+      "region": "ES-CT",
+      "website": "https://www.esquerra.cat/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaEe6Y6FCCoOpegXkQ3h",
+        "id": "0029VaEe6Y6FCCoOpegXkQ3h",
+        "added": "2026-08-28",
+        "source": "https://www.esquerra.cat/"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "es-ct-junts",
+      "name": "Junts per Catalunya",
+      "abbreviation": "Junts",
+      "englishName": "Together for Catalonia",
+      "region": "ES-CT",
+      "website": "https://junts.cat/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaEaDDp1XquSCIpDOp2z",
+        "id": "0029VaEaDDp1XquSCIpDOp2z",
+        "added": "2026-08-29"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "NI"
+    },
+    {
+      "id": "es-ct-pp",
+      "name": "Partit Popular de Catalunya",
+      "abbreviation": "PP",
+      "englishName": "People's Party of Catalonia",
+      "region": "ES-CT",
+      "city": "Barcelona",
+      "website": "https://www.ppbarcelona.org/",
+      "verified": "2026-08-28",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "es-ct-vox",
+      "name": "Vox",
+      "abbreviation": "Vox",
+      "englishName": "Vox",
+      "region": "ES-CT",
+      "city": "Barcelona",
+      "website": "https://www.voxespana.es/barcelona",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/34691031074",
+        "id": "34691031074",
+        "added": "2026-08-28"
+      },
+      "verified": "2026-08-28",
+      "epGroup": "PFE"
+    },
+    {
+      "id": "es-ga-bng",
+      "name": "Bloque Nacionalista Galego",
+      "abbreviation": "BNG",
+      "englishName": "Galician Nationalist Bloc",
+      "region": "ES-GA",
+      "website": "https://www.bng.gal/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va84lfy0wajvPNPdOz0T",
+        "id": "0029Va84lfy0wajvPNPdOz0T",
+        "added": "2026-08-28",
+        "source": "https://www.bng.gal/estaticas/siguenos-no-whatsapp.html"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "es-podemos",
+      "name": "Podemos",
+      "abbreviation": "Podemos",
+      "englishName": "We Can",
+      "website": "https://podemos.info/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va8DejyIiRowrYG9PK0C",
+        "id": "0029Va8DejyIiRowrYG9PK0C",
+        "added": "2026-08-29"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "es-pp",
+      "name": "Partido Popular",
+      "abbreviation": "PP",
+      "englishName": "People's Party",
+      "website": "https://www.pp.es/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaCtnXdJuyABqpryQc3T",
+        "id": "0029VaCtnXdJuyABqpryQc3T",
+        "added": "2026-08-29",
+        "source": "https://x.com/ppopular/status/1729908086243017130"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "es-psoe",
+      "name": "PSOE",
+      "abbreviation": "PSOE",
+      "englishName": "Spanish Socialist Workers' Party",
+      "website": "https://www.psoe.es/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaCqsmk1XquVbS6T1u08",
+        "id": "0029VaCqsmk1XquVbS6T1u08",
+        "added": "2026-08-29"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    },
+    {
+      "id": "es-pv-eaj-pnv",
+      "name": "Euzko Alderdi Jeltzalea–Partido Nacionalista Vasco",
+      "abbreviation": "EAJ-PNV",
+      "englishName": "Basque Nationalist Party",
+      "region": "ES-PV",
+      "website": "https://www.eaj-pnv.eus/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va8Vp1T2UPBGAcxMBz32",
+        "id": "0029Va8Vp1T2UPBGAcxMBz32",
+        "added": "2026-08-28",
+        "source": "https://www.eaj-pnv.eus/es/noticias/55166/eaj-pnv-lanza-su-canal-de-whatsapp-una-forma-nueva"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    },
+    {
+      "id": "es-pv-eh-bildu",
+      "name": "EH Bildu",
+      "abbreviation": "EH Bildu",
+      "englishName": "Basque Country Unite",
+      "region": "ES-PV",
+      "website": "https://ehbildu.eus/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaETvrgKLaHr4JYmrl3V",
+        "id": "0029VaETvrgKLaHr4JYmrl3V",
+        "added": "2026-08-28",
+        "source": "https://t.me/s/ehbildu"
+      },
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "es-sumar",
+      "name": "Sumar",
+      "abbreviation": "Sumar",
+      "englishName": "Add Up",
+      "website": "https://movimientosumar.es/",
+      "other": {
+        "kind": "group",
+        "url": "https://chat.whatsapp.com/I3k47YMbCIJ6SH4RB9Pc4u",
+        "id": "I3k47YMbCIJ6SH4RB9Pc4u",
+        "added": "2026-08-29"
+      },
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "es-vox",
+      "name": "VOX",
+      "abbreviation": "VOX",
+      "englishName": "Voice",
+      "website": "https://www.voxespana.es/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E",
+        "id": "0029VaDCD1UJJhzPmDOnRy2E",
+        "added": "2026-08-29",
+        "personal": true
+      },
+      "verified": "2026-08-29",
+      "epGroup": "PFE"
+    }
+  ]
+}

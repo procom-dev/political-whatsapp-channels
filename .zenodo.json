@@ -1,0 +1,32 @@
+{
+  "title": "Political party WhatsApp channels: an open dataset of parties' WhatsApp presence across Europe",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "WhaTools",
+      "affiliation": "procom-dev"
+    }
+  ],
+  "description": "<p>An open dataset of European political parties' presence on WhatsApp &mdash; their Channels, groups and click-to-chat numbers &mdash; with the public follower counts of their Channels tracked over time and ranked by city, region, country and continent.</p><p>Follower counts are read from each Channel's own public preview page (there is no API). Counts are recorded exactly when the source prints them exactly, and marked as rounded otherwise; a failed read is stored as a failure with its status, never as a zero. The dataset covers political parties and their territorial branches only &mdash; youth wings, parliamentary groups, campaigns and movements are out of scope.</p><p>The data ships as an append-only CSV of follower readings, a curated registry of parties (one JSON file per country), observed channel profiles, mirrored channel avatars, and ISO&nbsp;3166 geography tables. Every figure comes from a public page; nothing is estimated, modelled or back-filled. A Frictionless <code>datapackage.json</code> describes every file.</p><p>This is a published copy of the dataset maintained in the wha.tools monorepo, and powers the ranking pages at <a href=\"https://wha.tools/political-parties-whatsapp-channels\">wha.tools</a>.</p>",
+  "keywords": [
+    "WhatsApp",
+    "WhatsApp Channels",
+    "political parties",
+    "Europe",
+    "follower counts",
+    "social media",
+    "political communication",
+    "open data",
+    "elections"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://wha.tools/political-parties-whatsapp-channels",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Follower counts are read from WhatsApp's own public Channel preview pages, which are Meta's pages; see the README's methodology and terms sections. The dataset records political parties and their territorial branches only."
+}

@@ -1,0 +1,419 @@
+{
+  "generated": "2026-08-28",
+  "continent": "EU",
+  "source": "https://github.com/dr5hn/countries-states-cities-database",
+  "note": "ISO 3166-1 alpha-2 and ISO 3166-2 codes. Regenerate with `npm run places:build`.",
+  "countries": [
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "slug": "andorra",
+      "capital": "Andorra la Vella",
+      "continent": "EU"
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "native": "Shqipëria",
+      "slug": "albania",
+      "capital": "Tirana",
+      "continent": "EU"
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "native": "Österreich",
+      "slug": "austria",
+      "capital": "Vienna",
+      "continent": "EU"
+    },
+    {
+      "code": "AX",
+      "name": "Aland Islands",
+      "native": "Åland",
+      "slug": "aland-islands",
+      "capital": "Mariehamn",
+      "continent": "EU"
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "native": "Bosna i Hercegovina",
+      "slug": "bosnia-and-herzegovina",
+      "capital": "Sarajevo",
+      "continent": "EU"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "native": "België",
+      "slug": "belgium",
+      "capital": "Brussels",
+      "continent": "EU"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "native": "България",
+      "slug": "bulgaria",
+      "capital": "Sofia",
+      "continent": "EU"
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "native": "Белару́сь",
+      "slug": "belarus",
+      "capital": "Minsk",
+      "continent": "EU"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "native": "Schweiz",
+      "slug": "switzerland",
+      "capital": "Bern",
+      "continent": "EU"
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "native": "Κύπρος",
+      "slug": "cyprus",
+      "capital": "Nicosia",
+      "continent": "EU"
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "native": "Česká republika",
+      "slug": "czech-republic",
+      "capital": "Prague",
+      "continent": "EU"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "native": "Deutschland",
+      "slug": "germany",
+      "capital": "Berlin",
+      "continent": "EU"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "native": "Danmark",
+      "slug": "denmark",
+      "capital": "Copenhagen",
+      "continent": "EU"
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "native": "Eesti",
+      "slug": "estonia",
+      "capital": "Tallinn",
+      "continent": "EU"
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "native": "España",
+      "slug": "spain",
+      "capital": "Madrid",
+      "continent": "EU"
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "native": "Suomi",
+      "slug": "finland",
+      "capital": "Helsinki",
+      "continent": "EU"
+    },
+    {
+      "code": "FO",
+      "name": "Faroe Islands",
+      "native": "Føroyar",
+      "slug": "faroe-islands",
+      "capital": "Torshavn",
+      "continent": "EU"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "slug": "france",
+      "capital": "Paris",
+      "continent": "EU"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "slug": "united-kingdom",
+      "capital": "London",
+      "continent": "EU"
+    },
+    {
+      "code": "GG",
+      "name": "Guernsey",
+      "slug": "guernsey",
+      "capital": "St Peter Port",
+      "continent": "EU"
+    },
+    {
+      "code": "GI",
+      "name": "Gibraltar",
+      "slug": "gibraltar",
+      "capital": "Gibraltar",
+      "continent": "EU"
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "native": "Ελλάδα",
+      "slug": "greece",
+      "capital": "Athens",
+      "continent": "EU"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "native": "Hrvatska",
+      "slug": "croatia",
+      "capital": "Zagreb",
+      "continent": "EU"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "native": "Magyarország",
+      "slug": "hungary",
+      "capital": "Budapest",
+      "continent": "EU"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "native": "Éire",
+      "slug": "ireland",
+      "capital": "Dublin",
+      "continent": "EU"
+    },
+    {
+      "code": "IM",
+      "name": "Man (Isle of)",
+      "native": "Isle of Man",
+      "slug": "man-isle-of",
+      "capital": "Douglas, Isle of Man",
+      "continent": "EU"
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "native": "Ísland",
+      "slug": "iceland",
+      "capital": "Reykjavik",
+      "continent": "EU"
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "native": "Italia",
+      "slug": "italy",
+      "capital": "Rome",
+      "continent": "EU"
+    },
+    {
+      "code": "JE",
+      "name": "Jersey",
+      "slug": "jersey",
+      "capital": "Saint Helier",
+      "continent": "EU"
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "slug": "liechtenstein",
+      "capital": "Vaduz",
+      "continent": "EU"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "native": "Lietuva",
+      "slug": "lithuania",
+      "capital": "Vilnius",
+      "continent": "EU"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "slug": "luxembourg",
+      "capital": "Luxembourg",
+      "continent": "EU"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "native": "Latvija",
+      "slug": "latvia",
+      "capital": "Riga",
+      "continent": "EU"
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "slug": "monaco",
+      "capital": "Monaco",
+      "continent": "EU"
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "slug": "moldova",
+      "capital": "Chisinau",
+      "continent": "EU"
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "native": "Црна Гора",
+      "slug": "montenegro",
+      "capital": "Podgorica",
+      "continent": "EU"
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "native": "Северна Македонија",
+      "slug": "north-macedonia",
+      "capital": "Skopje",
+      "continent": "EU"
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "slug": "malta",
+      "capital": "Valletta",
+      "continent": "EU"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "native": "Nederland",
+      "slug": "netherlands",
+      "capital": "Amsterdam",
+      "continent": "EU"
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "native": "Norge",
+      "slug": "norway",
+      "capital": "Oslo",
+      "continent": "EU"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "native": "Polska",
+      "slug": "poland",
+      "capital": "Warsaw",
+      "continent": "EU"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "slug": "portugal",
+      "capital": "Lisbon",
+      "continent": "EU"
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "native": "România",
+      "slug": "romania",
+      "capital": "Bucharest",
+      "continent": "EU"
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "native": "Србија",
+      "slug": "serbia",
+      "capital": "Belgrade",
+      "continent": "EU"
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "native": "Россия",
+      "slug": "russia",
+      "capital": "Moscow",
+      "continent": "EU"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "native": "Sverige",
+      "slug": "sweden",
+      "capital": "Stockholm",
+      "continent": "EU"
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "native": "Slovenija",
+      "slug": "slovenia",
+      "capital": "Ljubljana",
+      "continent": "EU"
+    },
+    {
+      "code": "SJ",
+      "name": "Svalbard and Jan Mayen Islands",
+      "native": "Svalbard og Jan Mayen",
+      "slug": "svalbard-and-jan-mayen-islands",
+      "capital": "Longyearbyen",
+      "continent": "EU"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "native": "Slovensko",
+      "slug": "slovakia",
+      "capital": "Bratislava",
+      "continent": "EU"
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "slug": "san-marino",
+      "capital": "San Marino",
+      "continent": "EU"
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "native": "Україна",
+      "slug": "ukraine",
+      "capital": "Kyiv",
+      "continent": "EU"
+    },
+    {
+      "code": "VA",
+      "name": "Vatican City State (Holy See)",
+      "native": "Vaticano",
+      "slug": "vatican-city-state-holy-see",
+      "capital": "Vatican City",
+      "continent": "EU"
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "native": "Republika e Kosovës",
+      "slug": "kosovo",
+      "capital": "Pristina",
+      "continent": "EU"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "country": "NL",
+  "parties": [
+    {
+      "id": "nl-bbb",
+      "name": "BBB",
+      "englishName": "Farmer–Citizen Movement",
+      "website": "https://boerburgerbeweging.nl/",
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "nl-cda",
+      "name": "CDA",
+      "englishName": "Christian Democratic Appeal",
+      "website": "https://www.cda.nl/",
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "nl-christenunie",
+      "name": "ChristenUnie",
+      "englishName": "Christian Union",
+      "website": "https://www.christenunie.nl/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "nl-d66",
+      "name": "D66",
+      "englishName": "Democrats 66",
+      "website": "https://d66.nl/",
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    },
+    {
+      "id": "nl-denk",
+      "name": "DENK",
+      "englishName": "DENK",
+      "website": "https://www.bewegingdenk.nl/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "nl-fvd",
+      "name": "Forum voor Democratie",
+      "abbreviation": "FvD",
+      "englishName": "Forum for Democracy",
+      "website": "https://www.fvd.nl/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "nl-groenlinks-pvda",
+      "name": "GroenLinks-PvdA",
+      "englishName": "GreenLeft–Labour",
+      "website": "https://groenlinkspvda.nl/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "nl-ja21",
+      "name": "JA21",
+      "englishName": "JA21",
+      "website": "https://www.ja21.nl/",
+      "verified": "2026-08-29",
+      "epGroup": "ECR"
+    },
+    {
+      "id": "nl-pvdd",
+      "name": "Partij voor de Dieren",
+      "abbreviation": "PvdD",
+      "englishName": "Party for the Animals",
+      "website": "https://www.partijvoordedieren.nl/",
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "nl-pvv",
+      "name": "PVV",
+      "englishName": "Party for Freedom",
+      "website": "https://www.pvv.nl/",
+      "verified": "2026-08-29",
+      "epGroup": "PFE"
+    },
+    {
+      "id": "nl-sgp",
+      "name": "SGP",
+      "englishName": "Reformed Political Party",
+      "website": "https://www.sgp.nl/",
+      "verified": "2026-08-29",
+      "epGroup": "ECR"
+    },
+    {
+      "id": "nl-sp",
+      "name": "SP",
+      "englishName": "Socialist Party",
+      "website": "https://www.sp.nl/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "nl-volt",
+      "name": "Volt",
+      "englishName": "Volt Netherlands",
+      "website": "https://voltnederland.org/",
+      "verified": "2026-08-29",
+      "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "nl-vvd",
+      "name": "VVD",
+      "englishName": "People's Party for Freedom and Democracy",
+      "website": "https://www.vvd.nl/",
+      "verified": "2026-08-29",
+      "epGroup": "RENEW"
+    }
+  ]
+}

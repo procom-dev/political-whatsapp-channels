@@ -1,0 +1,65 @@
+{
+  "country": "GR",
+  "parties": [
+    {
+      "id": "gr",
+      "name": "Πλεύση Ελευθερίας",
+      "englishName": "Course of Freedom",
+      "website": "https://plefsieleftherias.gr/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "gr-el",
+      "name": "Ελληνική Λύση",
+      "abbreviation": "EL",
+      "englishName": "Greek Solution",
+      "website": "https://elliniki-lysi.gr/",
+      "verified": "2026-08-29",
+      "epGroup": "ECR"
+    },
+    {
+      "id": "gr-kke",
+      "name": "ΚΚΕ",
+      "abbreviation": "KKE",
+      "englishName": "Communist Party of Greece",
+      "website": "https://www.kke.gr/",
+      "verified": "2026-08-29",
+      "epGroup": "NI"
+    },
+    {
+      "id": "gr-nd",
+      "name": "Νέα Δημοκρατία",
+      "abbreviation": "ND",
+      "englishName": "New Democracy",
+      "website": "https://nd.gr/",
+      "verified": "2026-08-29",
+      "epGroup": "EPP"
+    },
+    {
+      "id": "gr-niki",
+      "name": "ΝΙΚΗ",
+      "abbreviation": "NIKI",
+      "englishName": "Victory",
+      "website": "https://www.nikh.gr/",
+      "verified": "2026-08-29"
+    },
+    {
+      "id": "gr-pasok",
+      "name": "ΠΑΣΟΚ – Κίνημα Αλλαγής",
+      "abbreviation": "PASOK",
+      "englishName": "PASOK – Movement for Change",
+      "website": "https://pasok.gr/",
+      "verified": "2026-08-29",
+      "epGroup": "SD"
+    },
+    {
+      "id": "gr-syriza",
+      "name": "ΣΥΡΙΖΑ",
+      "abbreviation": "SYRIZA",
+      "englishName": "Coalition of the Radical Left",
+      "website": "https://www.syriza.gr/",
+      "verified": "2026-08-29",
+      "epGroup": "LEFT"
+    }
+  ]
+}
