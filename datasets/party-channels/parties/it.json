@@ -8,16 +8,63 @@
       "englishName": "Five Star Movement (Treviso branch)",
       "region": "IT-34",
       "city": "Treviso",
+      "epGroup": "LEFT",
+      "orientation": "centre-left",
+      "orientationSource": "https://jacobin.com/2025/02/five-star-movement-migration-italy",
       "website": "https://www.movimento5stelletreviso.it/",
       "channel": {
         "kind": "channel",
         "url": "https://www.whatsapp.com/channel/0029Va8uTsIDZ4LasSWUct30",
         "id": "0029Va8uTsIDZ4LasSWUct30",
-        "added": "2026-08-29",
-        "source": "https://www.movimento5stelletreviso.it/il-movimento5stelle-di-treviso-su-telegram-e-whatsapp/"
+        "added": "2026-08-29"
       },
-      "verified": "2026-08-29",
-      "epGroup": "LEFT"
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "it-52-lega-toscana",
+      "name": "Lega Toscana",
+      "abbreviation": "Lega Toscana",
+      "region": "IT-52",
+      "parentId": "it-lega",
+      "epGroup": "PFE",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va7lCVG7tkj20mjQAV03",
+        "id": "0029Va7lCVG7tkj20mjQAV03",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029Va7lCVG7tkj20mjQAV03"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "it-75-modugno-m5s-modugno",
+      "name": "Movimento 5 Stelle Modugno",
+      "abbreviation": "M5S Modugno",
+      "region": "IT-75",
+      "city": "Modugno",
+      "parentId": "it-m5s",
+      "epGroup": "NI",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaDZVAU6hENq64FNIq2f",
+        "id": "0029VaDZVAU6hENq64FNIq2f",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VaDZVAU6hENq64FNIq2f"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "it-ancora-italia",
+      "name": "Ancora Italia",
+      "website": "https://www.ancoraitalia.it/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaAwLQR96H4Uhpzpvw1e",
+        "id": "0029VaAwLQR96H4Uhpzpvw1e",
+        "added": "2026-09-01",
+        "source": "https://www.wikidata.org/wiki/Q136351792"
+      },
+      "verified": "2026-09-01"
     },
     {
       "id": "it-avs",
@@ -40,15 +87,15 @@
       "name": "+Europa",
       "abbreviation": "+E",
       "englishName": "More Europe",
+      "epGroup": "RENEW",
       "website": "https://www.piueuropa.eu/",
       "channel": {
         "kind": "channel",
         "url": "https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d",
         "id": "0029VaazaCd0wajweqtOWT0d",
-        "added": "2026-08-29",
-        "source": "https://www.piueuropa.eu/"
+        "added": "2026-08-29"
       },
-      "verified": "2026-08-29"
+      "verified": "2026-08-31"
     },
     {
       "id": "it-ev",
@@ -89,34 +136,50 @@
       "name": "Italia Viva",
       "abbreviation": "IV",
       "englishName": "Italy Alive",
+      "epGroup": "RENEW",
       "website": "https://www.italiaviva.it/",
       "channel": {
         "kind": "channel",
         "url": "https://www.whatsapp.com/channel/0029VaCOS6XAjPXLhdgcZR2f",
         "id": "0029VaCOS6XAjPXLhdgcZR2f",
         "added": "2026-08-29",
-        "source": "https://www.facebook.com/matteorenziufficiale/",
         "personal": true
       },
-      "verified": "2026-08-29"
+      "verified": "2026-08-31"
     },
     {
       "id": "it-lega",
       "name": "Lega",
       "abbreviation": "Lega",
       "englishName": "League",
+      "epGroup": "PFE",
       "website": "https://www.legaonline.it/",
-      "verified": "2026-08-29",
-      "epGroup": "PFE"
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va8b0IHIN9ipwkC6nf20",
+        "id": "0029Va8b0IHIN9ipwkC6nf20",
+        "added": "2026-08-31",
+        "personal": true
+      },
+      "verified": "2026-08-31"
     },
     {
       "id": "it-m5s",
       "name": "Movimento 5 Stelle",
       "abbreviation": "M5S",
       "englishName": "Five Star Movement",
+      "epGroup": "LEFT",
+      "orientation": "centre-left",
+      "orientationSource": "https://jacobin.com/2025/02/five-star-movement-migration-italy",
       "website": "https://www.movimento5stelle.eu/",
-      "verified": "2026-08-29",
-      "epGroup": "LEFT"
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaDq9ngDuMRdwp5IrC0E",
+        "id": "0029VaDq9ngDuMRdwp5IrC0E",
+        "added": "2026-08-31",
+        "personal": true
+      },
+      "verified": "2026-08-31"
     },
     {
       "id": "it-pd",
@@ -139,9 +202,10 @@
       "name": "Sinistra Italiana",
       "abbreviation": "SI",
       "englishName": "Italian Left",
+      "epGroup": "LEFT",
+      "noChannel": "2026-08-31",
       "website": "https://www.sinistraitaliana.si/",
-      "verified": "2026-08-29",
-      "epGroup": "LEFT"
+      "verified": "2026-08-31"
     }
   ]
 }

@@ -6,9 +6,10 @@
       "name": "AfD",
       "abbreviation": "AfD",
       "englishName": "Alternative for Germany",
+      "epGroup": "ESN",
+      "noChannel": "2026-08-31",
       "website": "https://www.afd.de/",
-      "verified": "2026-08-29",
-      "epGroup": "ESN"
+      "verified": "2026-08-31"
     },
     {
       "id": "de-bb-grune",
@@ -35,9 +36,27 @@
       "region": "DE-BE",
       "city": "Berlin",
       "parentId": "de-afd",
+      "noChannel": "2026-08-31",
       "website": "https://www.afd-berlin.de/",
       "cadence": "daily",
-      "verified": "2026-08-28"
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "de-be-berlin-grune-marzahn-hellersdorf",
+      "name": "Bündnis 90/Die Grünen Marzahn-Hellersdorf",
+      "abbreviation": "GRÜNE Marzahn-Hellersdorf",
+      "region": "DE-BE",
+      "city": "Berlin",
+      "parentId": "de-be-gruene",
+      "epGroup": "GREENS_EFA",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaxyPKoFi8xV3B1jXA2B",
+        "id": "0029VaxyPKoFi8xV3B1jXA2B",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VaxyPKoFi8xV3B1jXA2B"
+      },
+      "verified": "2026-08-31"
     },
     {
       "id": "de-be-cdu",
@@ -46,9 +65,10 @@
       "region": "DE-BE",
       "city": "Berlin",
       "parentId": "de-cdu",
+      "noChannel": "2026-08-31",
       "website": "https://www.cdu.berlin/",
       "cadence": "daily",
-      "verified": "2026-08-28"
+      "verified": "2026-08-31"
     },
     {
       "id": "de-be-gruene",
@@ -58,16 +78,10 @@
       "region": "DE-BE",
       "city": "Berlin",
       "parentId": "de-gruene",
+      "noChannel": "2026-08-31",
       "website": "https://www.gruene-berlin.de/",
       "cadence": "daily",
-      "verified": "2026-08-31",
-      "channel": {
-        "kind": "channel",
-        "url": "https://www.whatsapp.com/channel/0029VaxyPKoFi8xV3B1jXA2B",
-        "id": "0029VaxyPKoFi8xV3B1jXA2B",
-        "added": "2026-08-31",
-        "source": "https://gruene.berlin/mach-mit/chatgruppen"
-      }
+      "verified": "2026-08-31"
     },
     {
       "id": "de-be-linke",
@@ -76,9 +90,10 @@
       "region": "DE-BE",
       "city": "Berlin",
       "parentId": "de-linke",
+      "noChannel": "2026-08-31",
       "website": "https://www.dielinke.berlin/",
       "cadence": "daily",
-      "verified": "2026-08-28"
+      "verified": "2026-08-31"
     },
     {
       "id": "de-be-spd",
@@ -87,9 +102,10 @@
       "region": "DE-BE",
       "city": "Berlin",
       "parentId": "de-spd",
+      "noChannel": "2026-08-31",
       "website": "https://www.spd.berlin/",
       "cadence": "daily",
-      "verified": "2026-08-28"
+      "verified": "2026-08-31"
     },
     {
       "id": "de-by-csu",
@@ -108,6 +124,23 @@
       },
       "verified": "2026-08-29",
       "epGroup": "EPP"
+    },
+    {
+      "id": "de-by-grune",
+      "name": "Bündnis 90/Die Grünen Bayern",
+      "abbreviation": "Grüne",
+      "englishName": "Alliance 90/The Greens Bavaria",
+      "region": "DE-BY",
+      "epGroup": "GREENS_EFA",
+      "website": "https://www.gruene-bayern.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaDv0VS0lwgvnH7i8r0z",
+        "id": "0029VaDv0VS0lwgvnH7i8r0z",
+        "added": "2026-09-01",
+        "source": "https://www.wikidata.org/wiki/Q1020837"
+      },
+      "verified": "2026-09-01"
     },
     {
       "id": "de-cdu",
@@ -241,6 +274,23 @@
       },
       "verified": "2026-08-29",
       "epGroup": "EPP"
+    },
+    {
+      "id": "de-ni-cdu-landesverband",
+      "name": "CDU Niedersachsen",
+      "abbreviation": "CDU",
+      "englishName": "CDU in Lower Saxony (state association)",
+      "region": "DE-NI",
+      "epGroup": "EPP",
+      "website": "https://www.cdu-niedersachsen.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaNnGe929755vyAwN81C",
+        "id": "0029VaNnGe929755vyAwN81C",
+        "added": "2026-09-01",
+        "source": "https://www.wikidata.org/wiki/Q1023154"
+      },
+      "verified": "2026-09-01"
     },
     {
       "id": "de-nw-cdu",

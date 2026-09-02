@@ -6,17 +6,19 @@
       "name": "Les Écologistes",
       "abbreviation": "EELV",
       "englishName": "The Ecologists",
+      "epGroup": "GREENS_EFA",
+      "noChannel": "2026-08-31",
       "website": "https://lesecologistes.fr/",
-      "verified": "2026-08-29",
-      "epGroup": "GREENS_EFA"
+      "verified": "2026-08-31"
     },
     {
       "id": "fr-horizons",
       "name": "Horizons",
       "englishName": "Horizons",
+      "epGroup": "RENEW",
+      "noChannel": "2026-08-31",
       "website": "https://horizons-leparti.fr/",
-      "verified": "2026-08-29",
-      "epGroup": "RENEW"
+      "verified": "2026-08-31"
     },
     {
       "id": "fr-lfi",
@@ -38,27 +40,45 @@
       "name": "Les Républicains",
       "abbreviation": "LR",
       "englishName": "The Republicans",
+      "epGroup": "EPP",
+      "noChannel": "2026-08-31",
       "website": "https://www.republicains.fr/",
-      "verified": "2026-08-29",
-      "epGroup": "EPP"
+      "verified": "2026-08-31"
     },
     {
       "id": "fr-modem",
       "name": "Mouvement Démocrate",
       "abbreviation": "MoDem",
       "englishName": "Democratic Movement",
+      "epGroup": "RENEW",
+      "noChannel": "2026-08-31",
       "website": "https://mouvementdemocrate.fr/",
-      "verified": "2026-08-29",
-      "epGroup": "RENEW"
+      "verified": "2026-08-31"
     },
     {
       "id": "fr-pcf",
       "name": "Parti communiste français",
       "abbreviation": "PCF",
       "englishName": "French Communist Party",
+      "epGroup": "LEFT",
+      "noChannel": "2026-08-31",
       "website": "https://www.pcf.fr/",
-      "verified": "2026-08-29",
-      "epGroup": "LEFT"
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "fr-place-publique",
+      "name": "Place publique",
+      "englishName": "Public Square",
+      "epGroup": "SD",
+      "website": "https://place-publique.eu/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaI0gWAFcowFFXLdRb0A",
+        "id": "0029VaI0gWAFcowFFXLdRb0A",
+        "added": "2026-09-01",
+        "source": "https://www.wikidata.org/wiki/Q58366009"
+      },
+      "verified": "2026-09-01"
     },
     {
       "id": "fr-ps",

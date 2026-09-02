@@ -78,9 +78,38 @@ checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,ht
 2026-08-30T10:28:42Z,fr-lfi,0029VaigBPdLNSa5rfQMSp3t,ok,11930,exact,de-DE,La France insoumise,200,channel
 2026-08-30T10:28:42Z,at-grune,0029VagPEHPCnA7uajcDvi2u,ok,1331,exact,de-DE,Team fürs Klima,200,channel
 2026-08-31T11:36:04Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,20391,exact,de-DE,CDU Deutschlands,200,channel
-2026-08-31T11:36:04Z,de-be-gruene,0029VaxyPKoFi8xV3B1jXA2B,ok,68,exact,de-DE,GRÜNE Marzahn-Hellersdorf,200,channel
 2026-08-31T11:36:04Z,at-spo,0029VaCBWZyAe5Vqthvl7Q1M,ok,13103,exact,de-DE,SPÖ,200,channel
 2026-08-31T11:36:05Z,fr-ps,0029VaDvUzm9cDDdqPbhmj19,ok,8455,exact,de-DE,Parti socialiste,200,channel
-2026-08-31T11:36:06Z,gb-nir-sinn-fein,0029VaG5zpf9RZAUcorlw410,ok,7350,exact,de-DE,Sinn Féin ,200,channel
+2026-08-31T11:36:06Z,gb-nir-sinn-fein,0029VaG5zpf9RZAUcorlw410,ok,7350,exact,de-DE,Sinn Féin,200,channel
 2026-08-31T11:36:06Z,nl-christenunie,0029VaPnmvj0gcfQd0YkS200,ok,1506,exact,de-DE,ChristenUnie,200,channel
 2026-08-31T11:36:07Z,nl-sgp,0029VaDLxdM7z4kfdsHvfS2K,ok,7148,exact,de-DE,SGP,200,channel
+2026-08-31T13:16:50Z,de-nw-grune,0029VbBv7Y9GZNCzTwFg7A3n,ok,814,exact,de-DE,GRÜNE NRW,200,channel
+2026-08-31T13:16:50Z,de-grune,0029VadW99X2kNFogn540h07,ok,28229,exact,de-DE,BÜNDNIS 90/DIE GRÜNEN,200,channel
+2026-08-31T13:16:50Z,de-bb-grune,0029VauE700AInPjDfFFPT0j,ok,78,exact,de-DE,GRÜNE Oder-Spree,200,channel
+2026-08-31T13:16:52Z,de-rp-spd,0029VadzcDYL7UVOaCWd271d,ok,28,exact,de-DE,SPD-Stadtverband Wörth am Rhein,200,channel
+2026-08-31T13:16:52Z,de-st-grune,0029VakBvxx0Vyc7cCq2sM1A,ok,1769,exact,de-DE,DIE GRÜNEN Sachsen-Anhalt,200,channel
+2026-08-31T13:16:52Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,31215,exact,de-DE,SPD,200,channel
+2026-08-31T13:17:24Z,gb-nir-sinn-fein,0029VaG5zpf9RZAUcorlw410,ok,7349,exact,de-DE,Sinn Féin,200,channel
+2026-08-31T13:18:48Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,2746,exact,de-DE,PCP - Partido Comunista Português,200,channel
+2026-08-31T13:18:49Z,pt-be,0029VaHrLkJEAKW5iusblX1K,ok,2474,exact,de-DE,Bloco de Esquerda,200,channel
+2026-08-31T13:18:49Z,nl-vvd,0029VaCyQQpC1FuAiUvfWJ3S,ok,4420,exact,de-DE,VVD,200,channel
+2026-08-31T13:18:51Z,pt-ps,0029VbC2MLyC6ZvqoK7nK900,ok,5323,exact,de-DE,Partido Socialista,200,channel
+2026-08-31T16:01:33Z,es-vc-mes-compromis,0029Va8cu6I17En2HY58S90J,ok,2586,exact,de-DE,Compromís,200,channel
+2026-08-31T16:06:51Z,it-lega,0029Va8b0IHIN9ipwkC6nf20,ok,50232,exact,de-DE,Matteo Salvini,200,channel
+2026-08-31T16:06:51Z,it-m5s,0029VaDq9ngDuMRdwp5IrC0E,ok,77031,exact,de-DE,Giuseppe Conte,200,channel
+2026-08-31T16:15:09Z,de-by-csu,0029VaD4cMMEawdhJl5YBj1d,ok,134,exact,de-DE,CSU Bürgstadt,200,channel
+2026-08-31T19:49:02Z,at-1-oberpullendorf-fpo-oberpullendorf,0029VaiagkZ6rsQvENgchd2p,ok,16,exact,de-DE,FPÖ Bezirk Oberpullendorf,200,channel
+2026-08-31T19:49:02Z,at-3-wieselburg-ovp-wieselburg,0029Vb29eQqKbYMSzsLS492I,ok,44,exact,de-DE,Volkspartei Wieselburg,200,channel
+2026-08-31T19:49:03Z,at-3-reisenberg-ovp-reisenberg,0029VbAQRn41XquZmjcwGL3A,ok,11,exact,de-DE,Volkspartei Reisenberg,200,channel
+2026-08-31T19:49:04Z,at-4-mauthausen-mfm,0029VbAyBXDLtOj4JUlHJZ0C,ok,47,exact,de-DE,Miteinander für Mauthausen,200,channel
+2026-08-31T19:49:04Z,at-5-ovp-edtstadler,0029VaeQVWG4tRrwDLSqdD2J,ok,930,exact,de-DE,Karoline Edtstadler,200,channel
+2026-08-31T19:49:04Z,at-6-fpo-kunasek,0029VacXqzMDDmFaXM5Pza1k,ok,2710,exact,de-DE,Mario Kunasek,200,channel
+2026-08-31T19:49:06Z,de-be-berlin-grune-marzahn-hellersdorf,0029VaxyPKoFi8xV3B1jXA2B,ok,68,exact,de-DE,GRÜNE Marzahn-Hellersdorf,200,channel
+2026-08-31T19:49:06Z,at-8-ovp-vorarlberg,0029Vb7gXVI5a23vgQukwz46,ok,232,exact,de-DE,Vorarlberger Volkspartei,200,channel
+2026-08-31T19:49:06Z,es-an-rincon-de-la-victoria-iu-rincon-de-la-victoria,0029VbAjhgiHFxOx5gtlsK3L,ok,14,exact,de-DE,IU Rincón de la Victoria,200,channel
+2026-08-31T19:49:07Z,es-an-villa-del-rio-iu-villa-del-rio,0029Vb6Fhz64o7qIFWf61N3D,ok,40,exact,de-DE,IU Villa del Río,200,channel
+2026-08-31T19:49:07Z,es-cl-valladolid-pce-valladolid,0029VaY1iS53GJOpnPEBGD2E,ok,51,exact,de-DE,PCE Valladolid,200,channel
+2026-08-31T19:49:08Z,es-cm-albacete-pce-albacete,0029VaQQ7e1Fsn0j3Kxv4w0H,ok,48,exact,de-DE,PCE Albacete Provincial,200,channel
+2026-08-31T19:49:09Z,es-ga-o-grove-eu-o-grove,0029VaSQitS3WHTO8SKnkV1b,ok,2,exact,de-DE,Actualidade EU O Grove,200,channel
+2026-08-31T19:49:10Z,it-52-lega-toscana,0029Va7lCVG7tkj20mjQAV03,ok,177,exact,de-DE,Lega Toscana per Salvini Premier,200,channel
+2026-08-31T19:49:10Z,it-75-modugno-m5s-modugno,0029VaDZVAU6hENq64FNIq2f,ok,29,exact,de-DE,Modugno A 5 Stelle,200,channel

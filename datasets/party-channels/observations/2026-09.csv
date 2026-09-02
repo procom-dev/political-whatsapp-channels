@@ -1,0 +1,15 @@
+checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind
+2026-09-01T14:34:42Z,fr-place-publique,0029VaI0gWAFcowFFXLdRb0A,ok,1563,exact,de-DE,Place publique 🟡,200,channel
+2026-09-01T14:34:42Z,de-by-grune,0029VaDv0VS0lwgvnH7i8r0z,ok,3872,exact,de-DE,Grünes Bayern,200,channel
+2026-09-01T14:34:42Z,de-ni-cdu-landesverband,0029VaNnGe929755vyAwN81C,ok,2842,exact,de-DE,CDU-Politik für Niedersachsen,200,channel
+2026-09-01T14:34:44Z,it-ancora-italia,0029VaAwLQR96H4Uhpzpvw1e,ok,56,exact,de-DE,ANCORA ITALIA UFFICIALE,200,channel
+2026-09-01T14:36:28Z,it-34-m5s,0029Va8uTsIDZ4LasSWUct30,ok,44,exact,de-DE,M5S News Treviso,200,channel
+2026-09-01T14:36:28Z,it-fi,0029VazVsXCDZ4Le9S1VyK10,ok,15434,exact,de-DE,Forza Italia,200,channel
+2026-09-01T14:36:29Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,228,exact,de-DE,'+Europa,200,channel
+2026-09-01T14:36:31Z,it-iv,0029VaCOS6XAjPXLhdgcZR2f,ok,34427,exact,de-DE,Matteo Renzi,200,channel
+2026-09-01T14:36:31Z,it-lega,0029Va8b0IHIN9ipwkC6nf20,ok,50223,exact,de-DE,Matteo Salvini,200,channel
+2026-09-01T14:36:31Z,it-pd,0029VaD4YKtEKyZEEzxkW83U,ok,33535,exact,de-DE,Partito Democratico,200,channel
+2026-09-01T14:36:32Z,it-m5s,0029VaDq9ngDuMRdwp5IrC0E,ok,77018,exact,de-DE,Giuseppe Conte,200,channel
+2026-09-01T14:36:32Z,it-52-lega-toscana,0029Va7lCVG7tkj20mjQAV03,ok,177,exact,de-DE,Lega Toscana per Salvini Premier,200,channel
+2026-09-01T14:36:33Z,it-75-modugno-m5s-modugno,0029VaDZVAU6hENq64FNIq2f,ok,29,exact,de-DE,Modugno A 5 Stelle,200,channel
+2026-09-01T14:36:33Z,it-ancora-italia,0029VaAwLQR96H4Uhpzpvw1e,ok,56,exact,de-DE,ANCORA ITALIA UFFICIALE,200,channel

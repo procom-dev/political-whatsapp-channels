@@ -2,12 +2,46 @@
   "country": "BE",
   "parties": [
     {
+      "id": "be-bru-bruxelles-ps-bruxelles",
+      "name": "Parti Socialiste Bruxelles",
+      "abbreviation": "PS Bruxelles",
+      "region": "BE-BRU",
+      "city": "Bruxelles",
+      "epGroup": "SD",
+      "other": {
+        "kind": "group",
+        "url": "https://chat.whatsapp.com/Ky9qlS7KtB0ButOPiPEf8g",
+        "id": "Ky9qlS7KtB0ButOPiPEf8g",
+        "added": "2026-08-31",
+        "source": "https://chat.whatsapp.com/Ky9qlS7KtB0ButOPiPEf8g"
+      },
+      "verified": "2026-08-31"
+    },
+    {
       "id": "be-pvda-ptb",
       "name": "PVDA-PTB",
       "englishName": "Workers' Party of Belgium",
+      "epGroup": "LEFT",
+      "noChannel": "2026-08-31",
       "website": "https://www.pvda.be/",
-      "verified": "2026-08-29",
-      "epGroup": "LEFT"
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "be-van-olen-vooruit-olen",
+      "name": "Vooruit Olen",
+      "abbreviation": "Vooruit Olen",
+      "region": "BE-VAN",
+      "city": "Olen",
+      "parentId": "be-vlg-vooruit",
+      "epGroup": "SD",
+      "other": {
+        "kind": "group",
+        "url": "https://chat.whatsapp.com/E8e0TDfZJca7HONuPwOlTL",
+        "id": "E8e0TDfZJca7HONuPwOlTL",
+        "added": "2026-08-31",
+        "source": "https://chat.whatsapp.com/E8e0TDfZJca7HONuPwOlTL"
+      },
+      "verified": "2026-08-31"
     },
     {
       "id": "be-vlg-cd-v",
@@ -15,18 +49,20 @@
       "abbreviation": "CD&V",
       "englishName": "Christian Democratic and Flemish",
       "region": "BE-VLG",
+      "epGroup": "EPP",
+      "noChannel": "2026-08-31",
       "website": "https://cdenv.be/",
-      "verified": "2026-08-29",
-      "epGroup": "EPP"
+      "verified": "2026-08-31"
     },
     {
       "id": "be-vlg-groen",
       "name": "Groen",
       "englishName": "Green (Flemish greens)",
       "region": "BE-VLG",
+      "epGroup": "GREENS_EFA",
+      "noChannel": "2026-08-31",
       "website": "https://www.groen.be/",
-      "verified": "2026-08-29",
-      "epGroup": "GREENS_EFA"
+      "verified": "2026-08-31"
     },
     {
       "id": "be-vlg-n-va",
@@ -34,18 +70,20 @@
       "abbreviation": "N-VA",
       "englishName": "New Flemish Alliance",
       "region": "BE-VLG",
+      "epGroup": "ECR",
+      "noChannel": "2026-08-31",
       "website": "https://www.n-va.be/",
-      "verified": "2026-08-29",
-      "epGroup": "ECR"
+      "verified": "2026-08-31"
     },
     {
       "id": "be-vlg-open-vld",
       "name": "Open Vld",
       "englishName": "Open Flemish Liberals and Democrats",
       "region": "BE-VLG",
+      "epGroup": "RENEW",
+      "noChannel": "2026-08-31",
       "website": "https://www.openvld.be/",
-      "verified": "2026-08-29",
-      "epGroup": "RENEW"
+      "verified": "2026-08-31"
     },
     {
       "id": "be-vlg-vb",
@@ -53,27 +91,35 @@
       "abbreviation": "VB",
       "englishName": "Flemish Interest",
       "region": "BE-VLG",
+      "epGroup": "PFE",
+      "noChannel": "2026-08-31",
       "website": "https://www.vlaamsbelang.org/",
-      "verified": "2026-08-29",
-      "epGroup": "PFE"
+      "verified": "2026-08-31"
     },
     {
       "id": "be-vlg-vooruit",
       "name": "Vooruit",
       "englishName": "Forward (Flemish socialists)",
       "region": "BE-VLG",
+      "epGroup": "SD",
       "website": "https://vooruit.org/",
-      "verified": "2026-08-29",
-      "epGroup": "SD"
+      "other": {
+        "kind": "group",
+        "url": "https://chat.whatsapp.com/LbcuzMeHOiy9LfpKEG0Dh4",
+        "id": "LbcuzMeHOiy9LfpKEG0Dh4",
+        "added": "2026-08-31"
+      },
+      "verified": "2026-08-31"
     },
     {
       "id": "be-wal-ecolo",
       "name": "Ecolo",
       "englishName": "Confederated Ecologists (Francophone greens)",
       "region": "BE-WAL",
+      "epGroup": "GREENS_EFA",
+      "noChannel": "2026-08-31",
       "website": "https://ecolo.be/",
-      "verified": "2026-08-29",
-      "epGroup": "GREENS_EFA"
+      "verified": "2026-08-31"
     },
     {
       "id": "be-wal-le",
@@ -81,9 +127,10 @@
       "abbreviation": "LE",
       "englishName": "The Committed Ones (ex-cdH)",
       "region": "BE-WAL",
+      "epGroup": "EPP",
+      "noChannel": "2026-08-31",
       "website": "https://lesengages.be/",
-      "verified": "2026-08-29",
-      "epGroup": "EPP"
+      "verified": "2026-08-31"
     },
     {
       "id": "be-wal-mr",
@@ -91,9 +138,10 @@
       "abbreviation": "MR",
       "englishName": "Reformist Movement",
       "region": "BE-WAL",
+      "epGroup": "RENEW",
+      "noChannel": "2026-08-31",
       "website": "https://www.mr.be/",
-      "verified": "2026-08-29",
-      "epGroup": "RENEW"
+      "verified": "2026-08-31"
     },
     {
       "id": "be-wal-ps",
@@ -101,9 +149,10 @@
       "abbreviation": "PS",
       "englishName": "Socialist Party (Francophone)",
       "region": "BE-WAL",
+      "epGroup": "SD",
+      "noChannel": "2026-08-31",
       "website": "https://www.ps.be/",
-      "verified": "2026-08-29",
-      "epGroup": "SD"
+      "verified": "2026-08-31"
     }
   ]
 }

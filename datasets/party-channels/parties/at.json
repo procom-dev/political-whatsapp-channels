@@ -2,13 +2,130 @@
   "country": "AT",
   "parties": [
     {
+      "id": "at-1-oberpullendorf-fpo-oberpullendorf",
+      "name": "FPÖ Bezirk Oberpullendorf",
+      "abbreviation": "FPÖ Oberpullendorf",
+      "region": "AT-1",
+      "city": "Oberpullendorf",
+      "parentId": "at-fpo",
+      "epGroup": "PFE",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaiagkZ6rsQvENgchd2p",
+        "id": "0029VaiagkZ6rsQvENgchd2p",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VaiagkZ6rsQvENgchd2p"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "at-3-reisenberg-ovp-reisenberg",
+      "name": "Volkspartei Reisenberg",
+      "abbreviation": "ÖVP Reisenberg",
+      "region": "AT-3",
+      "city": "Reisenberg",
+      "parentId": "at-ovp",
+      "epGroup": "EPP",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbAQRn41XquZmjcwGL3A",
+        "id": "0029VbAQRn41XquZmjcwGL3A",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VbAQRn41XquZmjcwGL3A"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "at-3-wieselburg-ovp-wieselburg",
+      "name": "Volkspartei Wieselburg",
+      "abbreviation": "ÖVP Wieselburg",
+      "region": "AT-3",
+      "city": "Wieselburg",
+      "parentId": "at-ovp",
+      "epGroup": "EPP",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb29eQqKbYMSzsLS492I",
+        "id": "0029Vb29eQqKbYMSzsLS492I",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029Vb29eQqKbYMSzsLS492I"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "at-4-mauthausen-mfm",
+      "name": "Miteinander für Mauthausen",
+      "abbreviation": "MfM",
+      "region": "AT-4",
+      "city": "Mauthausen",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbAyBXDLtOj4JUlHJZ0C",
+        "id": "0029VbAyBXDLtOj4JUlHJZ0C",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VbAyBXDLtOj4JUlHJZ0C"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "at-5-ovp-edtstadler",
+      "name": "Karoline Edtstadler",
+      "abbreviation": "ÖVP Edtstadler",
+      "region": "AT-5",
+      "parentId": "at-ovp",
+      "epGroup": "EPP",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaeQVWG4tRrwDLSqdD2J",
+        "id": "0029VaeQVWG4tRrwDLSqdD2J",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VaeQVWG4tRrwDLSqdD2J",
+        "personal": true
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "at-6-fpo-kunasek",
+      "name": "Mario Kunasek",
+      "abbreviation": "FPÖ Kunasek",
+      "region": "AT-6",
+      "parentId": "at-fpo",
+      "epGroup": "PFE",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VacXqzMDDmFaXM5Pza1k",
+        "id": "0029VacXqzMDDmFaXM5Pza1k",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VacXqzMDDmFaXM5Pza1k",
+        "personal": true
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "at-8-ovp-vorarlberg",
+      "name": "Vorarlberger Volkspartei",
+      "abbreviation": "ÖVP Vorarlberg",
+      "region": "AT-8",
+      "parentId": "at-ovp",
+      "epGroup": "EPP",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb7gXVI5a23vgQukwz46",
+        "id": "0029Vb7gXVI5a23vgQukwz46",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029Vb7gXVI5a23vgQukwz46"
+      },
+      "verified": "2026-08-31"
+    },
+    {
       "id": "at-fpo",
       "name": "Freiheitliche Partei Österreichs",
       "abbreviation": "FPÖ",
       "englishName": "Freedom Party of Austria",
+      "epGroup": "PFE",
+      "noChannel": "2026-08-31",
       "website": "https://www.fpoe.at/",
-      "verified": "2026-08-29",
-      "epGroup": "PFE"
+      "verified": "2026-08-31"
     },
     {
       "id": "at-grune",
@@ -29,18 +146,20 @@
       "id": "at-neos",
       "name": "NEOS",
       "englishName": "NEOS – The New Austria",
+      "epGroup": "RENEW",
+      "noChannel": "2026-08-31",
       "website": "https://www.neos.eu/",
-      "verified": "2026-08-29",
-      "epGroup": "RENEW"
+      "verified": "2026-08-31"
     },
     {
       "id": "at-ovp",
       "name": "Österreichische Volkspartei",
       "abbreviation": "ÖVP",
       "englishName": "Austrian People's Party",
+      "epGroup": "EPP",
+      "noChannel": "2026-08-31",
       "website": "https://www.dieneuevolkspartei.at/",
-      "verified": "2026-08-29",
-      "epGroup": "EPP"
+      "verified": "2026-08-31"
     },
     {
       "id": "at-spo",

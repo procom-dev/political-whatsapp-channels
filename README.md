@@ -107,7 +107,6 @@ entry.
 | `worldwide` | `true` on a global entry (lives in `_world.json`). |
 | `parentId` | The national party this is a branch of, so a branch's audience is never folded into the parent's ranking. |
 | `website` | Official site. |
-| `email` | Contact address, where known. |
 | `epGroup` | The European Parliament group the party's MEPs sit in: `EPP`, `SD`, `RENEW`, `GREENS_EFA`, `ECR`, `PFE`, `ESN`, `LEFT`, `NI`. |
 | `europarty` | The pan-European federation, for movements with no MEPs. |
 | `orientation` | Broad position (`far-left` … `far-right`), **derived** from `epGroup`. An override requires `orientationSource`. |
@@ -115,7 +114,6 @@ entry.
 | `cadence` | How often to read this entry: `daily`, `weekly` (default), `monthly`, `quarterly`. |
 | `verified` | ISO date a person last confirmed the entry. |
 | `noChannel` | Dated flag meaning a person looked and the party runs no WhatsApp at all (distinct from an absent channel, which only means nobody has found one yet). |
-| `note` | Free-text note. |
 | `channel` | The party's WhatsApp Channel surface (the only kind with a follower count). |
 | `other` | One non-Channel surface: a group, community or account. |
 

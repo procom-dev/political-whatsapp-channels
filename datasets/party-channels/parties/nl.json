@@ -21,15 +21,15 @@
       "id": "nl-christenunie",
       "name": "ChristenUnie",
       "englishName": "Christian Union",
+      "epGroup": "EPP",
       "website": "https://www.christenunie.nl/",
-      "verified": "2026-08-31",
       "channel": {
         "kind": "channel",
         "url": "https://www.whatsapp.com/channel/0029VaPnmvj0gcfQd0YkS200",
         "id": "0029VaPnmvj0gcfQd0YkS200",
-        "added": "2026-08-31",
-        "source": "https://www.christenunie.nl/"
-      }
+        "added": "2026-08-31"
+      },
+      "verified": "2026-08-31"
     },
     {
       "id": "nl-d66",

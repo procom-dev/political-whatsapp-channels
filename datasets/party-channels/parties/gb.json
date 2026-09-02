@@ -39,6 +39,7 @@
       "name": "Sinn Féin",
       "englishName": "Sinn Féin",
       "region": "GB-NIR",
+      "epGroup": "LEFT",
       "website": "https://www.sinnfein.ie/",
       "channel": {
         "kind": "channel",
@@ -46,7 +47,7 @@
         "id": "0029VaG5zpf9RZAUcorlw410",
         "added": "2026-08-30"
       },
-      "verified": "2026-08-30"
+      "verified": "2026-08-31"
     },
     {
       "id": "gb-ruk",

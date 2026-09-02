@@ -2,6 +2,74 @@
   "country": "ES",
   "parties": [
     {
+      "id": "es-an-rincon-de-la-victoria-iu-rincon-de-la-victoria",
+      "name": "Izquierda Unida Rincón de la Victoria",
+      "abbreviation": "IU Rincón de la Victoria",
+      "region": "ES-AN",
+      "city": "Rincón de la Victoria",
+      "parentId": "es-iu",
+      "europarty": "EL",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbAjhgiHFxOx5gtlsK3L",
+        "id": "0029VbAjhgiHFxOx5gtlsK3L",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VbAjhgiHFxOx5gtlsK3L"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "es-an-villa-del-rio-iu-villa-del-rio",
+      "name": "Izquierda Unida Villa del Río",
+      "abbreviation": "IU Villa del Río",
+      "region": "ES-AN",
+      "city": "Villa del Río",
+      "parentId": "es-iu",
+      "europarty": "EL",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb6Fhz64o7qIFWf61N3D",
+        "id": "0029Vb6Fhz64o7qIFWf61N3D",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029Vb6Fhz64o7qIFWf61N3D"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "es-cl-valladolid-pce-valladolid",
+      "name": "PCE Valladolid",
+      "abbreviation": "PCE Valladolid",
+      "region": "ES-CL",
+      "city": "Valladolid",
+      "parentId": "es-pce",
+      "europarty": "EL",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaY1iS53GJOpnPEBGD2E",
+        "id": "0029VaY1iS53GJOpnPEBGD2E",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VaY1iS53GJOpnPEBGD2E"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "es-cm-albacete-pce-albacete",
+      "name": "PCE Albacete",
+      "abbreviation": "PCE Albacete",
+      "region": "ES-CM",
+      "city": "Albacete",
+      "parentId": "es-pce",
+      "europarty": "EL",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaQQ7e1Fsn0j3Kxv4w0H",
+        "id": "0029VaQQ7e1Fsn0j3Kxv4w0H",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VaQQ7e1Fsn0j3Kxv4w0H"
+      },
+      "verified": "2026-08-31"
+    },
+    {
       "id": "es-cm-pp",
       "name": "PP Ayuntamiento de Cuenca",
       "abbreviation": "PP",
@@ -38,6 +106,21 @@
       "epGroup": "SD"
     },
     {
+      "id": "es-cn-coalicion-canaria",
+      "name": "Coalición Canaria",
+      "englishName": "Canarian Coalition",
+      "region": "ES-CN",
+      "europarty": "EDP",
+      "website": "https://www.coalicioncanaria.org",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/34682643606",
+        "id": "34682643606",
+        "added": "2026-08-31"
+      },
+      "verified": "2026-08-31"
+    },
+    {
       "id": "es-cn-psoe",
       "name": "PSOE Canarias",
       "abbreviation": "PSOE",
@@ -61,6 +144,7 @@
       "englishName": "Barcelona in Common",
       "region": "ES-CT",
       "city": "Barcelona",
+      "epGroup": "LEFT",
       "website": "https://barcelonaencomu.cat/",
       "channel": {
         "kind": "channel",
@@ -68,9 +152,7 @@
         "id": "0029Va97rJf0AgW3PrmreK3m",
         "added": "2026-08-28"
       },
-      "cadence": "daily",
-      "verified": "2026-08-28",
-      "epGroup": "LEFT"
+      "verified": "2026-08-31"
     },
     {
       "id": "es-ct-erc",
@@ -90,11 +172,23 @@
       "epGroup": "GREENS_EFA"
     },
     {
+      "id": "es-ct-esquerra-verda",
+      "name": "Esquerra Verda",
+      "englishName": "Green Left",
+      "region": "ES-CT",
+      "epGroup": "GREENS_EFA",
+      "europarty": "EGP",
+      "noChannel": "2026-08-31",
+      "website": "https://www.esquerraverda.cat/",
+      "verified": "2026-08-31"
+    },
+    {
       "id": "es-ct-junts",
       "name": "Junts per Catalunya",
       "abbreviation": "Junts",
       "englishName": "Together for Catalonia",
       "region": "ES-CT",
+      "epGroup": "RENEW",
       "website": "https://junts.cat/",
       "channel": {
         "kind": "channel",
@@ -102,8 +196,7 @@
         "id": "0029VaEaDDp1XquSCIpDOp2z",
         "added": "2026-08-29"
       },
-      "verified": "2026-08-29",
-      "epGroup": "NI"
+      "verified": "2026-08-31"
     },
     {
       "id": "es-ct-pp",
@@ -112,9 +205,10 @@
       "englishName": "People's Party of Catalonia",
       "region": "ES-CT",
       "city": "Barcelona",
+      "epGroup": "EPP",
+      "noChannel": "2026-08-31",
       "website": "https://www.ppbarcelona.org/",
-      "verified": "2026-08-28",
-      "epGroup": "EPP"
+      "verified": "2026-08-31"
     },
     {
       "id": "es-ct-vox",
@@ -123,6 +217,8 @@
       "englishName": "Vox",
       "region": "ES-CT",
       "city": "Barcelona",
+      "epGroup": "PFE",
+      "noChannel": "2026-08-31",
       "website": "https://www.voxespana.es/barcelona",
       "other": {
         "kind": "account",
@@ -130,8 +226,7 @@
         "id": "34691031074",
         "added": "2026-08-28"
       },
-      "verified": "2026-08-28",
-      "epGroup": "PFE"
+      "verified": "2026-08-31"
     },
     {
       "id": "es-ga-bng",
@@ -149,6 +244,67 @@
       },
       "verified": "2026-08-29",
       "epGroup": "GREENS_EFA"
+    },
+    {
+      "id": "es-ga-esquerda-unida",
+      "name": "Esquerda Unida",
+      "englishName": "United Left",
+      "region": "ES-GA",
+      "europarty": "EL",
+      "noChannel": "2026-08-31",
+      "website": "https://www.esquerdaunida.org/",
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "es-ga-o-grove-eu-o-grove",
+      "name": "Esquerda Unida O Grove",
+      "abbreviation": "EU O Grove",
+      "region": "ES-GA",
+      "city": "O Grove",
+      "parentId": "es-ga-esquerda-unida",
+      "europarty": "EL",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaSQitS3WHTO8SKnkV1b",
+        "id": "0029VaSQitS3WHTO8SKnkV1b",
+        "added": "2026-08-31",
+        "source": "https://www.whatsapp.com/channel/0029VaSQitS3WHTO8SKnkV1b"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "es-ib-mes",
+      "name": "Més per Mallorca",
+      "abbreviation": "MÉS",
+      "region": "ES-IB",
+      "noChannel": "2026-08-31",
+      "website": "https://www.mespermallorca.cat/",
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "es-iu",
+      "name": "Izquierda Unida",
+      "abbreviation": "IU",
+      "englishName": "United Left",
+      "europarty": "EL",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/34680516199",
+        "id": "34680516199",
+        "added": "2026-08-31",
+        "source": "https://api.whatsapp.com/send/?phone=34680516199"
+      },
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "es-pce",
+      "name": "Partido Comunista de España",
+      "abbreviation": "PCE",
+      "englishName": "Communist Party of Spain",
+      "europarty": "EL",
+      "noChannel": "2026-08-31",
+      "website": "https://www.pce.es",
+      "verified": "2026-08-31"
     },
     {
       "id": "es-podemos",
@@ -197,6 +353,16 @@
       "epGroup": "SD"
     },
     {
+      "id": "es-pv-ea",
+      "name": "Eusko Alkartasuna",
+      "abbreviation": "EA",
+      "region": "ES-PV",
+      "europarty": "EFA",
+      "noChannel": "2026-08-31",
+      "website": "https://www.euskoalkartasuna.eus/",
+      "verified": "2026-08-31"
+    },
+    {
       "id": "es-pv-eaj-pnv",
       "name": "Euzko Alderdi Jeltzalea–Partido Nacionalista Vasco",
       "abbreviation": "EAJ-PNV",
@@ -235,6 +401,7 @@
       "name": "Sumar",
       "abbreviation": "Sumar",
       "englishName": "Add Up",
+      "epGroup": "LEFT",
       "website": "https://movimientosumar.es/",
       "other": {
         "kind": "group",
@@ -242,7 +409,21 @@
         "id": "I3k47YMbCIJ6SH4RB9Pc4u",
         "added": "2026-08-29"
       },
-      "verified": "2026-08-29"
+      "verified": "2026-08-31"
+    },
+    {
+      "id": "es-vc-mes-compromis",
+      "name": "Més - Compromís",
+      "region": "ES-VC",
+      "europarty": "EFA",
+      "website": "https://mes.compromis.net/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va8cu6I17En2HY58S90J",
+        "id": "0029Va8cu6I17En2HY58S90J",
+        "added": "2026-08-31"
+      },
+      "verified": "2026-08-31"
     },
     {
       "id": "es-vox",
