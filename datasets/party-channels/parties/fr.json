@@ -6,6 +6,11 @@
       "name": "Les Écologistes",
       "abbreviation": "EELV",
       "englishName": "The Ecologists",
+      "translations": {
+        "es": "Los Ecologistas",
+        "pt": "Os Ecologistas",
+        "it": "Gli Ecologisti"
+      },
       "epGroup": "GREENS_EFA",
       "noChannel": "2026-08-31",
       "website": "https://lesecologistes.fr/",
@@ -25,6 +30,10 @@
       "name": "La France insoumise",
       "abbreviation": "LFI",
       "englishName": "France Unbowed",
+      "translations": {
+        "es": "Francia insumisa",
+        "pt": "França Insubmissa"
+      },
       "website": "https://lafranceinsoumise.fr/",
       "channel": {
         "kind": "channel",
@@ -40,6 +49,11 @@
       "name": "Les Républicains",
       "abbreviation": "LR",
       "englishName": "The Republicans",
+      "translations": {
+        "es": "Los Republicanos",
+        "pt": "Os Republicanos",
+        "it": "I Repubblicani"
+      },
       "epGroup": "EPP",
       "noChannel": "2026-08-31",
       "website": "https://www.republicains.fr/",
@@ -50,6 +64,11 @@
       "name": "Mouvement Démocrate",
       "abbreviation": "MoDem",
       "englishName": "Democratic Movement",
+      "translations": {
+        "es": "Movimiento Demócrata",
+        "pt": "Movimento Democrata",
+        "it": "Movimento Democratico"
+      },
       "epGroup": "RENEW",
       "noChannel": "2026-08-31",
       "website": "https://mouvementdemocrate.fr/",
@@ -60,6 +79,11 @@
       "name": "Parti communiste français",
       "abbreviation": "PCF",
       "englishName": "French Communist Party",
+      "translations": {
+        "es": "Partido Comunista Francés",
+        "pt": "Partido Comunista Francês",
+        "it": "Partito Comunista Francese"
+      },
       "epGroup": "LEFT",
       "noChannel": "2026-08-31",
       "website": "https://www.pcf.fr/",
@@ -85,6 +109,11 @@
       "name": "Parti socialiste",
       "abbreviation": "PS",
       "englishName": "Socialist Party",
+      "translations": {
+        "es": "Partido Socialista",
+        "pt": "Partido Socialista",
+        "it": "Partito Socialista"
+      },
       "website": "https://www.parti-socialiste.fr/",
       "verified": "2026-08-31",
       "epGroup": "SD",
@@ -110,6 +139,11 @@
       "name": "Rassemblement National",
       "abbreviation": "RN",
       "englishName": "National Rally",
+      "translations": {
+        "es": "Agrupación Nacional",
+        "pt": "Reagrupamento Nacional",
+        "it": "Raggruppamento Nazionale"
+      },
       "website": "https://rassemblementnational.fr/",
       "verified": "2026-08-29",
       "epGroup": "PFE"

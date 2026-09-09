@@ -1,0 +1,19 @@
+checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
+2025-02-02T15:23:09Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,3000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20250202152309/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2025-02-06T14:42:25Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,3300,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20250206144225/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2025-02-08T06:06:21Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,17000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20250208060621/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
+2025-02-08T16:43:32Z,de-ni-cdu,0029VaaE9wmCHDyfdJwcmR08,ok,142,exact,,CDU-Stadtverband Friesoythe,200,channel,archive,https://web.archive.org/web/20250208164332/https://www.whatsapp.com/channel/0029VaaE9wmCHDyfdJwcmR08
+2025-02-11T09:20:48Z,pt-ch,0029VaD2DqD3QxS133VKTQ2z,ok,9900,rounded,,André Ventura,200,channel,archive,https://web.archive.org/web/20250211092048/https://www.whatsapp.com/channel/0029VaD2DqD3QxS133VKTQ2z
+2025-02-12T20:33:17Z,de-grune,0029VadW99X2kNFogn540h07,ok,26000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20250212203317/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07
+2025-02-14T10:18:58Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,3800,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20250214101858/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2025-02-14T13:34:54Z,it-iv,0029VaCOS6XAjPXLhdgcZR2f,ok,38000,rounded,,Matteo Renzi,200,channel,archive,https://web.archive.org/web/20250214133454/https://www.whatsapp.com/channel/0029VaCOS6XAjPXLhdgcZR2f
+2025-02-15T01:55:58Z,de-by-grune,0029VaDv0VS0lwgvnH7i8r0z,ok,1700,rounded,,Grünes Bayern,200,channel,archive,https://web.archive.org/web/20250215015558/https://www.whatsapp.com/channel/0029VaDv0VS0lwgvnH7i8r0z
+2025-02-15T03:22:19Z,es-vc-mes-compromis,0029Va8cu6I17En2HY58S90J,ok,1900,rounded,,Compromís,200,channel,archive,https://web.archive.org/web/20250215032219/https://www.whatsapp.com/channel/0029Va8cu6I17En2HY58S90J
+2025-02-15T20:23:42Z,it-iv,0029VaCOS6XAjPXLhdgcZR2f,ok,38000,rounded,,Matteo Renzi,200,channel,archive,https://web.archive.org/web/20250215202342/https://www.whatsapp.com/channel/0029VaCOS6XAjPXLhdgcZR2f
+2025-02-16T21:58:09Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,4000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20250216215809/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2025-02-18T23:28:41Z,de-grune,0029VadW99X2kNFogn540h07,ok,27000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20250218232841/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07
+2025-02-21T21:55:08Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,4800,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20250221215508/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2025-02-24T10:07:12Z,de-grune,0029VadW99X2kNFogn540h07,ok,28000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20250224100712/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07
+2025-02-24T14:44:08Z,de-be-berlin-grune-marzahn-hellersdorf,0029VaxyPKoFi8xV3B1jXA2B,ok,42,exact,,GRÜNE Marzahn-Hellersdorf,200,channel,archive,https://web.archive.org/web/20250224144408/https://www.whatsapp.com/channel/0029VaxyPKoFi8xV3B1jXA2B
+2025-02-26T12:03:53Z,de-st-grune,0029VakBvxx0Vyc7cCq2sM1A,ok,1300,rounded,,DIE GRÜNEN Sachsen-Anhalt,200,channel,archive,https://web.archive.org/web/20250226120353/https://www.whatsapp.com/channel/0029VakBvxx0Vyc7cCq2sM1A
+2025-02-27T17:41:40Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,6300,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20250227174140/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k

@@ -1,0 +1,16 @@
+checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
+2025-07-02T12:00:00Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,19000,rounded,,VOX,200,channel,archive,https://web.archive.org/web/20250702/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
+2025-07-03T10:53:48Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,6700,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20250703105348/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k
+2025-07-08T07:53:34Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,2100,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20250708075334/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
+2025-07-10T01:52:12Z,es-cl-valladolid-pce-valladolid,0029VaY1iS53GJOpnPEBGD2E,ok,19,exact,,PCE Valladolid,200,channel,archive,https://web.archive.org/web/20250710015212/https://www.whatsapp.com/channel/0029VaY1iS53GJOpnPEBGD2E
+2025-07-10T05:08:12Z,nl-christenunie,0029VaPnmvj0gcfQd0YkS200,ok,441,exact,,ChristenUnie,200,channel,archive,https://web.archive.org/web/20250710050812/https://www.whatsapp.com/channel/0029VaPnmvj0gcfQd0YkS200
+2025-07-10T05:29:19Z,at-spo,0029VaCBWZyAe5Vqthvl7Q1M,ok,3100,rounded,,SPÖ,200,channel,archive,https://web.archive.org/web/20250710052919/https://www.whatsapp.com/channel/0029VaCBWZyAe5Vqthvl7Q1M
+2025-07-10T14:46:34Z,de-be-berlin-grune-marzahn-hellersdorf,0029VaxyPKoFi8xV3B1jXA2B,ok,47,exact,,GRÜNE Marzahn-Hellersdorf,200,channel,archive,https://web.archive.org/web/20250710144634/https://www.whatsapp.com/channel/0029VaxyPKoFi8xV3B1jXA2B
+2025-07-12T00:25:05Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,60000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20250712002505/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2025-07-16T16:15:28Z,pt-be,0029VaHrLkJEAKW5iusblX1K,ok,2500,rounded,,Bloco de Esquerda,200,channel,archive,https://web.archive.org/web/20250716161528/https://www.whatsapp.com/channel/0029VaHrLkJEAKW5iusblX1K
+2025-07-18T13:17:49Z,at-6-fpo-kunasek,0029VacXqzMDDmFaXM5Pza1k,ok,650,exact,,Mario Kunasek,200,channel,archive,https://web.archive.org/web/20250718131749/https://www.whatsapp.com/channel/0029VacXqzMDDmFaXM5Pza1k
+2025-07-19T09:41:49Z,es-cm-psoe,0029VbAvKQ460eBY9dqz1T2z,ok,65,exact,,🔴PSOE Almagro,200,channel,archive,https://web.archive.org/web/20250719094149/https://www.whatsapp.com/channel/0029VbAvKQ460eBY9dqz1T2z
+2025-07-22T09:55:50Z,es-md-mas-madrid,0029VaDmwImInlqH6qWYq00w,ok,813,exact,,Más Madrid,200,channel,archive,https://web.archive.org/web/20250722095550/https://www.whatsapp.com/channel/0029VaDmwImInlqH6qWYq00w
+2025-07-26T10:57:08Z,nl-vvd,0029VaCyQQpC1FuAiUvfWJ3S,ok,3100,rounded,,VVD,200,channel,archive,https://web.archive.org/web/20250726105708/https://www.whatsapp.com/channel/0029VaCyQQpC1FuAiUvfWJ3S
+2025-07-29T16:38:27Z,nl-vvd,0029VaCyQQpC1FuAiUvfWJ3S,ok,3200,rounded,,VVD,200,channel,archive,https://web.archive.org/web/20250729163827/https://www.whatsapp.com/channel/0029VaCyQQpC1FuAiUvfWJ3S
+2025-07-29T22:14:49Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,60000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20250729221449/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S

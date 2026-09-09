@@ -1,0 +1,12 @@
+checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
+2024-07-09T23:45:28Z,pt-be,0029VaHrLkJEAKW5iusblX1K,ok,2300,rounded,,Bloco de Esquerda,200,channel,archive,https://web.archive.org/web/20240709234528/https://www.whatsapp.com/channel/0029VaHrLkJEAKW5iusblX1K
+2024-07-13T15:39:40Z,es-ct-bcomu,0029Va97rJf0AgW3PrmreK3m,ok,248,exact,,Barcelona en Comú | Canal de WhatsApp,200,channel,archive,https://web.archive.org/web/20240713153940/https://www.whatsapp.com/channel/0029Va97rJf0AgW3PrmreK3m
+2024-07-13T16:59:34Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,2700,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20240713165934/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k
+2024-07-14T19:35:25Z,de-ni-cdu-landesverband,0029VaNnGe929755vyAwN81C,ok,711,exact,,CDU-Politik für Niedersachsen,200,channel,archive,https://web.archive.org/web/20240714193525/https://www.whatsapp.com/channel/0029VaNnGe929755vyAwN81C
+2024-07-14T19:43:04Z,es-vc-mes-compromis,0029Va8cu6I17En2HY58S90J,ok,750,exact,,Compromís,200,channel,archive,https://web.archive.org/web/20240714194304/https://www.whatsapp.com/channel/0029Va8cu6I17En2HY58S90J
+2024-07-15T12:32:43Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,1500,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20240715123243/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
+2024-07-16T01:11:23Z,nl-christenunie,0029VaPnmvj0gcfQd0YkS200,ok,415,exact,,ChristenUnie,200,channel,archive,https://web.archive.org/web/20240716011123/https://www.whatsapp.com/channel/0029VaPnmvj0gcfQd0YkS200
+2024-07-20T12:20:22Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,12000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20240720122022/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
+2024-07-21T03:45:34Z,it-75-modugno-m5s-modugno,0029VaDZVAU6hENq64FNIq2f,ok,16,exact,,Modugno A 5 Stelle,200,channel,archive,https://web.archive.org/web/20240721034534/https://www.whatsapp.com/channel/0029VaDZVAU6hENq64FNIq2f
+2024-07-21T10:04:05Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,1100,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20240721100405/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2024-07-23T21:27:53Z,de-st-grune,0029VakBvxx0Vyc7cCq2sM1A,ok,5,exact,,DIE GRÜNEN Sachsen-Anhalt,200,channel,archive,https://web.archive.org/web/20240723212753/https://www.whatsapp.com/channel/0029VakBvxx0Vyc7cCq2sM1A

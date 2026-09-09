@@ -74,6 +74,12 @@
       "name": "PP Ayuntamiento de Cuenca",
       "abbreviation": "PP",
       "englishName": "People's Party — Cuenca municipal group",
+      "translations": {
+        "es": "Partido Popular — grupo municipal de Cuenca",
+        "pt": "Partido Popular — grupo municipal de Cuenca",
+        "it": "Partito Popolare — gruppo municipale di Cuenca",
+        "fr": "Parti populaire — groupe municipal de Cuenca"
+      },
       "region": "ES-CM",
       "city": "Cuenca",
       "website": "https://www.enciendecuenca.com/2023/12/30/el-grupo-popular-del-ayuntamiento-de-cuenca-estrena-canal-de-whatsapp/",
@@ -92,6 +98,11 @@
       "name": "PSOE de Almagro",
       "abbreviation": "PSOE",
       "englishName": "PSOE Almagro (local branch)",
+      "translations": {
+        "pt": "PSOE Almagro (secção local)",
+        "it": "PSOE Almagro (sezione locale)",
+        "fr": "PSOE Almagro (section locale)"
+      },
       "region": "ES-CM",
       "city": "Almagro",
       "website": "https://almagronoticias.com/el-psoe-de-almagro-lanza-su-canal-oficial-de-whatsapp-para-ofrecer-informacion-directa-transparente-y-actualizada-a-sus-vecinos/",
@@ -109,6 +120,11 @@
       "id": "es-cn-coalicion-canaria",
       "name": "Coalición Canaria",
       "englishName": "Canarian Coalition",
+      "translations": {
+        "pt": "Coligação Canária",
+        "it": "Coalizione Canaria",
+        "fr": "Coalition canarienne"
+      },
       "region": "ES-CN",
       "europarty": "EDP",
       "website": "https://www.coalicioncanaria.org",
@@ -125,6 +141,11 @@
       "name": "PSOE Canarias",
       "abbreviation": "PSOE",
       "englishName": "PSOE (Canary Islands federation)",
+      "translations": {
+        "pt": "PSOE (federação das Canárias)",
+        "it": "PSOE (federazione delle Canarie)",
+        "fr": "PSOE (fédération des Canaries)"
+      },
       "region": "ES-CN",
       "website": "https://psoecanarias.com/",
       "channel": {
@@ -142,6 +163,12 @@
       "name": "Barcelona en Comú",
       "abbreviation": "BComú",
       "englishName": "Barcelona in Common",
+      "translations": {
+        "es": "Barcelona en Común",
+        "pt": "Barcelona em Comum",
+        "it": "Barcellona in Comune",
+        "fr": "Barcelone en commun"
+      },
       "region": "ES-CT",
       "city": "Barcelona",
       "epGroup": "LEFT",
@@ -159,6 +186,12 @@
       "name": "Esquerra Republicana de Catalunya",
       "abbreviation": "ERC",
       "englishName": "Republican Left of Catalonia",
+      "translations": {
+        "es": "Izquierda Republicana de Cataluña",
+        "pt": "Esquerda Republicana da Catalunha",
+        "it": "Sinistra Repubblicana di Catalogna",
+        "fr": "Gauche républicaine de Catalogne"
+      },
       "region": "ES-CT",
       "website": "https://www.esquerra.cat/",
       "channel": {
@@ -175,6 +208,12 @@
       "id": "es-ct-esquerra-verda",
       "name": "Esquerra Verda",
       "englishName": "Green Left",
+      "translations": {
+        "es": "Izquierda Verde",
+        "pt": "Esquerda Verde",
+        "it": "Sinistra Verde",
+        "fr": "Gauche verte"
+      },
       "region": "ES-CT",
       "epGroup": "GREENS_EFA",
       "europarty": "EGP",
@@ -187,6 +226,12 @@
       "name": "Junts per Catalunya",
       "abbreviation": "Junts",
       "englishName": "Together for Catalonia",
+      "translations": {
+        "es": "Juntos por Cataluña",
+        "pt": "Juntos pela Catalunha",
+        "it": "Insieme per la Catalogna",
+        "fr": "Ensemble pour la Catalogne"
+      },
       "region": "ES-CT",
       "epGroup": "RENEW",
       "website": "https://junts.cat/",
@@ -203,6 +248,12 @@
       "name": "Partit Popular de Catalunya",
       "abbreviation": "PP",
       "englishName": "People's Party of Catalonia",
+      "translations": {
+        "es": "Partido Popular de Cataluña",
+        "pt": "Partido Popular da Catalunha",
+        "it": "Partito Popolare di Catalogna",
+        "fr": "Parti populaire de Catalogne"
+      },
       "region": "ES-CT",
       "city": "Barcelona",
       "epGroup": "EPP",
@@ -233,6 +284,12 @@
       "name": "Bloque Nacionalista Galego",
       "abbreviation": "BNG",
       "englishName": "Galician Nationalist Bloc",
+      "translations": {
+        "es": "Bloque Nacionalista Gallego",
+        "pt": "Bloco Nacionalista Galego",
+        "it": "Blocco Nazionalista Galiziano",
+        "fr": "Bloc nationaliste galicien"
+      },
       "region": "ES-GA",
       "website": "https://www.bng.gal/",
       "channel": {
@@ -249,6 +306,11 @@
       "id": "es-ga-esquerda-unida",
       "name": "Esquerda Unida",
       "englishName": "United Left",
+      "translations": {
+        "es": "Izquierda Unida",
+        "it": "Sinistra Unita",
+        "fr": "Gauche unie"
+      },
       "region": "ES-GA",
       "europarty": "EL",
       "noChannel": "2026-08-31",
@@ -286,6 +348,11 @@
       "name": "Izquierda Unida",
       "abbreviation": "IU",
       "englishName": "United Left",
+      "translations": {
+        "pt": "Esquerda Unida",
+        "it": "Sinistra Unita",
+        "fr": "Gauche unie"
+      },
       "europarty": "EL",
       "other": {
         "kind": "account",
@@ -297,10 +364,31 @@
       "verified": "2026-08-31"
     },
     {
+      "id": "es-md-mas-madrid",
+      "name": "Más Madrid",
+      "abbreviation": "Más Madrid",
+      "region": "ES-MD",
+      "orientation": "left",
+      "orientationSource": "https://es.wikipedia.org/wiki/M%C3%A1s_Madrid",
+      "website": "https://masmadrid.org/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaDmwImInlqH6qWYq00w",
+        "id": "0029VaDmwImInlqH6qWYq00w",
+        "added": "2026-09-07"
+      },
+      "verified": "2026-09-07"
+    },
+    {
       "id": "es-pce",
       "name": "Partido Comunista de España",
       "abbreviation": "PCE",
       "englishName": "Communist Party of Spain",
+      "translations": {
+        "pt": "Partido Comunista de Espanha",
+        "it": "Partito Comunista di Spagna",
+        "fr": "Parti communiste d'Espagne"
+      },
       "europarty": "EL",
       "noChannel": "2026-08-31",
       "website": "https://www.pce.es",
@@ -326,6 +414,10 @@
       "name": "Partido Popular",
       "abbreviation": "PP",
       "englishName": "People's Party",
+      "translations": {
+        "it": "Partito Popolare",
+        "fr": "Parti populaire"
+      },
       "website": "https://www.pp.es/",
       "channel": {
         "kind": "channel",
@@ -342,6 +434,12 @@
       "name": "PSOE",
       "abbreviation": "PSOE",
       "englishName": "Spanish Socialist Workers' Party",
+      "translations": {
+        "es": "Partido Socialista Obrero Español",
+        "pt": "Partido Socialista Operário Espanhol",
+        "it": "Partito Socialista Operaio Spagnolo",
+        "fr": "Parti socialiste ouvrier espagnol"
+      },
       "website": "https://www.psoe.es/",
       "channel": {
         "kind": "channel",
@@ -367,6 +465,12 @@
       "name": "Euzko Alderdi Jeltzalea–Partido Nacionalista Vasco",
       "abbreviation": "EAJ-PNV",
       "englishName": "Basque Nationalist Party",
+      "translations": {
+        "es": "Partido Nacionalista Vasco",
+        "pt": "Partido Nacionalista Basco",
+        "it": "Partito Nazionalista Basco",
+        "fr": "Parti nationaliste basque"
+      },
       "region": "ES-PV",
       "website": "https://www.eaj-pnv.eus/",
       "channel": {

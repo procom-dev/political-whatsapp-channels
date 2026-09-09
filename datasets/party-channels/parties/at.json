@@ -122,6 +122,12 @@
       "name": "Freiheitliche Partei Österreichs",
       "abbreviation": "FPÖ",
       "englishName": "Freedom Party of Austria",
+      "translations": {
+        "es": "Partido de la Libertad de Austria",
+        "pt": "Partido da Liberdade da Áustria",
+        "it": "Partito della Libertà Austriaco",
+        "fr": "Parti de la liberté d'Autriche"
+      },
       "epGroup": "PFE",
       "noChannel": "2026-08-31",
       "website": "https://www.fpoe.at/",
@@ -132,6 +138,12 @@
       "name": "Die Grünen",
       "abbreviation": "Grüne",
       "englishName": "The Greens – The Green Alternative",
+      "translations": {
+        "es": "Los Verdes – La Alternativa Verde",
+        "pt": "Os Verdes – A Alternativa Verde",
+        "it": "I Verdi – L'Alternativa Verde",
+        "fr": "Les Verts – L'Alternative verte"
+      },
       "website": "https://www.gruene.at/",
       "channel": {
         "kind": "channel",
@@ -156,6 +168,12 @@
       "name": "Österreichische Volkspartei",
       "abbreviation": "ÖVP",
       "englishName": "Austrian People's Party",
+      "translations": {
+        "es": "Partido Popular Austriaco",
+        "pt": "Partido Popular Austríaco",
+        "it": "Partito Popolare Austriaco",
+        "fr": "Parti populaire autrichien"
+      },
       "epGroup": "EPP",
       "noChannel": "2026-08-31",
       "website": "https://www.dieneuevolkspartei.at/",
@@ -166,6 +184,12 @@
       "name": "Sozialdemokratische Partei Österreichs",
       "abbreviation": "SPÖ",
       "englishName": "Social Democratic Party of Austria",
+      "translations": {
+        "es": "Partido Socialdemócrata de Austria",
+        "pt": "Partido Social-Democrata da Áustria",
+        "it": "Partito Socialdemocratico d'Austria",
+        "fr": "Parti social-démocrate d'Autriche"
+      },
       "website": "https://www.spoe.at/",
       "verified": "2026-08-31",
       "epGroup": "SD",

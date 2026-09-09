@@ -1,0 +1,13 @@
+checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
+2024-04-12T16:15:57Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20240412161557/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
+2024-04-12T14:35:03Z,de-st-die-linke,0029VaMm2t3CMY0JNGNsou1u,ok,144,exact,,Fraktion Die Linke im Landtag von Sachsen-Anhalt,200,channel,archive,https://web.archive.org/web/20240412143503/https://www.whatsapp.com/channel/0029VaMm2t3CMY0JNGNsou1u
+2024-04-12T16:27:01Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,1400,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20240412162701/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
+2024-04-12T22:21:18Z,de-ni-cdu-landesverband,0029VaNnGe929755vyAwN81C,ok,405,exact,,CDU-Politik für Niedersachsen,200,channel,archive,https://web.archive.org/web/20240412222118/https://www.whatsapp.com/channel/0029VaNnGe929755vyAwN81C
+2024-04-14T05:27:59Z,nl-sgp,0029VaDLxdM7z4kfdsHvfS2K,ok,626,exact,,SGP,200,channel,archive,https://web.archive.org/web/20240414052759/https://www.whatsapp.com/channel/0029VaDLxdM7z4kfdsHvfS2K
+2024-04-15T12:20:05Z,es-ct-bcomu,0029Va97rJf0AgW3PrmreK3m,ok,241,exact,,Barcelona en Comú,200,channel,archive,https://web.archive.org/web/20240415122005/https://www.whatsapp.com/channel/0029Va97rJf0AgW3PrmreK3m
+2024-04-15T12:52:03Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,8900,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20240415125203/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
+2024-04-15T14:10:29Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,1400,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20240415141029/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k
+2024-04-18T01:38:01Z,es-cm-pp,0029VaH9MuxE50UqY3Z98x3k,ok,119,exact,,PP Ayuntamiento Cuenca 🇪🇸,200,channel,archive,https://web.archive.org/web/20240418013801/https://www.whatsapp.com/channel/0029VaH9MuxE50UqY3Z98x3k
+2024-04-18T06:10:09Z,nl-vvd,0029VaCyQQpC1FuAiUvfWJ3S,ok,923,exact,,VVD,200,channel,archive,https://web.archive.org/web/20240418061009/https://www.whatsapp.com/channel/0029VaCyQQpC1FuAiUvfWJ3S
+2024-04-18T21:09:27Z,es-pv-eh-bildu,0029VaETvrgKLaHr4JYmrl3V,ok,1700,rounded,,EH Bildu,200,channel,archive,https://web.archive.org/web/20240418210927/https://www.whatsapp.com/channel/0029VaETvrgKLaHr4JYmrl3V
+2024-04-25T07:11:01Z,de-ni-cdu-landesverband,0029VaNnGe929755vyAwN81C,ok,405,exact,,CDU-Politik für Niedersachsen,200,channel,archive,https://web.archive.org/web/20240425071101/https://www.whatsapp.com/channel/0029VaNnGe929755vyAwN81C

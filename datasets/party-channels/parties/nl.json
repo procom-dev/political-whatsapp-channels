@@ -5,6 +5,12 @@
       "id": "nl-bbb",
       "name": "BBB",
       "englishName": "Farmer–Citizen Movement",
+      "translations": {
+        "es": "Movimiento Agricultor-Ciudadano",
+        "pt": "Movimento Agricultor-Cidadão",
+        "it": "Movimento Agricoltori-Cittadini",
+        "fr": "Mouvement agriculteur-citoyen"
+      },
       "website": "https://boerburgerbeweging.nl/",
       "verified": "2026-08-29",
       "epGroup": "EPP"
@@ -13,6 +19,12 @@
       "id": "nl-cda",
       "name": "CDA",
       "englishName": "Christian Democratic Appeal",
+      "translations": {
+        "es": "Llamada Demócrata Cristiana",
+        "pt": "Apelo Democrata-Cristão",
+        "it": "Appello Cristiano Democratico",
+        "fr": "Appel chrétien-démocrate"
+      },
       "website": "https://www.cda.nl/",
       "verified": "2026-08-29",
       "epGroup": "EPP"
@@ -21,6 +33,12 @@
       "id": "nl-christenunie",
       "name": "ChristenUnie",
       "englishName": "Christian Union",
+      "translations": {
+        "es": "Unión Cristiana",
+        "pt": "União Cristã",
+        "it": "Unione Cristiana",
+        "fr": "Union chrétienne"
+      },
       "epGroup": "EPP",
       "website": "https://www.christenunie.nl/",
       "channel": {
@@ -35,6 +53,12 @@
       "id": "nl-d66",
       "name": "D66",
       "englishName": "Democrats 66",
+      "translations": {
+        "es": "Demócratas 66",
+        "pt": "Democratas 66",
+        "it": "Democratici 66",
+        "fr": "Démocrates 66"
+      },
       "website": "https://d66.nl/",
       "verified": "2026-08-29",
       "epGroup": "RENEW"
@@ -51,6 +75,12 @@
       "name": "Forum voor Democratie",
       "abbreviation": "FvD",
       "englishName": "Forum for Democracy",
+      "translations": {
+        "es": "Foro por la Democracia",
+        "pt": "Fórum pela Democracia",
+        "it": "Forum per la Democrazia",
+        "fr": "Forum pour la démocratie"
+      },
       "website": "https://www.fvd.nl/",
       "verified": "2026-08-29"
     },
@@ -58,6 +88,12 @@
       "id": "nl-groenlinks-pvda",
       "name": "GroenLinks-PvdA",
       "englishName": "GreenLeft–Labour",
+      "translations": {
+        "es": "Izquierda Verde–Partido del Trabajo",
+        "pt": "Esquerda Verde–Partido do Trabalho",
+        "it": "Sinistra Verde–Partito del Lavoro",
+        "fr": "Gauche verte–Parti du travail"
+      },
       "website": "https://groenlinkspvda.nl/",
       "verified": "2026-08-31",
       "other": {
@@ -81,6 +117,12 @@
       "name": "Partij voor de Dieren",
       "abbreviation": "PvdD",
       "englishName": "Party for the Animals",
+      "translations": {
+        "es": "Partido por los Animales",
+        "pt": "Partido pelos Animais",
+        "it": "Partito per gli Animali",
+        "fr": "Parti pour les animaux"
+      },
       "website": "https://www.partijvoordedieren.nl/",
       "verified": "2026-08-29",
       "epGroup": "LEFT"
@@ -89,6 +131,12 @@
       "id": "nl-pvv",
       "name": "PVV",
       "englishName": "Party for Freedom",
+      "translations": {
+        "es": "Partido por la Libertad",
+        "pt": "Partido pela Liberdade",
+        "it": "Partito per la Libertà",
+        "fr": "Parti pour la liberté"
+      },
       "website": "https://www.pvv.nl/",
       "verified": "2026-08-29",
       "epGroup": "PFE"
@@ -97,6 +145,12 @@
       "id": "nl-sgp",
       "name": "SGP",
       "englishName": "Reformed Political Party",
+      "translations": {
+        "es": "Partido Político Reformado",
+        "pt": "Partido Político Reformado",
+        "it": "Partito Politico Riformato",
+        "fr": "Parti politique réformé"
+      },
       "website": "https://www.sgp.nl/",
       "verified": "2026-08-31",
       "epGroup": "ECR",
@@ -112,6 +166,12 @@
       "id": "nl-sp",
       "name": "SP",
       "englishName": "Socialist Party",
+      "translations": {
+        "es": "Partido Socialista",
+        "pt": "Partido Socialista",
+        "it": "Partito Socialista",
+        "fr": "Parti socialiste"
+      },
       "website": "https://www.sp.nl/",
       "verified": "2026-08-29"
     },
@@ -119,6 +179,12 @@
       "id": "nl-volt",
       "name": "Volt",
       "englishName": "Volt Netherlands",
+      "translations": {
+        "es": "Volt Países Bajos",
+        "pt": "Volt Países Baixos",
+        "it": "Volt Paesi Bassi",
+        "fr": "Volt Pays-Bas"
+      },
       "website": "https://voltnederland.org/",
       "verified": "2026-08-29",
       "epGroup": "GREENS_EFA"
@@ -127,6 +193,12 @@
       "id": "nl-vvd",
       "name": "VVD",
       "englishName": "People's Party for Freedom and Democracy",
+      "translations": {
+        "es": "Partido Popular por la Libertad y la Democracia",
+        "pt": "Partido Popular pela Liberdade e Democracia",
+        "it": "Partito Popolare per la Libertà e la Democrazia",
+        "fr": "Parti populaire pour la liberté et la démocratie"
+      },
       "website": "https://www.vvd.nl/",
       "verified": "2026-08-31",
       "epGroup": "RENEW",

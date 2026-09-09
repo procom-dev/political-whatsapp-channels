@@ -21,6 +21,12 @@
       "id": "be-pvda-ptb",
       "name": "PVDA-PTB",
       "englishName": "Workers' Party of Belgium",
+      "translations": {
+        "es": "Partido del Trabajo de Bélgica",
+        "pt": "Partido do Trabalho da Bélgica",
+        "it": "Partito del Lavoro del Belgio",
+        "fr": "Parti du travail de Belgique"
+      },
       "epGroup": "LEFT",
       "noChannel": "2026-08-31",
       "website": "https://www.pvda.be/",
@@ -48,6 +54,12 @@
       "name": "cd&v",
       "abbreviation": "CD&V",
       "englishName": "Christian Democratic and Flemish",
+      "translations": {
+        "es": "Cristianodemócratas y Flamencos",
+        "pt": "Democratas-Cristãos e Flamengos",
+        "it": "Cristiano-Democratici e Fiamminghi",
+        "fr": "Chrétiens-démocrates et flamands"
+      },
       "region": "BE-VLG",
       "epGroup": "EPP",
       "noChannel": "2026-08-31",
@@ -69,6 +81,12 @@
       "name": "Nieuw-Vlaamse Alliantie",
       "abbreviation": "N-VA",
       "englishName": "New Flemish Alliance",
+      "translations": {
+        "es": "Nueva Alianza Flamenca",
+        "pt": "Nova Aliança Flamenga",
+        "it": "Nuova Alleanza Fiamminga",
+        "fr": "Alliance néo-flamande"
+      },
       "region": "BE-VLG",
       "epGroup": "ECR",
       "noChannel": "2026-08-31",
@@ -90,6 +108,12 @@
       "name": "Vlaams Belang",
       "abbreviation": "VB",
       "englishName": "Flemish Interest",
+      "translations": {
+        "es": "Interés Flamenco",
+        "pt": "Interesse Flamengo",
+        "it": "Interesse Fiammingo",
+        "fr": "Intérêt flamand"
+      },
       "region": "BE-VLG",
       "epGroup": "PFE",
       "noChannel": "2026-08-31",
@@ -137,6 +161,11 @@
       "name": "Mouvement Réformateur",
       "abbreviation": "MR",
       "englishName": "Reformist Movement",
+      "translations": {
+        "es": "Movimiento Reformador",
+        "pt": "Movimento Reformador",
+        "it": "Movimento Riformatore"
+      },
       "region": "BE-WAL",
       "epGroup": "RENEW",
       "noChannel": "2026-08-31",
@@ -148,6 +177,11 @@
       "name": "Parti Socialiste",
       "abbreviation": "PS",
       "englishName": "Socialist Party (Francophone)",
+      "translations": {
+        "es": "Partido Socialista",
+        "pt": "Partido Socialista",
+        "it": "Partito Socialista"
+      },
       "region": "BE-WAL",
       "epGroup": "SD",
       "noChannel": "2026-08-31",

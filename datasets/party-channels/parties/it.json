@@ -6,6 +6,11 @@
       "name": "Movimento 5 Stelle Treviso",
       "abbreviation": "M5S",
       "englishName": "Five Star Movement (Treviso branch)",
+      "translations": {
+        "es": "Movimiento 5 Estrellas (sección de Treviso)",
+        "pt": "Movimento 5 Estrelas (secção de Treviso)",
+        "fr": "Mouvement 5 étoiles (section de Trévise)"
+      },
       "region": "IT-34",
       "city": "Treviso",
       "epGroup": "LEFT",
@@ -71,6 +76,11 @@
       "name": "Alleanza Verdi e Sinistra",
       "abbreviation": "AVS",
       "englishName": "Greens and Left Alliance",
+      "translations": {
+        "es": "Alianza Verdes e Izquierda",
+        "pt": "Aliança Verdes e Esquerda",
+        "fr": "Alliance des Verts et de la Gauche"
+      },
       "website": "https://www.sinistraitaliana.si/chi-siamo/alleanza-verdi-sinistra/",
       "verified": "2026-08-29"
     },
@@ -79,6 +89,11 @@
       "name": "Azione",
       "abbreviation": "Az",
       "englishName": "Action",
+      "translations": {
+        "es": "Acción",
+        "pt": "Ação",
+        "fr": "Action"
+      },
       "website": "https://www.azione.it/",
       "verified": "2026-08-29"
     },
@@ -87,6 +102,11 @@
       "name": "+Europa",
       "abbreviation": "+E",
       "englishName": "More Europe",
+      "translations": {
+        "es": "Más Europa",
+        "pt": "Mais Europa",
+        "fr": "Plus d'Europe"
+      },
       "epGroup": "RENEW",
       "website": "https://www.piueuropa.eu/",
       "channel": {
@@ -102,6 +122,9 @@
       "name": "Europa Verde",
       "abbreviation": "EV",
       "englishName": "Green Europe",
+      "translations": {
+        "fr": "Europe verte"
+      },
       "website": "https://europaverde.it/",
       "verified": "2026-08-29",
       "epGroup": "GREENS_EFA"
@@ -111,6 +134,11 @@
       "name": "Fratelli d'Italia",
       "abbreviation": "FdI",
       "englishName": "Brothers of Italy",
+      "translations": {
+        "es": "Hermanos de Italia",
+        "pt": "Irmãos de Itália",
+        "fr": "Frères d'Italie"
+      },
       "website": "https://www.fratelli-italia.it/",
       "verified": "2026-08-29",
       "epGroup": "ECR"
@@ -168,6 +196,11 @@
       "name": "Movimento 5 Stelle",
       "abbreviation": "M5S",
       "englishName": "Five Star Movement",
+      "translations": {
+        "es": "Movimiento 5 Estrellas",
+        "pt": "Movimento 5 Estrelas",
+        "fr": "Mouvement 5 étoiles"
+      },
       "epGroup": "LEFT",
       "orientation": "centre-left",
       "orientationSource": "https://jacobin.com/2025/02/five-star-movement-migration-italy",
@@ -186,6 +219,11 @@
       "name": "Partito Democratico",
       "abbreviation": "PD",
       "englishName": "Democratic Party",
+      "translations": {
+        "es": "Partido Democrático",
+        "pt": "Partido Democrático",
+        "fr": "Parti démocrate"
+      },
       "website": "https://www.partitodemocratico.it/",
       "channel": {
         "kind": "channel",
@@ -202,6 +240,11 @@
       "name": "Sinistra Italiana",
       "abbreviation": "SI",
       "englishName": "Italian Left",
+      "translations": {
+        "es": "Izquierda Italiana",
+        "pt": "Esquerda Italiana",
+        "fr": "Gauche italienne"
+      },
       "epGroup": "LEFT",
       "noChannel": "2026-08-31",
       "website": "https://www.sinistraitaliana.si/",

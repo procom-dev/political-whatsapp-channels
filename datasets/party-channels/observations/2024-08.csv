@@ -1,0 +1,10 @@
+checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
+2024-08-11T06:38:49Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20240811063849/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
+2024-08-02T08:28:03Z,pt-ch,0029VaD2DqD3QxS133VKTQ2z,ok,9500,rounded,,André Ventura,200,channel,archive,https://web.archive.org/web/20240802082803/https://www.whatsapp.com/channel/0029VaD2DqD3QxS133VKTQ2z
+2024-08-04T12:25:31Z,de-st-grune,0029VakBvxx0Vyc7cCq2sM1A,ok,45,exact,,DIE GRÜNEN Sachsen-Anhalt,200,channel,archive,https://web.archive.org/web/20240804122531/https://www.whatsapp.com/channel/0029VakBvxx0Vyc7cCq2sM1A
+2024-08-07T22:56:48Z,it-pd,0029VaD4YKtEKyZEEzxkW83U,ok,31000,rounded,,Partito Democratico,200,channel,archive,https://web.archive.org/web/20240807225648/https://www.whatsapp.com/channel/0029VaD4YKtEKyZEEzxkW83U
+2024-08-13T08:22:14Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,12000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20240813082214/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
+2024-08-16T06:30:51Z,de-grune,0029VadW99X2kNFogn540h07,ok,12000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20240816063051/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07
+2024-08-18T23:07:05Z,at-grune,0029VagPEHPCnA7uajcDvi2u,ok,846,exact,,Team fürs Klima,200,channel,archive,https://web.archive.org/web/20240818230705/https://www.whatsapp.com/channel/0029VagPEHPCnA7uajcDvi2u
+2024-08-20T20:13:13Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,1300,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20240820201313/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2024-08-23T17:41:33Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,1500,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20240823174133/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X

@@ -24,6 +24,12 @@
       "id": "europe-egp",
       "name": "European Green Party",
       "abbreviation": "EGP",
+      "translations": {
+        "es": "Partido Verde Europeo",
+        "pt": "Partido Verde Europeu",
+        "it": "Partito Verde Europeo",
+        "fr": "Parti vert européen"
+      },
       "continent": "EU",
       "epGroup": "GREENS_EFA",
       "europarty": "EGP",
@@ -34,6 +40,12 @@
       "id": "europe-el",
       "name": "Party of the European Left",
       "abbreviation": "EL",
+      "translations": {
+        "es": "Partido de la Izquierda Europea",
+        "pt": "Partido da Esquerda Europeia",
+        "it": "Partito della Sinistra Europea",
+        "fr": "Parti de la gauche européenne"
+      },
       "continent": "EU",
       "epGroup": "LEFT",
       "europarty": "EL",
@@ -44,6 +56,12 @@
       "id": "europe-epp",
       "name": "European People's Party",
       "abbreviation": "EPP",
+      "translations": {
+        "es": "Partido Popular Europeo",
+        "pt": "Partido Popular Europeu",
+        "it": "Partito Popolare Europeo",
+        "fr": "Parti populaire européen"
+      },
       "continent": "EU",
       "epGroup": "EPP",
       "europarty": "EPP",
@@ -54,6 +72,12 @@
       "id": "europe-pes",
       "name": "Party of European Socialists",
       "abbreviation": "PES",
+      "translations": {
+        "es": "Partido Socialista Europeo",
+        "pt": "Partido dos Socialistas Europeus",
+        "it": "Partito del Socialismo Europeo",
+        "fr": "Parti socialiste européen"
+      },
       "continent": "EU",
       "epGroup": "SD",
       "europarty": "PES",

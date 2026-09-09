@@ -5,6 +5,12 @@
       "id": "gr",
       "name": "Πλεύση Ελευθερίας",
       "englishName": "Course of Freedom",
+      "translations": {
+        "es": "Curso de la Libertad",
+        "pt": "Rumo à Liberdade",
+        "it": "Rotta di Libertà",
+        "fr": "Trajet de liberté"
+      },
       "website": "https://plefsieleftherias.gr/",
       "verified": "2026-08-29"
     },
@@ -13,6 +19,12 @@
       "name": "Ελληνική Λύση",
       "abbreviation": "EL",
       "englishName": "Greek Solution",
+      "translations": {
+        "es": "Solución Griega",
+        "pt": "Solução Grega",
+        "it": "Soluzione Greca",
+        "fr": "Solution grecque"
+      },
       "website": "https://elliniki-lysi.gr/",
       "verified": "2026-08-29",
       "epGroup": "ECR"
@@ -22,6 +34,12 @@
       "name": "ΚΚΕ",
       "abbreviation": "KKE",
       "englishName": "Communist Party of Greece",
+      "translations": {
+        "es": "Partido Comunista de Grecia",
+        "pt": "Partido Comunista da Grécia",
+        "it": "Partito Comunista di Grecia",
+        "fr": "Parti communiste de Grèce"
+      },
       "website": "https://www.kke.gr/",
       "verified": "2026-08-29",
       "epGroup": "NI"
@@ -31,6 +49,12 @@
       "name": "Νέα Δημοκρατία",
       "abbreviation": "ND",
       "englishName": "New Democracy",
+      "translations": {
+        "es": "Nueva Democracia",
+        "pt": "Nova Democracia",
+        "it": "Nuova Democrazia",
+        "fr": "Nouvelle Démocratie"
+      },
       "website": "https://nd.gr/",
       "verified": "2026-08-29",
       "epGroup": "EPP"
@@ -40,6 +64,12 @@
       "name": "ΝΙΚΗ",
       "abbreviation": "NIKI",
       "englishName": "Victory",
+      "translations": {
+        "es": "Victoria",
+        "pt": "Vitória",
+        "it": "Vittoria",
+        "fr": "Victoire"
+      },
       "website": "https://www.nikh.gr/",
       "verified": "2026-08-29"
     },
@@ -48,6 +78,12 @@
       "name": "ΠΑΣΟΚ – Κίνημα Αλλαγής",
       "abbreviation": "PASOK",
       "englishName": "PASOK – Movement for Change",
+      "translations": {
+        "es": "PASOK – Movimiento por el Cambio",
+        "pt": "PASOK – Movimento pela Mudança",
+        "it": "PASOK – Movimento per il Cambiamento",
+        "fr": "PASOK – Mouvement pour le changement"
+      },
       "website": "https://pasok.gr/",
       "verified": "2026-08-29",
       "epGroup": "SD"
@@ -57,6 +93,12 @@
       "name": "ΣΥΡΙΖΑ",
       "abbreviation": "SYRIZA",
       "englishName": "Coalition of the Radical Left",
+      "translations": {
+        "es": "Coalición de la Izquierda Radical",
+        "pt": "Coligação da Esquerda Radical",
+        "it": "Coalizione della Sinistra Radicale",
+        "fr": "Coalition de la gauche radicale"
+      },
       "website": "https://www.syriza.gr/",
       "verified": "2026-08-29",
       "epGroup": "LEFT"

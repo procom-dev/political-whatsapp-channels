@@ -6,6 +6,12 @@
       "name": "Conservative Party",
       "abbreviation": "Con",
       "englishName": "Conservative and Unionist Party",
+      "translations": {
+        "es": "Partido Conservador",
+        "pt": "Partido Conservador",
+        "it": "Partito Conservatore",
+        "fr": "Parti conservateur"
+      },
       "website": "https://www.conservatives.com/",
       "verified": "2026-08-29"
     },
@@ -14,6 +20,12 @@
       "name": "Labour Party",
       "abbreviation": "Lab",
       "englishName": "Labour Party",
+      "translations": {
+        "es": "Partido Laborista",
+        "pt": "Partido Trabalhista",
+        "it": "Partito Laburista",
+        "fr": "Parti travailliste"
+      },
       "website": "https://labour.org.uk/",
       "verified": "2026-08-29"
     },
@@ -22,6 +34,12 @@
       "name": "Liberal Democrats",
       "abbreviation": "LD",
       "englishName": "Liberal Democrats",
+      "translations": {
+        "es": "Demócratas Liberales",
+        "pt": "Liberais Democratas",
+        "it": "Liberal Democratici",
+        "fr": "Libéraux-démocrates"
+      },
       "website": "https://www.libdems.org.uk/",
       "verified": "2026-08-29"
     },
@@ -30,6 +48,12 @@
       "name": "Democratic Unionist Party",
       "abbreviation": "DUP",
       "englishName": "Democratic Unionist Party",
+      "translations": {
+        "es": "Partido Unionista Democrático",
+        "pt": "Partido Unionista Democrático",
+        "it": "Partito Unionista Democratico",
+        "fr": "Parti unioniste démocrate"
+      },
       "region": "GB-NIR",
       "website": "https://mydup.com/",
       "verified": "2026-08-29"
@@ -62,6 +86,12 @@
       "name": "Scottish National Party",
       "abbreviation": "SNP",
       "englishName": "Scottish National Party",
+      "translations": {
+        "es": "Partido Nacional Escocés",
+        "pt": "Partido Nacional Escocês",
+        "it": "Partito Nazionale Scozzese",
+        "fr": "Parti national écossais"
+      },
       "region": "GB-SCT",
       "website": "https://www.snp.org/",
       "verified": "2026-08-29"

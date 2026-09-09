@@ -1,0 +1,17 @@
+checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
+2024-11-04T06:05:38Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20241104060538/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
+2024-11-01T19:09:38Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,13000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20241101190938/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
+2024-11-01T22:47:43Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,1500,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20241101224743/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2024-11-01T23:08:00Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,3400,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20241101230800/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k
+2024-11-04T21:53:32Z,de-ni-cdu,0029VaaE9wmCHDyfdJwcmR08,ok,116,exact,,CDU-Stadtverband Friesoythe,200,channel,archive,https://web.archive.org/web/20241104215332/https://www.whatsapp.com/channel/0029VaaE9wmCHDyfdJwcmR08
+2024-11-06T01:42:22Z,es-ct-bcomu,0029Va97rJf0AgW3PrmreK3m,ok,256,exact,,Barcelona en Comú,200,channel,archive,https://web.archive.org/web/20241106014222/https://www.whatsapp.com/channel/0029Va97rJf0AgW3PrmreK3m
+2024-11-06T14:05:46Z,de-ni-cdu-landesverband,0029VaNnGe929755vyAwN81C,ok,2600,rounded,,CDU-Politik für Niedersachsen,200,channel,archive,https://web.archive.org/web/20241106140546/https://www.whatsapp.com/channel/0029VaNnGe929755vyAwN81C
+2024-11-12T11:39:00Z,pt-ch,0029VaD2DqD3QxS133VKTQ2z,ok,9700,rounded,,André Ventura,200,channel,archive,https://web.archive.org/web/20241112113900/https://www.whatsapp.com/channel/0029VaD2DqD3QxS133VKTQ2z
+2024-11-12T14:15:30Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,1600,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20241112141530/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
+2024-11-13T16:24:58Z,de-st-grune,0029VakBvxx0Vyc7cCq2sM1A,ok,141,exact,,DIE GRÜNEN Sachsen-Anhalt,200,channel,archive,https://web.archive.org/web/20241113162458/https://www.whatsapp.com/channel/0029VakBvxx0Vyc7cCq2sM1A
+2024-11-17T05:36:29Z,pt-ch,0029VaD2DqD3QxS133VKTQ2z,ok,9700,rounded,,André Ventura,200,channel,archive,https://web.archive.org/web/20241117053629/https://www.whatsapp.com/channel/0029VaD2DqD3QxS133VKTQ2z
+2024-11-17T05:50:33Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,1700,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20241117055033/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
+2024-11-19T03:47:01Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,1800,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20241119034701/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2024-11-25T10:10:53Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,4700,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20241125101053/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k
+2024-11-29T12:01:01Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,4900,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20241129120101/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k
+2024-11-30T12:27:01Z,de-ni-cdu-landesverband,0029VaNnGe929755vyAwN81C,ok,2700,rounded,,CDU-Politik für Niedersachsen,200,channel,archive,https://web.archive.org/web/20241130122701/https://www.whatsapp.com/channel/0029VaNnGe929755vyAwN81C

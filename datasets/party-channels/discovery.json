@@ -21,10 +21,20 @@
       "outcome": "found",
       "pages": 8
     },
+    "be-bru-bruxelles-ps-bruxelles": {
+      "checkedAt": "2026-09-07",
+      "outcome": "unreachable",
+      "pages": 0
+    },
     "be-pvda-ptb": {
       "checkedAt": "2026-08-31",
       "outcome": "none",
       "pages": 2
+    },
+    "be-van-olen-vooruit-olen": {
+      "checkedAt": "2026-09-07",
+      "outcome": "unreachable",
+      "pages": 0
     },
     "be-vlg-cd-v": {
       "checkedAt": "2026-08-31",
@@ -106,25 +116,35 @@
       "outcome": "none",
       "pages": 6
     },
+    "de-be-tierschutzpartei": {
+      "checkedAt": "2026-09-07",
+      "outcome": "found",
+      "pages": 5
+    },
     "de-cdu": {
       "checkedAt": "2026-08-31",
       "outcome": "found",
       "pages": 8
     },
-    "de-die-linke": {
-      "checkedAt": "2026-08-31",
-      "outcome": "unreachable",
-      "pages": 1
-    },
-    "de-gruene": {
+    "de-grune": {
       "checkedAt": "2026-08-31",
       "outcome": "found",
+      "pages": 1
+    },
+    "de-linke": {
+      "checkedAt": "2026-08-31",
+      "outcome": "unreachable",
       "pages": 1
     },
     "de-sh-ssw": {
       "checkedAt": "2026-08-31",
       "outcome": "none",
       "pages": 8
+    },
+    "es-cn-coalicion-canaria": {
+      "checkedAt": "2026-09-07",
+      "outcome": "none",
+      "pages": 1
     },
     "es-ct-pp": {
       "checkedAt": "2026-08-31",
@@ -135,6 +155,11 @@
       "checkedAt": "2026-08-31",
       "outcome": "unreachable",
       "pages": 1
+    },
+    "es-iu": {
+      "checkedAt": "2026-09-07",
+      "outcome": "unreachable",
+      "pages": 0
     },
     "es-sumar": {
       "checkedAt": "2026-08-31",

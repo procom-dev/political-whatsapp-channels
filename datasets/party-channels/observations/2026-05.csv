@@ -1,0 +1,6 @@
+checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
+2026-05-08T11:12:25Z,de-bb-grune,0029VauE700AInPjDfFFPT0j,ok,77,exact,,GRÜNE Oder-Spree,200,channel,archive,https://web.archive.org/web/20260508111225/https://www.whatsapp.com/channel/0029VauE700AInPjDfFFPT0j
+2026-05-11T00:07:28Z,es-cn-psoe,0029VaNV8JKFSAsvpMzKpM08,ok,301,exact,,PSOE Canarias 🌹🇮🇨,200,channel,archive,https://web.archive.org/web/20260511000728/https://www.whatsapp.com/channel/0029VaNV8JKFSAsvpMzKpM08
+2026-05-14T13:14:08Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,31000,rounded,,SPD,200,channel,archive,https://web.archive.org/web/20260514131408/https://www.whatsapp.com/channel/0029VaDCDYDKrWQzJXHTJv0e
+2026-05-15T13:49:32Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,57000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20260515134932/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2026-05-31T20:19:04Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,7500,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20260531201904/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k

@@ -101,6 +101,7 @@ entry.
 | `name` | The party or branch name in its own language. |
 | `abbreviation` | Short form (e.g. `CDU`). |
 | `englishName` | English name, where helpful. |
+| `translations` | The name in the site's other languages, keyed by locale (`es`, `pt`, `it`, `fr`). Sparse — present only where a real translation exists. |
 | `region` | ISO 3166-2 subdivision code. Required on a region- or city-tier entry. |
 | `city` | Free text. The only free-text place field (there is no global municipality code list). |
 | `continent` | Set on a supranational entry (e.g. `EU`); lives in `_europe.json`. |

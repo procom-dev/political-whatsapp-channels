@@ -113,3 +113,9 @@ checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,ht
 2026-08-31T19:49:09Z,es-ga-o-grove-eu-o-grove,0029VaSQitS3WHTO8SKnkV1b,ok,2,exact,de-DE,Actualidade EU O Grove,200,channel
 2026-08-31T19:49:10Z,it-52-lega-toscana,0029Va7lCVG7tkj20mjQAV03,ok,177,exact,de-DE,Lega Toscana per Salvini Premier,200,channel
 2026-08-31T19:49:10Z,it-75-modugno-m5s-modugno,0029VaDZVAU6hENq64FNIq2f,ok,29,exact,de-DE,Modugno A 5 Stelle,200,channel
+2026-08-05T16:10:28Z,de-grune,0029VadW99X2kNFogn540h07,ok,28000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20260805161028/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07
+2026-08-05T16:38:03Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,61000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20260805163803/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2026-08-05T16:50:18Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,20000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20260805165018/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
+2026-08-05T17:15:07Z,de-be-volt,0029VbBwmKu90x33w7IhA00Z,ok,434,exact,,Volt,200,channel,archive,https://web.archive.org/web/20260805171507/https://www.whatsapp.com/channel/0029VbBwmKu90x33w7IhA00Z
+2026-08-07T09:19:39Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,61000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20260807091939/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
+2026-08-09T09:36:25Z,de-st-grune,0029VakBvxx0Vyc7cCq2sM1A,ok,1700,rounded,,DIE GRÜNEN Sachsen-Anhalt,200,channel,archive,https://web.archive.org/web/20260809093625/https://www.whatsapp.com/channel/0029VakBvxx0Vyc7cCq2sM1A

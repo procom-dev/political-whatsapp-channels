@@ -5,6 +5,12 @@
       "id": "pt-30-jpp",
       "name": "JPP",
       "englishName": "Together for the People",
+      "translations": {
+        "es": "Juntos por el Pueblo",
+        "pt": "Juntos pelo Povo",
+        "it": "Insieme per il Popolo",
+        "fr": "Ensemble pour le peuple"
+      },
       "region": "PT-30",
       "website": "https://www.jpp.pt/",
       "verified": "2026-08-29"
@@ -14,6 +20,11 @@
       "name": "Bloco de Esquerda",
       "abbreviation": "BE",
       "englishName": "Left Bloc",
+      "translations": {
+        "es": "Bloque de Izquierda",
+        "it": "Blocco di Sinistra",
+        "fr": "Bloc de gauche"
+      },
       "epGroup": "LEFT",
       "website": "https://www.bloco.org/",
       "channel": {
@@ -29,6 +40,12 @@
       "name": "CDS – Partido Popular",
       "abbreviation": "CDS-PP",
       "englishName": "Democratic and Social Centre – People's Party",
+      "translations": {
+        "es": "Centro Democrático y Social – Partido Popular",
+        "pt": "Centro Democrático e Social – Partido Popular",
+        "it": "Centro Democratico e Sociale – Partito Popolare",
+        "fr": "Centre démocratique et social – Parti populaire"
+      },
       "website": "https://www.cds.pt/",
       "verified": "2026-08-31",
       "epGroup": "EPP",
@@ -45,6 +62,12 @@
       "name": "CDU (PCP-PEV)",
       "abbreviation": "CDU",
       "englishName": "Unitary Democratic Coalition (Communists–Greens)",
+      "translations": {
+        "es": "Coalición Democrática Unitaria (comunistas-verdes)",
+        "pt": "Coligação Democrática Unitária (PCP-PEV)",
+        "it": "Coalizione Democratica Unitaria (comunisti-verdi)",
+        "fr": "Coalition démocratique unitaire (communistes-verts)"
+      },
       "website": "https://www.pcp.pt/",
       "verified": "2026-08-31",
       "epGroup": "LEFT",
@@ -78,6 +101,10 @@
       "name": "Iniciativa Liberal",
       "abbreviation": "IL",
       "englishName": "Liberal Initiative",
+      "translations": {
+        "it": "Iniziativa Liberale",
+        "fr": "Initiative libérale"
+      },
       "website": "https://iniciativaliberal.pt/",
       "verified": "2026-08-29",
       "epGroup": "RENEW"
@@ -94,6 +121,12 @@
       "id": "pt-pan",
       "name": "PAN",
       "englishName": "People–Animals–Nature",
+      "translations": {
+        "es": "Personas–Animales–Naturaleza",
+        "pt": "Pessoas–Animais–Natureza",
+        "it": "Persone–Animali–Natura",
+        "fr": "Personnes–Animaux–Nature"
+      },
       "website": "https://www.pan.com.pt/",
       "verified": "2026-08-29"
     },
@@ -102,6 +135,10 @@
       "name": "Partido Socialista",
       "abbreviation": "PS",
       "englishName": "Socialist Party",
+      "translations": {
+        "it": "Partito Socialista",
+        "fr": "Parti socialiste"
+      },
       "website": "https://ps.pt/",
       "verified": "2026-08-31",
       "epGroup": "SD",
@@ -117,6 +154,12 @@
       "id": "pt-psd",
       "name": "PSD",
       "englishName": "Social Democratic Party",
+      "translations": {
+        "es": "Partido Socialdemócrata",
+        "pt": "Partido Social Democrata",
+        "it": "Partito Socialdemocratico",
+        "fr": "Parti social-démocrate"
+      },
       "website": "https://www.psd.pt/",
       "verified": "2026-08-29",
       "epGroup": "EPP"

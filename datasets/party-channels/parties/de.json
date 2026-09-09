@@ -6,6 +6,12 @@
       "name": "AfD",
       "abbreviation": "AfD",
       "englishName": "Alternative for Germany",
+      "translations": {
+        "es": "Alternativa para Alemania",
+        "pt": "Alternativa para a Alemanha",
+        "it": "Alternativa per la Germania",
+        "fr": "Alternative pour l'Allemagne"
+      },
       "epGroup": "ESN",
       "noChannel": "2026-08-31",
       "website": "https://www.afd.de/",
@@ -16,6 +22,12 @@
       "name": "Bündnis 90/Die Grünen Oder-Spree",
       "abbreviation": "Grüne",
       "englishName": "Alliance 90/The Greens Oder-Spree (district association)",
+      "translations": {
+        "es": "Alianza 90/Los Verdes Oder-Spree (agrupación de distrito)",
+        "pt": "Aliança 90/Os Verdes Oder-Spree (associação distrital)",
+        "it": "Alleanza 90/I Verdi Oder-Spree (associazione distrettuale)",
+        "fr": "Alliance 90/Les Verts Oder-Spree (association de district)"
+      },
       "region": "DE-BB",
       "website": "https://gruene-oder-spree.de/",
       "channel": {
@@ -33,6 +45,12 @@
       "name": "AfD Berlin",
       "abbreviation": "AfD",
       "englishName": "Alternative for Germany Berlin",
+      "translations": {
+        "es": "Alternativa para Alemania Berlín",
+        "pt": "Alternativa para a Alemanha Berlim",
+        "it": "Alternativa per la Germania Berlino",
+        "fr": "Alternative pour l'Allemagne Berlin"
+      },
       "region": "DE-BE",
       "city": "Berlin",
       "parentId": "de-afd",
@@ -40,6 +58,17 @@
       "website": "https://www.afd-berlin.de/",
       "cadence": "daily",
       "verified": "2026-08-31"
+    },
+    {
+      "id": "de-be-bergpartei",
+      "name": "Bergpartei, die Überpartei",
+      "abbreviation": "Bergpartei",
+      "region": "DE-BE",
+      "city": "Berlin",
+      "noChannel": "2026-09-03",
+      "website": "https://www.bergpartei.de/",
+      "cadence": "daily",
+      "verified": "2026-09-03"
     },
     {
       "id": "de-be-berlin-grune-marzahn-hellersdorf",
@@ -59,6 +88,25 @@
       "verified": "2026-08-31"
     },
     {
+      "id": "de-be-bsw",
+      "name": "BSW Berlin",
+      "abbreviation": "BSW",
+      "englishName": "Sahra Wagenknecht Alliance Berlin",
+      "translations": {
+        "es": "Alianza Sahra Wagenknecht Berlín",
+        "pt": "Aliança Sahra Wagenknecht Berlim",
+        "it": "Alleanza Sahra Wagenknecht Berlino",
+        "fr": "Alliance Sahra Wagenknecht Berlin"
+      },
+      "region": "DE-BE",
+      "city": "Berlin",
+      "epGroup": "NI",
+      "noChannel": "2026-09-03",
+      "website": "https://bsw.berlin/",
+      "cadence": "daily",
+      "verified": "2026-09-03"
+    },
+    {
       "id": "de-be-cdu",
       "name": "CDU Berlin",
       "abbreviation": "CDU",
@@ -71,17 +119,89 @@
       "verified": "2026-08-31"
     },
     {
+      "id": "de-be-die-partei",
+      "name": "Die PARTEI Berlin",
+      "abbreviation": "Die PARTEI",
+      "region": "DE-BE",
+      "city": "Berlin",
+      "epGroup": "NI",
+      "noChannel": "2026-09-03",
+      "website": "https://die-partei-berlin.de/",
+      "cadence": "daily",
+      "verified": "2026-09-03"
+    },
+    {
+      "id": "de-be-dkp",
+      "name": "DKP Berlin",
+      "abbreviation": "DKP",
+      "englishName": "German Communist Party Berlin",
+      "translations": {
+        "es": "Partido Comunista Alemán Berlín",
+        "pt": "Partido Comunista Alemão Berlim",
+        "it": "Partito Comunista Tedesco Berlino",
+        "fr": "Parti communiste allemand Berlin"
+      },
+      "region": "DE-BE",
+      "city": "Berlin",
+      "noChannel": "2026-09-03",
+      "website": "https://berlin.dkp.de/",
+      "cadence": "daily",
+      "verified": "2026-09-03"
+    },
+    {
+      "id": "de-be-fdp",
+      "name": "FDP Berlin",
+      "abbreviation": "FDP",
+      "englishName": "Free Democratic Party Berlin",
+      "translations": {
+        "es": "Partido Democrático Libre Berlín",
+        "pt": "Partido Democrático Livre Berlim",
+        "it": "Partito Liberale Democratico Berlino",
+        "fr": "Parti libéral-démocrate Berlin"
+      },
+      "region": "DE-BE",
+      "city": "Berlin",
+      "parentId": "de-fdp",
+      "noChannel": "2026-09-03",
+      "website": "https://www.fdp-berlin.de/",
+      "cadence": "daily",
+      "verified": "2026-09-03"
+    },
+    {
       "id": "de-be-gruene",
       "name": "Bündnis 90/Die Grünen Berlin",
       "abbreviation": "Grüne",
       "englishName": "Alliance 90/The Greens Berlin",
+      "translations": {
+        "es": "Alianza 90/Los Verdes Berlín",
+        "pt": "Aliança 90/Os Verdes Berlim",
+        "it": "Alleanza 90/I Verdi Berlino",
+        "fr": "Alliance 90/Les Verts Berlin"
+      },
       "region": "DE-BE",
       "city": "Berlin",
-      "parentId": "de-gruene",
+      "parentId": "de-grune",
       "noChannel": "2026-08-31",
       "website": "https://www.gruene-berlin.de/",
       "cadence": "daily",
       "verified": "2026-08-31"
+    },
+    {
+      "id": "de-be-heimat",
+      "name": "Die Heimat Berlin",
+      "abbreviation": "Heimat",
+      "englishName": "Die Heimat Berlin (formerly NPD)",
+      "translations": {
+        "es": "Die Heimat Berlín (antes NPD)",
+        "pt": "Die Heimat Berlim (antiga NPD)",
+        "it": "Die Heimat Berlino (ex NPD)",
+        "fr": "Die Heimat Berlin (ancien NPD)"
+      },
+      "region": "DE-BE",
+      "city": "Berlin",
+      "noChannel": "2026-09-03",
+      "cadence": "daily",
+      "verified": "2026-09-03"
     },
     {
       "id": "de-be-linke",
@@ -96,6 +216,61 @@
       "verified": "2026-08-31"
     },
     {
+      "id": "de-be-odp",
+      "name": "ÖDP Berlin",
+      "abbreviation": "ÖDP",
+      "englishName": "Ecological Democratic Party Berlin",
+      "translations": {
+        "es": "Partido Democrático Ecológico Berlín",
+        "pt": "Partido Democrático Ecológico Berlim",
+        "it": "Partito Democratico Ecologista Berlino",
+        "fr": "Parti écologique démocrate Berlin"
+      },
+      "region": "DE-BE",
+      "city": "Berlin",
+      "noChannel": "2026-09-03",
+      "website": "https://www.oedp-berlin.de/",
+      "cadence": "daily",
+      "verified": "2026-09-03"
+    },
+    {
+      "id": "de-be-pdf",
+      "name": "Partei des Fortschritts Berlin",
+      "abbreviation": "PdF",
+      "englishName": "Party of Progress Berlin",
+      "translations": {
+        "es": "Partido del Progreso Berlín",
+        "pt": "Partido do Progresso Berlim",
+        "it": "Partito del Progresso Berlino",
+        "fr": "Parti du progrès Berlin"
+      },
+      "region": "DE-BE",
+      "city": "Berlin",
+      "noChannel": "2026-09-03",
+      "website": "https://partei-des-fortschritts.de/landesverband-berlin/",
+      "cadence": "daily",
+      "verified": "2026-09-03"
+    },
+    {
+      "id": "de-be-sgp",
+      "name": "SGP Berlin",
+      "abbreviation": "SGP",
+      "englishName": "Socialist Equality Party Berlin",
+      "translations": {
+        "es": "Partido Socialista de la Igualdad Berlín",
+        "pt": "Partido Socialista pela Igualdade Berlim",
+        "it": "Partito Socialista dell'Uguaglianza Berlino",
+        "fr": "Parti de l'égalité socialiste Berlin"
+      },
+      "region": "DE-BE",
+      "city": "Berlin",
+      "parentId": "de-sgp",
+      "noChannel": "2026-09-03",
+      "website": "https://www.gleichheit.de/",
+      "cadence": "daily",
+      "verified": "2026-09-03"
+    },
+    {
       "id": "de-be-spd",
       "name": "SPD Berlin",
       "abbreviation": "SPD",
@@ -108,10 +283,75 @@
       "verified": "2026-08-31"
     },
     {
+      "id": "de-be-tierschutzpartei",
+      "name": "Tierschutzpartei Berlin",
+      "abbreviation": "Tierschutzpartei",
+      "englishName": "Human Environment Animal Protection Party Berlin",
+      "translations": {
+        "es": "Partido por la Protección Animal, el Ser Humano y el Medio Ambiente Berlín",
+        "pt": "Partido pela Proteção Animal, o Ser Humano e o Ambiente Berlim",
+        "it": "Partito per la Protezione degli Animali, l'Uomo e l'Ambiente Berlino",
+        "fr": "Parti pour la protection des animaux, l'humain et l'environnement Berlin"
+      },
+      "region": "DE-BE",
+      "city": "Berlin",
+      "website": "https://berlin.tierschutzpartei.de/",
+      "other": {
+        "kind": "group",
+        "url": "https://chat.whatsapp.com/FGYiefeRheR7QcjKcCCZfn",
+        "id": "FGYiefeRheR7QcjKcCCZfn",
+        "added": "2026-09-03"
+      },
+      "cadence": "daily",
+      "verified": "2026-09-03"
+    },
+    {
+      "id": "de-be-urbane",
+      "name": "Die Urbane. Berlin",
+      "abbreviation": "Die Urbane.",
+      "englishName": "Die Urbane. A HipHop Party (Berlin)",
+      "translations": {
+        "es": "Die Urbane. Un partido HipHop (Berlín)",
+        "pt": "Die Urbane. Um partido HipHop (Berlim)",
+        "it": "Die Urbane. Un partito HipHop (Berlino)",
+        "fr": "Die Urbane. Un parti HipHop (Berlin)"
+      },
+      "region": "DE-BE",
+      "city": "Berlin",
+      "noChannel": "2026-09-03",
+      "website": "https://www.die-urbane.de/",
+      "cadence": "daily",
+      "verified": "2026-09-03"
+    },
+    {
+      "id": "de-be-volt",
+      "name": "Volt Berlin",
+      "abbreviation": "Volt",
+      "region": "DE-BE",
+      "city": "Berlin",
+      "epGroup": "GREENS_EFA",
+      "website": "https://voltdeutschland.org/berlin/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbBwmKu90x33w7IhA00Z",
+        "id": "0029VbBwmKu90x33w7IhA00Z",
+        "added": "2026-09-03",
+        "source": "https://voltdeutschland.org/berlin/"
+      },
+      "cadence": "daily",
+      "verified": "2026-09-03"
+    },
+    {
       "id": "de-by-csu",
       "name": "CSU Bürgstadt",
       "abbreviation": "CSU",
       "englishName": "CSU Bürgstadt (local association)",
+      "translations": {
+        "es": "CSU Bürgstadt (agrupación local)",
+        "pt": "CSU Bürgstadt (associação local)",
+        "it": "CSU Bürgstadt (associazione locale)",
+        "fr": "CSU Bürgstadt (association locale)"
+      },
       "region": "DE-BY",
       "city": "Bürgstadt",
       "website": "https://www.csu.de/verbaende/ov/buergstadt/",
@@ -130,6 +370,12 @@
       "name": "Bündnis 90/Die Grünen Bayern",
       "abbreviation": "Grüne",
       "englishName": "Alliance 90/The Greens Bavaria",
+      "translations": {
+        "es": "Alianza 90/Los Verdes Baviera",
+        "pt": "Aliança 90/Os Verdes Baviera",
+        "it": "Alleanza 90/I Verdi Baviera",
+        "fr": "Alliance 90/Les Verts Bavière"
+      },
       "region": "DE-BY",
       "epGroup": "GREENS_EFA",
       "website": "https://www.gruene-bayern.de/",
@@ -147,6 +393,12 @@
       "name": "CDU",
       "abbreviation": "CDU",
       "englishName": "Christian Democratic Union of Germany",
+      "translations": {
+        "es": "Unión Demócrata Cristiana de Alemania",
+        "pt": "União Democrata-Cristã da Alemanha",
+        "it": "Unione Cristiano-Democratica di Germania",
+        "fr": "Union chrétienne-démocrate d'Allemagne"
+      },
       "website": "https://www.cdu.de/",
       "verified": "2026-08-31",
       "epGroup": "EPP",
@@ -159,19 +411,16 @@
       }
     },
     {
-      "id": "de-die-linke",
-      "name": "Die Linke",
-      "abbreviation": "Die Linke",
-      "englishName": "The Left",
-      "website": "https://www.die-linke.de/",
-      "verified": "2026-08-29",
-      "epGroup": "LEFT"
-    },
-    {
       "id": "de-fdp",
       "name": "FDP",
       "abbreviation": "FDP",
       "englishName": "Free Democratic Party",
+      "translations": {
+        "es": "Partido Democrático Libre",
+        "pt": "Partido Democrático Livre",
+        "it": "Partito Liberale Democratico",
+        "fr": "Parti libéral-démocrate"
+      },
       "website": "https://www.fdp.de/",
       "channel": {
         "kind": "channel",
@@ -183,19 +432,16 @@
       "epGroup": "RENEW"
     },
     {
-      "id": "de-gruene",
-      "name": "Bündnis 90/Die Grünen",
-      "abbreviation": "Grüne",
-      "englishName": "Alliance 90/The Greens",
-      "website": "https://www.gruene.de/",
-      "verified": "2026-08-28",
-      "epGroup": "GREENS_EFA"
-    },
-    {
       "id": "de-grune",
       "name": "Bündnis 90/Die Grünen",
       "abbreviation": "Grüne",
       "englishName": "Alliance 90/The Greens",
+      "translations": {
+        "es": "Alianza 90/Los Verdes",
+        "pt": "Aliança 90/Os Verdes",
+        "it": "Alleanza 90/I Verdi",
+        "fr": "Alliance 90/Les Verts"
+      },
       "website": "https://www.gruene.de/",
       "channel": {
         "kind": "channel",
@@ -212,6 +458,12 @@
       "name": "CDU Neu-Isenburg",
       "abbreviation": "CDU",
       "englishName": "CDU Neu-Isenburg (town association)",
+      "translations": {
+        "es": "CDU Neu-Isenburg (agrupación municipal)",
+        "pt": "CDU Neu-Isenburg (associação municipal)",
+        "it": "CDU Neu-Isenburg (associazione cittadina)",
+        "fr": "CDU Neu-Isenburg (association municipale)"
+      },
       "region": "DE-HE",
       "city": "Neu-Isenburg",
       "website": "https://cdu-neu-isenburg.de/",
@@ -230,6 +482,12 @@
       "name": "CDU Hamburg",
       "abbreviation": "CDU",
       "englishName": "CDU Hamburg (state association)",
+      "translations": {
+        "es": "CDU Hamburgo (federación estatal)",
+        "pt": "CDU Hamburgo (associação estadual)",
+        "it": "CDU Amburgo (associazione regionale)",
+        "fr": "CDU Hambourg (fédération régionale)"
+      },
       "region": "DE-HH",
       "website": "https://www.cduhamburg.de/",
       "channel": {
@@ -247,6 +505,12 @@
       "name": "Die Linke",
       "abbreviation": "Linke",
       "englishName": "The Left",
+      "translations": {
+        "es": "La Izquierda",
+        "pt": "A Esquerda",
+        "it": "La Sinistra",
+        "fr": "La Gauche"
+      },
       "website": "https://www.die-linke.de/",
       "channel": {
         "kind": "channel",
@@ -262,6 +526,12 @@
       "name": "CDU-Stadtverband Friesoythe",
       "abbreviation": "CDU",
       "englishName": "CDU Friesoythe (town association)",
+      "translations": {
+        "es": "CDU Friesoythe (agrupación municipal)",
+        "pt": "CDU Friesoythe (associação municipal)",
+        "it": "CDU Friesoythe (associazione cittadina)",
+        "fr": "CDU Friesoythe (association municipale)"
+      },
       "region": "DE-NI",
       "city": "Friesoythe",
       "website": "https://cdu-friesoythe.de/",
@@ -280,6 +550,12 @@
       "name": "CDU Niedersachsen",
       "abbreviation": "CDU",
       "englishName": "CDU in Lower Saxony (state association)",
+      "translations": {
+        "es": "CDU en Baja Sajonia (federación estatal)",
+        "pt": "CDU na Baixa Saxônia (associação estadual)",
+        "it": "CDU in Bassa Sassonia (associazione regionale)",
+        "fr": "CDU en Basse-Saxe (fédération régionale)"
+      },
       "region": "DE-NI",
       "epGroup": "EPP",
       "website": "https://www.cdu-niedersachsen.de/",
@@ -297,6 +573,12 @@
       "name": "CDU Rüthen",
       "abbreviation": "CDU",
       "englishName": "CDU Rüthen (town association)",
+      "translations": {
+        "es": "CDU Rüthen (agrupación municipal)",
+        "pt": "CDU Rüthen (associação municipal)",
+        "it": "CDU Rüthen (associazione cittadina)",
+        "fr": "CDU Rüthen (association municipale)"
+      },
       "region": "DE-NW",
       "city": "Rüthen",
       "website": "https://www.facebook.com/cduruethen/",
@@ -315,6 +597,12 @@
       "name": "Bündnis 90/Die Grünen NRW",
       "abbreviation": "Grüne",
       "englishName": "Alliance 90/The Greens North Rhine-Westphalia",
+      "translations": {
+        "es": "Alianza 90/Los Verdes Renania del Norte-Westfalia",
+        "pt": "Aliança 90/Os Verdes Renânia do Norte-Vestfália",
+        "it": "Alleanza 90/I Verdi Renania Settentrionale-Vestfalia",
+        "fr": "Alliance 90/Les Verts Rhénanie-du-Nord-Westphalie"
+      },
       "region": "DE-NW",
       "website": "https://gruene-nrw.de/",
       "channel": {
@@ -332,6 +620,12 @@
       "name": "CDU-Gemeindeverband Vallendar",
       "abbreviation": "CDU",
       "englishName": "CDU Vallendar (municipal association)",
+      "translations": {
+        "es": "CDU Vallendar (agrupación municipal)",
+        "pt": "CDU Vallendar (associação municipal)",
+        "it": "CDU Vallendar (associazione comunale)",
+        "fr": "CDU Vallendar (association communale)"
+      },
       "region": "DE-RP",
       "city": "Vallendar",
       "website": "https://www.cdu-myk.de/",
@@ -350,6 +644,12 @@
       "name": "SPD-Stadtverband Wörth",
       "abbreviation": "SPD",
       "englishName": "SPD Wörth am Rhein (town association)",
+      "translations": {
+        "es": "SPD Wörth am Rhein (agrupación municipal)",
+        "pt": "SPD Wörth am Rhein (associação municipal)",
+        "it": "SPD Wörth am Rhein (associazione cittadina)",
+        "fr": "SPD Wörth am Rhein (association municipale)"
+      },
       "region": "DE-RP",
       "city": "Wörth am Rhein",
       "channel": {
@@ -363,19 +663,59 @@
       "epGroup": "SD"
     },
     {
+      "id": "de-sgp",
+      "name": "Sozialistische Gleichheitspartei",
+      "abbreviation": "SGP",
+      "englishName": "Socialist Equality Party",
+      "translations": {
+        "es": "Partido Socialista de la Igualdad",
+        "pt": "Partido Socialista pela Igualdade",
+        "it": "Partito Socialista dell'Uguaglianza",
+        "fr": "Parti de l'égalité socialiste"
+      },
+      "website": "https://www.gleichheit.de/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb8j4ySFcovxOgPmmO1K",
+        "id": "0029Vb8j4ySFcovxOgPmmO1K",
+        "added": "2026-09-04",
+        "source": "https://www.whatsapp.com/channel/0029Vb8j4ySFcovxOgPmmO1K"
+      },
+      "verified": "2026-09-04"
+    },
+    {
       "id": "de-sh-ssw",
       "name": "Südschleswigscher Wählerverband",
       "abbreviation": "SSW",
       "englishName": "South Schleswig Voters' Association",
+      "translations": {
+        "es": "Asociación de Votantes de Schleswig del Sur",
+        "pt": "Associação de Eleitores da Schleswig do Sul",
+        "it": "Associazione degli Elettori dello Schleswig Meridionale",
+        "fr": "Association des électeurs du Slesvig du Sud"
+      },
       "region": "DE-SH",
+      "epGroup": "GREENS_EFA",
       "website": "https://www.ssw.de/",
-      "verified": "2026-08-29"
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbBhUuDKQuJIlnRYqh2T",
+        "id": "0029VbBhUuDKQuJIlnRYqh2T",
+        "added": "2026-09-03"
+      },
+      "verified": "2026-09-03"
     },
     {
       "id": "de-spd",
       "name": "SPD",
       "abbreviation": "SPD",
       "englishName": "Social Democratic Party of Germany",
+      "translations": {
+        "es": "Partido Socialdemócrata de Alemania",
+        "pt": "Partido Social-Democrata da Alemanha",
+        "it": "Partito Socialdemocratico di Germania",
+        "fr": "Parti social-démocrate d'Allemagne"
+      },
       "website": "https://www.spd.de/",
       "channel": {
         "kind": "channel",
@@ -392,6 +732,12 @@
       "name": "AfD Magdeburg",
       "abbreviation": "AfD",
       "englishName": "Alternative for Germany (Magdeburg branch)",
+      "translations": {
+        "es": "Alternativa para Alemania (agrupación de Magdeburgo)",
+        "pt": "Alternativa para a Alemanha (secção de Magdeburgo)",
+        "it": "Alternativa per la Germania (sezione di Magdeburgo)",
+        "fr": "Alternative pour l'Allemagne (section de Magdebourg)"
+      },
       "region": "DE-ST",
       "city": "Magdeburg",
       "channel": {
@@ -409,6 +755,12 @@
       "name": "Die Linke Sachsen-Anhalt (Landtagsfraktion)",
       "abbreviation": "Die Linke",
       "englishName": "The Left – Saxony-Anhalt state-parliament group",
+      "translations": {
+        "es": "La Izquierda – grupo parlamentario de Sajonia-Anhalt",
+        "pt": "A Esquerda – grupo parlamentar da Saxônia-Anhalt",
+        "it": "La Sinistra – gruppo parlamentare della Sassonia-Anhalt",
+        "fr": "La Gauche – groupe parlementaire de Saxe-Anhalt"
+      },
       "region": "DE-ST",
       "channel": {
         "kind": "channel",
@@ -425,6 +777,12 @@
       "name": "Bündnis 90/Die Grünen Sachsen-Anhalt",
       "abbreviation": "Grüne",
       "englishName": "Alliance 90/The Greens Saxony-Anhalt",
+      "translations": {
+        "es": "Alianza 90/Los Verdes Sajonia-Anhalt",
+        "pt": "Aliança 90/Os Verdes Saxônia-Anhalt",
+        "it": "Alleanza 90/I Verdi Sassonia-Anhalt",
+        "fr": "Alliance 90/Les Verts Saxe-Anhalt"
+      },
       "region": "DE-ST",
       "website": "https://www.gruene-lsa.de/",
       "channel": {
