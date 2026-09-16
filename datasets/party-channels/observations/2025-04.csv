@@ -1,10 +1,10 @@
 checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
-2025-04-20T12:00:00Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX,200,channel,archive,https://web.archive.org/web/20250420/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
-2025-04-15T23:54:24Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20250415235424/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2025-04-08T17:56:04Z,at-spo,0029VaCBWZyAe5Vqthvl7Q1M,ok,1100,rounded,,SPÖ,200,channel,archive,https://web.archive.org/web/20250408175604/https://www.whatsapp.com/channel/0029VaCBWZyAe5Vqthvl7Q1M
 2025-04-09T13:56:50Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,20000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20250409135650/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
 2025-04-13T08:05:26Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,1900,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20250413080526/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
 2025-04-14T01:30:24Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,1900,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20250414013024/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
+2025-04-15T23:54:24Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20250415235424/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
+2025-04-20T12:00:00Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX,200,channel,archive,https://web.archive.org/web/20250420/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2025-04-20T17:30:12Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,59000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20250420173012/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
 2025-04-25T01:58:34Z,pt-be,0029VaHrLkJEAKW5iusblX1K,ok,2300,rounded,,Bloco de Esquerda,200,channel,archive,https://web.archive.org/web/20250425015834/https://www.whatsapp.com/channel/0029VaHrLkJEAKW5iusblX1K
 2025-04-26T02:11:19Z,it-iv,0029VaCOS6XAjPXLhdgcZR2f,ok,38000,rounded,,Matteo Renzi,200,channel,archive,https://web.archive.org/web/20250426021119/https://www.whatsapp.com/channel/0029VaCOS6XAjPXLhdgcZR2f

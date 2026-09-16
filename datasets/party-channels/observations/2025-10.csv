@@ -1,9 +1,8 @@
 checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
-2025-10-14T12:00:00Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,24000,rounded,,VOX,200,channel,archive,https://web.archive.org/web/20251014/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
-2025-10-05T19:37:27Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,22000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20251005193727/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2025-10-03T10:44:21Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,59000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20251003104421/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
 2025-10-03T11:30:39Z,pt-be,0029VaHrLkJEAKW5iusblX1K,ok,2600,rounded,,Bloco de Esquerda,200,channel,archive,https://web.archive.org/web/20251003113039/https://www.whatsapp.com/channel/0029VaHrLkJEAKW5iusblX1K
 2025-10-05T15:30:21Z,de-bb-grune,0029VauE700AInPjDfFFPT0j,ok,67,exact,,GRÜNE Oder-Spree,200,channel,archive,https://web.archive.org/web/20251005153021/https://www.whatsapp.com/channel/0029VauE700AInPjDfFFPT0j
+2025-10-05T19:37:27Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,22000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20251005193727/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2025-10-06T08:02:14Z,it-75-modugno-m5s-modugno,0029VaDZVAU6hENq64FNIq2f,ok,18,exact,,Modugno A 5 Stelle,200,channel,archive,https://web.archive.org/web/20251006080214/https://www.whatsapp.com/channel/0029VaDZVAU6hENq64FNIq2f
 2025-10-06T10:26:38Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,20000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20251006102638/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
 2025-10-08T07:20:54Z,de-ni-cdu,0029VaaE9wmCHDyfdJwcmR08,ok,172,exact,,CDU-Stadtverband Friesoythe,200,channel,archive,https://web.archive.org/web/20251008072054/https://www.whatsapp.com/channel/0029VaaE9wmCHDyfdJwcmR08
@@ -13,6 +12,7 @@ checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,ht
 2025-10-11T20:07:58Z,de-ni-cdu-landesverband,0029VaNnGe929755vyAwN81C,ok,2900,rounded,,CDU-Politik für Niedersachsen,200,channel,archive,https://web.archive.org/web/20251011200758/https://www.whatsapp.com/channel/0029VaNnGe929755vyAwN81C
 2025-10-12T01:33:39Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,30000,rounded,,SPD,200,channel,archive,https://web.archive.org/web/20251012013339/https://www.whatsapp.com/channel/0029VaDCDYDKrWQzJXHTJv0e
 2025-10-13T02:13:33Z,es-pv-eaj-pnv,0029Va8Vp1T2UPBGAcxMBz32,ok,5700,rounded,,EAJ-PNV,200,channel,archive,https://web.archive.org/web/20251013021333/https://www.whatsapp.com/channel/0029Va8Vp1T2UPBGAcxMBz32
+2025-10-14T12:00:00Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,24000,rounded,,VOX,200,channel,archive,https://web.archive.org/web/20251014/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2025-10-16T09:14:54Z,nl-sgp,0029VaDLxdM7z4kfdsHvfS2K,ok,2700,rounded,,SGP,200,channel,archive,https://web.archive.org/web/20251016091454/https://www.whatsapp.com/channel/0029VaDLxdM7z4kfdsHvfS2K
 2025-10-17T05:10:12Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,20000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20251017051012/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
 2025-10-17T10:45:04Z,pt-be,0029VaHrLkJEAKW5iusblX1K,ok,2600,rounded,,Bloco de Esquerda,200,channel,archive,https://web.archive.org/web/20251017104504/https://www.whatsapp.com/channel/0029VaHrLkJEAKW5iusblX1K

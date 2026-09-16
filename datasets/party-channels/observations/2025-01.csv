@@ -1,9 +1,8 @@
 checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
-2025-01-14T12:00:00Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX,200,channel,archive,https://web.archive.org/web/20250114/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
-2025-01-20T20:23:29Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20250120202329/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2025-01-13T09:46:04Z,es-vc-mes-compromis,0029Va8cu6I17En2HY58S90J,ok,1000,rounded,,Compromís,200,channel,archive,https://web.archive.org/web/20250113094604/https://www.whatsapp.com/channel/0029Va8cu6I17En2HY58S90J
 2025-01-14T09:06:16Z,es-ga-o-grove-eu-o-grove,0029VaSQitS3WHTO8SKnkV1b,ok,3,exact,,Actualidade EU O Grove,200,channel,archive,https://web.archive.org/web/20250114090616/https://www.whatsapp.com/channel/0029VaSQitS3WHTO8SKnkV1b
 2025-01-14T09:08:09Z,de-ni-cdu-landesverband,0029VaNnGe929755vyAwN81C,ok,2800,rounded,,CDU-Politik für Niedersachsen,200,channel,archive,https://web.archive.org/web/20250114090809/https://www.whatsapp.com/channel/0029VaNnGe929755vyAwN81C
+2025-01-14T12:00:00Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX,200,channel,archive,https://web.archive.org/web/20250114/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2025-01-15T05:11:51Z,it-75-modugno-m5s-modugno,0029VaDZVAU6hENq64FNIq2f,ok,17,exact,,Modugno A 5 Stelle,200,channel,archive,https://web.archive.org/web/20250115051151/https://www.whatsapp.com/channel/0029VaDZVAU6hENq64FNIq2f
 2025-01-15T18:38:44Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,16000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20250115183844/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
 2025-01-16T10:31:00Z,de-st-grune,0029VakBvxx0Vyc7cCq2sM1A,ok,929,exact,,DIE GRÜNEN Sachsen-Anhalt,200,channel,archive,https://web.archive.org/web/20250116103100/https://www.whatsapp.com/channel/0029VakBvxx0Vyc7cCq2sM1A
@@ -11,6 +10,7 @@ checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,ht
 2025-01-19T12:14:16Z,pt-ch,0029VaD2DqD3QxS133VKTQ2z,ok,9800,rounded,,André Ventura,200,channel,archive,https://web.archive.org/web/20250119121416/https://www.whatsapp.com/channel/0029VaD2DqD3QxS133VKTQ2z
 2025-01-19T19:57:01Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,2300,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20250119195701/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
 2025-01-19T22:47:10Z,de-grune,0029VadW99X2kNFogn540h07,ok,22000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20250119224710/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07
+2025-01-20T20:23:29Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20250120202329/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2025-01-22T12:29:59Z,de-be-berlin-grune-marzahn-hellersdorf,0029VaxyPKoFi8xV3B1jXA2B,ok,33,exact,,GRÜNE Marzahn-Hellersdorf,200,channel,archive,https://web.archive.org/web/20250122122959/https://www.whatsapp.com/channel/0029VaxyPKoFi8xV3B1jXA2B
 2025-01-22T13:36:46Z,de-grune,0029VadW99X2kNFogn540h07,ok,22000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20250122133646/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07
 2025-01-23T10:08:07Z,de-grune,0029VadW99X2kNFogn540h07,ok,22000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20250123100807/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07

@@ -1,8 +1,8 @@
 checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
-2024-11-04T06:05:38Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20241104060538/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2024-11-01T19:09:38Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,13000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20241101190938/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
 2024-11-01T22:47:43Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,1500,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20241101224743/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
 2024-11-01T23:08:00Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,3400,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20241101230800/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k
+2024-11-04T06:05:38Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,10000,rounded,,VOX España,200,channel,archive,https://web.archive.org/web/20241104060538/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2024-11-04T21:53:32Z,de-ni-cdu,0029VaaE9wmCHDyfdJwcmR08,ok,116,exact,,CDU-Stadtverband Friesoythe,200,channel,archive,https://web.archive.org/web/20241104215332/https://www.whatsapp.com/channel/0029VaaE9wmCHDyfdJwcmR08
 2024-11-06T01:42:22Z,es-ct-bcomu,0029Va97rJf0AgW3PrmreK3m,ok,256,exact,,Barcelona en Comú,200,channel,archive,https://web.archive.org/web/20241106014222/https://www.whatsapp.com/channel/0029Va97rJf0AgW3PrmreK3m
 2024-11-06T14:05:46Z,de-ni-cdu-landesverband,0029VaNnGe929755vyAwN81C,ok,2600,rounded,,CDU-Politik für Niedersachsen,200,channel,archive,https://web.archive.org/web/20241106140546/https://www.whatsapp.com/channel/0029VaNnGe929755vyAwN81C

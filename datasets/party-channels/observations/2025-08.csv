@@ -1,9 +1,9 @@
 checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
-2025-08-05T12:00:00Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,19000,rounded,,VOX,200,channel,archive,https://web.archive.org/web/20250805/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2025-08-02T10:48:10Z,de-grune,0029VadW99X2kNFogn540h07,ok,29000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20250802104810/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07
 2025-08-04T12:57:31Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,6700,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20250804125731/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k
 2025-08-04T21:44:46Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,20000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20250804214446/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
-2025-08-04T23:25:15Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,238,exact,,+Europa,200,channel,archive,https://web.archive.org/web/20250804232515/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
+2025-08-04T23:25:15Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,238,exact,,'+Europa,200,channel,archive,https://web.archive.org/web/20250804232515/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
+2025-08-05T12:00:00Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,19000,rounded,,VOX,200,channel,archive,https://web.archive.org/web/20250805/https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E
 2025-08-05T12:47:38Z,es-psoe,0029VaCqsmk1XquVbS6T1u08,ok,4500,rounded,,PSOE 🌹,200,channel,archive,https://web.archive.org/web/20250805124738/https://www.whatsapp.com/channel/0029VaCqsmk1XquVbS6T1u08
 2025-08-06T17:06:03Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,2100,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20250806170603/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
 2025-08-06T20:40:33Z,es-ga-o-grove-eu-o-grove,0029VaSQitS3WHTO8SKnkV1b,ok,3,exact,,Actualidade EU O Grove,200,channel,archive,https://web.archive.org/web/20250806204033/https://www.whatsapp.com/channel/0029VaSQitS3WHTO8SKnkV1b

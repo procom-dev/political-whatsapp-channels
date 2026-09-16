@@ -1,0 +1,133 @@
+{
+  "country": "SE",
+  "parties": [
+    {
+      "id": "se-c",
+      "name": "Centerpartiet",
+      "abbreviation": "C",
+      "englishName": "Centre Party",
+      "translations": {
+        "es": "Partido de Centro",
+        "pt": "Partido do Centro",
+        "it": "Partito di Centro",
+        "fr": "Parti du centre"
+      },
+      "epGroup": "RENEW",
+      "noChannel": "2026-09-14",
+      "website": "https://www.centerpartiet.se/",
+      "verified": "2026-09-14"
+    },
+    {
+      "id": "se-kd",
+      "name": "Kristdemokraterna",
+      "abbreviation": "KD",
+      "englishName": "Christian Democrats",
+      "translations": {
+        "es": "Demócratas Cristianos",
+        "pt": "Democratas-Cristãos",
+        "it": "Democratici Cristiani",
+        "fr": "Chrétiens-démocrates"
+      },
+      "epGroup": "EPP",
+      "noChannel": "2026-09-14",
+      "website": "https://kristdemokraterna.se/",
+      "verified": "2026-09-14"
+    },
+    {
+      "id": "se-l",
+      "name": "Liberalerna",
+      "abbreviation": "L",
+      "englishName": "Liberals",
+      "translations": {
+        "es": "Los Liberales",
+        "pt": "Os Liberais",
+        "it": "I Liberali",
+        "fr": "Les Libéraux"
+      },
+      "epGroup": "RENEW",
+      "noChannel": "2026-09-14",
+      "website": "https://www.liberalerna.se/",
+      "verified": "2026-09-14"
+    },
+    {
+      "id": "se-m",
+      "name": "Moderaterna",
+      "abbreviation": "M",
+      "englishName": "Moderate Party",
+      "translations": {
+        "es": "Partido Moderado",
+        "pt": "Partido Moderado",
+        "it": "Partito Moderato",
+        "fr": "Parti modéré"
+      },
+      "epGroup": "EPP",
+      "noChannel": "2026-09-14",
+      "website": "https://moderaterna.se/",
+      "verified": "2026-09-14"
+    },
+    {
+      "id": "se-mp",
+      "name": "Miljöpartiet de gröna",
+      "abbreviation": "MP",
+      "englishName": "Green Party",
+      "translations": {
+        "es": "Partido Verde",
+        "pt": "Partido Verde",
+        "it": "I Verdi",
+        "fr": "Les Verts"
+      },
+      "epGroup": "GREENS_EFA",
+      "noChannel": "2026-09-14",
+      "website": "https://www.mp.se/",
+      "verified": "2026-09-14"
+    },
+    {
+      "id": "se-s",
+      "name": "Socialdemokraterna",
+      "abbreviation": "S",
+      "englishName": "Swedish Social Democratic Party",
+      "translations": {
+        "es": "Partido Socialdemócrata Sueco",
+        "pt": "Partido Social-Democrata Sueco",
+        "it": "Partito Socialdemocratico Svedese",
+        "fr": "Parti social-démocrate suédois"
+      },
+      "epGroup": "SD",
+      "noChannel": "2026-09-14",
+      "website": "https://www.socialdemokraterna.se/",
+      "verified": "2026-09-14"
+    },
+    {
+      "id": "se-sd",
+      "name": "Sverigedemokraterna",
+      "abbreviation": "SD",
+      "englishName": "Sweden Democrats",
+      "translations": {
+        "es": "Demócratas de Suecia",
+        "pt": "Democratas da Suécia",
+        "it": "Democratici Svedesi",
+        "fr": "Démocrates de Suède"
+      },
+      "epGroup": "ECR",
+      "noChannel": "2026-09-14",
+      "website": "https://sd.se/",
+      "verified": "2026-09-14"
+    },
+    {
+      "id": "se-v",
+      "name": "Vänsterpartiet",
+      "abbreviation": "V",
+      "englishName": "Left Party",
+      "translations": {
+        "es": "Partido de Izquierda",
+        "pt": "Partido de Esquerda",
+        "it": "Partito della Sinistra",
+        "fr": "Parti de gauche"
+      },
+      "epGroup": "LEFT",
+      "noChannel": "2026-09-14",
+      "website": "https://www.vansterpartiet.se/",
+      "verified": "2026-09-14"
+    }
+  ]
+}

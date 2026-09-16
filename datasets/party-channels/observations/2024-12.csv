@@ -2,14 +2,14 @@ checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,ht
 2024-12-04T12:19:28Z,nl-sgp,0029VaDLxdM7z4kfdsHvfS2K,ok,1000,rounded,,SGP,200,channel,archive,https://web.archive.org/web/20241204121928/https://www.whatsapp.com/channel/0029VaDLxdM7z4kfdsHvfS2K
 2024-12-04T18:33:45Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,1900,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20241204183345/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
 2024-12-05T00:39:28Z,at-6-fpo-kunasek,0029VacXqzMDDmFaXM5Pza1k,ok,618,exact,,Mario Kunasek,200,channel,archive,https://web.archive.org/web/20241205003928/https://www.whatsapp.com/channel/0029VacXqzMDDmFaXM5Pza1k
-2024-12-05T01:22:48Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,252,exact,,+Europa,200,channel,archive,https://web.archive.org/web/20241205012248/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
+2024-12-05T01:22:48Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,252,exact,,'+Europa,200,channel,archive,https://web.archive.org/web/20241205012248/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
 2024-12-07T06:03:22Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,2000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20241207060322/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
 2024-12-09T08:44:28Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,1700,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20241209084428/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
 2024-12-09T08:49:02Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,15000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20241209084902/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
 2024-12-10T18:02:51Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,1700,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20241210180251/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
 2024-12-11T13:01:14Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,5000,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20241211130114/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k
 2024-12-12T09:49:11Z,pt-ch,0029VaD2DqD3QxS133VKTQ2z,ok,9700,rounded,,André Ventura,200,channel,archive,https://web.archive.org/web/20241212094911/https://www.whatsapp.com/channel/0029VaD2DqD3QxS133VKTQ2z
-2024-12-13T21:21:23Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,251,exact,,+Europa,200,channel,archive,https://web.archive.org/web/20241213212123/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
+2024-12-13T21:21:23Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,251,exact,,'+Europa,200,channel,archive,https://web.archive.org/web/20241213212123/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
 2024-12-16T05:59:21Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,2000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20241216055921/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
 2024-12-17T20:13:17Z,pt-cdu,0029Va7ceYdAjPXEILlfID1X,ok,1700,rounded,,PCP - Partido Comunista Português,200,channel,archive,https://web.archive.org/web/20241217201317/https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X
 2024-12-17T21:20:57Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,2000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20241217212057/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
@@ -19,4 +19,4 @@ checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,ht
 2024-12-22T12:53:28Z,de-grune,0029VadW99X2kNFogn540h07,ok,20000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20241222125328/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07
 2024-12-24T23:01:18Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,15000,rounded,,CDU Deutschlands,200,channel,archive,https://web.archive.org/web/20241224230118/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
 2024-12-26T09:02:35Z,de-grune,0029VadW99X2kNFogn540h07,ok,20000,rounded,,BÜNDNIS 90/DIE GRÜNEN,200,channel,archive,https://web.archive.org/web/20241226090235/https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07
-2024-12-29T17:47:06Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,251,exact,,+Europa,200,channel,archive,https://web.archive.org/web/20241229174706/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
+2024-12-29T17:47:06Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,251,exact,,'+Europa,200,channel,archive,https://web.archive.org/web/20241229174706/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d

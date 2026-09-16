@@ -1,7 +1,7 @@
 checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
 2025-03-02T16:42:36Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,6400,rounded,,FDP,200,channel,archive,https://web.archive.org/web/20250302164236/https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k
 2025-03-06T11:56:24Z,at-spo,0029VaCBWZyAe5Vqthvl7Q1M,ok,326,exact,,SPÖ,200,channel,archive,https://web.archive.org/web/20250306115624/https://www.whatsapp.com/channel/0029VaCBWZyAe5Vqthvl7Q1M
-2025-03-14T12:20:14Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,251,exact,,+Europa,200,channel,archive,https://web.archive.org/web/20250314122014/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
+2025-03-14T12:20:14Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,251,exact,,'+Europa,200,channel,archive,https://web.archive.org/web/20250314122014/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
 2025-03-15T14:15:25Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,50000,rounded,,Die Linke,200,channel,archive,https://web.archive.org/web/20250315141525/https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S
 2025-03-15T16:40:22Z,es-pv-eh-bildu,0029VaETvrgKLaHr4JYmrl3V,ok,2000,rounded,,EH Bildu,200,channel,archive,https://web.archive.org/web/20250315164022/https://www.whatsapp.com/channel/0029VaETvrgKLaHr4JYmrl3V
 2025-03-20T04:04:36Z,nl-vvd,0029VaCyQQpC1FuAiUvfWJ3S,ok,1100,rounded,,VVD,200,channel,archive,https://web.archive.org/web/20250320040436/https://www.whatsapp.com/channel/0029VaCyQQpC1FuAiUvfWJ3S

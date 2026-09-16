@@ -1,6 +1,6 @@
 checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,http_status,kind,source,source_url
 2024-06-03T18:16:33Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,11038,exact,,CDU Deutschlands | WhatsApp-Kanal,200,channel,archive,https://web.archive.org/web/20240603181633/https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636
-2024-06-08T17:59:24Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,277,exact,,+Europa | WhatsApp-kanaal,200,channel,archive,https://web.archive.org/web/20240608175924/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
+2024-06-08T17:59:24Z,it-e,0029VaazaCd0wajweqtOWT0d,ok,277,exact,,'+Europa | WhatsApp-kanaal,200,channel,archive,https://web.archive.org/web/20240608175924/https://www.whatsapp.com/channel/0029VaazaCd0wajweqtOWT0d
 2024-06-11T08:47:30Z,de-st-die-linke,0029VaMm2t3CMY0JNGNsou1u,ok,153,exact,,Fraktion Die Linke im Landtag von Sachsen-Anhalt | Canal do WhatsApp,200,channel,archive,https://web.archive.org/web/20240611084730/https://www.whatsapp.com/channel/0029VaMm2t3CMY0JNGNsou1u
 2024-06-12T06:28:05Z,es-pv-eaj-pnv,0029Va8Vp1T2UPBGAcxMBz32,ok,4200,rounded,,EAJ-PNV,200,channel,archive,https://web.archive.org/web/20240612062805/https://www.whatsapp.com/channel/0029Va8Vp1T2UPBGAcxMBz32
 2024-06-12T18:17:59Z,es-cl-valladolid-pce-valladolid,0029VaY1iS53GJOpnPEBGD2E,ok,8,exact,,PCE Valladolid,200,channel,archive,https://web.archive.org/web/20240612181759/https://www.whatsapp.com/channel/0029VaY1iS53GJOpnPEBGD2E
