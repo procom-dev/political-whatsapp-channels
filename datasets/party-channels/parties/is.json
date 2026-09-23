@@ -1,0 +1,55 @@
+{
+  "country": "IS",
+  "parties": [
+    {
+      "id": "is-b",
+      "name": "Framsóknarflokkurinn",
+      "abbreviation": "B",
+      "englishName": "Progressive Party",
+      "website": "https://framsokn.is/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "is-c",
+      "name": "Viðreisn",
+      "abbreviation": "C",
+      "englishName": "Liberal Reform Party",
+      "europarty": "ALDE",
+      "website": "https://vidreisn.is/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "is-d",
+      "name": "Sjálfstæðisflokkurinn",
+      "abbreviation": "D",
+      "englishName": "Independence Party",
+      "website": "https://xd.is/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "is-f",
+      "name": "Flokkur fólksins",
+      "abbreviation": "F",
+      "englishName": "People's Party",
+      "website": "https://www.flokkurfolksins.is/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "is-m",
+      "name": "Miðflokkurinn",
+      "abbreviation": "M",
+      "englishName": "Centre Party",
+      "website": "https://midflokkurinn.is/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "is-s",
+      "name": "Samfylkingin",
+      "abbreviation": "S",
+      "englishName": "Social Democratic Alliance",
+      "europarty": "PES",
+      "website": "https://www.samfylkingin.is/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

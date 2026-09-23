@@ -1,0 +1,68 @@
+{
+  "country": "PL",
+  "parties": [
+    {
+      "id": "pl-nowa-lewica",
+      "name": "Nowa Lewica",
+      "englishName": "New Left",
+      "europarty": "PES",
+      "website": "https://lewica.org.pl/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "pl-nowa-nadzieja",
+      "name": "Nowa Nadzieja",
+      "englishName": "New Hope",
+      "europarty": "ESN_PARTY",
+      "website": "https://wolnosc.pl/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "pl-partia-razem",
+      "name": "Partia Razem",
+      "website": "https://partiarazem.pl/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "pl-po",
+      "name": "Platforma Obywatelska",
+      "abbreviation": "PO",
+      "englishName": "Civic Platform",
+      "europarty": "EPP",
+      "website": "https://www.platforma.org",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "pl-polskie-stronnictwo-ludowe",
+      "name": "Polskie Stronnictwo Ludowe",
+      "englishName": "Polish People's Party",
+      "europarty": "EPP",
+      "website": "https://www.psl.pl",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "pl-prawo-i-sprawiedliwosc",
+      "name": "Prawo i Sprawiedliwość",
+      "englishName": "Law and Justice",
+      "europarty": "ECR_PARTY",
+      "website": "https://www.pis.org.pl",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "pl-ruch-narodowy",
+      "name": "Ruch Narodowy",
+      "englishName": "National Movement",
+      "europarty": "PATRIOTS",
+      "website": "https://ruch-narodowy.pl/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "pl-zieloni",
+      "name": "Zieloni",
+      "englishName": "The Greens",
+      "europarty": "EGP",
+      "website": "https://partiazieloni.pl/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

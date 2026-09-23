@@ -1,6 +1,41 @@
 {
   "version": 1,
   "parties": {
+    "ad-ae": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "ad-c": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "ad-da": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "ad-ps": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "al-pd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 7
+    },
+    "al-ps": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "al-psd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
     "at-fpo": {
       "checkedAt": "2026-08-31",
       "outcome": "robots",
@@ -20,6 +55,76 @@
       "checkedAt": "2026-08-31",
       "outcome": "found",
       "pages": 8
+    },
+    "ax-af": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "ax-c": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "ax-hi": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "ax-lib": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "ax-msa": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "ax-obs": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "ax-s": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "ba-hdz-bih": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "ba-nip": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "ba-ns": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "ba-sda": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "ba-sdp-bih": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "ba-sds": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "ba-snsd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
     },
     "be-bru-bruxelles-ps-bruxelles": {
       "checkedAt": "2026-09-07",
@@ -86,6 +191,221 @@
       "outcome": "unreachable",
       "pages": 1
     },
+    "bg-bsp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "bg-dps": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "bg-dsb": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "bg-gerb": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "bg-itn": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "bg-pp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "bg-vazrazhdane": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "ch-die-mitte": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "ch-evp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "ch-fdp": {
+      "checkedAt": "2026-09-18",
+      "outcome": "found",
+      "pages": 8
+    },
+    "ch-glp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "ch-gps": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "ch-sp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "ch-svp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "cy-akel": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "cy-alma": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "cy-diko": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "cy-disy": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "cy-edek": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "cy-elam": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "cy-greens": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "cz-10-praha-ano": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "cz-10-praha-kdu-csl": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "cz-10-praha-pirati": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "cz-10-praha-ps": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "cz-10-praha-spd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "cz-10-praha-stan": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "cz-ano": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "cz-auto": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "cz-ceska-piratska-strana": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "cz-cssd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "cz-kdu-csl": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "cz-ods": {
+      "checkedAt": "2026-09-18",
+      "outcome": "found",
+      "pages": 2
+    },
+    "cz-prisaha": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "cz-pro": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "cz-sen-21": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "cz-slk": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "cz-spd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "cz-stan": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "cz-strana-zelenych": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "cz-svobodni": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "cz-top-09": {
+      "checkedAt": "2026-09-18",
+      "outcome": "found",
+      "pages": 2
+    },
+    "cz-trikolora": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
     "de-afd": {
       "checkedAt": "2026-08-31",
       "outcome": "none",
@@ -140,6 +460,96 @@
       "checkedAt": "2026-08-31",
       "outcome": "none",
       "pages": 8
+    },
+    "dk-a": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 5
+    },
+    "dk-aa": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "dk-ae": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "dk-b": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "dk-c": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "dk-f": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "dk-h": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 5
+    },
+    "dk-i": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 5
+    },
+    "dk-m": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "dk-o": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "dk-oe": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "dk-v": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "ee-e200": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "ee-ekre": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "ee-i": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "ee-kesk": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "ee-re": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "ee-sde": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
     },
     "es-cn-coalicion-canaria": {
       "checkedAt": "2026-09-07",
@@ -200,6 +610,66 @@
       "checkedAt": "2026-08-31",
       "outcome": "none",
       "pages": 3
+    },
+    "fi-c": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "fi-kd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "fi-ncp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "fi-pps": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "fi-ps": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "fi-sdp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "fi-vasemmistoliitto": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "fi-vihrea-liitto": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "fo-a": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "fo-b": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "fo-c": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "fo-e": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
     },
     "fr-eelv": {
       "checkedAt": "2026-08-31",
@@ -271,6 +741,21 @@
       "outcome": "none",
       "pages": 3
     },
+    "gi-gsd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "gi-gslp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "gi-lpg": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
     "gr": {
       "checkedAt": "2026-08-31",
       "outcome": "none",
@@ -304,6 +789,186 @@
     "gr-syriza": {
       "checkedAt": "2026-08-31",
       "outcome": "unreachable",
+      "pages": 1
+    },
+    "hr-centar": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "hr-dom-i-nacionalno-okupljanje": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "hr-hds": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "hr-hdz": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "hr-hrvatski-suverenisti": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "hr-hss": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "hr-ids-ddi": {
+      "checkedAt": "2026-09-18",
+      "outcome": "found",
+      "pages": 2
+    },
+    "hr-most": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "hr-mozemo": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "hr-sdp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "hu-dk": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "hu-fidesz": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "hu-jobbik": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "hu-kdnp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "hu-lmp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "hu-mi-hazank": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "hu-momentum": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "hu-mszp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "hu-parbeszed": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "hu-tisza": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "ie-aontu": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "ie-ff": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "ie-fg": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "ie-gp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 7
+    },
+    "ie-human-dignity-alliance": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "ie-independent-ireland": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "ie-labour-party": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "ie-pbp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "ie-sd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "ie-sf": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "is-b": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "is-c": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "is-d": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "is-f": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "is-m": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "is-s": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
       "pages": 1
     },
     "it-avs": {
@@ -340,6 +1005,221 @@
       "checkedAt": "2026-08-31",
       "outcome": "none",
       "pages": 1
+    },
+    "li-dpl": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "li-fbp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "li-fl": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "li-vu": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "lt-demokratu-sajunga-vardan-lietuvos": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "lt-liberalu-sajudis": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "lt-lietuvos-lenku-rinkimu-akcija-krikscionisku-seimu-sajunga": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "lt-lietuvos-valstieciu-ir-zaliuju-sajunga": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "lt-lsdp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 6
+    },
+    "lt-na": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "lt-tautos-ir-teisingumo-sajunga-centristai-tautininkai": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "lt-ts-lkd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "lu-adr": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "lu-csv": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "lu-dei-greng": {
+      "checkedAt": "2026-09-18",
+      "outcome": "found",
+      "pages": 4
+    },
+    "lu-dei-lenk": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "lu-dp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "lu-lsap": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 5
+    },
+    "lu-piraten": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "lv-as": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "lv-lpv": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "lv-na": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "lv-progresivie": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "lv-s": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "lv-vienotiba": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "lv-zzs": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "md-pas": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "md-pn": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "md-ppda": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "md-psrm": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "me-bs": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "me-demokrate": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "me-dps": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "me-pes": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "me-ura": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "mk-dui": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "mk-levica": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "mk-sdsm": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "mk-vmro-dpmne": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "mk-znam": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "mt-adpd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "mt-partit-laburista": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "mt-partit-nazzjonalista": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 7
     },
     "nl-bbb": {
       "checkedAt": "2026-08-31",
@@ -411,6 +1291,91 @@
       "outcome": "found",
       "pages": 3
     },
+    "no-ap": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "no-frp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "no-h": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 5
+    },
+    "no-krf": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "no-mdg": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "no-r": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "no-sp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "no-sv": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "no-v": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "pl-nowa-lewica": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 5
+    },
+    "pl-nowa-nadzieja": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "pl-partia-razem": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "pl-po": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "pl-polskie-stronnictwo-ludowe": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "pl-prawo-i-sprawiedliwosc": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 6
+    },
+    "pl-ruch-narodowy": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "pl-zieloni": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
     "pt-30-jpp": {
       "checkedAt": "2026-08-31",
       "outcome": "none",
@@ -451,6 +1416,81 @@
       "outcome": "none",
       "pages": 2
     },
+    "ro-amt": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "ro-aur": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "ro-pnl": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "ro-pot": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "ro-psd": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "ro-sos": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "ro-udmr": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "ro-udscr": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "ro-usr": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "rs-ds": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "rs-dveri": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "rs-sns": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "rs-sps": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "rs-ssp": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "rs-svm": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
     "se-c": {
       "checkedAt": "2026-09-14",
       "outcome": "unreachable",
@@ -490,6 +1530,166 @@
       "checkedAt": "2026-09-14",
       "outcome": "unreachable",
       "pages": 1
+    },
+    "si-demokrati": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "si-fokus": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "si-gs": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "si-levica": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "si-nova-slovenija": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 7
+    },
+    "si-resni-ca": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "si-slovenska-demokratska-stranka": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "si-slovenska-ljudska-stranka": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "si-socialni-demokrati": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 6
+    },
+    "sk-demokrati": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "sk-hlas": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "sk-konzervativci-krestanska-unia": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "sk-krestanskodemokraticke-hnutie": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "sk-progresivne-slovensko": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "sk-sloboda-a-solidarita": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "sk-slovensko": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "sk-smer-socialna-demokracia": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "sk-sns": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "sm-dml": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 4
+    },
+    "sm-libera": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 2
+    },
+    "sm-pdcs": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 6
+    },
+    "sm-rete": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "sm-rf": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "ua-batkivshchyna": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "ua-es": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "ua-holos": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 8
+    },
+    "ua-sn": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "xk-aak": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 3
+    },
+    "xk-ldk": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "xk-lvv": {
+      "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "xk-pdk": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "xk-sl": {
+      "checkedAt": "2026-09-21",
+      "outcome": "unreachable",
+      "pages": 0
     }
   }
 }

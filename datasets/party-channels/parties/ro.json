@@ -1,0 +1,84 @@
+{
+  "country": "RO",
+  "parties": [
+    {
+      "id": "ro-amt",
+      "name": "Alianța Maghiară din Transilvania",
+      "abbreviation": "AMT",
+      "europarty": "EFA",
+      "website": "https://emsz.org/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ro-aur",
+      "name": "Alianța pentru Unirea Românilor",
+      "abbreviation": "AUR",
+      "englishName": "Alliance for the Union of Romanians",
+      "europarty": "ECR_PARTY",
+      "website": "https://partidulaur.ro",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ro-pnl",
+      "name": "Partidul Național Liberal",
+      "abbreviation": "PNL",
+      "englishName": "National Liberal Party",
+      "europarty": "ALDE",
+      "website": "https://pnl.ro",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ro-pot",
+      "name": "Partidul Oamenilor Tineri",
+      "abbreviation": "POT",
+      "englishName": "Party of Young People",
+      "website": "https://sieupot.ro/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ro-psd",
+      "name": "Partidul Social Democrat",
+      "abbreviation": "PSD",
+      "englishName": "Social Democratic Party",
+      "europarty": "PES",
+      "website": "https://www.psd.ro/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ro-sos",
+      "name": "S.O.S. România",
+      "abbreviation": "SOS",
+      "englishName": "S.O.S. Romania",
+      "epGroup": "NI",
+      "website": "https://sosro.ro/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ro-udmr",
+      "name": "Uniunea Democrată Maghiară din România",
+      "abbreviation": "UDMR",
+      "englishName": "Democratic Union of Hungarians in Romania",
+      "europarty": "EPP",
+      "website": "https://udmr.ro/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ro-udscr",
+      "name": "Uniunea Democratică a Slovacilor și Cehilor din România",
+      "abbreviation": "UDSCR",
+      "englishName": "Democratic Union of Slovaks and Czechs of Romania",
+      "europarty": "ECPM",
+      "website": "https://udscr.com.ro/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ro-usr",
+      "name": "Uniunea Salvați România",
+      "abbreviation": "USR",
+      "englishName": "Save Romania Union",
+      "europarty": "ALDE",
+      "website": "https://usr.ro/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

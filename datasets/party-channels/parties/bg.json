@@ -1,0 +1,65 @@
+{
+  "country": "BG",
+  "parties": [
+    {
+      "id": "bg-bsp",
+      "name": "БСП за България",
+      "abbreviation": "БСП",
+      "englishName": "BSP for Bulgaria",
+      "europarty": "PES",
+      "website": "https://bsp.bg/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "bg-dps",
+      "name": "Движение за права и свободи",
+      "abbreviation": "ДПС",
+      "englishName": "Movement for Rights and Freedoms",
+      "website": "https://dps.bg",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "bg-dsb",
+      "name": "Демократи за силна България",
+      "abbreviation": "DSB",
+      "englishName": "Democrats for a Strong Bulgaria",
+      "europarty": "EPP",
+      "website": "https://www.dsb.bg/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "bg-gerb",
+      "name": "ГЕРБ",
+      "abbreviation": "GERB",
+      "englishName": "Citizens for European Development of Bulgaria",
+      "europarty": "EPP",
+      "website": "https://gerb.bg",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "bg-itn",
+      "name": "Има такъв народ",
+      "abbreviation": "ИТН",
+      "englishName": "There Is Such a People",
+      "website": "https://pp-itn.bg/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "bg-pp",
+      "name": "Продължаваме промяната",
+      "abbreviation": "ПП",
+      "englishName": "We Continue the Change",
+      "europarty": "ALDE",
+      "website": "https://promeni.bg/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "bg-vazrazhdane",
+      "name": "Възраждане",
+      "englishName": "Revival",
+      "europarty": "ESN_PARTY",
+      "website": "https://www.vazrazhdane.bg/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

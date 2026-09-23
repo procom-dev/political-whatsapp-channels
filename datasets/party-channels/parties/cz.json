@@ -1,0 +1,207 @@
+{
+  "country": "CZ",
+  "parties": [
+    {
+      "id": "cz-10-praha-ano",
+      "name": "ANO 2011",
+      "abbreviation": "ANO",
+      "englishName": "ANO 2011",
+      "region": "CZ-10",
+      "city": "Praha",
+      "website": "https://www.anobudelip.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-10-praha-kdu-csl",
+      "name": "Křesťanská a demokratická unie – Československá strana lidová",
+      "abbreviation": "KDU-ČSL",
+      "englishName": "Christian and Democratic Union – Czechoslovak People's Party",
+      "region": "CZ-10",
+      "city": "Praha",
+      "website": "https://www.kdu.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-10-praha-pirati",
+      "name": "Česká pirátská strana",
+      "abbreviation": "Piráti",
+      "englishName": "Czech Pirate Party",
+      "region": "CZ-10",
+      "city": "Praha",
+      "website": "https://www.pirati.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-10-praha-ps",
+      "name": "Praha sobě",
+      "abbreviation": "PS",
+      "englishName": "Prague Together",
+      "region": "CZ-10",
+      "city": "Praha",
+      "website": "https://prahasobe.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-10-praha-spd",
+      "name": "Svoboda a přímá demokracie",
+      "abbreviation": "SPD",
+      "englishName": "Freedom and Direct Democracy",
+      "region": "CZ-10",
+      "city": "Praha",
+      "website": "https://spd.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-10-praha-stan",
+      "name": "Starostové a nezávislí",
+      "abbreviation": "STAN",
+      "englishName": "Mayors and Independents",
+      "region": "CZ-10",
+      "city": "Praha",
+      "website": "https://www.starostove.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-ano",
+      "name": "ANO 2011",
+      "abbreviation": "ANO",
+      "europarty": "ALDE",
+      "website": "https://www.anobudelip.cz/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-auto",
+      "name": "Motoristé sobě",
+      "abbreviation": "AUTO",
+      "europarty": "PATRIOTS",
+      "website": "https://motoristesobe.cz/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-ceska-piratska-strana",
+      "name": "Česká pirátská strana",
+      "englishName": "Czech Pirate Party",
+      "website": "https://www.pirati.cz/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-cssd",
+      "name": "Sociální demokracie",
+      "abbreviation": "ČSSD",
+      "englishName": "Social Democracy",
+      "europarty": "PES",
+      "website": "https://socdem.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-kdu-csl",
+      "name": "KDU-ČSL",
+      "abbreviation": "KDU-ČSL",
+      "europarty": "EPP",
+      "website": "https://www.kdu.cz/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-ods",
+      "name": "Občanská demokratická strana",
+      "abbreviation": "ODS",
+      "englishName": "Civic Democratic Party",
+      "europarty": "ECR_PARTY",
+      "website": "https://www.ods.cz/",
+      "verified": "2026-09-18",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaLGWNKA89Mhy9oNZr1H",
+        "id": "0029VaLGWNKA89Mhy9oNZr1H",
+        "added": "2026-09-18",
+        "source": "https://www.ods.cz/"
+      }
+    },
+    {
+      "id": "cz-prisaha",
+      "name": "Přísaha občanské hnutí",
+      "abbreviation": "PŘÍSAHA",
+      "englishName": "Oath",
+      "europarty": "PATRIOTS",
+      "website": "https://www.prisaha.cz/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-pro",
+      "name": "PRO Právo Respekt Odbornost",
+      "abbreviation": "PRO",
+      "website": "https://stranapro.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-sen-21",
+      "name": "SEN 21",
+      "abbreviation": "SEN 21",
+      "englishName": "Senator 21",
+      "europarty": "EDP",
+      "website": "https://sen21.cz/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-slk",
+      "name": "Starostové pro Liberecký kraj",
+      "abbreviation": "SLK",
+      "englishName": "Mayors for the Liberec Region",
+      "website": "https://www.starostoveprolibereckykraj.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-spd",
+      "name": "Svoboda a přímá demokracie",
+      "abbreviation": "SPD",
+      "englishName": "Freedom and Direct Democracy",
+      "europarty": "PATRIOTS",
+      "website": "https://www.spd.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-stan",
+      "name": "Starostové a nezávislí",
+      "abbreviation": "STAN",
+      "englishName": "Mayors and Independents",
+      "website": "https://www.starostove-nezavisli.cz/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-strana-zelenych",
+      "name": "Strana zelených",
+      "englishName": "Green Party",
+      "europarty": "EGP",
+      "website": "https://www.zeleni.cz/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-svobodni",
+      "name": "Svobodní",
+      "website": "https://www.svobodni.cz",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cz-top-09",
+      "name": "TOP 09",
+      "abbreviation": "TOP 09",
+      "europarty": "EPP",
+      "website": "https://www.top09.cz/",
+      "verified": "2026-09-18",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vaw6RH3L2ATsxscPk60o",
+        "id": "0029Vaw6RH3L2ATsxscPk60o",
+        "added": "2026-09-18",
+        "source": "https://www.top09.cz/"
+      }
+    },
+    {
+      "id": "cz-trikolora",
+      "name": "Trikolora",
+      "englishName": "Tricolour",
+      "website": "https://volimtrikoloru.cz/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

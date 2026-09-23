@@ -1,0 +1,57 @@
+{
+  "country": "EE",
+  "parties": [
+    {
+      "id": "ee-e200",
+      "name": "Eesti 200",
+      "abbreviation": "E200",
+      "englishName": "Estonia 200",
+      "website": "https://eesti200.ee/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ee-ekre",
+      "name": "Eesti Konservatiivne Rahvaerakond",
+      "abbreviation": "EKRE",
+      "englishName": "Conservative People's Party of Estonia",
+      "europarty": "PATRIOTS",
+      "website": "https://ekre.ee",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ee-i",
+      "name": "Erakond Isamaa",
+      "abbreviation": "I",
+      "englishName": "Isamaa",
+      "europarty": "EPP",
+      "website": "https://isamaa.ee",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ee-kesk",
+      "name": "Eesti Keskerakond",
+      "abbreviation": "KESK",
+      "englishName": "Estonian Centre Party",
+      "website": "https://keskerakond.ee",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ee-re",
+      "name": "Eesti Reformierakond",
+      "abbreviation": "RE",
+      "englishName": "Estonian Reform Party",
+      "europarty": "ALDE",
+      "website": "https://reform.ee",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ee-sde",
+      "name": "Sotsiaaldemokraatlik Erakond",
+      "abbreviation": "SDE",
+      "englishName": "Social Democratic Party",
+      "europarty": "PES",
+      "website": "https://www.sotsid.ee",
+      "verified": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "country": "CY",
+  "parties": [
+    {
+      "id": "cy-akel",
+      "name": "Ανορθωτικό Κόμμα Εργαζόμενου Λαού",
+      "englishName": "Progressive Party of Working People",
+      "europarty": "EL",
+      "website": "https://www.akel.org.cy/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cy-alma",
+      "name": "Άλμα - Πολίτες για την Κύπρο",
+      "englishName": "ALMA – Citizens for Cyprus",
+      "website": "https://almacy.org",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cy-diko",
+      "name": "Δημοκρατικό Κόμμα",
+      "englishName": "Democratic Party (Cyprus)",
+      "website": "https://diko.org.cy",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cy-disy",
+      "name": "Δημοκρατικός Συναγερμός",
+      "englishName": "Democratic Rally",
+      "europarty": "EPP",
+      "website": "https://www.disy.org.cy/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cy-edek",
+      "name": "Κίνημα Σοσιαλδημοκρατών ΕΔΕΚ",
+      "abbreviation": "ΕΔΕΚ",
+      "englishName": "Movement for Social Democracy EDEK",
+      "europarty": "PES",
+      "website": "https://edek.org.cy/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cy-elam",
+      "name": "Εθνικό Λαϊκό Μέτωπο",
+      "englishName": "National Popular Front",
+      "europarty": "ECR_PARTY",
+      "website": "https://www.elamcy.com/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "cy-greens",
+      "name": "Κίνημα Οικολόγων – Συνεργασία Πολιτών",
+      "abbreviation": "Οικολόγοι",
+      "englishName": "Movement of Ecologists – Citizens' Cooperation",
+      "europarty": "EGP",
+      "website": "https://cyprusgreens.org/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

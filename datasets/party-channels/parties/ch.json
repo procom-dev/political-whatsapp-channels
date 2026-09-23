@@ -1,0 +1,107 @@
+{
+  "country": "CH",
+  "parties": [
+    {
+      "id": "ch-die-mitte",
+      "name": "Die Mitte",
+      "abbreviation": "Die Mitte",
+      "englishName": "The Centre",
+      "website": "https://die-mitte.ch/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ch-evp",
+      "name": "Evangelische Volkspartei",
+      "abbreviation": "EVP",
+      "englishName": "Evangelical People's Party",
+      "website": "https://www.evppev.ch/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ch-fdp",
+      "name": "FDP.Die Liberalen",
+      "abbreviation": "FDP",
+      "englishName": "FDP.The Liberals",
+      "europarty": "ALDE",
+      "website": "https://www.fdp.ch/",
+      "verified": "2026-09-18",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va9jcZb60eBXGH4IJO1r",
+        "id": "0029Va9jcZb60eBXGH4IJO1r",
+        "added": "2026-09-18",
+        "source": "https://www.fdp.ch/"
+      }
+    },
+    {
+      "id": "ch-ge-plr-ge",
+      "name": "PLR Genève",
+      "abbreviation": "PLR GE",
+      "englishName": "FDP The Liberals Geneva",
+      "region": "CH-GE",
+      "parentId": "ch-fdp",
+      "europarty": "ALDE",
+      "website": "https://www.plr-ge.ch/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vao7qRpHgZWURd4ZVY3O",
+        "id": "0029Vao7qRpHgZWURd4ZVY3O",
+        "added": "2026-09-18",
+        "source": "https://www.fdp.ch/"
+      },
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ch-glp",
+      "name": "Grünliberale Partei",
+      "abbreviation": "GLP",
+      "englishName": "Green Liberal Party",
+      "europarty": "ALDE",
+      "website": "https://grunliberale.ch/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ch-gps",
+      "name": "Grüne",
+      "abbreviation": "GPS",
+      "englishName": "Green Party of Switzerland",
+      "europarty": "EGP",
+      "website": "https://gruene.ch/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ch-sp",
+      "name": "Sozialdemokratische Partei der Schweiz",
+      "abbreviation": "SP",
+      "englishName": "Social Democratic Party of Switzerland",
+      "website": "https://www.sp-ps.ch/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ch-svp",
+      "name": "Schweizerische Volkspartei",
+      "abbreviation": "SVP",
+      "englishName": "Swiss People's Party",
+      "website": "https://www.svp.ch/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ch-ti-plr-ti",
+      "name": "PLR Ticino",
+      "abbreviation": "PLR TI",
+      "englishName": "FDP The Liberals Ticino",
+      "region": "CH-TI",
+      "parentId": "ch-fdp",
+      "europarty": "ALDE",
+      "website": "https://www.plr.ti.ch/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vab0YWj2v1Iyz8tNLB2J",
+        "id": "0029Vab0YWj2v1Iyz8tNLB2J",
+        "added": "2026-09-18",
+        "source": "https://www.fdp.ch/"
+      },
+      "verified": "2026-09-18"
+    }
+  ]
+}

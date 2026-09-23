@@ -1,0 +1,78 @@
+{
+  "country": "SK",
+  "parties": [
+    {
+      "id": "sk-demokrati",
+      "name": "Demokrati",
+      "englishName": "Democrats",
+      "europarty": "EPP",
+      "website": "https://www.smedemokrati.sk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sk-hlas",
+      "name": "Hlas – sociálna demokracia",
+      "abbreviation": "Hlas",
+      "englishName": "Voice – Social Democracy",
+      "europarty": "PES",
+      "website": "https://strana-hlas.sk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sk-konzervativci-krestanska-unia",
+      "name": "Konzervatívci – Kresťanská únia",
+      "englishName": "Conservatives – Christian Union",
+      "europarty": "ECPM",
+      "website": "https://krestanskaunia.sk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sk-krestanskodemokraticke-hnutie",
+      "name": "Kresťanskodemokratické hnutie",
+      "englishName": "Christian Democratic Movement",
+      "europarty": "EPP",
+      "website": "https://www.kdh.sk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sk-progresivne-slovensko",
+      "name": "Progresívne Slovensko",
+      "englishName": "Progressive Slovakia",
+      "europarty": "ALDE",
+      "website": "https://www.progresivne.sk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sk-sloboda-a-solidarita",
+      "name": "Sloboda a Solidarita",
+      "englishName": "Freedom and Solidarity",
+      "europarty": "ALDE",
+      "website": "https://www.sas.sk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sk-slovensko",
+      "name": "Slovensko",
+      "englishName": "Slovakia",
+      "europarty": "EPP",
+      "website": "https://obycajniludia.sk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sk-smer-socialna-demokracia",
+      "name": "SMER – sociálna demokracia",
+      "englishName": "Direction – Social Democracy",
+      "europarty": "PES",
+      "website": "https://www.strana-smer.sk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sk-sns",
+      "name": "Slovenská národná strana",
+      "abbreviation": "SNS",
+      "englishName": "Slovak National Party",
+      "website": "https://www.sns.sk/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

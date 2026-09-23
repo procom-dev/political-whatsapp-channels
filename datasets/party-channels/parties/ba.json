@@ -1,0 +1,64 @@
+{
+  "country": "BA",
+  "parties": [
+    {
+      "id": "ba-hdz-bih",
+      "name": "Hrvatska demokratska zajednica BiH",
+      "abbreviation": "HDZ BiH",
+      "englishName": "Croatian Democratic Union of BiH",
+      "europarty": "EPP",
+      "website": "https://www.hdzbih.org/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ba-nip",
+      "name": "Narod i Pravda",
+      "abbreviation": "NiP",
+      "englishName": "People and Justice",
+      "website": "https://narodipravda.ba/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ba-ns",
+      "name": "Naša stranka",
+      "abbreviation": "NS",
+      "englishName": "Our Party",
+      "website": "https://nasastranka.ba/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ba-sda",
+      "name": "Stranka demokratske akcije",
+      "abbreviation": "SDA",
+      "englishName": "Party of Democratic Action",
+      "europarty": "EPP",
+      "website": "https://sda.ba/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ba-sdp-bih",
+      "name": "Socijaldemokratska partija BiH",
+      "abbreviation": "SDP BiH",
+      "englishName": "Social Democratic Party of BiH",
+      "europarty": "PES",
+      "website": "https://sdp.ba/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ba-sds",
+      "name": "Srpska demokratska stranka",
+      "abbreviation": "SDS",
+      "englishName": "Serb Democratic Party",
+      "website": "https://sdsrs.com/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ba-snsd",
+      "name": "Savez nezavisnih socijaldemokrata",
+      "abbreviation": "SNSD",
+      "englishName": "Alliance of Independent Social Democrats",
+      "website": "https://snsd.org/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

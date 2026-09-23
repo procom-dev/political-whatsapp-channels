@@ -1,0 +1,55 @@
+{
+  "country": "RS",
+  "parties": [
+    {
+      "id": "rs-ds",
+      "name": "Demokratska stranka",
+      "abbreviation": "DS",
+      "englishName": "Democratic Party",
+      "europarty": "PES",
+      "website": "https://ds.org.rs/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "rs-dveri",
+      "name": "Srpski pokret Dveri",
+      "abbreviation": "Dveri",
+      "englishName": "Serbian Movement Dveri",
+      "website": "https://dveri.rs/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "rs-sns",
+      "name": "Srpska napredna stranka",
+      "abbreviation": "SNS",
+      "englishName": "Serbian Progressive Party",
+      "website": "https://www.sns.org.rs/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "rs-sps",
+      "name": "Socijalistička partija Srbije",
+      "abbreviation": "SPS",
+      "englishName": "Socialist Party of Serbia",
+      "website": "https://www.sps.org.rs/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "rs-ssp",
+      "name": "Stranka slobode i pravde",
+      "abbreviation": "SSP",
+      "englishName": "Party of Freedom and Justice",
+      "europarty": "PES",
+      "website": "https://ssp.rs/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "rs-svm",
+      "name": "Savez vojvođanskih Mađara",
+      "abbreviation": "SVM",
+      "englishName": "Alliance of Vojvodina Hungarians",
+      "website": "https://www.vmsz.org.rs/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

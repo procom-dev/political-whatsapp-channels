@@ -1,0 +1,37 @@
+{
+  "country": "LI",
+  "parties": [
+    {
+      "id": "li-dpl",
+      "name": "Demokraten pro Liechtenstein",
+      "abbreviation": "DpL",
+      "englishName": "Democrats for Liechtenstein",
+      "website": "https://www.dpl.li/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "li-fbp",
+      "name": "Fortschrittliche Bürgerpartei",
+      "abbreviation": "FBP",
+      "englishName": "Progressive Citizens' Party",
+      "website": "https://www.fbp.li/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "li-fl",
+      "name": "Freie Liste",
+      "abbreviation": "FL",
+      "englishName": "Free List",
+      "website": "https://www.freieliste.li/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "li-vu",
+      "name": "Vaterländische Union",
+      "abbreviation": "VU",
+      "englishName": "Patriotic Union",
+      "website": "https://www.vu-online.li/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "country": "AX",
+  "parties": [
+    {
+      "id": "ax-af",
+      "name": "Ålands Framtid",
+      "abbreviation": "ÅF",
+      "englishName": "Future of Åland",
+      "website": "https://alandsframtid.ax/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ax-c",
+      "name": "Åländsk Center",
+      "abbreviation": "C",
+      "englishName": "Åland Centre",
+      "website": "https://www.centern.ax/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ax-hi",
+      "name": "Hållbart Initiativ",
+      "abbreviation": "Hi",
+      "englishName": "Sustainable Initiative",
+      "website": "https://hi.ax/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ax-lib",
+      "name": "Liberalerna på Åland",
+      "abbreviation": "Lib",
+      "englishName": "Åland Liberals",
+      "website": "https://liberalerna.ax/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ax-msa",
+      "name": "Moderat Samling för Åland",
+      "abbreviation": "MSÅ",
+      "englishName": "Moderate Coalition for Åland",
+      "website": "https://moderat.ax/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ax-obs",
+      "name": "Obunden Samling",
+      "abbreviation": "ObS",
+      "englishName": "Non-aligned Coalition",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ax-s",
+      "name": "Ålands Socialdemokrater",
+      "abbreviation": "S",
+      "englishName": "Åland Social Democrats",
+      "website": "https://socialdemokraterna.ax/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

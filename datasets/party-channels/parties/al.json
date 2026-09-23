@@ -1,0 +1,31 @@
+{
+  "country": "AL",
+  "parties": [
+    {
+      "id": "al-pd",
+      "name": "Partia Demokratike e Shqipërisë",
+      "abbreviation": "PD",
+      "englishName": "Democratic Party of Albania",
+      "europarty": "EPP",
+      "website": "https://pd.al/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "al-ps",
+      "name": "Partia Socialiste e Shqipërisë",
+      "abbreviation": "PS",
+      "englishName": "Socialist Party of Albania",
+      "europarty": "PES",
+      "website": "https://ps.al/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "al-psd",
+      "name": "Partia Socialdemokrate e Shqipërisë",
+      "abbreviation": "PSD",
+      "englishName": "Social Democratic Party of Albania",
+      "website": "https://psd.al/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

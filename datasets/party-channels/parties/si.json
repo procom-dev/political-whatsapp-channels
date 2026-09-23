@@ -1,0 +1,73 @@
+{
+  "country": "SI",
+  "parties": [
+    {
+      "id": "si-demokrati",
+      "name": "Demokrati",
+      "englishName": "Democrats",
+      "website": "https://www.demokrati.si/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "si-fokus",
+      "name": "Fokus",
+      "website": "https://fokus.center/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "si-gs",
+      "name": "Gibanje Svoboda",
+      "abbreviation": "GS",
+      "englishName": "Freedom Movement",
+      "epGroup": "RENEW",
+      "website": "https://gibanjesvoboda.si/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "si-levica",
+      "name": "Levica",
+      "englishName": "The Left",
+      "europarty": "EL",
+      "website": "https://levica.si",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "si-nova-slovenija",
+      "name": "Nova Slovenija",
+      "englishName": "New Slovenia",
+      "europarty": "EPP",
+      "website": "https://www.nsi.si",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "si-resni-ca",
+      "name": "Resni.ca",
+      "website": "https://resni.ca",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "si-slovenska-demokratska-stranka",
+      "name": "Slovenska demokratska stranka",
+      "englishName": "Slovenian Democratic Party",
+      "europarty": "EPP",
+      "website": "https://www.sds.si",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "si-slovenska-ljudska-stranka",
+      "name": "Slovenska ljudska stranka",
+      "englishName": "Slovenian People's Party",
+      "europarty": "EPP",
+      "website": "https://www.sls.si",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "si-socialni-demokrati",
+      "name": "Socialni demokrati",
+      "englishName": "Social Democrats",
+      "europarty": "PES",
+      "website": "https://www.socialnidemokrati.si/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

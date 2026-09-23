@@ -1,0 +1,35 @@
+{
+  "country": "AD",
+  "parties": [
+    {
+      "id": "ad-ae",
+      "name": "Andorra Endavant",
+      "abbreviation": "AE",
+      "englishName": "Andorra Forward",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ad-c",
+      "name": "Concòrdia",
+      "abbreviation": "C",
+      "englishName": "Concord",
+      "website": "https://concordia.ad/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ad-da",
+      "name": "Demòcrates per Andorra",
+      "abbreviation": "DA",
+      "englishName": "Democrats for Andorra",
+      "website": "https://www.democrates.ad/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ad-ps",
+      "name": "Partit Socialdemòcrata",
+      "abbreviation": "PS",
+      "englishName": "Social Democratic Party",
+      "verified": "2026-09-18"
+    }
+  ]
+}

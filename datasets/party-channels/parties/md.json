@@ -1,0 +1,37 @@
+{
+  "country": "MD",
+  "parties": [
+    {
+      "id": "md-pas",
+      "name": "Partidul Acțiune și Solidaritate",
+      "abbreviation": "PAS",
+      "englishName": "Party of Action and Solidarity",
+      "europarty": "EPP",
+      "website": "https://pas.md/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "md-pn",
+      "name": "Partidul Nostru",
+      "abbreviation": "PN",
+      "englishName": "Our Party",
+      "website": "https://partidulnostru.md/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "md-ppda",
+      "name": "Partidul Politic Democrația Acasă",
+      "abbreviation": "PPDA",
+      "englishName": "Democracy at Home Party",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "md-psrm",
+      "name": "Partidul Socialiștilor din Republica Moldova",
+      "abbreviation": "PSRM",
+      "englishName": "Party of Socialists of the Republic of Moldova",
+      "website": "https://socialistii.md/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "country": "NO",
+  "parties": [
+    {
+      "id": "no-ap",
+      "name": "Arbeiderpartiet",
+      "abbreviation": "Ap",
+      "englishName": "Labour Party",
+      "europarty": "PES",
+      "website": "https://www.arbeiderpartiet.no/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "no-frp",
+      "name": "Fremskrittspartiet",
+      "abbreviation": "FrP",
+      "englishName": "Progress Party",
+      "website": "https://www.frp.no/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "no-h",
+      "name": "Høyre",
+      "abbreviation": "H",
+      "englishName": "Conservative Party",
+      "europarty": "EPP",
+      "website": "https://hoyre.no/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "no-krf",
+      "name": "Kristelig Folkeparti",
+      "abbreviation": "KrF",
+      "englishName": "Christian Democratic Party",
+      "website": "https://krf.no/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "no-mdg",
+      "name": "Miljøpartiet De Grønne",
+      "abbreviation": "MDG",
+      "englishName": "Green Party",
+      "europarty": "EGP",
+      "website": "https://www.mdg.no/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "no-r",
+      "name": "Rødt",
+      "abbreviation": "R",
+      "englishName": "Red Party",
+      "website": "https://roedt.no/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "no-sp",
+      "name": "Senterpartiet",
+      "abbreviation": "Sp",
+      "englishName": "Centre Party",
+      "website": "https://www.senterpartiet.no/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "no-sv",
+      "name": "Sosialistisk Venstreparti",
+      "abbreviation": "SV",
+      "englishName": "Socialist Left Party",
+      "website": "https://www.sv.no/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "no-v",
+      "name": "Venstre",
+      "abbreviation": "V",
+      "englishName": "Liberal Party",
+      "europarty": "ALDE",
+      "website": "https://www.venstre.no/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

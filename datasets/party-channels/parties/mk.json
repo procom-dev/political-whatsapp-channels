@@ -1,0 +1,47 @@
+{
+  "country": "MK",
+  "parties": [
+    {
+      "id": "mk-dui",
+      "name": "Демократска унија за интеграција",
+      "abbreviation": "ДУИ",
+      "englishName": "Democratic Union for Integration",
+      "website": "https://bdi.mk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "mk-levica",
+      "name": "Левица",
+      "abbreviation": "Левица",
+      "englishName": "The Left",
+      "website": "https://levica.mk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "mk-sdsm",
+      "name": "Социјалдемократски сојуз на Македонија",
+      "abbreviation": "СДСМ",
+      "englishName": "Social Democratic Union of Macedonia",
+      "europarty": "PES",
+      "website": "https://sdsm.org.mk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "mk-vmro-dpmne",
+      "name": "ВМРО-ДПМНЕ",
+      "abbreviation": "ВМРО-ДПМНЕ",
+      "englishName": "VMRO-DPMNE",
+      "europarty": "EPP",
+      "website": "https://vmro-dpmne.org.mk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "mk-znam",
+      "name": "Знам – За нашата Македонија",
+      "abbreviation": "ЗНАМ",
+      "englishName": "ZNAM – For Our Macedonia",
+      "website": "https://znam.mk/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

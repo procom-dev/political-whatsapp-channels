@@ -1,0 +1,70 @@
+{
+  "country": "LT",
+  "parties": [
+    {
+      "id": "lt-demokratu-sajunga-vardan-lietuvos",
+      "name": "Demokratų sąjunga Vardan Lietuvos",
+      "englishName": "Union of Democrats \"For Lithuania\"",
+      "website": "https://www.demokratai.lt/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lt-liberalu-sajudis",
+      "name": "Liberalų sąjūdis",
+      "englishName": "Liberal Movement",
+      "europarty": "ALDE",
+      "website": "https://liberalai.lt/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lt-lietuvos-lenku-rinkimu-akcija-krikscionisku-seimu-sajunga",
+      "name": "Lietuvos lenkų rinkimų akcija-Krikščioniškų šeimų sąjunga",
+      "englishName": "Electoral Action of Poles in Lithuania",
+      "europarty": "ECR_PARTY",
+      "website": "https://www.awpl.lt/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lt-lietuvos-valstieciu-ir-zaliuju-sajunga",
+      "name": "Lietuvos valstiečių ir žaliųjų sąjunga",
+      "englishName": "Lithuanian Peasant and Greens Union",
+      "europarty": "ECR_PARTY",
+      "website": "https://www.lvzs.lt/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lt-lsdp",
+      "name": "Lietuvos socialdemokratų partija",
+      "abbreviation": "LSDP",
+      "englishName": "Social Democratic Party of Lithuania",
+      "europarty": "PES",
+      "website": "https://www.lsdp.lt/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lt-na",
+      "name": "Nemuno aušra",
+      "abbreviation": "NA",
+      "englishName": "Dawn of Nemunas",
+      "website": "https://nemunoausra.lt/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lt-tautos-ir-teisingumo-sajunga-centristai-tautininkai",
+      "name": "Tautos ir teisingumo sąjunga (centristai, tautininkai)",
+      "englishName": "Lithuanian Centre Party",
+      "europarty": "ESN_PARTY",
+      "website": "https://tautateisingumas.lt/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lt-ts-lkd",
+      "name": "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+      "abbreviation": "TS-LKD",
+      "englishName": "Homeland Union – Lithuanian Christian Democrats",
+      "europarty": "EPP",
+      "website": "https://tsajunga.lt/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

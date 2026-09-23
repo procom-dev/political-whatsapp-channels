@@ -1,0 +1,44 @@
+{
+  "country": "SM",
+  "parties": [
+    {
+      "id": "sm-dml",
+      "name": "Domani Motus Liberi",
+      "abbreviation": "DML",
+      "englishName": "Tomorrow in Motion",
+      "website": "https://www.domanimotusliberi.org/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sm-libera",
+      "name": "Libera",
+      "abbreviation": "Libera",
+      "englishName": "Libera",
+      "website": "https://www.libera.sm/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sm-pdcs",
+      "name": "Partito Democratico Cristiano Sammarinese",
+      "abbreviation": "PDCS",
+      "englishName": "Sammarinese Christian Democratic Party",
+      "europarty": "EPP",
+      "website": "https://www.pdcs.sm/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sm-rete",
+      "name": "Movimento RETE",
+      "abbreviation": "RETE",
+      "englishName": "RETE Movement",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "sm-rf",
+      "name": "Repubblica Futura",
+      "abbreviation": "RF",
+      "englishName": "Future Republic",
+      "verified": "2026-09-18"
+    }
+  ]
+}

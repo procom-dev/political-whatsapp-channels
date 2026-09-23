@@ -1,0 +1,74 @@
+{
+  "country": "FI",
+  "parties": [
+    {
+      "id": "fi-c",
+      "name": "Suomen Keskusta",
+      "abbreviation": "C",
+      "englishName": "Centre Party",
+      "europarty": "ALDE",
+      "website": "https://keskusta.fi/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "fi-kd",
+      "name": "Suomen Kristillisdemokraatit",
+      "abbreviation": "KD",
+      "englishName": "Christian Democrats",
+      "europarty": "EPP",
+      "website": "https://www.kd.fi/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "fi-ncp",
+      "name": "Kansallinen Kokoomus",
+      "abbreviation": "NCP",
+      "englishName": "National Coalition Party",
+      "europarty": "EPP",
+      "website": "https://kokoomus.fi",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "fi-pps",
+      "name": "Suomen ruotsalainen kansanpuolue",
+      "abbreviation": "PPS",
+      "englishName": "Swedish People's Party of Finland",
+      "europarty": "ALDE",
+      "website": "https://www.sfp.fi/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "fi-ps",
+      "name": "Perussuomalaiset",
+      "abbreviation": "PS",
+      "englishName": "Finns Party",
+      "epGroup": "ECR",
+      "website": "https://www.perussuomalaiset.fi/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "fi-sdp",
+      "name": "Suomen Sosialidemokraattinen Puolue",
+      "abbreviation": "SDP",
+      "englishName": "Social Democratic Party of Finland",
+      "europarty": "PES",
+      "website": "https://sdp.fi/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "fi-vasemmistoliitto",
+      "name": "Vasemmistoliitto",
+      "englishName": "Left Alliance",
+      "website": "https://www.vasemmisto.fi/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "fi-vihrea-liitto",
+      "name": "Vihreä liitto",
+      "englishName": "Green League",
+      "europarty": "EGP",
+      "website": "https://www.vihreat.fi/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

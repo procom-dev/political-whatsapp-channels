@@ -1,0 +1,97 @@
+{
+  "country": "HR",
+  "parties": [
+    {
+      "id": "hr-centar",
+      "name": "Centar",
+      "englishName": "Centre",
+      "europarty": "ALDE",
+      "website": "https://www.strankacentar.hr/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hr-dom-i-nacionalno-okupljanje",
+      "name": "Dom i nacionalno okupljanje",
+      "englishName": "Home and National Rally",
+      "europarty": "ECR_PARTY",
+      "website": "https://strankadomino.hr/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hr-hds",
+      "name": "Hrvatska demokršćanska stranka",
+      "abbreviation": "HDS",
+      "englishName": "Croatian Demochristian Party",
+      "europarty": "EPP",
+      "website": "https://www.demokrscanihds.hr/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hr-hdz",
+      "name": "Hrvatska demokratska zajednica",
+      "abbreviation": "HDZ",
+      "englishName": "Croatian Democratic Union",
+      "europarty": "EPP",
+      "website": "https://www.hdz.hr",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hr-hrvatski-suverenisti",
+      "name": "Hrvatski suverenisti",
+      "englishName": "Croatian Sovereignists",
+      "europarty": "ECR_PARTY",
+      "website": "https://suverenisti.hr/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hr-hss",
+      "name": "Hrvatska seljačka stranka",
+      "abbreviation": "HSS",
+      "englishName": "Croatian Peasant Party",
+      "website": "https://www.hss.hr",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hr-ids-ddi",
+      "name": "Istarski demokratski sabor",
+      "abbreviation": "IDS-DDI",
+      "englishName": "Istrian Democratic Assembly",
+      "europarty": "ALDE",
+      "website": "https://www.ids-ddi.com",
+      "verified": "2026-09-18",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va9Fy5nKLaHgO2g98M0E",
+        "id": "0029Va9Fy5nKLaHgO2g98M0E",
+        "added": "2026-09-18",
+        "source": "https://www.ids-ddi.com/"
+      }
+    },
+    {
+      "id": "hr-most",
+      "name": "Most",
+      "abbreviation": "Most",
+      "englishName": "Bridge",
+      "europarty": "ECR_PARTY",
+      "website": "https://most-hrvatska.hr/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hr-mozemo",
+      "name": "Možemo!",
+      "englishName": "We Can!",
+      "europarty": "EGP",
+      "website": "https://www.mozemo.hr/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hr-sdp",
+      "name": "Socijaldemokratska partija Hrvatske",
+      "abbreviation": "SDP",
+      "englishName": "Social Democratic Party of Croatia",
+      "europarty": "PES",
+      "website": "https://www.sdp.hr",
+      "verified": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "country": "LU",
+  "parties": [
+    {
+      "id": "lu-adr",
+      "name": "ADR",
+      "abbreviation": "ADR",
+      "englishName": "Alternative Democratic Reform Party",
+      "europarty": "ECR_PARTY",
+      "website": "https://adr.lu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lu-csv",
+      "name": "CSV",
+      "abbreviation": "CSV",
+      "englishName": "Christian Social People's Party",
+      "europarty": "EPP",
+      "website": "https://www.csv.lu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lu-dei-greng",
+      "name": "déi gréng",
+      "abbreviation": "déi gréng",
+      "englishName": "The Greens",
+      "europarty": "EGP",
+      "website": "https://www.greng.lu/",
+      "verified": "2026-09-18",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbBP7BD3GJOqJdyOnZ3o",
+        "id": "0029VbBP7BD3GJOqJdyOnZ3o",
+        "added": "2026-09-18",
+        "source": "https://www.greng.lu/"
+      }
+    },
+    {
+      "id": "lu-dei-lenk",
+      "name": "déi Lénk",
+      "abbreviation": "déi Lénk",
+      "englishName": "The Left",
+      "europarty": "EL",
+      "website": "https://www.dei-lenk.lu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lu-dp",
+      "name": "DP",
+      "abbreviation": "DP",
+      "englishName": "Democratic Party",
+      "europarty": "ALDE",
+      "website": "https://www.dp.lu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lu-lsap",
+      "name": "LSAP",
+      "abbreviation": "LSAP",
+      "englishName": "Luxembourg Socialist Workers' Party",
+      "europarty": "PES",
+      "website": "https://www.lsap.lu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lu-piraten",
+      "name": "Piraten",
+      "abbreviation": "Piraten",
+      "englishName": "Pirate Party Luxembourg",
+      "website": "https://piratepartei.lu/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T11:08:05Z",
+  "updatedAt": "2026-09-23T10:05:24Z",
   "profiles": {
     "0029Va7ceYdAjPXEILlfID1X": {
       "id": "0029Va7ceYdAjPXEILlfID1X",
@@ -9,13 +9,13 @@
       "url": "https://www.whatsapp.com/channel/0029Va7ceYdAjPXEILlfID1X",
       "title": "PCP - Partido Comunista Português",
       "description": "Canal oficial do Partido Comunista Português",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An_UZcqFXXeaze-Jqh_1V3ICEYShG38XWD5eskTxcDqFhvEWkD0buGVd3nNtPl9YSXw9BxwnxHU3uLY1TXCM7ezJ-psaR6SkXuQ8rq-P6HJRGCsd3UwB6L6kmKVY0uyqJoJMKusVIWffjIUWvXgP?_nc_gid=GDWk6rJ6aHxmvOi0YBb4cw&_nc_oc=AdovmQDH4R0nq3Oe7SYIU4zx5kPUrmT3zxprFjMy7obkKCjARB9LFufTvfxF1x8yYOo&ccb=10-5&oh=01_Q5Aa5gF6aqODcPHom8jr-UV-qygKk_6kvBQPuNuyyyMxqt56dQ&oe=6AD09BF3&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An_UZcqFXXeaze-Jqh_1V3ICEYShG38XWD5eskTxcDqFhvEWkD0buGVd3nNtPl9YSXw9BxwnxHU3uLY1TXCM7ezJ-psaR6SkXuQ8rq-P6HJRGCsd3UwB6L6kmKVY0uyqJoJMKusVIWffjIUWvXgP?_nc_gid=M7_Z5h-PwyuSw6ahHcuMTA&_nc_oc=AdoRj7eR5-wHUb_Z6u7FBtv-lH9CFSuEqHoVqzzeVYM7-r1su4orQW8fTPLRuAFNn2k&ccb=10-5&oh=01_Q5Aa5gGPSA9rz630ujpjZPuXlJkbc5EDy00NESnSZSDza86CUg&oe=6ADB27F3&_nc_sid=471a72",
       "avatar": "/party-avatar/0029Va7ceYdAjPXEILlfID1X.jpg?v=925246650256",
-      "followers": 2768,
+      "followers": 2778,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-15T10:04:23Z"
+      "seenAt": "2026-09-23T09:58:51Z"
     },
     "0029Va7lCVG7tkj20mjQAV03": {
       "id": "0029Va7lCVG7tkj20mjQAV03",
@@ -54,13 +54,13 @@
       "url": "https://www.whatsapp.com/channel/0029Va8b0IHIN9ipwkC6nf20",
       "title": "Matteo Salvini",
       "description": null,
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/395374112_1027541731776578_8121687358358894353_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=-W2EMbPvtowQ7kNvwEJnaDK&_nc_oc=AdpQnjrBMnfdTjIh58Te40kMVWY8sy_k7_db67eQUZy_Bh4nlMjhEV-r2kPuTyV9tFQ&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=-D0C_WTj0Y_MqwSlovIxUw&_nc_ss=70289&oh=01_Q5Aa5gGcYqDDKN-18pyE1_0BI0nwU58XV6Wwnprrr1UlWR9r7g&oe=6ACF39E9",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/395374112_1027541731776578_8121687358358894353_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=LGyR4b4HWNAQ7kNvwHWAbaK&_nc_oc=AdrgVAWrpO4J9O-_b8lk4dO1nn2RpyQOjr84a7V4v3UkUqUsF1z2debPap8sIIHZ-fc&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=wSSwWdohX94D9MBUAc8FFg&_nc_ss=70289&oh=01_Q5Aa5gFvZGNPGc7AfRj4x5XdXvbWmR8hRjzK2ZU9HtkyV0ygng&oe=6AD9C5E9",
       "avatar": "/party-avatar/0029Va8b0IHIN9ipwkC6nf20.jpg?v=fc7509519107",
-      "followers": 49981,
+      "followers": 49929,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-14T10:38:15Z"
+      "seenAt": "2026-09-22T09:57:11Z"
     },
     "0029Va8cu6I17En2HY58S90J": {
       "id": "0029Va8cu6I17En2HY58S90J",
@@ -137,6 +137,36 @@
       "verified": false,
       "seenAt": "2026-09-16T11:08:02Z"
     },
+    "0029Va9Fy5nKLaHgO2g98M0E": {
+      "id": "0029Va9Fy5nKLaHgO2g98M0E",
+      "kind": "channel",
+      "partyId": "hr-ids-ddi",
+      "url": "https://www.whatsapp.com/channel/0029Va9Fy5nKLaHgO2g98M0E",
+      "title": "IDS-DDI🐐Korak ispred svih!",
+      "description": "Saznajte sve najnovije vijesti i informacije vezane uz IDS. ~ Scopri tutte le ultime novità e informazioni sulla DDI.\n\nWeb: www.ids-ddi.com\nFB: IDS - Istarski demokratski sabor\nInstagram: idsddi\nYouTube: @IDSDDI",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An9geSKX0wmDErd9Eq40ydNW6Dz_oW4FSin2Y63BwzS_jrKLta0AOBgYyFMhTN09r4sRpL5gx1_rKA4xYcC0slWV8MOWaDeOmBMSHIWHAp1IFdpnu2EDFPI48_7TcZ6yN18rW-m9qj8HFe5yb7MN?_nc_gid=8_ild0Y4AwoZhtK_7fBcAg&_nc_oc=Adpfa1bd9GBz3CtYJGyRiNwUixf7EhGmGt2bGoX5fZC9v7nrtrpjr74boxPpbWs6Big&ccb=10-5&oh=01_Q5Aa5gGnCS0XFJR8w1kZSXqTP4Oti-WE3QjNxGzi6JvLYvTuOg&oe=6AD4B491&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029Va9Fy5nKLaHgO2g98M0E.jpg?v=c9aaa04fd987",
+      "followers": 60,
+      "precision": "exact",
+      "status": "ok",
+      "verified": false,
+      "seenAt": "2026-09-18T14:19:28Z"
+    },
+    "0029Va9jcZb60eBXGH4IJO1r": {
+      "id": "0029Va9jcZb60eBXGH4IJO1r",
+      "kind": "channel",
+      "partyId": "ch-fdp",
+      "url": "https://www.whatsapp.com/channel/0029Va9jcZb60eBXGH4IJO1r",
+      "title": "FDP Schweiz",
+      "description": "Willkommen auf dem WhatsApp-Kanal der FDP Schweiz! 📲 🥳 Hier erhältst du unsere wichtigsten Neuigkeiten.\n\nPour suivre la chaîne du PLR Suisse (en FR) 👉🏼 https://shorturl.at/afpGM",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An8HLHM1vu1Ra13PoSFGZoMkK9QCZh1AJRBnuhLNoHgd1IgnjQI5nkz44Gw-CCbRTwiFqaFBM36hdgVZa6Zwv2ESCLjmRwwx8BWB2B02ReeojZXNnDoJQVt4PstODHvOXPHMDhFlMw2vvYcXnNM9?_nc_gid=5BDB24hqIW-XcSRj37fwZQ&_nc_oc=AdpChzHWZS4pF9s7IweHweVBCY3KRGL30Aop4FMUvPi38r63EbojWZbq6p-qNPJHuH8&ccb=10-5&oh=01_Q5Aa5gF_IgwJsahVXooxgQgvrhKe3WRF_HQAwdn302VZlaH9Gg&oe=6AD4BA3A&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029Va9jcZb60eBXGH4IJO1r.jpg?v=98d8f4481d93",
+      "followers": 4194,
+      "precision": "exact",
+      "status": "ok",
+      "verified": true,
+      "seenAt": "2026-09-18T15:24:54Z"
+    },
     "0029VaaE9wmCHDyfdJwcmR08": {
       "id": "0029VaaE9wmCHDyfdJwcmR08",
       "kind": "channel",
@@ -144,13 +174,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaaE9wmCHDyfdJwcmR08",
       "title": "CDU-Stadtverband Friesoythe",
       "description": "Wir halten euch auf diesem Kanal auf dem Laufenden zu unseren Ideen, Aktivitäten und Mitmach-Möglichkeiten, Neuigkeiten und Terminen im gesamten Stadtgebiet - für unser gemeinsames Friesoythe von morgen in allen 6 Ortschaften und 22 Ortsteilen.\n\nhttps://cdu-friesoythe.de/impressum/",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An_XKJgHKWdQrW8WoHC9WanlDch9uzH707oe1Hf_Joc5eo2HVAG87P0i6eK1mFoY9BLwFRn3vwQKWpLFoUhqMMJ4q1wyQH1Lp6VDbeq3TON3BMKKEb6G4cslBQgtskDbl6-u0pt_5lecujQVnt_G?_nc_gid=kwvg2djZKMoI6cLLkBTzFg&_nc_oc=AdrzlHcPF2HHzmzrA3eKV_sBTbbODGiSxz7GVkTBEckcaVhxcoVhpYlQfUXWhA1vgXo&ccb=10-5&oh=01_Q5Aa5gFchBdxeMiEeFm9Yqw-ckDq3B_2pc5OB2RxQu2YFXzkmg&oe=6ACE7BBC&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An_XKJgHKWdQrW8WoHC9WanlDch9uzH707oe1Hf_Joc5eo2HVAG87P0i6eK1mFoY9BLwFRn3vwQKWpLFoUhqMMJ4q1wyQH1Lp6VDbeq3TON3BMKKEb6G4cslBQgtskDbl6-u0pt_5lecujQVnt_G?_nc_gid=mDQmWjn88v0Gu8EB8YnI5A&_nc_oc=AdqFL90Y7X5g70USEI5lyOrO51R9AHd8HqluP45OnAfWQcXAq7L0PTVX2kpd-Z0mqvw&ccb=10-5&oh=01_Q5Aa5gFlAZB4maJelwFcXgKvFIrlFCW4qdqgWLXRFxAN4W39bg&oe=6AD8973C&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaaE9wmCHDyfdJwcmR08.jpg?v=b7d46a2526ae",
-      "followers": 219,
+      "followers": 217,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:46Z"
+      "seenAt": "2026-09-21T10:43:24Z"
     },
     "0029VaaFcBp8aKvCtcymPg1S": {
       "id": "0029VaaFcBp8aKvCtcymPg1S",
@@ -159,13 +189,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaaFcBp8aKvCtcymPg1S",
       "title": "Die Linke",
       "description": "Offizieller Kanal der Partei Die Linke.",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-ewbDbesbNDWdLIvbOs_jktyLMrFY_aHl3sYhp_MlFgKlfy1k7aZvFo5hgb-Jfb6SaAKXjCeBGpf8pWkj_aHn17wXIEzd2lGSMbTxNtMziJ7cct2BFwg8N8-hGUYF8CDUUHVGY_Ur1NGV6j9MX?_nc_gid=79Pw-tIk4ZcDGMQ-_pr0Kg&_nc_oc=AdoflU8egXHPAcqildIi2cjGHlrPtBnQ90x-gujcKgHtuRP7N6OP3OumizV5ms9Xicg&ccb=10-5&oh=01_Q5Aa5gHWbTwag9uxKHOsN_nxil9LljA7tOdVtZUOFo824HjhdQ&oe=6ACE609C&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-ewbDbesbNDWdLIvbOs_jktyLMrFY_aHl3sYhp_MlFgKlfy1k7aZvFo5hgb-Jfb6SaAKXjCeBGpf8pWkj_aHn17wXIEzd2lGSMbTxNtMziJ7cct2BFwg8N8-hGUYF8CDUUHVGY_Ur1NGV6j9MX?_nc_gid=sIkF55x5oH3CvPSxMO-sAw&_nc_oc=Adre0LiuO7OnqwwLimWUJhkA8ALCh9C-NmvqBdMYOPVwYP6BWYU0QHJEvaFyKZFVuQE&ccb=10-5&oh=01_Q5Aa5gEjznGl8xPZIAchAsHw3xhcRVrJn9AKWmvRw8dIA1TaIw&oe=6AD72A9C&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaaFcBp8aKvCtcymPg1S.jpg?v=97166b78bc62",
-      "followers": 62658,
+      "followers": 65373,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-13T19:04:54Z"
+      "seenAt": "2026-09-20T09:48:33Z"
     },
     "0029VaAwLQR96H4Uhpzpvw1e": {
       "id": "0029VaAwLQR96H4Uhpzpvw1e",
@@ -197,6 +227,21 @@
       "verified": false,
       "seenAt": "2026-09-16T09:56:44Z"
     },
+    "0029Vab0YWj2v1Iyz8tNLB2J": {
+      "id": "0029Vab0YWj2v1Iyz8tNLB2J",
+      "kind": "channel",
+      "partyId": "ch-ti-plr-ti",
+      "url": "https://www.whatsapp.com/channel/0029Vab0YWj2v1Iyz8tNLB2J",
+      "title": "plrticino",
+      "description": "PLRT - I Liberali Radicali. Canale ufficiale del Partito liberale radicale per restare aggiornati sulle nostre attività. \n\nSeguici anche sui nostri canali:\n\nInstagram ➡️ https://www.instagram.com/plrticino/\nFacebook ➡️ https://www.facebook.com/PLRTicino/\nSito internet ➡️ https://www.plrt.ch",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-7vYkIM5hriRNc9Pxjp7to_Hmeyo67aNPR4HCQdilBhMCMtmlb7__x20VjrwgClfRwXMsXUw_SuUkdg-YLdKqdR4W5dTrNGkV0uE1nXkDyg985qCYhBtnuvr3DhOzhYiobuhdco6IgQhTmoa9f?_nc_gid=YcBSVdtl7r61HD2M0hHjXg&_nc_oc=AdpGQT6MTeqatKmnwOceo-t6DKzDQ3AU5Z_5a7oYW3d7uAfWGNJSYLwCzO_j28N1QPc&ccb=10-5&oh=01_Q5Aa5gEMIFLTo5t5dNB9RioaHqj0bTKxY1aNK78hceF0NTxgaQ&oe=6AD4BA5B&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029Vab0YWj2v1Iyz8tNLB2J.jpg?v=862c0e75deda",
+      "followers": 1911,
+      "precision": "exact",
+      "status": "ok",
+      "verified": true,
+      "seenAt": "2026-09-18T15:24:55Z"
+    },
     "0029VaCBWZyAe5Vqthvl7Q1M": {
       "id": "0029VaCBWZyAe5Vqthvl7Q1M",
       "kind": "channel",
@@ -204,13 +249,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaCBWZyAe5Vqthvl7Q1M",
       "title": "SPÖ",
       "description": "Wir bringen Österreich wieder auf Kurs: https://www.spoe.at/fuer-oesterreich/ 🇦🇹",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-zXEW2AqmA-woSgVhtONbpqFU9Inti0knxK0FghqfCSTjN7dSd8iHF5CmVaS7wmO80eASoEKHIqXnMIITMUOcyqNpCqUh6BSSqIz2futC8dFUrGNCFG9vGAGwLdPuY7PztR7qKE_w5LeCYvJCx?_nc_gid=6Cb1Ozqb2TmoBLiGkc52Hg&_nc_oc=AdqniZFq0C-7tPq7ovBR_eZQAMumREvaxQRxX8xvA942m7sifpM-lyk3gce1gBBs5d8&ccb=10-5&oh=01_Q5Aa5gH0tt793Fq-DbgddwNbZB_kirBMZcXjlzLVAwOg4xhA_w&oe=6ACF3B4C&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-zXEW2AqmA-woSgVhtONbpqFU9Inti0knxK0FghqfCSTjN7dSd8iHF5CmVaS7wmO80eASoEKHIqXnMIITMUOcyqNpCqUh6BSSqIz2futC8dFUrGNCFG9vGAGwLdPuY7PztR7qKE_w5LeCYvJCx?_nc_gid=gd9RFEcpLdnPB_NkxfMDtg&_nc_oc=AdrbqSIooeVQd1bbKwKOTImUzul_ZRI7YReoY4Z_CRweA55otDc_JXhfFEoZJqUN_Po&ccb=10-5&oh=01_Q5Aa5gE07dmSeAwomizjQRVFc9VsszG08AqD98pB9wbfPShvxA&oe=6AD7244C&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaCBWZyAe5Vqthvl7Q1M.jpg?v=22cced34c5cd",
-      "followers": 13501,
+      "followers": 13546,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-14T10:38:14Z"
+      "seenAt": "2026-09-20T09:48:37Z"
     },
     "0029VaCOS6XAjPXLhdgcZR2f": {
       "id": "0029VaCOS6XAjPXLhdgcZR2f",
@@ -219,13 +264,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaCOS6XAjPXLhdgcZR2f",
       "title": "Matteo Renzi ",
       "description": "Senatore di Firenze, leader di Italia Viva",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/390113764_3183749831919084_9082373220156839456_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=C5kCV65Lz2EQ7kNvwFbo8to&_nc_oc=AdrgeURDgFFSHyrAo2_UnAithxAxwwREBh-bXpoYYL5sP75TEZk3z5FaLNHUmjGKi60&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=9wSzPq45U7sbfCHKPI7p8Q&_nc_ss=70289&oh=01_Q5Aa5gE5sTeOR9MBq2dLc3rMH3bG-SrKAsCaJMZvGHyfBDS0lg&oe=6ACF235E",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/390113764_3183749831919084_9082373220156839456_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=JphI1ZGYookQ7kNvwHIQHXu&_nc_oc=AdrYSP7NvHE9fmiCLsDnptxrXSszpg6z7hWUutS1wBqOtQ7cr77SQvlqkNtwJnOXQhE&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=9IUUApO4MTGWzajkTnOxfw&_nc_ss=70289&oh=01_Q5Aa5gH99--Ky1jeVXOtWPx4Kwx9Fwby7Pp5pr68-L1YK2-TpA&oe=6AD70C5E",
       "avatar": "/party-avatar/0029VaCOS6XAjPXLhdgcZR2f.jpg?v=c4b6137c19a1",
-      "followers": 34325,
+      "followers": 34345,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-14T10:38:13Z"
+      "seenAt": "2026-09-20T09:48:36Z"
     },
     "0029VaCqsmk1XquVbS6T1u08": {
       "id": "0029VaCqsmk1XquVbS6T1u08",
@@ -279,13 +324,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaCyQQpC1FuAiUvfWJ3S",
       "title": "VVD",
       "description": "Wil je niets missen van onze partijleider Dilan Yeşilgöz-Zegerius en alles wat er bij de VVD gebeurt? Volg dan ons kanaal op WhatsApp. 💙🧡",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An8duqEfU5FOANXB1SFL4jBbB7DdVG2EamCTOPLHmweZWF-FFCaQ8UvLedh91ar_oDZNWCGje8xCIP98qUbxJBgVu1CUHTVs7rZ9vEDE5BSK48-q8Z46jGvauxLhonysnnH9qKJoz0d54aS7sgnk?_nc_gid=CVv1duU17PvW8UsvOX8_Zw&_nc_oc=AdpdHZkiKZ0bB7fr1JfMEb9Wk8hTV1Hmm8a77ORwb4xVXz1O-R8t6PkuiMBr8wmtQPA&ccb=10-5&oh=01_Q5Aa5gE4HaV7gGaH_eY9HUwj9pyOCWgdEfMELAO8GMr3JhNz-g&oe=6AD07E50&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An8duqEfU5FOANXB1SFL4jBbB7DdVG2EamCTOPLHmweZWF-FFCaQ8UvLedh91ar_oDZNWCGje8xCIP98qUbxJBgVu1CUHTVs7rZ9vEDE5BSK48-q8Z46jGvauxLhonysnnH9qKJoz0d54aS7sgnk?_nc_gid=T1-6luyY1Utnt4__EQrE-g&_nc_oc=Ado-VO4UMmcKQaIvRnEx39WOySVylMdZjoDC7UdYb6LFs33keT0qxFFNJ9lkTOMJ-SQ&ccb=10-5&oh=01_Q5Aa5gFGq05DLBDjpSfjs6iEy_HtPfZuqQO4Vj-2TfLJ_Xbd0g&oe=6ADB0A50&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaCyQQpC1FuAiUvfWJ3S.jpg?v=01e33341b04f",
       "followers": 4427,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-15T10:04:23Z"
+      "seenAt": "2026-09-23T09:58:51Z"
     },
     "0029VaD2DqD3QxS133VKTQ2z": {
       "id": "0029VaD2DqD3QxS133VKTQ2z",
@@ -294,13 +339,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaD2DqD3QxS133VKTQ2z",
       "title": "André Ventura",
       "description": "A mudança que Portugal precisa!",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/367706904_3617162155238360_4127090265271029797_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=jFnjvJkCFTIQ7kNvwFfzOoa&_nc_oc=AdpsOT0uzgxKkR3DpUAnsNa1EWqOHtCdKXGuhx1rHKK9sBT_ESibnH_tdMu2uRb7shM&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=R04fYY5fx0-PrS8vzWK5Xw&_nc_ss=70289&oh=01_Q5Aa5gGVO8Rm8-K3BasPYhilJz0XIwhH_5sBT0wCpoaAMg8Nzw&oe=6ACF3BC2",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/367706904_3617162155238360_4127090265271029797_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=EWrPnNFbZJwQ7kNvwEdo1Gr&_nc_oc=AdpTXlQnnvZ0NDwDMZS2KjXSbpDyZEBPgH_GpgXf-tVwYhRnhvr1QTAaJRhIVMyXk6s&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=JMeh0bkPsy7lRncldpdQ9w&_nc_ss=70289&oh=01_Q5Aa5gGLsmpj-fxGFXWhUV-JKHCXiU7l30EY8UOJYXlm608SpA&oe=6AD724C2",
       "avatar": "/party-avatar/0029VaD2DqD3QxS133VKTQ2z.jpg?v=b57fcdc61e3c",
-      "followers": 12614,
+      "followers": 12611,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-14T10:38:12Z"
+      "seenAt": "2026-09-20T09:48:36Z"
     },
     "0029VaD4cMMEawdhJl5YBj1d": {
       "id": "0029VaD4cMMEawdhJl5YBj1d",
@@ -309,13 +354,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaD4cMMEawdhJl5YBj1d",
       "title": "CSU Bürgstadt",
       "description": "*Impressum & Hinweis*\n\nDies ist der offizielle WhatsApp-Kanal des\nCSU-Ortsverbandes Bürgstadt.\n\nDer Kanal dient der Information über kommunalpolitische Themen sowie der politischen Kommunikation und Wahlwerbung im Zusammenhang mit der Kommunalwahl.\n\n*Anbieter / Herausgeber:*\nCSU-Ortsverband Bürgstadt\nWeidengasse 5\n63927 Bürgstadt\n\n*Vertretungsberechtigt / Verantwortlich im Sinne des Medienstaatsvertrags:*\nMax-Josef Eck\n(Ortsvorsitzender CSU-Ortsverband Bürgstadt)\n\n*Datenschutzhinweis*\n\nDer WhatsApp-Kanal wird betrieben vom\n*CSU-Ortsverband Bürgstadt*, Weidengasse 5, 63927 Bürgstadt.\n\nDie Verarbeitung personenbezogener Daten erfolgt ausschließlich zum Zweck der\n*politischen Information und Öffentlichkeitsarbeit.*\n\nRechtsgrundlage ist\n*Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).*\n\nDer Betreiber speichert oder verarbeitet keine darüber hinausgehenden personenbezogenen Daten der Abonnenten.\nDie Datenverarbeitung erfolgt im Rahmen der Nutzung von WhatsApp gemäß den Datenschutzbestimmungen von WhatsApp (Meta).\n\nBetroffene haben die Rechte aus\n*Art. 15 ff. DSGVO.*",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/394320292_1312428126308276_6523979851594418617_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=uKDmikpGjksQ7kNvwH3jV_9&_nc_oc=Adq0qra_Ftqvv-pzGUIPIZfq1tV1dQOmrLS73zEgHrMUfbr0h8LUGraIeKywGy76Dlo&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=BN7jJtRx3D2rIp8Oz7jpJw&_nc_ss=70289&oh=01_Q5Aa5gH0GbtBu21QBpAujwlpy9UUte_9cg7sdP4CCAUL7ZM2bw&oe=6ACE6423",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/394320292_1312428126308276_6523979851594418617_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=6wiyLoow91sQ7kNvwHVZSp3&_nc_oc=AdomQwRX0TbzpfPIylWOac1iHPyRFZfoAKkg42e1khgcdaTIARiELlGuKF43348EgaM&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=NCjSPueH2u-tWlsbBUwDzA&_nc_ss=70289&oh=01_Q5Aa5gGCA27AijxD8ggQnTbToYgQ9aQ59ZQ35M3Uz0GDwh_bCA&oe=6AD87FA3",
       "avatar": "/party-avatar/0029VaD4cMMEawdhJl5YBj1d.jpg?v=f4b6b0b15525",
       "followers": 134,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:47Z"
+      "seenAt": "2026-09-21T10:43:26Z"
     },
     "0029VaD4YKtEKyZEEzxkW83U": {
       "id": "0029VaD4YKtEKyZEEzxkW83U",
@@ -324,13 +369,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaD4YKtEKyZEEzxkW83U",
       "title": "Partito Democratico",
       "description": "Canale WhatsApp ufficiale del Partito Democratico",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/390324868_172185615885099_1009149212973701857_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=SoOIdoolqVoQ7kNvwFGRs39&_nc_oc=Adqge6MAxCZFiLrWl2zktMMVj5BS_XIzUUjFMRPjjV6eZb2bjXMXryhO2i2hPlQmOxI&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=WeoLur_pa6TG2rCKpfSzVg&_nc_ss=70289&oh=01_Q5Aa5gHre8EOW4acIqhTQHFU3HbbOFbbvfJ91wvz8Y99yeSg0A&oe=6ACF2A5C",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/390324868_172185615885099_1009149212973701857_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=A3J3AOnKr6AQ7kNvwGby-TB&_nc_oc=AdqrCCl1I8K3WY2sjfHsolaKR00INGkaogDUpyEawFVG4CVooMu91l-Mt5jvlS8CSNE&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=vrrEZJGv3lfjhewGguczpg&_nc_ss=70289&oh=01_Q5Aa5gG896fyff84H1PWBIfSE_Eq-o3Nom9efydaAeerkdVjSg&oe=6AD7135C",
       "avatar": "/party-avatar/0029VaD4YKtEKyZEEzxkW83U.jpg?v=7569a4dcabc3",
-      "followers": 33513,
+      "followers": 33559,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-14T10:38:10Z"
+      "seenAt": "2026-09-20T09:48:35Z"
     },
     "0029VaDCD1UJJhzPmDOnRy2E": {
       "id": "0029VaDCD1UJJhzPmDOnRy2E",
@@ -339,13 +384,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaDCD1UJJhzPmDOnRy2E",
       "title": "Santiago Abascal 🇪🇸",
       "description": "Canal oficial de alertas de Santiago Abascal en Whatsapp.\n\nRecibirás las últimas noticias y vídeos para estar informado y poder compartir en redes sociales y con amigos.",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-Yw3pv64NfOuF7MZMKVY4bdFL_fGBrmVIwup1uZJnSx1Z8qQfbvgrfHNfwh5Oa1YW140o2W15v2RpRNFryNpSKozg7u7WTBLge1sYOkBRowM7PDL17X-9_ew9ywMS1czYgXjdJvhwjKL36qzcD?_nc_gid=YFC0mqnGbbp0LkRWvUBkoQ&_nc_oc=Adr3PHo1m3OjO0zOBdCl2muFULzYGVMxce02qLyL9T5kswDg8Cl62I3MhHbonN0ROOQ&ccb=10-5&oh=01_Q5Aa5gFGL4_RyluH-ZJIWColO-eGYzveVDGdIPx6T2VStb3Lhg&oe=6AD1E0C7&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-Yw3pv64NfOuF7MZMKVY4bdFL_fGBrmVIwup1uZJnSx1Z8qQfbvgrfHNfwh5Oa1YW140o2W15v2RpRNFryNpSKozg7u7WTBLge1sYOkBRowM7PDL17X-9_ew9ywMS1czYgXjdJvhwjKL36qzcD?_nc_gid=C1xnym-OrEit08xQ_Rl7NA&_nc_oc=Ado2PEVqCe_dyI_k1MmXawkKtqP3bmjShiTNjFhA8-7DiNSTOEzSm7zpvOYU7Cx7rfA&ccb=10-5&oh=01_Q5Aa5gGqCWHL2_8KVn2wN0WJg6L4ABiSzQ32cYppD1126CvD1Q&oe=6AD9C9C7&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaDCD1UJJhzPmDOnRy2E.jpg?v=c0a51a26edaf",
-      "followers": 81697,
+      "followers": 80802,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-16T11:08:00Z"
+      "seenAt": "2026-09-22T09:57:13Z"
     },
     "0029VaDCDYDKrWQzJXHTJv0e": {
       "id": "0029VaDCDYDKrWQzJXHTJv0e",
@@ -354,13 +399,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaDCDYDKrWQzJXHTJv0e",
       "title": "SPD",
       "description": "Wir machen soziale Politik für Dich! ❤️",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/315740019_3536825209966174_7452659474281015232_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=6lHbCS9egDEQ7kNvwFXUJI9&_nc_oc=AdqAdceDhCesJcDgwfTxUN4wdQd5qMs1YqqbbG333uNOZSD6OML3pQz6S6CovLnaSe0&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=2uooj2R6hIBtUCGThp6LZw&_nc_ss=70289&oh=01_Q5Aa5gEaaSS12gKjTtx_rscUxohYspUwF77QSTiJBJBehV5cBg&oe=6ACE62AA",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/315740019_3536825209966174_7452659474281015232_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=WnHAmJIfnj4Q7kNvwFO1tjo&_nc_oc=Adrmgot94nRHD50GgBVRvi7ekMq7Pyrw9t_7J_xe9Ky7V_irpWhJkesrVti-o6PemJE&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=20myFcbZEOOHHPZCILUOyw&_nc_ss=70289&oh=01_Q5Aa5gG6mf5Uf_B8A4ul_uiOqMhG23ej2khzmy4HdHBeHUVt9g&oe=6AD72CAA",
       "avatar": "/party-avatar/0029VaDCDYDKrWQzJXHTJv0e.jpg?v=a18e136c5877",
-      "followers": 32093,
+      "followers": 32038,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-13T19:04:54Z"
+      "seenAt": "2026-09-20T09:48:33Z"
     },
     "0029VaDIdTgHLHQVxYVxZB2q": {
       "id": "0029VaDIdTgHLHQVxYVxZB2q",
@@ -369,13 +414,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaDIdTgHLHQVxYVxZB2q",
       "title": "CDU Hamburg",
       "description": "Offizieller Kanal der CDU Hamburg⚓️\n\nAktuelle News von unserer Hamburger CDU gibt es hier! Wissenswertes über die politische Arbeit von Partei und Fraktion. Anpacken für Hamburg!",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/394516721_1421853178675955_5260135799238864732_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=i1EkOvdOPnQQ7kNvwFLPUhK&_nc_oc=AdruuzmDoPVKhM8w_zU8wDGBLwfUGsgmlZkA4CrCusxdsQLrmeAKt-LXIV0fNhLoZhI&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=gI9lMVCRdMTpPTamMn2rPw&_nc_ss=70289&oh=01_Q5Aa5gGzteSwicoruYowHb-jD2rejn5WD6xchdCyokeKY7Gveg&oe=6ACE7F6D",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/394516721_1421853178675955_5260135799238864732_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=N7Ssb3cJl_MQ7kNvwFdH3ix&_nc_oc=AdrGmPtSntJbIxcmiQaYSK9wbVPSQNTAppGcBVIVyb3d7YDXVNIpzjgiE5eKsFIlMss&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=M2Qx6BKjEBpmw6oB_cJzjQ&_nc_ss=70289&oh=01_Q5Aa5gFWwrlPE4ONJ657GLuakB67HrYeJC4yNME7pS8Mla8JtA&oe=6AD862AD",
       "avatar": "/party-avatar/0029VaDIdTgHLHQVxYVxZB2q.jpg?v=2966d12a3954",
       "followers": 119,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:44Z"
+      "seenAt": "2026-09-21T10:43:23Z"
     },
     "0029VaDLxdM7z4kfdsHvfS2K": {
       "id": "0029VaDLxdM7z4kfdsHvfS2K",
@@ -384,13 +429,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaDLxdM7z4kfdsHvfS2K",
       "title": "SGP",
       "description": "Via dit WhatsApp kanaal blijft u op de hoogte van de actualiteiten rondom de SGP.",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An9UwOnrMOmSYoUSl2S_AVRI2Tg7G8LSIPwNDl96d3XUZiDruGBT9duyBpjbu7yD5jod7HStY0qV2Y2mk3B9-9YYpUuvgrFvfA6bBlWTVEKqIsKkf3Jd0ci7eJBU1sWE_Cck0fNB926_IqWvuGe1?_nc_gid=LGe7biUjEDWzzELxnFVWfA&_nc_oc=AdolzqBVQtLV_6DRyn2pP1M3oKT_3hR85g6KyMPHh_M7dVwMbFG6ceoFCXB9ZncvF_U&ccb=10-5&oh=01_Q5Aa5gGiPIbPrk9gRgLJjESECBPQ5L1kWmMU2YjYSxTGd11ZZA&oe=6AD0712D&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An9UwOnrMOmSYoUSl2S_AVRI2Tg7G8LSIPwNDl96d3XUZiDruGBT9duyBpjbu7yD5jod7HStY0qV2Y2mk3B9-9YYpUuvgrFvfA6bBlWTVEKqIsKkf3Jd0ci7eJBU1sWE_Cck0fNB926_IqWvuGe1?_nc_gid=wxfQ-zoDAcAH7AaA-IZ6Fg&_nc_oc=AdrH-eTyKP6hm-y98yWAHeXC-IDmCuAE-wWLVzrB7YCjzX0v0ucwrvwiZBn_fyF7ALw&ccb=10-5&oh=01_Q5Aa5gEqK4T8fVitLFON0Q0VPGHenTI940hdMwoRhW-NlY7tZA&oe=6ADAFD2D&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaDLxdM7z4kfdsHvfS2K.jpg?v=a42ee9629747",
-      "followers": 7095,
+      "followers": 7119,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-15T10:04:20Z"
+      "seenAt": "2026-09-23T09:58:49Z"
     },
     "0029VaDmwImInlqH6qWYq00w": {
       "id": "0029VaDmwImInlqH6qWYq00w",
@@ -414,13 +459,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaDq9ngDuMRdwp5IrC0E",
       "title": "Giuseppe Conte",
       "description": "Il canale whatsapp ufficiale di Giuseppe Conte, Presidente del Movimento 5 Stelle.",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An8K9BrDXqcYBQwYuBl5bunpORwF6YXeLdu02xMb3sI6j1u33oGW6W0wiSzCmY7j5rm242gAntN8Sif6Jc3Djzhs0Co2mK39ZCgGJsUEZ3t3o0FavRz0ma-9SdNc2tosz2UkkBDWYbiKPvmZO6-n?_nc_gid=qwE6Y7Gs8daPPFSan-v6Rg&_nc_oc=Adq3J2-pE0pRA5UJAVFTAaWVYjsEmKTjjtJM13WEm3RsxuJhpdvd74oM1pYX4MSrPLE&ccb=10-5&oh=01_Q5Aa5gExlqKgq-WBshJ_6-DdjY0SHzpBEO6gvmc6QroIYdRO8Q&oe=6ACF36CE&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An8K9BrDXqcYBQwYuBl5bunpORwF6YXeLdu02xMb3sI6j1u33oGW6W0wiSzCmY7j5rm242gAntN8Sif6Jc3Djzhs0Co2mK39ZCgGJsUEZ3t3o0FavRz0ma-9SdNc2tosz2UkkBDWYbiKPvmZO6-n?_nc_gid=cJIeNuTFDQPaPqMdM71YMg&_nc_oc=AdoP2aUPiAfcIBfhJ7CzTVWjp25eQMo_RtcEBdkVEbR5SwAF8F2N3wdxYJgki-xnJag&ccb=10-5&oh=01_Q5Aa5gGApcdJAKVQCXYFkBjGUF-mDtz5dDzlBrcsS0b3NLrlew&oe=6AD9C2CE&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaDq9ngDuMRdwp5IrC0E.jpg?v=359d14e79bd4",
-      "followers": 76976,
+      "followers": 77259,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-14T10:38:15Z"
+      "seenAt": "2026-09-22T09:57:13Z"
     },
     "0029VaDv0VS0lwgvnH7i8r0z": {
       "id": "0029VaDv0VS0lwgvnH7i8r0z",
@@ -429,13 +474,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaDv0VS0lwgvnH7i8r0z",
       "title": "Grünes Bayern",
       "description": "Servus und schön, dass du vorbei schaust! 👋 Willkommen im WhatsApp Channel für alle Interessierten an Grüner Politik in Bayern🌻💚\n\nFraktion BÜNDNIS 90/Die Grünen im Bayerischen Landtag und BÜNDNIS 90/Die GRÜNEN Bayern",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/409161742_885550903027609_3722461534542894594_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=t9v-P4vx_20Q7kNvwFcKScm&_nc_oc=Adq_oRkm4wEi_U8eqiwhxhM9OeSOmQLWWHs5OswAG1rFZv0udFcV9SC3cUcuo2OxjE4&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=sGltvsuLvs8rHOoEqp66rA&_nc_ss=70289&oh=01_Q5Aa5gGr-2p6ftVw1oURbKGrvcEpWsTlmjHMgiUeno5m9y0EPQ&oe=6ACE7304",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/409161742_885550903027609_3722461534542894594_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=XTzndIW2YK4Q7kNvwHdXGCz&_nc_oc=Adop3QPDL1M6rDTQfsTCe_PF6Rwiyh3hIfEIdfldCNmXXbiUqDVeuRPl7SPf-J3KuXg&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=NRmKrPWcKDJwOR8hhgOjGA&_nc_ss=70289&oh=01_Q5Aa5gF-CtmJ95092DcsI7XVUBj7G3uYnBMGsZuiejshIefB0Q&oe=6AD9A7C4",
       "avatar": "/party-avatar/0029VaDv0VS0lwgvnH7i8r0z.jpg?v=3386d6e06c15",
-      "followers": 3889,
+      "followers": 3890,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-13T19:04:49Z"
+      "seenAt": "2026-09-22T09:57:07Z"
     },
     "0029VaDvUzm9cDDdqPbhmj19": {
       "id": "0029VaDvUzm9cDDdqPbhmj19",
@@ -444,13 +489,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaDvUzm9cDDdqPbhmj19",
       "title": "Parti socialiste",
       "description": "Suivez toute l'actualité socialiste en temps réel !",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An85y8QNBPQZyvpMHcHNteQSJ1bNJASWxE1zj5XmgJzDSEH7uOZlQ-PZOU4LlRza86fEOpWpCInpYNV5-sXAxo_u0u_pYCBhfLPCAHuOY8BrmzXGvAFwlNdmRMkowuesgc7WdNW9QHMNAhz1YhXb?_nc_gid=LZz-qhWIIIbFu3Uz00iCZw&_nc_oc=AdrqvYIFdEmbFB346kBtoEpskOkRI8pqnZo4leOkS5CmxXyKVh_WmwwUdCw4483Z4n8&ccb=10-5&oh=01_Q5Aa5gEgbu0FiC2wsKNOUbmKzJ0Rk6nUn2ABjnTY17h4eUk3Hg&oe=6AD07F8B&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An85y8QNBPQZyvpMHcHNteQSJ1bNJASWxE1zj5XmgJzDSEH7uOZlQ-PZOU4LlRza86fEOpWpCInpYNV5-sXAxo_u0u_pYCBhfLPCAHuOY8BrmzXGvAFwlNdmRMkowuesgc7WdNW9QHMNAhz1YhXb?_nc_gid=EIoiEostNDaNqRk0tX27EQ&_nc_oc=AdrXJPiVoE-Ispk-Pay0GY6baGT-HICdE6R5rAkB3-2nBCZwVeBe06KdQ7_4azRmHJg&ccb=10-5&oh=01_Q5Aa5gFNFZF2E-ZeOxsR_lT9LkVH_gNsTkNxGx-aaI3Kvpv9DA&oe=6ADB0B8B&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaDvUzm9cDDdqPbhmj19.jpg?v=23e537b7f74e",
-      "followers": 8409,
+      "followers": 8381,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-15T10:04:20Z"
+      "seenAt": "2026-09-23T09:58:50Z"
     },
     "0029VadW99X2kNFogn540h07": {
       "id": "0029VadW99X2kNFogn540h07",
@@ -459,13 +504,13 @@
       "url": "https://www.whatsapp.com/channel/0029VadW99X2kNFogn540h07",
       "title": "BÜNDNIS 90/DIE GRÜNEN",
       "description": "🌻 Hier bekommst du Infos, Updates und Content aus dem Grünen Kosmos von der Bundesgeschäftsstelle von BÜNDNIS 90/DIE GRÜNEN direkt auf dein Handy.\n\n🌐 gruene.de\n\nImpressum: https://www.gruene.de/service/impressum\n\nDatenschutz: http://gruene.de/datenschutz",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-D2ozcMFjOrNJ10dG3ilYzNGYzqskKh80vTuZImBGCuNIXfs9UCYqDMvRsbv8i-xlaKdFiBsLcaWOZj03jFbt0O2L8S-widJ1dQM4F-xtdPO5gCVlyeqZYsp9QjpceHU21ctD3hbGaLr3FjzP_?_nc_gid=J6AExjGa45YWLU4pPeP8hg&_nc_oc=AdodnI1occ8UUpJOjOL54ArV_QIvAOTOUhLAe5kHVFr-UTc1H3m18HzZHX1-Egg3sXc&ccb=10-5&oh=01_Q5Aa5gFPnR0iL62t5a3iX1AkjfHin_hKSnRe_oPSUKt7QMvG2A&oe=6ACE5100&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-D2ozcMFjOrNJ10dG3ilYzNGYzqskKh80vTuZImBGCuNIXfs9UCYqDMvRsbv8i-xlaKdFiBsLcaWOZj03jFbt0O2L8S-widJ1dQM4F-xtdPO5gCVlyeqZYsp9QjpceHU21ctD3hbGaLr3FjzP_?_nc_gid=IZL9v_ZLoLFRfnoni5wE0Q&_nc_oc=Ado2JiZflGE3LkqUBHsj_QrEoyZLtF2t4s9c-VKRfPW8OcbKsKJv74jcEJc2-xNL0b0&ccb=10-5&oh=01_Q5Aa5gHowNvfw6gzQ79en0p4mwgPTIRmBVIVMteHEkUyDL1QAA&oe=6AD71B00&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VadW99X2kNFogn540h07.jpg?v=d69311b7f147",
-      "followers": 28434,
+      "followers": 28687,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-13T19:04:53Z"
+      "seenAt": "2026-09-20T09:48:33Z"
     },
     "0029VaDxRq5Fy72FGcxBW93K": {
       "id": "0029VaDxRq5Fy72FGcxBW93K",
@@ -474,13 +519,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaDxRq5Fy72FGcxBW93K",
       "title": "AfD Magdeburg💙",
       "description": "Willkommen auf dem offiziellen WhatsApp-Kanal der AfD💙Magdeburg.🇩🇪 \n\n100 Prozent anonym\n\nHier könnt ihr aktuelle Informationen über uns lesen, wie • Veranstaltungsinformationen • Politische Informationen • Presseberichte • Arbeitsberichte • Videos und Berichte aus der AfD-Stadtratsfraktion\n\nFolgt uns und bleibt immer informiert über euren lokalen AfD-Verband und unsere Arbeit für unsere Heimatstadt.\n\nUnterstützen Sie uns! Werden Sie Mitglied! \n🖥️ www.afd-md.de\n📧 magdeburg@afd-lsa.de \n📞 0391 5560221",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/397779595_356645003399754_1941403477325240907_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=oDBlgoegCUEQ7kNvwGlLYv0&_nc_oc=AdoHoSU_0qWt-XtFVLqt-FoP0qKa_mmgXzXO7lOr1-YU0Z51lYYL0Ga2EZeDreD5zps&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=x9oOc6D6Trs-RFKo1iCL4g&_nc_ss=70289&oh=01_Q5Aa5gHrQiHmB7s_VMNiEh8kN2OsrItWfBrGEYSIHVCB4afXrg&oe=6ACE4C26",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/397779595_356645003399754_1941403477325240907_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=AynhhXcBnBYQ7kNvwEaVHQD&_nc_oc=AdqlXqXRvJdmMqFCgQhOBroT7naNfZ7yr86EwSMsMtWi18OL-AIiLhyp-dxferm3R-k&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=Ix9oL8GHyfdSg6BG8bjTKA&_nc_ss=70289&oh=01_Q5Aa5gHy2cFr4NyIf50Grtt_5D7HQRiZbRzFLUtzQzoEXNzypA&oe=6AD867A6",
       "avatar": "/party-avatar/0029VaDxRq5Fy72FGcxBW93K.jpg?v=1546544b1715",
-      "followers": 1251,
+      "followers": 1248,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:41Z"
+      "seenAt": "2026-09-21T10:43:20Z"
     },
     "0029VadzcDYL7UVOaCWd271d": {
       "id": "0029VadzcDYL7UVOaCWd271d",
@@ -489,13 +534,13 @@
       "url": "https://www.whatsapp.com/channel/0029VadzcDYL7UVOaCWd271d",
       "title": "SPD-Stadtverband Wörth am Rhein",
       "description": "Informationen zu Stadt- und Ortspolitischen Themen, zu Aktionen und Veranstaltungen. Wir informieren hier über aktuelle Inhalte und unsere Ziele für die Stadt und unsere Ortsbezirke Büchelberg, Maximiliansau, Schaidt und Wörth.",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-4OwtGvrMNuxlN0K9t40dYf_ZZA7MMXMYzKgmK3VTC8ZYPw1warGIRQlGRXlPB5DOHdiF7_dT08wGTNB2TGZQR06Eq54qPKxcspv6Comne8yU3_eRP0M3VPQckAlLCBN7dFa8AGkK0Kbqmdl9h?_nc_gid=3dSUCpulF7frhsuXK5_U9g&_nc_oc=Ado3m9m9YrvU9XX6tIJ1YXN5PM9HYdrZngTRuqTRGEa5qblXSH5Vloi6C_6dmQ-QyjA&ccb=10-5&oh=01_Q5Aa5gF0ktkLTx0_5Tg8hydzu_qRjblzlFT0mVLa-HNdb0ZBMQ&oe=6ACE7D13&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-4OwtGvrMNuxlN0K9t40dYf_ZZA7MMXMYzKgmK3VTC8ZYPw1warGIRQlGRXlPB5DOHdiF7_dT08wGTNB2TGZQR06Eq54qPKxcspv6Comne8yU3_eRP0M3VPQckAlLCBN7dFa8AGkK0Kbqmdl9h?_nc_gid=yuZnl71cHBTg_gZrbKyepg&_nc_oc=AdqTNwS8kfFiaV6X_uqnq8HIkUVvmXMnss17VlfLzGUhskrRP_gmwuhImvzpdBncBjo&ccb=10-5&oh=01_Q5Aa5gHwKhgdqbMtpz1Ig0mT58PMB0reU7ah_O6qOq_Daj7jEQ&oe=6AD86053&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VadzcDYL7UVOaCWd271d.jpg?v=60421452f66a",
-      "followers": 28,
+      "followers": 27,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:47Z"
+      "seenAt": "2026-09-21T10:43:27Z"
     },
     "0029VaDZVAU6hENq64FNIq2f": {
       "id": "0029VaDZVAU6hENq64FNIq2f",
@@ -579,13 +624,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaFlergKmCPOtXP4aM1k",
       "title": "FDP",
       "description": "Wo Freiheit ist, ist alles möglich. 💛",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An9_VYTcMLQ7DBjFy8y__tS4B7T3du21IEiG0sdhMA-3NR8wzgPqqEMD3NGkRO_vp4JPu_geZMBQ-WaeJI9F7cFpkdVr1UevQdBtl9ZN6IrreOEUgBUU0wfoPCOrz7zchvtDXCTy8kpMDXhJcY06?_nc_gid=gnOekVQ4-9HBJbPEdnD9WA&_nc_oc=AdqNe-JvE2oYu5o6Vixyr11nGigvak3hJwyQ2iAdeDdKKAKsa55Gpc7bjgdNiizSOZg&ccb=10-5&oh=01_Q5Aa5gFWCxzo44ewA2-zwhONgiXT2UUs1X_J3NuV6meUtnJkiQ&oe=6ACE8055&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An9_VYTcMLQ7DBjFy8y__tS4B7T3du21IEiG0sdhMA-3NR8wzgPqqEMD3NGkRO_vp4JPu_geZMBQ-WaeJI9F7cFpkdVr1UevQdBtl9ZN6IrreOEUgBUU0wfoPCOrz7zchvtDXCTy8kpMDXhJcY06?_nc_gid=S3uCBehcW4ACwcg8kOGE6A&_nc_oc=AdqRo4WJF1QETxnJwcompRxAuDcsy3uPV18GTGIbCaUECQtHyFHZoyeVk8BTRfxxl68&ccb=10-5&oh=01_Q5Aa5gEdE2zuWUPCcshoKqvRRPH5uhbNx72xtC39t__NkiDaEw&oe=6AD86395&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaFlergKmCPOtXP4aM1k.jpg?v=dc1d8f37c9af",
-      "followers": 7752,
+      "followers": 7798,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-13T19:04:41Z"
+      "seenAt": "2026-09-21T10:43:20Z"
     },
     "0029VaG5zpf9RZAUcorlw410": {
       "id": "0029VaG5zpf9RZAUcorlw410",
@@ -594,28 +639,28 @@
       "url": "https://www.whatsapp.com/channel/0029VaG5zpf9RZAUcorlw410",
       "title": "Sinn Féin ",
       "description": "Irish Republican party leading change for a better, fairer and united Ireland and putting the needs of ordinary workers and families at the heart of everything we do.",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/405614958_385129957278614_9221702744214635082_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=XUqR6B9MUesQ7kNvwE7seRj&_nc_oc=AdpXImFHBJo4PCcu8v9OYS1v5Nxf0ocKkXP_lRbkg-01eEPfIHOlfcwyTAGOSFsGpA4&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=UU5B-U1O6pvf1DoWL41FNA&_nc_ss=70289&oh=01_Q5Aa5gFXzeQJbEhwwUyFHxp_N5k4DBO1CMk8RU8bVeFCPIS-nw&oe=6AD073CA",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/405614958_385129957278614_9221702744214635082_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=dCSf9nN1jN8Q7kNvwHfnU2J&_nc_oc=Adrut-0wn49YVH3gYzNGonwpoRdRPM46ueQnzN6oZnQUxxEO260iEViTBjvGPLFSoII&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=_EmnekV9wnkZJkIbXxXFWw&_nc_ss=70289&oh=01_Q5Aa5gHP8aSl1upBzWelAbaWcf1qGi6SPRmhE8VwGpJpLCnlWA&oe=6ADAFFCA",
       "avatar": "/party-avatar/0029VaG5zpf9RZAUcorlw410.jpg?v=457f81abc974",
-      "followers": 7352,
+      "followers": 7371,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-15T10:04:24Z"
+      "seenAt": "2026-09-23T09:58:52Z"
     },
     "0029VagPEHPCnA7uajcDvi2u": {
       "id": "0029VagPEHPCnA7uajcDvi2u",
       "kind": "channel",
       "partyId": "at-grune",
       "url": "https://www.whatsapp.com/channel/0029VagPEHPCnA7uajcDvi2u",
-      "title": "Team fürs Klima",
-      "description": "Hier findet ihr alle Infos von unserem Team fürs Klima: Werner, Leonore, Alma und die Grünen Österreich. \n\n🔗 gruene.at\n\nImpressum:\nhttps://gruene.at/impressum/",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-_xCWl2_5gwey1C7SZQPdSaJZyuZLOoytR0bb72xrb2kLau34wpVEfRd3TbzWXpbwFHhEZnZReGsM5sLs4GrHPVn5gk8ZE7jn5iqEQZFsSFyK7NqC0LFFp_gP-Zb4DJoQ8A076NoM4FEBNVbh0?_nc_gid=ZUFnhGYV51pcQWYaQ-a4vA&_nc_oc=Adqtps9F4p71Ma6KXTC85yGLqWVHCToHaTRt1nByRl70twv4h3-5Ui90bvfvrbDEhVo&ccb=10-5&oh=01_Q5Aa5gGtfek-EWoFMXYIgq32syKVm64fC4fKXez6a-tT8FF-gg&oe=6ACF4311&_nc_sid=471a72",
-      "avatar": "/party-avatar/0029VagPEHPCnA7uajcDvi2u.jpg?v=9edee8232c16",
-      "followers": 1330,
+      "title": "Demokratie Ultras",
+      "description": "Du hast auch genug von den rechten Zerstörern, die unsere Demokratie angreifen? Und von denen, die nur den Status quo verwalten? 💚 Dann bist du bei den Demokratie Ultras richtig. Hier geht’s ums Mitgestalten und darum, was wir gemeinsam bewegen können.\n\n🔗https://bit.ly/4gF30OL\n\nImpressum:\nhttps://gruene.at/impressum/",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An9Yk52uM5FQQRA_RyaPuwtvoI6ZIekDeys9JOwbQ-PbOvC5n-jubtTkOYxz0_yUJLdScdquQdUjGdjTqEwn2YCxgSAzXRUfn5xqSq3Q2WT-3XVjqfHVtOW9gZTjIUsnqHbwtAqJq4RxCMG7ShSS?_nc_gid=DbXrH5_F7rxul9qCDiYoOg&_nc_oc=Adpf6BBLUyPTO0e-tiufk0mkehCeR7nciLMcBYf7pW_EfGDhhAdbr2njdJUPCjzfzXo&ccb=10-5&oh=01_Q5Aa5gGIasx0ZSYCyb2zROvRUJvrnPFVIPqvg2KUtXgzlycBrg&oe=6AD9AA45&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029VagPEHPCnA7uajcDvi2u.jpg?v=1bf9f805256a",
+      "followers": 1337,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-14T10:38:10Z"
+      "seenAt": "2026-09-22T09:57:10Z"
     },
     "0029VaH9MuxE50UqY3Z98x3k": {
       "id": "0029VaH9MuxE50UqY3Z98x3k",
@@ -639,13 +684,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaHl2dj6mYPGKPOnK636",
       "title": "CDU Deutschlands",
       "description": "Herzlich willkommen auf dem offiziellen WhatsApp-Kanal der CDU Deutschlands.",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/410306483_377584708105931_2539003059727344446_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=beRlvdiRIr4Q7kNvwF4nNrl&_nc_oc=AdrQoqcjDsCnD3CW9O5lEPS8B05hT_JZmCVkCC-SormAIC1I0O9exakTf2hwA90FBvM&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=WQKb0Vh_XGkbzuvreJZEFQ&_nc_ss=70289&oh=01_Q5Aa5gGWe8jCRyZXZugpOHUH6Yr09_aUXf_R8N33aVB0q-rnWQ&oe=6ACE6361",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/410306483_377584708105931_2539003059727344446_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=qkR50UShJHMQ7kNvwHMq_92&_nc_oc=AdrxrZwp00ep6GO3euIgMZFAIabKzntqJTse1Ksx6o9Gn82a3ZlaD7q0imDlSY5sMkM&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=LB5q6NVW6t51ZXA4L2AIoA&_nc_ss=70289&oh=01_Q5Aa5gFOOukwqLgyJZffDyqUyA7aF-u8u0zMZvZnEtQ5lHL-Nw&oe=6AD9D061",
       "avatar": "/party-avatar/0029VaHl2dj6mYPGKPOnK636.jpg?v=407a0e2aa31b",
-      "followers": 20524,
+      "followers": 20613,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-13T19:04:52Z"
+      "seenAt": "2026-09-22T09:57:12Z"
     },
     "0029VaHrLkJEAKW5iusblX1K": {
       "id": "0029VaHrLkJEAKW5iusblX1K",
@@ -654,13 +699,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaHrLkJEAKW5iusblX1K",
       "title": "Bloco de Esquerda ",
       "description": "O Bloco de Esquerda é um partido político socialista que coloca no centro da política a dignidade de todas as pessoas.",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/406523248_768561328419146_1735737492414105043_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=OtkiXVGcOtkQ7kNvwEv6ar6&_nc_oc=Adp9cwNzqUqXBdPvDDkbyzzp8-YpdMpj4fjknfNOuwdZs5LlnBD4PkgUHxnvsyV2UtQ&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=BDNDja-BpHuZO7Lx-4uGiA&_nc_ss=70289&oh=01_Q5Aa5gF9rxKBCg_kZqsAh451FjWf1eed2GRdxEudhhnwIz-lsA&oe=6AD0A144",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/406523248_768561328419146_1735737492414105043_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=3FSGU_AxRRoQ7kNvwH0wPyW&_nc_oc=AdpEHjkETfHDExcLb0U-XuvSNYDKMnf2CL2LUvT1aybtloh2y-O6214SvACgdDuj1xs&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=A64gije5mZHfu9GaNHaW8A&_nc_ss=70289&oh=01_Q5Aa5gFO9dv30K2BvAYmzdjaUVZSkl4MlcmZpPT3YUJhsXltUA&oe=6ADB2D44",
       "avatar": "/party-avatar/0029VaHrLkJEAKW5iusblX1K.jpg?v=4bb4a32c94a1",
-      "followers": 2466,
+      "followers": 2464,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-15T10:04:26Z"
+      "seenAt": "2026-09-23T09:58:53Z"
     },
     "0029VaI0gWAFcowFFXLdRb0A": {
       "id": "0029VaI0gWAFcowFFXLdRb0A",
@@ -684,13 +729,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaiagkZ6rsQvENgchd2p",
       "title": "FPÖ Bezirk Oberpullendorf",
       "description": "🔹 *Willkommen bei der FPÖ Bezirk Oberpullendorf!* 🔹\n\nHier erhaltet ihr exklusive Updates zur politischen Arbeit der FPÖ im Bezirk Oberpullendorf. 📢💙\n\nBleibt informiert und engagiert – gemeinsam gestalten wir die Zukunft! 🌟",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An9y4lFzFNCnB9qMNalUMleTfEYTOfF-XDbmBSsUqVtoVwqAC01cPOo8V0blOcZeBk2AeOB-Yq2UqkEbUwvV9RoIEdTO1iUcDTuYYTuq61fifBAcwFQC2jyd09nFZ2dGQhf_0BXWuOLbrNnACrFd?_nc_gid=aX7d7XIn2cN3mVAAQFSNuQ&_nc_oc=AdoUH0osGV_hk3r1LQuPZezO6e8DWxfu4W7Ldk6RSY5Bmhw78ID84Dpq_VAw_VGrBVE&ccb=10-5&oh=01_Q5Aa5gEFtFtx4HsahRIgrdbPkaS_y43FpMEn00uw3dbNjkT9gw&oe=6AD098E3&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An9y4lFzFNCnB9qMNalUMleTfEYTOfF-XDbmBSsUqVtoVwqAC01cPOo8V0blOcZeBk2AeOB-Yq2UqkEbUwvV9RoIEdTO1iUcDTuYYTuq61fifBAcwFQC2jyd09nFZ2dGQhf_0BXWuOLbrNnACrFd?_nc_gid=9BSfmPjKjfhxcWoJOQLl-w&_nc_oc=Adp0uWPZF3T3ber92gNe-RP_ybw3U6tEODP9hroA2gCE26-NcCu01cG1nUZfchiYREQ&ccb=10-5&oh=01_Q5Aa5gGT4JcOflQ9jbP7xBrrB_6Vp7HVfhpBeqsN7etOU6pl_Q&oe=6ADB24E3&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaiagkZ6rsQvENgchd2p.jpg?v=7ba2162beb52",
       "followers": 16,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-15T10:04:29Z"
+      "seenAt": "2026-09-23T09:58:55Z"
     },
     "0029VaigBPdLNSa5rfQMSp3t": {
       "id": "0029VaigBPdLNSa5rfQMSp3t",
@@ -699,13 +744,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaigBPdLNSa5rfQMSp3t",
       "title": "La France insoumise",
       "description": "Canal whatsapp officiel de la France insoumise.",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-t9OWhJOvfpT479MA0xfrG6vPybdDSTWhSa1_p1PZkJ7drE207Ppknyqik7zal4d4GWKV5C8nndHQP8266Gjte9C_bdgU4O1kxu7Phdd9Qz0-8Gf53EuCSDRb2pgCyGXxSbTlNSsb8WvXIcaIG?_nc_gid=1EkQpv5OEO4frASBHNCjgA&_nc_oc=Adq-cTzXiWHWl80pQf3UK1QKBqGOVNAX9AHZ4UD6jq6d0OnD2jO7hFS0rRo_pyngKck&ccb=10-5&oh=01_Q5Aa5gF8-3432LGGtG4GNuFQnN_Pd8kBVWcPzkv2jIP2jlYpoA&oe=6ACF4C0F&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-t9OWhJOvfpT479MA0xfrG6vPybdDSTWhSa1_p1PZkJ7drE207Ppknyqik7zal4d4GWKV5C8nndHQP8266Gjte9C_bdgU4O1kxu7Phdd9Qz0-8Gf53EuCSDRb2pgCyGXxSbTlNSsb8WvXIcaIG?_nc_gid=jhs32RyniBAkoLPMkXyxJA&_nc_oc=Adq-btAeZq1Gcx8Otvkj_m_9wjqmBG9KIywrvRSjw67YKrPWkO-2yv2tw4fCcNTDe8s&ccb=10-5&oh=01_Q5Aa5gFF0nQpWspDBikzRg8IR6DkezjKu1PsjjMMDvjWdR_xIw&oe=6AD7350F&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaigBPdLNSa5rfQMSp3t.jpg?v=0ec478c694c4",
-      "followers": 11995,
+      "followers": 12004,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-14T10:38:09Z"
+      "seenAt": "2026-09-20T09:48:35Z"
     },
     "0029VakBvxx0Vyc7cCq2sM1A": {
       "id": "0029VakBvxx0Vyc7cCq2sM1A",
@@ -714,13 +759,28 @@
       "url": "https://www.whatsapp.com/channel/0029VakBvxx0Vyc7cCq2sM1A",
       "title": "DIE GRÜNEN Sachsen-Anhalt",
       "description": "🌻 Hier erhältst du aktuelle Infos zu Veranstaltungen, schnelle Reaktionen zum politischen Geschehen in Sachsen-Anhalt und exklusive Hintergrundinfos direkt auf dein Handy. 🌻 Jetzt abonnieren und nichts verpassen! 📲\n\n🌐 www.gruene-lsa.de",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-SaWnO7z1FuNQQbmhbin4FFPm6CBFFezgFenaMp4S_r-rp-lJrvgY_EpvRyO8lx1Tci95G5dcdYn7WXXkGLxgb5HzO4BSF-TXI06qUcbdckts3N1fPoSaNvYRV_a-dHavGRR_Flz--DVS1qQEs?_nc_gid=_z26SsZxyhTgHp5r1i2iVA&_nc_oc=AdrNN-fMjcmOnLL5-WYjwut1QRGo6L80vtdBE9PWNfBzMqtVPz0RSHug-wANOTxsIec&ccb=10-5&oh=01_Q5Aa5gHRbtyFgxojFoRq4X-XEI9MPwwkj0MwD6jcjP8BcjlgBw&oe=6ACE7FC5&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-SaWnO7z1FuNQQbmhbin4FFPm6CBFFezgFenaMp4S_r-rp-lJrvgY_EpvRyO8lx1Tci95G5dcdYn7WXXkGLxgb5HzO4BSF-TXI06qUcbdckts3N1fPoSaNvYRV_a-dHavGRR_Flz--DVS1qQEs?_nc_gid=U6q9QhdZ6LCQVDNT9nxt2w&_nc_oc=Adq7t01Duz_j9pXIRjeG9YaawKMUHwxnBwXTNGSvO9xilzNA51bcQn7TzAyUfPBWAvs&ccb=10-5&oh=01_Q5Aa5gHSlrPbVNDc9IatV-qweoFrYojpXOnFyMmSInhqpA-Wzg&oe=6AD9B485&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VakBvxx0Vyc7cCq2sM1A.jpg?v=2d5a6a94371a",
-      "followers": 1838,
+      "followers": 1844,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-13T19:04:49Z"
+      "seenAt": "2026-09-22T09:57:06Z"
+    },
+    "0029VaLGWNKA89Mhy9oNZr1H": {
+      "id": "0029VaLGWNKA89Mhy9oNZr1H",
+      "kind": "channel",
+      "partyId": "cz-ods",
+      "url": "https://www.whatsapp.com/channel/0029VaLGWNKA89Mhy9oNZr1H",
+      "title": "Občanská demokratická strana",
+      "description": "Kanál, kde se dozvíte něco o nás, našich akcích, členech a postojích",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/421277475_1995859704132249_4214803667153900152_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=Xmx_nL9KhngQ7kNvwGjJrNG&_nc_oc=AdpUVLZGGTbGSTtfZzqM0z3eZJtA385NxLxbSnfQMf5zDc4QI3MjlbPc8nyYKHum1_c&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=Ku_d7eraXT3YvP31yr4lrw&_nc_ss=70289&oh=01_Q5Aa5gEISKZfRiurubCkcp4lojDxn9JV1RFYxNnaGjceRbrwWQ&oe=6AD4CA92",
+      "avatar": "/party-avatar/0029VaLGWNKA89Mhy9oNZr1H.jpg?v=3f61e2b2c3b7",
+      "followers": 218,
+      "precision": "exact",
+      "status": "ok",
+      "verified": false,
+      "seenAt": "2026-09-18T13:50:56Z"
     },
     "0029VaMm2t3CMY0JNGNsou1u": {
       "id": "0029VaMm2t3CMY0JNGNsou1u",
@@ -729,13 +789,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaMm2t3CMY0JNGNsou1u",
       "title": "Fraktion Die Linke im Landtag von Sachsen-Anhalt",
       "description": "Aktuelle Termine, politische Entwicklungen und Statements aus Sachsen-Anhalt. Für euch - von uns. Solidarität statt Ellenbogen!",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/422452891_662752165822902_3341105500628896573_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=TgyehUfNX-kQ7kNvwGhCvsc&_nc_oc=Adr59K_0eZxC6cWmGmz6TXXmQxKZ_1d8eBa1UV3W7Ar48wOLbw7jdqb3l4byLVZHPH8&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=2m8MhISVFhK8rdl7kRuung&_nc_ss=70289&oh=01_Q5Aa5gEPDmOmSP2b86PZaQZDuop38DLT7Br8B1krAO3T44_k-w&oe=6ACE64F1",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/422452891_662752165822902_3341105500628896573_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=r2WZYJ9NyIoQ7kNvwGjVSiB&_nc_oc=AdpwqhZ51X9fivgWQRSW8UBaSTVWev9cpyDHRyXXrh3ySxWdzNsbBU_-SG5a1QtyQoA&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=UZVFAQXGy6SfN4aa-WZxqw&_nc_ss=70289&oh=01_Q5Aa5gGkkgUONvbRxfgbjueULB_aqY_8BkSgdVJ8ZwbZq24GoQ&oe=6AD88071",
       "avatar": "/party-avatar/0029VaMm2t3CMY0JNGNsou1u.jpg?v=b5940d4517df",
       "followers": 435,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:44Z"
+      "seenAt": "2026-09-21T10:43:23Z"
     },
     "0029VamylMu11ulWqPBc5S3T": {
       "id": "0029VamylMu11ulWqPBc5S3T",
@@ -744,13 +804,13 @@
       "url": "https://www.whatsapp.com/channel/0029VamylMu11ulWqPBc5S3T",
       "title": "CDU Rüthen",
       "description": "Informationen rund um die Arbeit der CDU in Rüthen. Stadtverband, Fraktion und Ortsunionen.",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-kXWuC1V2ucVYECFjqq_ATFUoXU_-DxXFjoQsnl1Qgin_xTJysxzmhRItIp_32YtHPPB5cW0UR_st_3jco5tqWKxLc6Zcb_yA__PBWD_3l2nn7z8a796cw3iBJisixnXmZmlnZfMOwIKFPd5qD?_nc_gid=Ibtw7PKaU-W5Lg7gZI0qIg&_nc_oc=AdrqZ1oKik2FXJkT7mf-NMO2Gg-036n4EcPX2AV6YnqNesLAzKKHrdO6Jklcat_73Kk&ccb=10-5&oh=01_Q5Aa5gG1TY7FGBSGi6wqePPhZQe1HDyhi_OrNKMMf_XXkXbLxg&oe=6ACE6330&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-kXWuC1V2ucVYECFjqq_ATFUoXU_-DxXFjoQsnl1Qgin_xTJysxzmhRItIp_32YtHPPB5cW0UR_st_3jco5tqWKxLc6Zcb_yA__PBWD_3l2nn7z8a796cw3iBJisixnXmZmlnZfMOwIKFPd5qD?_nc_gid=qcF9QFfk_011ygfvdgFe1A&_nc_oc=AdoeDzoTrkZ1TAOFsB8se_oSMPs60GJ6FBPhzlRCwxkaW1qUR8p6GLPPWP4S5nKQqcg&ccb=10-5&oh=01_Q5Aa5gEOEefJgI8cN1W35gf1U2hu9fr8nnyJRTLRfgxWn1HRgw&oe=6AD87EB0&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VamylMu11ulWqPBc5S3T.jpg?v=ad083b61e50b",
-      "followers": 78,
+      "followers": 77,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:41Z"
+      "seenAt": "2026-09-21T10:43:20Z"
     },
     "0029VaNnGe929755vyAwN81C": {
       "id": "0029VaNnGe929755vyAwN81C",
@@ -759,13 +819,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaNnGe929755vyAwN81C",
       "title": "CDU-Politik für Niedersachsen",
       "description": "Dies ist der offizielle Kanal der CDU in Niedersachsen und der CDU-Landtagsfraktion Niedersachsen.",
-      "image": "https://mmg.whatsapp.net/v/t61.24694-24/424818402_774522587859325_933784274211534714_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=2sLx6YmMGE0Q7kNvwEmWVk-&_nc_oc=AdqXVwxqqBDxujsN7FNY1KstZbDu9eCFxYF8OUcNY4XWfaRDLSX7In4jE1KjkeL7v_o&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=l45szLJusum5j1qmdkyJLA&_nc_ss=70289&oh=01_Q5Aa5gGsMmdNlAIewF00QtPmxzUXc4ooDKcR1JUdmqqHqoDicA&oe=6ACE7D90",
+      "image": "https://mmg.whatsapp.net/v/t61.24694-24/424818402_774522587859325_933784274211534714_n.jpg?ccb=1-7&_nc_sid=5a2cf7&_nc_ohc=qLq66Ed9714Q7kNvwFsopGQ&_nc_oc=AdpALG_PdGEWvD3SOnkm1maP8uUC9APye8IwS6AS0LnK0jhMyt7B7TCvRRLchb7OKbM&_nc_zt=3&_nc_ht=mmg.whatsapp.net&_nc_gid=MB_EqYHJJqU8oflCBJe2kQ&_nc_ss=70289&oh=01_Q5Aa5gHzTXS_gqI9L7R8kLBqsr4x7G42L9pdPnRFrWcMzfMo6A&oe=6AD9B250",
       "avatar": "/party-avatar/0029VaNnGe929755vyAwN81C.jpg?v=caf426296616",
-      "followers": 2832,
+      "followers": 2817,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-13T19:04:50Z"
+      "seenAt": "2026-09-22T09:57:08Z"
     },
     "0029VaNV8JKFSAsvpMzKpM08": {
       "id": "0029VaNV8JKFSAsvpMzKpM08",
@@ -782,6 +842,21 @@
       "verified": false,
       "seenAt": "2026-09-16T11:08:01Z"
     },
+    "0029Vao7qRpHgZWURd4ZVY3O": {
+      "id": "0029Vao7qRpHgZWURd4ZVY3O",
+      "kind": "channel",
+      "partyId": "ch-ge-plr-ge",
+      "url": "https://www.whatsapp.com/channel/0029Vao7qRpHgZWURd4ZVY3O",
+      "title": "PLR Genève",
+      "description": "Bienvenue sur la chaîne WhatsApp du PLR Genève ! 📲 Vous recevrez ici toutes nos actualités importantes. 🔔",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-508o47YbvUQ4VuO4PcchLC3x9esbXoLDnqIqMnIhsXuDg3bphJGeFS5CBtjYDU2YsZTR1crh-8S0UMduhHApkQ033jiyGN9y32Zsd4JFPKTM61CxYH8O6RH2FqYIT0zLwJlxYEDuQS6Dl3eeU?_nc_gid=Q7eli2c9bJr8SdTMlcesPA&_nc_oc=AdrNV9DEnzogE0xAr9SalpeuS2i88B3uuJMTFwcSdQpMJk6qta-vEHJtbFr7W7siy7E&ccb=10-5&oh=01_Q5Aa5gE_o95EW2knC_iMRLEPkvdmWiRtazG_m_vG5sCbH0rndw&oe=6AD4DB3B&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029Vao7qRpHgZWURd4ZVY3O.jpg?v=6c00c776bd4a",
+      "followers": 1565,
+      "precision": "exact",
+      "status": "ok",
+      "verified": true,
+      "seenAt": "2026-09-18T15:24:56Z"
+    },
     "0029VaPnmvj0gcfQd0YkS200": {
       "id": "0029VaPnmvj0gcfQd0YkS200",
       "kind": "channel",
@@ -789,13 +864,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaPnmvj0gcfQd0YkS200",
       "title": "ChristenUnie",
       "description": "Welkom bij het ChristenUnie kanaal!",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-P9tLaVDc6GSidoFgdZ09bq__YpyOPIWIbTTpiHyg-7kwIQZNkeYertmTbhC34YpMiQcCjn2jyEEraXLHCe5cohVihGSLzg_nVwKBQMjsJrBAK2Cy4A1cpingyImx2ObE4FVzGUNVI9yKC9bkc?_nc_gid=UlbZxZmdjrKN54IHU9SRjw&_nc_oc=Adr0Bhpg5SoUQV87g6XJsg2cCCjkxtrrB59Nu9jy9OhnMZeeWyZEbfAaQm6b15XvYzE&ccb=10-5&oh=01_Q5Aa5gEQAcPTje4oD_z8cJAfx59UUhc-dklwwbIrhX7plWzGWg&oe=6AD09170&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-P9tLaVDc6GSidoFgdZ09bq__YpyOPIWIbTTpiHyg-7kwIQZNkeYertmTbhC34YpMiQcCjn2jyEEraXLHCe5cohVihGSLzg_nVwKBQMjsJrBAK2Cy4A1cpingyImx2ObE4FVzGUNVI9yKC9bkc?_nc_gid=chDvqAD2SZfPscfSqhDzvg&_nc_oc=AdqX9Vo3MvgpYC0AwJ1IFmYdYNeHZ3_CSHfHDXFBdhABiDQFVVhoTPowyajqfDVnClw&ccb=10-5&oh=01_Q5Aa5gF8iqt-bwJBTREoXLGAsNpWBAKoPf9k10DrOFrfR1Caug&oe=6ADB1D70&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaPnmvj0gcfQd0YkS200.jpg?v=0effd894f13d",
-      "followers": 1524,
+      "followers": 1526,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-15T10:04:21Z"
+      "seenAt": "2026-09-23T09:58:49Z"
     },
     "0029VaQQ7e1Fsn0j3Kxv4w0H": {
       "id": "0029VaQQ7e1Fsn0j3Kxv4w0H",
@@ -834,13 +909,28 @@
       "url": "https://www.whatsapp.com/channel/0029VauE700AInPjDfFFPT0j",
       "title": "GRÜNE Oder-Spree",
       "description": "Herzlich Willkommen im Infokanal des Kreisverbands Oder-Spree von BÜNDNIS 90/ DIE GRÜNEN 🤗💚\n\nHier bleibst Du auf dem Laufenden, was Termine und Hinweise sowie politische Arbeit im Landkreis Oder-Spree betrifft.\n\nDu hast Fragen? Melde Dich beim Kreisvorstand: vorstand(at)gruene-oder-spree.de",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An_ZaaD5uP1eO3HHEAeIrGPIU3ycOigrA8VlCDPwGu-5kbm_wUTP-ox0mY9SMO63r3WtPgO4_09Nm2e9aoDWj0kFjcYgUFn_8lM1batBFzcKenQ2GYzhcnpQ2OTnyQbB87jDx97DMfQxpLoD68FO?_nc_gid=xE80vB_jpT0pVSh41Rwnbg&_nc_oc=Adr39VRPLLl8-e07FPm7wrb2WsS4NRh6mTh_onFOR4_6GL8DyWeiVHMSqMJy3w8gbb8&ccb=10-5&oh=01_Q5Aa5gEB9gizdAQ4Cjpx2FgXNTAkDJpW7YgZ2o1yOmL04jN3yg&oe=6ACE6DA7&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An_ZaaD5uP1eO3HHEAeIrGPIU3ycOigrA8VlCDPwGu-5kbm_wUTP-ox0mY9SMO63r3WtPgO4_09Nm2e9aoDWj0kFjcYgUFn_8lM1batBFzcKenQ2GYzhcnpQ2OTnyQbB87jDx97DMfQxpLoD68FO?_nc_gid=cDi__TgOFD77vutbCXYCKQ&_nc_oc=AdqfDUPXSLlm_-PF977SbYFFnC2Q1D8707aJZw02W1OSiSp5rSbxsfylv5LaKnsAiAQ&ccb=10-5&oh=01_Q5Aa5gFtiBVoYx9v6IYUMVoUPb7dw-qVWZhBd09sO8H4HCk5AQ&oe=6AD88927&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VauE700AInPjDfFFPT0j.jpg?v=6ef432fb4a26",
-      "followers": 80,
+      "followers": 81,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:45Z"
+      "seenAt": "2026-09-21T10:43:24Z"
+    },
+    "0029Vaw6RH3L2ATsxscPk60o": {
+      "id": "0029Vaw6RH3L2ATsxscPk60o",
+      "kind": "channel",
+      "partyId": "cz-top-09",
+      "url": "https://www.whatsapp.com/channel/0029Vaw6RH3L2ATsxscPk60o",
+      "title": "TOP 09",
+      "description": "Oficiální kanál TOP 09",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An8t_I8WK3b7GaaK13V8O-IPgZE-2MdEt4qQsIsw2D2y42sb4czxStsGZSn0hygP18zSTpmIhVjkj1tFVtKv7udlTzYqGGOkzjJQewgBjNZx4iuB_-aLRZGlqhDRiGg3YL4oMSdb_qLd-B5Ky6EJ?_nc_gid=BHqSZFHQf49l0nUBRsdDOA&_nc_oc=Adr1eja7Kd76SmjQKTRyXV9swbNJ-9hmz4oRU-6YCG2aftuyqKYyPu0uFtGcbvAw4YM&ccb=10-5&oh=01_Q5Aa5gEG4PPHuz0dQRCmwyTouHL3LXNQ9EeH1mVSGXOq7zJKGw&oe=6AD4AA5F&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029Vaw6RH3L2ATsxscPk60o.jpg?v=693876c14797",
+      "followers": 1356,
+      "precision": "exact",
+      "status": "ok",
+      "verified": false,
+      "seenAt": "2026-09-18T13:50:56Z"
     },
     "0029VaxyPKoFi8xV3B1jXA2B": {
       "id": "0029VaxyPKoFi8xV3B1jXA2B",
@@ -849,13 +939,13 @@
       "url": "https://www.whatsapp.com/channel/0029VaxyPKoFi8xV3B1jXA2B",
       "title": "GRÜNE Marzahn-Hellersdorf",
       "description": "Öffentliche Informationen zu Wahlkampf und Parteiarbeit von Bündnis 90/Die Grünen Marzahn-Hellersdorf, insbesondere für Nichtmitglieder\n\nVerwaltet durch die Mitglieder des Kreisvorstandes Neele Kuhn und Tim Demisch\n\nBÜNDNIS 90/DIE GRÜNEN\nKreisverband Marzahn-Hellersdorf\nHellersdorfer Promenade 29\n12627 Berlin\n\nE-Mail: wahlkampf@gruenemahe.de\nTelefon: 030 541 40 19\nWebsite: https://www.gruenemahe.de\n\nImpressum: https://www.gruenemahe.de/impressum\nDatenschutz: https://www.gruenemahe.de/datenschutz",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-KNZUcy_j0MDfmkO7DOFme6NaSL9t63TVt0hNERK7RTa1ZDs94SUJrPJb5QRnStElSlEqXLFaBEWXA0g2xoPcZ1tM3GgyrmOcHihcq_fSwhCDyazawUV6BQ0tFfmNTIwmF43_CVMbxehN6EJF9?_nc_gid=GVuwBElsvdEcOSrFE8s97A&_nc_oc=AdqyrSAcqMz82o0-WR4J9dU2fARq4crQfDPpIGeT4OJ8801TI1GPgfQBxhzHYnsJMkc&ccb=10-5&oh=01_Q5Aa5gFnKTaFPVcgJQqPIOWp2Xx0W54YzUbgosq7bANTCEymCQ&oe=6ACE6D1B&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-KNZUcy_j0MDfmkO7DOFme6NaSL9t63TVt0hNERK7RTa1ZDs94SUJrPJb5QRnStElSlEqXLFaBEWXA0g2xoPcZ1tM3GgyrmOcHihcq_fSwhCDyazawUV6BQ0tFfmNTIwmF43_CVMbxehN6EJF9?_nc_gid=IRV0EyhUIKpc6WMdOKNwLg&_nc_oc=AdpMX6qhzgJfOfzZYlhtgOPixU_5VEHXbWC6FH_le80yvN8wQVlzrxQQGyGe7F4_UKg&ccb=10-5&oh=01_Q5Aa5gFciEpgu7AN4Kzc-9fYKzC19H5Npu0D6ft5OnzsoSaGcg&oe=6AD9DA1B&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VaxyPKoFi8xV3B1jXA2B.jpg?v=b33dbd9e90d2",
       "followers": 73,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:49Z"
+      "seenAt": "2026-09-22T09:57:06Z"
     },
     "0029VaY1iS53GJOpnPEBGD2E": {
       "id": "0029VaY1iS53GJOpnPEBGD2E",
@@ -879,13 +969,13 @@
       "url": "https://www.whatsapp.com/channel/0029VazVsXCDZ4Le9S1VyK10",
       "title": "Forza Italia",
       "description": "Il canale ufficiale di Forza Italia",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An8d8vLG61TuE7U4hVqhla5zJ6Iffa6hOp9xJwTtXatZFKwe5oewWCZBcSGuyiBn6C143Q05YewSIp5QGLULTwGkstXfff1CFQtxzNCwfweMNfqu0Q2e7z8bC6x-Vl0iHVKsD4T6e-jzQSQ5HLrN?_nc_gid=QeEYMkNt9UPpxENwjKb_ng&_nc_oc=Adq5wOODEUKEnxZ3_jDJNlv8I4FkPHL8NDDTl1iNY9hCBtcm9RzntZsfKMr1Muo05OA&ccb=10-5&oh=01_Q5Aa5gEjkHfB8iMcFxezqzKUGXrz46sf2aS8el9u5Rvq3hVLlA&oe=6ACF4A4F&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An8d8vLG61TuE7U4hVqhla5zJ6Iffa6hOp9xJwTtXatZFKwe5oewWCZBcSGuyiBn6C143Q05YewSIp5QGLULTwGkstXfff1CFQtxzNCwfweMNfqu0Q2e7z8bC6x-Vl0iHVKsD4T6e-jzQSQ5HLrN?_nc_gid=Fepb1XE1CaHF1VbmDtIWPw&_nc_oc=Adqe40JuWsSR6Qc3zHnHg-MHMc3OvkbwsGGrjYKvyFRgWe6nXqlKjm_SrGA15NMkERU&ccb=10-5&oh=01_Q5Aa5gFXo9paMP7TgYwwMt7I-X8PXjTgYGIpqM69FnwGh8UKlw&oe=6AD7334F&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VazVsXCDZ4Le9S1VyK10.jpg?v=b97371432875",
-      "followers": 15357,
+      "followers": 15329,
       "precision": "exact",
       "status": "ok",
       "verified": true,
-      "seenAt": "2026-09-14T10:38:12Z"
+      "seenAt": "2026-09-20T09:48:35Z"
     },
     "0029Vb29eQqKbYMSzsLS492I": {
       "id": "0029Vb29eQqKbYMSzsLS492I",
@@ -894,13 +984,13 @@
       "url": "https://www.whatsapp.com/channel/0029Vb29eQqKbYMSzsLS492I",
       "title": "Volkspartei Wieselburg",
       "description": "Offizieller WhatsApp-Kanal der VP Wieselburg.\n\nMit neuem Schwung für Wieselburg!\n\nHier informieren wir Sie über politische Themen, Veranstaltungen und Projekte, die Wieselburg voranbringen.\n\nWir setzen uns für Transparenz, ehrliche Politik und das Wohl aller Wieselburger ein.\n\nMehr Infos: https://vpnoe.at/datenschutz",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An90Lqtcdbluq8QnqvHl3r80ywjfPc9faKIEgL7bn6dkWCG8tAzafRxeJLVkw4pLs1MIIAnbfyXg6n1T2daEBmHVEBDyQbDripw1mgtiEITKQg-c2qhUcLmM-rcqoBtEMBmwBUajJfds1QwWzQWj?_nc_gid=uvNJL2OeMXpy2fXQ03sFRw&_nc_oc=Adr4ffD9EcVio5UGz5uGv5XQ2x3Eq5hpKOScy5Y8lfC5_XTIl9n8vTyZwDfmUtPT0gg&ccb=10-5&oh=01_Q5Aa5gFwhN09vy2Dpz9aFkQAYyzK_6mM0CmL8k4OQmUnUbV7Og&oe=6AD0920D&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An90Lqtcdbluq8QnqvHl3r80ywjfPc9faKIEgL7bn6dkWCG8tAzafRxeJLVkw4pLs1MIIAnbfyXg6n1T2daEBmHVEBDyQbDripw1mgtiEITKQg-c2qhUcLmM-rcqoBtEMBmwBUajJfds1QwWzQWj?_nc_gid=DIu00s_MdgEtG0H0vnkzlA&_nc_oc=AdoIGV0Nl0GzjekA-E0NKQivFTxUxSoBkrGMFXF5r0maAOc7YOzzR2KBQGWOYpgKwQ4&ccb=10-5&oh=01_Q5Aa5gGnPtIYOtPD1BwP_CTLCR2NU23JG2YTSTDKtfIPv_8Xkg&oe=6ADB1E0D&_nc_sid=471a72",
       "avatar": "/party-avatar/0029Vb29eQqKbYMSzsLS492I.jpg?v=b92b06497b64",
       "followers": 44,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-15T10:04:28Z"
+      "seenAt": "2026-09-23T09:58:55Z"
     },
     "0029Vb6BhfqGU3BKpXuYrC32": {
       "id": "0029Vb6BhfqGU3BKpXuYrC32",
@@ -909,13 +999,13 @@
       "url": "https://www.whatsapp.com/channel/0029Vb6BhfqGU3BKpXuYrC32",
       "title": "Bereit für morgen. CDU Neu-Isenburg",
       "description": "Bereit für morgen. CDU Neu-Isenburg – In unserem WhatsApp-Kanal bleibst du am Puls der politischen Entwicklungen! Hier erhältst du exklusive Einblicke in unsere Arbeit, kompakte Infos zu aktuellen Themen und hinter die Kulissen unseres Engagements. Diskutiere, stelle deine Fragen und gestalte die Zukunft mit. Wir sind bereit für morgen – sei du es auch!",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An9Zn6EM1krIOLuz8nX6HX0Tp5Kr80p_qJOZfJzWfDwnnqi2xkx9Jvp-BP-UiCpY5BHDpk2rLlb49UShQeHq5umWpQO3TtaOVAcXYBKHtOF30rCoTbky7A1CrobPQXgmr95Uswokzzqbfek1ADLp?_nc_gid=7xgNgUwFp1hkaJrrYIjc1w&_nc_oc=AdoFtrg9N2MKHDOymvLXiQl6oWRHL1C9h1z7e3e4fUVSCzS--pZi8Rpeqyr4MgOkU4U&ccb=10-5&oh=01_Q5Aa5gGi1ZmWVNT0hH3OPMRgZsJsPOEhwZ5w-E0A9r8Nizmjqw&oe=6ACE5FB9&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An9Zn6EM1krIOLuz8nX6HX0Tp5Kr80p_qJOZfJzWfDwnnqi2xkx9Jvp-BP-UiCpY5BHDpk2rLlb49UShQeHq5umWpQO3TtaOVAcXYBKHtOF30rCoTbky7A1CrobPQXgmr95Uswokzzqbfek1ADLp?_nc_gid=qIa9CmhNwiReT_G9y1S8Nw&_nc_oc=AdqoI7e164mIXbQs5OI3vKNf-JRaXqvk_n-t60qX4fIrmBfj2teHQEXsRcsdmapZKqU&ccb=10-5&oh=01_Q5Aa5gGWMiV0Fs7f1a3jgxGcBKB9UQoCecSaFfmxx10PgP84lw&oe=6AD87B39&_nc_sid=471a72",
       "avatar": "/party-avatar/0029Vb6BhfqGU3BKpXuYrC32.jpg?v=a17f4b0fdf92",
       "followers": 47,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:44Z"
+      "seenAt": "2026-09-21T10:43:22Z"
     },
     "0029Vb6Fhz64o7qIFWf61N3D": {
       "id": "0029Vb6Fhz64o7qIFWf61N3D",
@@ -954,13 +1044,13 @@
       "url": "https://www.whatsapp.com/channel/0029Vb8j4ySFcovxOgPmmO1K",
       "title": "Sozialistische Gleichheitspartei (SGP)",
       "description": "Offizieller Kanal der Sozialistischen Gleichheitspartei (SGP), deutsche Sektion der Vierten Internationale.\n\nHier: Erklärungen der Partei, Analysen der World Socialist Web Site, Termine und Veranstaltungen, Videos – mehrmals pro Woche.\n\nAntworten sind im Kanal nicht möglich. Schreibt uns direkt: https://wa.me/4915227492082\n\nImpressum: https://www.wsws.org/de/special/imprint.html\nDatenschutz: https://www.wsws.org/de/special/privacy.html",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An_uv10zOke_JoNBj3JuTv9D4b8jU67FZ9pw_ICpfRi2D3_no_TlPGss9vv0vw2-_7cMFUDVNcGFQEMirBTlApGZ-R6te2dDagD1qkP5gPKTdTHSWlSyN8MYtwfO-1oKT2m1jD-xsZS9ABx7-wSj?_nc_gid=HaBkCAL_gm6MNmOVwCgogA&_nc_oc=AdqrH4XJ4q-Svs409zj4FcObJblG2hXzWOa9i0zXSc8OJwJRUhtLW8_MdRQY3iaDyng&ccb=10-5&oh=01_Q5Aa5gE4m3vsazl_Wnxwi-slOw5jQAcHYwK4lhTQejqG-a2IzA&oe=6ACE7C02&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An_uv10zOke_JoNBj3JuTv9D4b8jU67FZ9pw_ICpfRi2D3_no_TlPGss9vv0vw2-_7cMFUDVNcGFQEMirBTlApGZ-R6te2dDagD1qkP5gPKTdTHSWlSyN8MYtwfO-1oKT2m1jD-xsZS9ABx7-wSj?_nc_gid=BluPu1U-iXjI7ssAQXBNLQ&_nc_oc=AdqsgiKMz1P7xMbK-3cqOreLeGrEVdNYmvSkCvioEM8OYq-KaxZCQ5u4kuYS94iy0Is&ccb=10-5&oh=01_Q5Aa5gE5Hx6HpcMr7Z0ALKPnO4g-po63ihka6xAU7bNrbHU3Wg&oe=6AD9B0C2&_nc_sid=471a72",
       "avatar": "/party-avatar/0029Vb8j4ySFcovxOgPmmO1K.jpg?v=bd69b27b6a79",
-      "followers": 9,
+      "followers": 10,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:50Z"
+      "seenAt": "2026-09-22T09:57:08Z"
     },
     "0029VbAjhgiHFxOx5gtlsK3L": {
       "id": "0029VbAjhgiHFxOx5gtlsK3L",
@@ -984,13 +1074,13 @@
       "url": "https://www.whatsapp.com/channel/0029VbAQRn41XquZmjcwGL3A",
       "title": "Volkspartei Reisenberg",
       "description": null,
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An955S2_r9i-LzVsINyGjoF7iPv2LNlZnpbnDbsCRumIoF4DPDqpKzkdH5khis6HICQ3be0PWJpStMFkxidBfsXpGiM_XhvIwuG2cKBShpQi6yTDqIR7-FiYdk3WmNBWV0mOzP7u3dsJieTSBCiP?_nc_gid=vTM5RRpgpZvvGAlHNgx79A&_nc_oc=Adq3GmaaHFewOwdy0GlbLsvivNg056wJFduepedy-Y3rqSGfaFhPMlMr4BjrAEQRYZQ&ccb=10-5&oh=01_Q5Aa5gEsQmG86YZAiefcz5fha48o0GYynrTfuG0sKtyYytRKuw&oe=6AD06E07&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An955S2_r9i-LzVsINyGjoF7iPv2LNlZnpbnDbsCRumIoF4DPDqpKzkdH5khis6HICQ3be0PWJpStMFkxidBfsXpGiM_XhvIwuG2cKBShpQi6yTDqIR7-FiYdk3WmNBWV0mOzP7u3dsJieTSBCiP?_nc_gid=s0WOvFIaRpa_ueHZppYfXw&_nc_oc=AdpuyFnF94nL2C3UlFbY6T0FnJaGXLJ_YhVaGRRCwcBDRGglGSiBEXcPdwI0sg5i5a4&ccb=10-5&oh=01_Q5Aa5gFmpPM2uVFIyUKOtWXS7a9jttMipPBuxO-wC0W40zVbIA&oe=6ADAFA07&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VbAQRn41XquZmjcwGL3A.jpg?v=c2a1046d33d3",
       "followers": 11,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-15T10:04:27Z"
+      "seenAt": "2026-09-23T09:58:53Z"
     },
     "0029VbAvKQ460eBY9dqz1T2z": {
       "id": "0029VbAvKQ460eBY9dqz1T2z",
@@ -1014,13 +1104,13 @@
       "url": "https://www.whatsapp.com/channel/0029VbAyBXDLtOj4JUlHJZ0C",
       "title": "Miteinander für Mauthausen",
       "description": "In diesem Kanal gibt es Informationen rund um Mauthausen und Einblicke in den Gemeinderat und unser Team - Miteinander für Mauthausen.",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An8Uu67wn3GaVqWhLml7A2PCkIlmztB17Hc7C1UQwTqwk0gQi6E2LoZ7f-TaOeFdrVC4GIiBr1FMKO9JnM6vDlpJyZcnVRIIeWe6VIb0SMKVJVMNzfgc7Jqi6E3_Mea9pNSfgiJkfujckIOhulVh?_nc_gid=hwZ0Wg4Y8xxmr97lytGANg&_nc_oc=Adq-pEZK-Nzp8JWBg0eCLNPxn4vD3pBVcJIeOzBQkF0-0g0-gIgYjG9rsVZY4j95vpQ&ccb=10-5&oh=01_Q5Aa5gGQ4e-rfLB91ez7tfURoQk9ZhWyh7f1mezqT2ZkQsCeyw&oe=6AD1C3D2&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An8Uu67wn3GaVqWhLml7A2PCkIlmztB17Hc7C1UQwTqwk0gQi6E2LoZ7f-TaOeFdrVC4GIiBr1FMKO9JnM6vDlpJyZcnVRIIeWe6VIb0SMKVJVMNzfgc7Jqi6E3_Mea9pNSfgiJkfujckIOhulVh?_nc_gid=uZyT4TYTL4Fjk4GYp6LxwQ&_nc_oc=Adpuo3jtzgic8Er3QWi8PbGZW5Gat5doYf_pOy5hNcz0VBy_6XB4HDKy_0kYlDGDMEw&ccb=10-5&oh=01_Q5Aa5gEI_94I6pINx_25ZDWVIcuRIoOLM9qdqCbmKzQEjo7Enw&oe=6ADAFE52&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VbAyBXDLtOj4JUlHJZ0C.jpg?v=3995b1ba5d78",
-      "followers": 47,
+      "followers": 48,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-16T09:56:38Z"
+      "seenAt": "2026-09-23T09:58:57Z"
     },
     "0029VbBhUuDKQuJIlnRYqh2T": {
       "id": "0029VbBhUuDKQuJIlnRYqh2T",
@@ -1029,13 +1119,13 @@
       "url": "https://www.whatsapp.com/channel/0029VbBhUuDKQuJIlnRYqh2T",
       "title": "SSW ",
       "description": "Die Partei der dänischen und friesischen Minderheit in SH.\n📬 Hier gibt es Infos von Landtagsfraktion & Landespartei",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An_nxEERIbSHRrLbXQff_ttPk64bS4sJNmLJEB24acWfwTdHQ9BaVacawTDYWWudkBoKbEQLMefmxEA1sZIYSBGe-q6eMjZ1g25U3ji-3jm74I863Mmx4bd829ScT-4biryHHeK36pxC6zIK-UVy?_nc_gid=atVxlRhJ_N-VOgC5ZePZqg&_nc_oc=AdraypeEd8h7oah71U-ZS58jLX4W3smMVgJVQGk9eRB3WmtvxCAQKuKp0fOVWPdfnBU&ccb=10-5&oh=01_Q5Aa5gGlFrjUW9ShMt71jdGeo0N5Wm_1Apt7a2R9_aUW6TSI7A&oe=6ACE7583&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An_nxEERIbSHRrLbXQff_ttPk64bS4sJNmLJEB24acWfwTdHQ9BaVacawTDYWWudkBoKbEQLMefmxEA1sZIYSBGe-q6eMjZ1g25U3ji-3jm74I863Mmx4bd829ScT-4biryHHeK36pxC6zIK-UVy?_nc_gid=KUUPZeHUhp4cxSfMCbcHJQ&_nc_oc=AdpIzHkrbhAYg-scIHZweZFxe1XfWOV0a5YPgy7cqR0csKyOcmg8EQ6YhCbe8JUD73U&ccb=10-5&oh=01_Q5Aa5gFf_J-QfM-ZJz2j8Y7gLcH64zaCv1o2oH9SGDyhBk5cmw&oe=6AD9AA43&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VbBhUuDKQuJIlnRYqh2T.jpg?v=74b3929ddb42",
       "followers": 53,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:51Z"
+      "seenAt": "2026-09-22T09:57:09Z"
     },
     "0029VbBNMxSEQIafUT13xE0h": {
       "id": "0029VbBNMxSEQIafUT13xE0h",
@@ -1044,13 +1134,28 @@
       "url": "https://www.whatsapp.com/channel/0029VbBNMxSEQIafUT13xE0h",
       "title": "CDU VG Vallendar ",
       "description": "🟦 CDU der VG Vallendar – Aktuell. Lokal. Klar.\nWillkommen im offiziellen WhatsApp-Kanal der VG CDU Vallendar!\nHier informieren wir kurz und direkt über:\n\n✅ Aktuelles aus den Räten\n✅ Termine & Veranstaltungen\n✅ Standpunkte & Initiativen der CDU\n✅ Einblicke in unsere kommunalpolitische Arbeit\n✅Vallendar-Niederwerth-Urbar-Weitersburg \n\n📬 Bleib auf dem Laufenden – ohne Kommentarflut, dafür mit Klartext.\n\n🛑 Keine Werbung. Kein Spam. Nur Infos aus erster Hand.\n\n👉 Für Fragen oder Rückmeldungen: Fraktion@cdu-vallendar.de",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An--QtH3lggyUsf7CfCzXQ0ePGf-2b7mrVsl6HAb0IG-d2LkI3rj8cs2ECDuLHeL-wlpHpD4NYtSpKtX6Y9HMn_rKt6a0R_YCPu1C4nFw-PeflydVcjuNclSmPhYYyDlUelhGDcUlkLAHYgd5i4D?_nc_gid=SSrHdxsAYb8Hf7eKfHzZEA&_nc_oc=AdpZRn1r_H9FqbVexbWcfZuQ5vf7WN4PZqwJpWWpFiAMj7O6ds97AWWPv6HjcX9Dls0&ccb=10-5&oh=01_Q5Aa5gHP6BFWskeIO8vVMCt2jGI-8f3c_d6gDQ76jsP_9mDLyg&oe=6ACE734F&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An--QtH3lggyUsf7CfCzXQ0ePGf-2b7mrVsl6HAb0IG-d2LkI3rj8cs2ECDuLHeL-wlpHpD4NYtSpKtX6Y9HMn_rKt6a0R_YCPu1C4nFw-PeflydVcjuNclSmPhYYyDlUelhGDcUlkLAHYgd5i4D?_nc_gid=vmVKxT6dPQptSXcWzhB0PA&_nc_oc=AdppJFmQsJEPH-F3njoLwOy_RPnywprGnMKw62TAf81_rNzW57ubZIhn1SrJaTWWLWA&ccb=10-5&oh=01_Q5Aa5gHNaOkhrvub1AXpupXP880QXOee3Mhn74NTaXTSbpWdGw&oe=6AD88ECF&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VbBNMxSEQIafUT13xE0h.jpg?v=1e0c67831e0b",
       "followers": 39,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:46Z"
+      "seenAt": "2026-09-21T10:43:25Z"
+    },
+    "0029VbBP7BD3GJOqJdyOnZ3o": {
+      "id": "0029VbBP7BD3GJOqJdyOnZ3o",
+      "kind": "channel",
+      "partyId": "lu-dei-greng",
+      "url": "https://www.whatsapp.com/channel/0029VbBP7BD3GJOqJdyOnZ3o",
+      "title": "déi gréng",
+      "description": "✨Wëllkomm op dem offizielle Whatsapp-Kanal vun der grénger Partei. Hei kriss du Informatiounen, Updates a Contenu aus dem grénge Kosmos direkt op däin Handy🌻",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An8RouxsY-zx0a_elm-12583A4qHrhY1BFZmWNCziWnxRsQjfI0amlJ8hBGBA68FwSwdtMplFPDh27N5FXLpaDRrftZJz3Fw4PCZbn_f3t3KCxJe48NupXpASkR4nq9EWNQHfc_3Cza0X_M-XDyo?_nc_gid=CTPi2TbnFbTd2WYUIPN5OA&_nc_oc=Adp7Nxvh7ZXt41HM4adYjDk4_-XJsS1yCd5W97_zH0RAimjaQBwmVvJf2ic_84n0PmY&ccb=10-5&oh=01_Q5Aa5gG_IU5bDbW4yqXiOz4v4Apt49Gy29_UgXFY3cvj_RpesA&oe=6AD4D2DB&_nc_sid=471a72",
+      "avatar": "/party-avatar/0029VbBP7BD3GJOqJdyOnZ3o.jpg?v=5adb6579ac3a",
+      "followers": 279,
+      "precision": "exact",
+      "status": "ok",
+      "verified": false,
+      "seenAt": "2026-09-18T14:49:36Z"
     },
     "0029VbBv7Y9GZNCzTwFg7A3n": {
       "id": "0029VbBv7Y9GZNCzTwFg7A3n",
@@ -1059,13 +1164,13 @@
       "url": "https://www.whatsapp.com/channel/0029VbBv7Y9GZNCzTwFg7A3n",
       "title": "GRÜNE NRW",
       "description": "Willkommen beim WhatsApp-Kanal von Bündnis 90/Die Grünen NRW! 🌻\n\nWas du hier findest: Ideen und Aktionen, um digital (und auch mal offline) politisch mitzumischen. 📣\n\nWas es hier nicht gibt: Hintergrundinfos und Vertiefendes, denn das gibt es schon auf unserer Website (www.gruene-nrw.de), im Newsletter (https://actionnetwork.org/forms/updates-der-grunen-nrw) oder auf Social Media (https://wonderl.ink/@gruenenrw). 💚\n\nLass uns gemeinsam aktiv werden!\n\nImpressum: https://gruene-nrw.de/impressum/\n\nDatenschutz: https://gruene-nrw.de/datenschutz/whatsapp-kanal/",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An-Xb3iNIAU5NwIBw-M-5mxCwfpHIwkOf5SjwvYmXxh55O0DKsnDzY_JLAaxSznH7sGhuda_xkaT0i0TDwbu_EURiJVAv2a8MU_HUTsGTHIlklMnPeSPHQOZRy8yVoOGO_eJOztZShZulgNBuzGf?_nc_gid=79i-4-7lPUYavZuWnv4Zrg&_nc_oc=AdrWcZWRT7I_rk3j0sqDUDQ62RKNFi5zer-WJajvf06pv5E4NktYThBYi5J7aor9XMk&ccb=10-5&oh=01_Q5Aa5gFtYEiwRehZctPr2AvdF5swulYvQgEJdZTKMxkQbxjVuw&oe=6ACE7BD6&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An-Xb3iNIAU5NwIBw-M-5mxCwfpHIwkOf5SjwvYmXxh55O0DKsnDzY_JLAaxSznH7sGhuda_xkaT0i0TDwbu_EURiJVAv2a8MU_HUTsGTHIlklMnPeSPHQOZRy8yVoOGO_eJOztZShZulgNBuzGf?_nc_gid=_nukspYRlcga6EJD2XO66g&_nc_oc=AdomJ2-92JmpxxC7XNN9t5HEj4ba4UM1elOuZrzpqCEcIJjZWg-QBE0mus7PL_xyNLI&ccb=10-5&oh=01_Q5Aa5gGdm6f8AFoLf_mQxmrCX2Z9lr2aa4LcZLw0Lw2e7aez5g&oe=6AD85F16&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VbBv7Y9GZNCzTwFg7A3n.jpg?v=838b69472d01",
-      "followers": 937,
+      "followers": 947,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-13T19:04:47Z"
+      "seenAt": "2026-09-21T10:43:26Z"
     },
     "0029VbBwmKu90x33w7IhA00Z": {
       "id": "0029VbBwmKu90x33w7IhA00Z",
@@ -1074,13 +1179,13 @@
       "url": "https://www.whatsapp.com/channel/0029VbBwmKu90x33w7IhA00Z",
       "title": "Volt",
       "description": "Pragmatisch. Progressiv. Positiv.\nJoin us 🙌.",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An_ysoUPO-TFTNSz9NTTDhfHMRJLyFEDQRS9qGD0B_st08EnsdR9ldqKCRv1q8BaUc_VkIJoseq0GeOprEz3KfxjeYBVYldVO95vSXJoLaIMGDaaURxA_Z0yEVJPE8CEr-JIE8atohX-qvWMSXE7?_nc_gid=Ng8yLrZbOCxNd-_9N4JL6Q&_nc_oc=AdpZBIXQscNQKkvspB2-ZHNuJaGfqvSyrGsVSwE2X6KoKVTqjUEg4_LHz1hmnVBH9rw&ccb=10-5&oh=01_Q5Aa5gEddZYO_elRH9dwTFYlCi0Rg2wIIexoMyc9Cw7eKOJuqA&oe=6AD1E2AF&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An_ysoUPO-TFTNSz9NTTDhfHMRJLyFEDQRS9qGD0B_st08EnsdR9ldqKCRv1q8BaUc_VkIJoseq0GeOprEz3KfxjeYBVYldVO95vSXJoLaIMGDaaURxA_Z0yEVJPE8CEr-JIE8atohX-qvWMSXE7?_nc_gid=mXSq7gNJTuIBSCKZcetsVw&_nc_oc=Adpk9NeqezPOdbKdqqO6cSAWVj6K-EDL7Dxc5Qfx34QNK8WTJJD66eLnVBS0bVZQh9A&ccb=10-5&oh=01_Q5Aa5gEbl_QWpX4wTyvcVZDoBv5kMunXYw-Ie5nZxdL3Dwf2vw&oe=6AD9CBAF&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VbBwmKu90x33w7IhA00Z.jpg?v=ccef66e9520d",
-      "followers": 447,
+      "followers": 452,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-16T09:56:46Z"
+      "seenAt": "2026-09-22T09:57:11Z"
     },
     "0029VbC2MLyC6ZvqoK7nK900": {
       "id": "0029VbC2MLyC6ZvqoK7nK900",
@@ -1089,13 +1194,13 @@
       "url": "https://www.whatsapp.com/channel/0029VbC2MLyC6ZvqoK7nK900",
       "title": "Partido Socialista",
       "description": "Receba as últimas informações sobre o Partido Socialista através do WhatsApp",
-      "image": "https://mmg.whatsapp.net/m1/v/t24/An_HCK_Qr31SCV20TPMaVbegl020W5Ujg-tdb5sobcT88839VOBqE-FkU_E8cmVpoHOKL4bqoolodalzdyFKqHJsEmdL9NUhkJKMV11Hzt_isv1reFlI7wGP6VQXqJzXxpm-lt3Td9jmjO1fqu08?_nc_gid=2yKrUhNzgNf9P2a-ZYK_vg&_nc_oc=Adpj95n8yNGW0OFCxcXwhR5LB7nksTOKLEXQ2IHq5jyk1cpsa0L6FNQXnHvw5NmQl7k&ccb=10-5&oh=01_Q5Aa5gFAcMNDEpQMzSqBuCN30lg3RGlf24reRM8qh1QLhZbNLQ&oe=6AD07037&_nc_sid=471a72",
+      "image": "https://mmg.whatsapp.net/m1/v/t24/An_HCK_Qr31SCV20TPMaVbegl020W5Ujg-tdb5sobcT88839VOBqE-FkU_E8cmVpoHOKL4bqoolodalzdyFKqHJsEmdL9NUhkJKMV11Hzt_isv1reFlI7wGP6VQXqJzXxpm-lt3Td9jmjO1fqu08?_nc_gid=HWCGEIjROVod5BQfMnI_tQ&_nc_oc=AdplXcc2AxlfCmMfMu0NVEsu_6rJgvQpSQ2aKS0Pq8CNWQiVCjAqSMqzQX_cNd6m0AA&ccb=10-5&oh=01_Q5Aa5gFuNQxyg6uzrqTLxH7EzGtz___FElgWh6abkWym0J9R8g&oe=6ADAFC37&_nc_sid=471a72",
       "avatar": "/party-avatar/0029VbC2MLyC6ZvqoK7nK900.jpg?v=84766aebaf22",
-      "followers": 5381,
+      "followers": 5374,
       "precision": "exact",
       "status": "ok",
       "verified": false,
-      "seenAt": "2026-09-15T10:04:27Z"
+      "seenAt": "2026-09-23T09:58:54Z"
     }
   }
 }

@@ -1,0 +1,44 @@
+{
+  "country": "ME",
+  "parties": [
+    {
+      "id": "me-bs",
+      "name": "Bošnjačka stranka",
+      "abbreviation": "BS",
+      "englishName": "Bosniak Party",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "me-demokrate",
+      "name": "Demokratska Crna Gora",
+      "abbreviation": "Demokrate",
+      "englishName": "Democratic Montenegro",
+      "website": "https://demokrate.me/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "me-dps",
+      "name": "Demokratska partija socijalista",
+      "abbreviation": "DPS",
+      "englishName": "Democratic Party of Socialists",
+      "website": "https://dps.me/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "me-pes",
+      "name": "Pokret Evropa sad!",
+      "abbreviation": "PES",
+      "englishName": "Europe Now!",
+      "website": "https://evropasad.com/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "me-ura",
+      "name": "Građanski pokret URA",
+      "abbreviation": "URA",
+      "englishName": "Civic Movement URA",
+      "website": "https://ura.org.me/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "country": "GI",
+  "parties": [
+    {
+      "id": "gi-gsd",
+      "name": "Gibraltar Social Democrats",
+      "abbreviation": "GSD",
+      "englishName": "Gibraltar Social Democrats",
+      "website": "https://www.gsd.gi/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "gi-gslp",
+      "name": "Gibraltar Socialist Labour Party",
+      "abbreviation": "GSLP",
+      "englishName": "Gibraltar Socialist Labour Party",
+      "website": "https://www.gslp.gi/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "gi-lpg",
+      "name": "Liberal Party of Gibraltar",
+      "abbreviation": "LPG",
+      "englishName": "Liberal Party of Gibraltar",
+      "website": "https://www.liberal.gi/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

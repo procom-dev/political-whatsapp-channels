@@ -1,0 +1,38 @@
+{
+  "country": "UA",
+  "parties": [
+    {
+      "id": "ua-batkivshchyna",
+      "name": "Батьківщина",
+      "abbreviation": "Батьківщина",
+      "englishName": "All-Ukrainian Union \"Fatherland\"",
+      "website": "https://ba.org.ua/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ua-es",
+      "name": "Європейська солідарність",
+      "abbreviation": "ЄС",
+      "englishName": "European Solidarity",
+      "europarty": "EPP",
+      "website": "https://eurosolidarity.org/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ua-holos",
+      "name": "Голос",
+      "abbreviation": "Голос",
+      "englishName": "Holos",
+      "website": "https://goloszmin.org/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ua-sn",
+      "name": "Слуга народу",
+      "abbreviation": "СН",
+      "englishName": "Servant of the People",
+      "website": "https://sluga-narodu.com/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "country": "XK",
+  "parties": [
+    {
+      "id": "xk-aak",
+      "name": "Aleanca për Ardhmërinë e Kosovës",
+      "abbreviation": "AAK",
+      "englishName": "Alliance for the Future of Kosovo",
+      "website": "https://aak-ks.org/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "xk-ldk",
+      "name": "Lidhja Demokratike e Kosovës",
+      "abbreviation": "LDK",
+      "englishName": "Democratic League of Kosovo",
+      "europarty": "EPP",
+      "website": "https://ldk-ks.eu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "xk-lvv",
+      "name": "Lëvizja Vetëvendosje",
+      "abbreviation": "LVV",
+      "englishName": "Vetëvendosje",
+      "website": "https://www.vetevendosje.org/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "xk-pdk",
+      "name": "Partia Demokratike e Kosovës",
+      "abbreviation": "PDK",
+      "englishName": "Democratic Party of Kosovo",
+      "website": "https://pdk.info/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "xk-sl",
+      "name": "Srpska lista",
+      "abbreviation": "SL",
+      "englishName": "Serb List",
+      "verified": "2026-09-18"
+    }
+  ]
+}

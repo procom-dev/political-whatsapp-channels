@@ -1,0 +1,37 @@
+{
+  "country": "FO",
+  "parties": [
+    {
+      "id": "fo-a",
+      "name": "Sambandsflokkurin",
+      "abbreviation": "A",
+      "englishName": "Union Party",
+      "website": "https://www.samband.fo/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "fo-b",
+      "name": "Fólkaflokkurin",
+      "abbreviation": "B",
+      "englishName": "People's Party",
+      "website": "https://www.folkaflokkurin.fo/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "fo-c",
+      "name": "Javnaðarflokkurin",
+      "abbreviation": "C",
+      "englishName": "Social Democratic Party",
+      "website": "https://www.j.fo/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "fo-e",
+      "name": "Tjóðveldi",
+      "abbreviation": "E",
+      "englishName": "Republic",
+      "website": "https://www.tjodveldi.fo/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

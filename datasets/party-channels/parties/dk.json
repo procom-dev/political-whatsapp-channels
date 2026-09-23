@@ -1,0 +1,105 @@
+{
+  "country": "DK",
+  "parties": [
+    {
+      "id": "dk-a",
+      "name": "Socialdemokratiet",
+      "abbreviation": "A",
+      "englishName": "Social Democrats",
+      "europarty": "PES",
+      "website": "https://www.socialdemokratiet.dk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-aa",
+      "name": "Alternativet",
+      "abbreviation": "Å",
+      "englishName": "The Alternative",
+      "website": "https://alternativet.dk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-ae",
+      "name": "Danmarksdemokraterne",
+      "abbreviation": "Æ",
+      "englishName": "Denmark Democrats",
+      "website": "https://danmarksdemokraterne.dk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-b",
+      "name": "Radikale Venstre",
+      "abbreviation": "B",
+      "englishName": "Danish Social Liberal Party",
+      "europarty": "ALDE",
+      "website": "https://radikale.dk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-c",
+      "name": "Det Konservative Folkeparti",
+      "abbreviation": "C",
+      "englishName": "Conservative People's Party",
+      "europarty": "EPP",
+      "website": "https://konservative.dk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-f",
+      "name": "SF",
+      "abbreviation": "F",
+      "englishName": "Green Left",
+      "europarty": "EGP",
+      "website": "https://sf.dk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-h",
+      "name": "Borgernes Parti",
+      "abbreviation": "H",
+      "englishName": "Citizens' Party",
+      "website": "https://borgernesparti.dk/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-i",
+      "name": "Liberal Alliance",
+      "abbreviation": "I",
+      "website": "https://liberalalliance.dk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-m",
+      "name": "Moderaterne",
+      "abbreviation": "M",
+      "englishName": "Moderate Party",
+      "website": "https://moderaterne.dk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-o",
+      "name": "Dansk Folkeparti",
+      "abbreviation": "O",
+      "englishName": "Danish People's Party",
+      "europarty": "PATRIOTS",
+      "website": "https://danskfolkeparti.dk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-oe",
+      "name": "Enhedslisten",
+      "abbreviation": "Ø",
+      "englishName": "Red–Green Alliance",
+      "website": "https://enhedslisten.dk",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "dk-v",
+      "name": "Venstre",
+      "abbreviation": "V",
+      "europarty": "ALDE",
+      "website": "https://www.venstre.dk",
+      "verified": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "country": "LV",
+  "parties": [
+    {
+      "id": "lv-as",
+      "name": "Apvienotais saraksts",
+      "abbreviation": "AS",
+      "englishName": "United List",
+      "website": "https://apvienotaissaraksts.lv/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lv-lpv",
+      "name": "Latvija pirmajā vietā",
+      "abbreviation": "LPV",
+      "englishName": "Latvia First",
+      "website": "https://latvijapirmajavieta.lv/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lv-na",
+      "name": "Nacionālā apvienība",
+      "abbreviation": "NA",
+      "englishName": "National Alliance",
+      "europarty": "ECR_PARTY",
+      "website": "https://www.nacionalaapvieniba.lv/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lv-progresivie",
+      "name": "Progresīvie",
+      "englishName": "The Progressives",
+      "europarty": "EGP",
+      "website": "https://www.progresivie.lv/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lv-s",
+      "name": "Stabilitātei!",
+      "abbreviation": "S!",
+      "englishName": "For Stability!",
+      "epGroup": "NI",
+      "website": "https://partijastabilitatei.lv/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lv-vienotiba",
+      "name": "Vienotība",
+      "englishName": "Unity",
+      "europarty": "EPP",
+      "website": "https://vienotiba.lv/en",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "lv-zzs",
+      "name": "Zaļo un Zemnieku savienība",
+      "abbreviation": "ZZS",
+      "englishName": "Union of Greens and Farmers",
+      "epGroup": "GREENS_EFA",
+      "website": "https://zzs.lv/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

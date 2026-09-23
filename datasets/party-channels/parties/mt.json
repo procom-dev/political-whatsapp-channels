@@ -1,0 +1,30 @@
+{
+  "country": "MT",
+  "parties": [
+    {
+      "id": "mt-adpd",
+      "name": "ADPD",
+      "abbreviation": "ADPD",
+      "englishName": "ADPD – The Green Party",
+      "europarty": "EGP",
+      "website": "https://adpd.mt/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "mt-partit-laburista",
+      "name": "Partit Laburista",
+      "englishName": "Labour Party",
+      "europarty": "PES",
+      "website": "https://partitlaburista.org/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "mt-partit-nazzjonalista",
+      "name": "Partit Nazzjonalista",
+      "englishName": "Nationalist Party",
+      "europarty": "EPP",
+      "website": "https://www.pn.org.mt/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

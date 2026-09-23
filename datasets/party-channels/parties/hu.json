@@ -1,0 +1,93 @@
+{
+  "country": "HU",
+  "parties": [
+    {
+      "id": "hu-dk",
+      "name": "Demokratikus Koalíció",
+      "abbreviation": "DK",
+      "englishName": "Democratic Coalition",
+      "europarty": "PES",
+      "website": "https://dkp.hu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hu-fidesz",
+      "name": "Fidesz",
+      "abbreviation": "Fidesz",
+      "englishName": "Fidesz – Hungarian Civic Alliance",
+      "europarty": "PATRIOTS",
+      "website": "https://www.fidesz.hu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hu-jobbik",
+      "name": "Jobbik – Konzervatívok",
+      "abbreviation": "Jobbik",
+      "englishName": "Jobbik – Conservatives",
+      "website": "https://jobbik.hu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hu-kdnp",
+      "name": "Kereszténydemokrata Néppárt",
+      "abbreviation": "KDNP",
+      "englishName": "Christian Democratic People's Party",
+      "europarty": "EPP",
+      "website": "https://kdnp.hu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hu-lmp",
+      "name": "LMP – Magyarország Zöld Pártja",
+      "abbreviation": "LMP",
+      "englishName": "LMP – Hungary's Green Party",
+      "europarty": "EGP",
+      "website": "https://lmp.hu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hu-mi-hazank",
+      "name": "Mi Hazánk Mozgalom",
+      "abbreviation": "Mi Hazánk",
+      "englishName": "Our Homeland Movement",
+      "europarty": "ESN_PARTY",
+      "website": "https://mihazank.hu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hu-momentum",
+      "name": "Momentum Mozgalom",
+      "abbreviation": "Momentum",
+      "englishName": "Momentum Movement",
+      "website": "https://momentum.hu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hu-mszp",
+      "name": "Magyar Szocialista Párt",
+      "abbreviation": "MSZP",
+      "englishName": "Hungarian Socialist Party",
+      "europarty": "PES",
+      "website": "https://mszp.hu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hu-parbeszed",
+      "name": "Párbeszéd – Zöldek",
+      "abbreviation": "Párbeszéd",
+      "englishName": "Dialogue – The Greens' Party",
+      "europarty": "EGP",
+      "website": "https://parbeszed.hu/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "hu-tisza",
+      "name": "Tisztelet és Szabadság Párt",
+      "abbreviation": "TISZA",
+      "englishName": "Respect and Freedom Party",
+      "epGroup": "EPP",
+      "website": "https://magyartisza.hu/",
+      "verified": "2026-09-18"
+    }
+  ]
+}

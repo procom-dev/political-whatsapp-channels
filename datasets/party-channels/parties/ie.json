@@ -1,0 +1,80 @@
+{
+  "country": "IE",
+  "parties": [
+    {
+      "id": "ie-aontu",
+      "name": "Aontú",
+      "website": "https://aontu.ie/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ie-ff",
+      "name": "Fianna Fáil",
+      "abbreviation": "FF",
+      "europarty": "ALDE",
+      "website": "https://www.fiannafail.ie/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ie-fg",
+      "name": "Fine Gael",
+      "abbreviation": "FG",
+      "europarty": "EPP",
+      "website": "https://www.finegael.ie/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ie-gp",
+      "name": "Green Party",
+      "abbreviation": "GP",
+      "englishName": "Green Party (Ireland)",
+      "europarty": "EGP",
+      "website": "https://www.greenparty.ie/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ie-human-dignity-alliance",
+      "name": "Human Dignity Alliance",
+      "europarty": "ECPM",
+      "website": "https://hdalliance.ie/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ie-independent-ireland",
+      "name": "Independent Ireland",
+      "europarty": "EDP",
+      "website": "https://www.independentireland.ie/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ie-labour-party",
+      "name": "Labour Party",
+      "englishName": "Labour Party (Ireland)",
+      "europarty": "PES",
+      "website": "https://labour.ie",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ie-pbp",
+      "name": "People Before Profit–Solidarity",
+      "abbreviation": "PBP",
+      "website": "https://www.pbp.ie/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ie-sd",
+      "name": "Social Democrats",
+      "abbreviation": "SD",
+      "website": "https://www.socialdemocrats.ie/",
+      "verified": "2026-09-18"
+    },
+    {
+      "id": "ie-sf",
+      "name": "Sinn Féin",
+      "abbreviation": "SF",
+      "epGroup": "LEFT",
+      "website": "https://www.sinnfein.ie/",
+      "verified": "2026-09-18"
+    }
+  ]
+}
