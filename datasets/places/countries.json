@@ -1,6 +1,9 @@
 {
-  "generated": "2026-08-28",
-  "continent": "EU",
+  "generated": "2026-09-28",
+  "continents": [
+    "EU",
+    "SA"
+  ],
   "source": "https://github.com/dr5hn/countries-states-cities-database",
   "note": "ISO 3166-1 alpha-2 and ISO 3166-2 codes. Regenerate with `npm run places:build`.",
   "countries": [
@@ -18,6 +21,13 @@
       "slug": "albania",
       "capital": "Tirana",
       "continent": "EU"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "slug": "argentina",
+      "capital": "Buenos Aires",
+      "continent": "SA"
     },
     {
       "code": "AT",
@@ -60,6 +70,21 @@
       "continent": "EU"
     },
     {
+      "code": "BO",
+      "name": "Bolivia",
+      "slug": "bolivia",
+      "capital": "Sucre",
+      "continent": "SA"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "native": "Brasil",
+      "slug": "brazil",
+      "capital": "Brasilia",
+      "continent": "SA"
+    },
+    {
       "code": "BY",
       "name": "Belarus",
       "native": "Белару́сь",
@@ -74,6 +99,20 @@
       "slug": "switzerland",
       "capital": "Bern",
       "continent": "EU"
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "slug": "chile",
+      "capital": "Santiago",
+      "continent": "SA"
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "slug": "colombia",
+      "capital": "Bogotá",
+      "continent": "SA"
     },
     {
       "code": "CY",
@@ -108,6 +147,13 @@
       "continent": "EU"
     },
     {
+      "code": "EC",
+      "name": "Ecuador",
+      "slug": "ecuador",
+      "capital": "Quito",
+      "continent": "SA"
+    },
+    {
       "code": "EE",
       "name": "Estonia",
       "native": "Eesti",
@@ -132,6 +178,13 @@
       "continent": "EU"
     },
     {
+      "code": "FK",
+      "name": "Falkland Islands",
+      "slug": "falkland-islands",
+      "capital": "Stanley",
+      "continent": "SA"
+    },
+    {
       "code": "FO",
       "name": "Faroe Islands",
       "native": "Føroyar",
@@ -154,6 +207,14 @@
       "continent": "EU"
     },
     {
+      "code": "GF",
+      "name": "French Guiana",
+      "native": "Guyane française",
+      "slug": "french-guiana",
+      "capital": "Cayenne",
+      "continent": "SA"
+    },
+    {
       "code": "GG",
       "name": "Guernsey",
       "slug": "guernsey",
@@ -174,6 +235,13 @@
       "slug": "greece",
       "capital": "Athens",
       "continent": "EU"
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "slug": "guyana",
+      "capital": "Georgetown",
+      "continent": "SA"
     },
     {
       "code": "HR",
@@ -314,6 +382,14 @@
       "continent": "EU"
     },
     {
+      "code": "PE",
+      "name": "Peru",
+      "native": "Perú",
+      "slug": "peru",
+      "capital": "Lima",
+      "continent": "SA"
+    },
+    {
       "code": "PL",
       "name": "Poland",
       "native": "Polska",
@@ -327,6 +403,13 @@
       "slug": "portugal",
       "capital": "Lisbon",
       "continent": "EU"
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "slug": "paraguay",
+      "capital": "Asunción",
+      "continent": "SA"
     },
     {
       "code": "RO",
@@ -392,6 +475,13 @@
       "continent": "EU"
     },
     {
+      "code": "SR",
+      "name": "Suriname",
+      "slug": "suriname",
+      "capital": "Paramaribo",
+      "continent": "SA"
+    },
+    {
       "code": "UA",
       "name": "Ukraine",
       "native": "Україна",
@@ -400,12 +490,26 @@
       "continent": "EU"
     },
     {
+      "code": "UY",
+      "name": "Uruguay",
+      "slug": "uruguay",
+      "capital": "Montevideo",
+      "continent": "SA"
+    },
+    {
       "code": "VA",
       "name": "Vatican City State (Holy See)",
       "native": "Vaticano",
       "slug": "vatican-city-state-holy-see",
       "capital": "Vatican City",
       "continent": "EU"
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "slug": "venezuela",
+      "capital": "Caracas",
+      "continent": "SA"
     },
     {
       "code": "XK",

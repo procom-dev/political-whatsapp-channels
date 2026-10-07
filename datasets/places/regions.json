@@ -1,6 +1,9 @@
 {
-  "generated": "2026-08-28",
-  "continent": "EU",
+  "generated": "2026-09-28",
+  "continents": [
+    "EU",
+    "SA"
+  ],
   "source": "https://github.com/dr5hn/countries-states-cities-database",
   "note": "ISO 3166-1 alpha-2 and ISO 3166-2 codes. Regenerate with `npm run places:build`.",
   "regions": [
@@ -139,6 +142,175 @@
       "name": "Vlorë",
       "slug": "vlore",
       "type": "county"
+    },
+    {
+      "code": "AR-A",
+      "country": "AR",
+      "name": "Salta",
+      "slug": "salta",
+      "type": "province"
+    },
+    {
+      "code": "AR-B",
+      "country": "AR",
+      "name": "Buenos Aires",
+      "slug": "buenos-aires",
+      "type": "province"
+    },
+    {
+      "code": "AR-C",
+      "country": "AR",
+      "name": "Autonomous City of Buenos Aires",
+      "native": "Ciudad autónoma de Buenos Aires",
+      "slug": "autonomous-city-of-buenos-aires",
+      "type": "city"
+    },
+    {
+      "code": "AR-D",
+      "country": "AR",
+      "name": "San Luis",
+      "slug": "san-luis",
+      "type": "province"
+    },
+    {
+      "code": "AR-E",
+      "country": "AR",
+      "name": "Entre Ríos",
+      "slug": "entre-rios",
+      "type": "province"
+    },
+    {
+      "code": "AR-F",
+      "country": "AR",
+      "name": "La Rioja",
+      "slug": "la-rioja",
+      "type": "province"
+    },
+    {
+      "code": "AR-G",
+      "country": "AR",
+      "name": "Santiago del Estero",
+      "slug": "santiago-del-estero",
+      "type": "province"
+    },
+    {
+      "code": "AR-H",
+      "country": "AR",
+      "name": "Chaco",
+      "slug": "chaco",
+      "type": "province"
+    },
+    {
+      "code": "AR-J",
+      "country": "AR",
+      "name": "San Juan",
+      "slug": "san-juan",
+      "type": "province"
+    },
+    {
+      "code": "AR-K",
+      "country": "AR",
+      "name": "Catamarca",
+      "slug": "catamarca",
+      "type": "province"
+    },
+    {
+      "code": "AR-L",
+      "country": "AR",
+      "name": "La Pampa",
+      "slug": "la-pampa",
+      "type": "province"
+    },
+    {
+      "code": "AR-M",
+      "country": "AR",
+      "name": "Mendoza",
+      "slug": "mendoza",
+      "type": "province"
+    },
+    {
+      "code": "AR-N",
+      "country": "AR",
+      "name": "Misiones",
+      "slug": "misiones",
+      "type": "province"
+    },
+    {
+      "code": "AR-P",
+      "country": "AR",
+      "name": "Formosa",
+      "slug": "formosa",
+      "type": "province"
+    },
+    {
+      "code": "AR-Q",
+      "country": "AR",
+      "name": "Neuquén",
+      "slug": "neuquen",
+      "type": "province"
+    },
+    {
+      "code": "AR-R",
+      "country": "AR",
+      "name": "Río Negro",
+      "slug": "rio-negro",
+      "type": "province"
+    },
+    {
+      "code": "AR-S",
+      "country": "AR",
+      "name": "Santa Fe",
+      "slug": "santa-fe",
+      "type": "province"
+    },
+    {
+      "code": "AR-T",
+      "country": "AR",
+      "name": "Tucumán",
+      "slug": "tucuman",
+      "type": "province"
+    },
+    {
+      "code": "AR-U",
+      "country": "AR",
+      "name": "Chubut",
+      "slug": "chubut",
+      "type": "province"
+    },
+    {
+      "code": "AR-V",
+      "country": "AR",
+      "name": "Tierra del Fuego",
+      "slug": "tierra-del-fuego",
+      "type": "province"
+    },
+    {
+      "code": "AR-W",
+      "country": "AR",
+      "name": "Corrientes",
+      "slug": "corrientes",
+      "type": "province"
+    },
+    {
+      "code": "AR-X",
+      "country": "AR",
+      "name": "Córdoba",
+      "slug": "cordoba",
+      "type": "province"
+    },
+    {
+      "code": "AR-Y",
+      "country": "AR",
+      "name": "Jujuy",
+      "slug": "jujuy",
+      "type": "province"
+    },
+    {
+      "code": "AR-Z",
+      "country": "AR",
+      "name": "Santa Cruz",
+      "slug": "santa-cruz",
+      "type": "province"
     },
     {
       "code": "AT-1",
@@ -667,6 +839,259 @@
       "type": "district"
     },
     {
+      "code": "BO-B",
+      "country": "BO",
+      "name": "Beni",
+      "slug": "beni",
+      "type": "department"
+    },
+    {
+      "code": "BO-C",
+      "country": "BO",
+      "name": "Cochabamba",
+      "slug": "cochabamba",
+      "type": "department"
+    },
+    {
+      "code": "BO-H",
+      "country": "BO",
+      "name": "Chuquisaca",
+      "slug": "chuquisaca",
+      "type": "department"
+    },
+    {
+      "code": "BO-L",
+      "country": "BO",
+      "name": "La Paz",
+      "slug": "la-paz",
+      "type": "department"
+    },
+    {
+      "code": "BO-N",
+      "country": "BO",
+      "name": "Pando",
+      "slug": "pando",
+      "type": "department"
+    },
+    {
+      "code": "BO-O",
+      "country": "BO",
+      "name": "Oruro",
+      "slug": "oruro",
+      "type": "department"
+    },
+    {
+      "code": "BO-P",
+      "country": "BO",
+      "name": "Potosí",
+      "slug": "potosi",
+      "type": "department"
+    },
+    {
+      "code": "BO-S",
+      "country": "BO",
+      "name": "Santa Cruz",
+      "slug": "santa-cruz",
+      "type": "department"
+    },
+    {
+      "code": "BO-T",
+      "country": "BO",
+      "name": "Tarija",
+      "native": "Taria",
+      "slug": "tarija",
+      "type": "department"
+    },
+    {
+      "code": "BR-AC",
+      "country": "BR",
+      "name": "Acre",
+      "slug": "acre",
+      "type": "state"
+    },
+    {
+      "code": "BR-AL",
+      "country": "BR",
+      "name": "Alagoas",
+      "slug": "alagoas",
+      "type": "state"
+    },
+    {
+      "code": "BR-AM",
+      "country": "BR",
+      "name": "Amazonas",
+      "slug": "amazonas",
+      "type": "state"
+    },
+    {
+      "code": "BR-AP",
+      "country": "BR",
+      "name": "Amapá",
+      "slug": "amapa",
+      "type": "state"
+    },
+    {
+      "code": "BR-BA",
+      "country": "BR",
+      "name": "Bahia",
+      "slug": "bahia",
+      "type": "state"
+    },
+    {
+      "code": "BR-CE",
+      "country": "BR",
+      "name": "Ceará",
+      "slug": "ceara",
+      "type": "state"
+    },
+    {
+      "code": "BR-DF",
+      "country": "BR",
+      "name": "Distrito Federal",
+      "slug": "distrito-federal",
+      "type": "federal district"
+    },
+    {
+      "code": "BR-ES",
+      "country": "BR",
+      "name": "Espírito Santo",
+      "slug": "espirito-santo",
+      "type": "state"
+    },
+    {
+      "code": "BR-GO",
+      "country": "BR",
+      "name": "Goiás",
+      "slug": "goias",
+      "type": "state"
+    },
+    {
+      "code": "BR-MA",
+      "country": "BR",
+      "name": "Maranhão",
+      "slug": "maranhao",
+      "type": "state"
+    },
+    {
+      "code": "BR-MG",
+      "country": "BR",
+      "name": "Minas Gerais",
+      "slug": "minas-gerais",
+      "type": "state"
+    },
+    {
+      "code": "BR-MS",
+      "country": "BR",
+      "name": "Mato Grosso do Sul",
+      "slug": "mato-grosso-do-sul",
+      "type": "state"
+    },
+    {
+      "code": "BR-MT",
+      "country": "BR",
+      "name": "Mato Grosso",
+      "slug": "mato-grosso",
+      "type": "state"
+    },
+    {
+      "code": "BR-PA",
+      "country": "BR",
+      "name": "Pará",
+      "slug": "para",
+      "type": "state"
+    },
+    {
+      "code": "BR-PB",
+      "country": "BR",
+      "name": "Paraíba",
+      "slug": "paraiba",
+      "type": "state"
+    },
+    {
+      "code": "BR-PE",
+      "country": "BR",
+      "name": "Pernambuco",
+      "slug": "pernambuco",
+      "type": "state"
+    },
+    {
+      "code": "BR-PI",
+      "country": "BR",
+      "name": "Piauí",
+      "slug": "piaui",
+      "type": "state"
+    },
+    {
+      "code": "BR-PR",
+      "country": "BR",
+      "name": "Paraná",
+      "slug": "parana",
+      "type": "state"
+    },
+    {
+      "code": "BR-RJ",
+      "country": "BR",
+      "name": "Rio de Janeiro",
+      "slug": "rio-de-janeiro",
+      "type": "state"
+    },
+    {
+      "code": "BR-RN",
+      "country": "BR",
+      "name": "Rio Grande do Norte",
+      "slug": "rio-grande-do-norte",
+      "type": "state"
+    },
+    {
+      "code": "BR-RO",
+      "country": "BR",
+      "name": "Rondônia",
+      "slug": "rondonia",
+      "type": "state"
+    },
+    {
+      "code": "BR-RR",
+      "country": "BR",
+      "name": "Roraima",
+      "slug": "roraima",
+      "type": "state"
+    },
+    {
+      "code": "BR-RS",
+      "country": "BR",
+      "name": "Rio Grande do Sul",
+      "slug": "rio-grande-do-sul",
+      "type": "state"
+    },
+    {
+      "code": "BR-SC",
+      "country": "BR",
+      "name": "Santa Catarina",
+      "slug": "santa-catarina",
+      "type": "state"
+    },
+    {
+      "code": "BR-SE",
+      "country": "BR",
+      "name": "Sergipe",
+      "slug": "sergipe",
+      "type": "state"
+    },
+    {
+      "code": "BR-SP",
+      "country": "BR",
+      "name": "São Paulo",
+      "slug": "sao-paulo",
+      "type": "state"
+    },
+    {
+      "code": "BR-TO",
+      "country": "BR",
+      "name": "Tocantins",
+      "slug": "tocantins",
+      "type": "state"
+    },
+    {
       "code": "BY-BR",
       "country": "BY",
       "name": "Brest",
@@ -907,6 +1332,353 @@
       "name": "Zürich",
       "slug": "zurich",
       "type": "canton"
+    },
+    {
+      "code": "CL-AI",
+      "country": "CL",
+      "name": "Aisén del General Carlos Ibañez del Campo",
+      "slug": "aisen-del-general-carlos-ibanez-del-campo",
+      "type": "region"
+    },
+    {
+      "code": "CL-AN",
+      "country": "CL",
+      "name": "Antofagasta",
+      "slug": "antofagasta",
+      "type": "region"
+    },
+    {
+      "code": "CL-AP",
+      "country": "CL",
+      "name": "Arica y Parinacota",
+      "slug": "arica-y-parinacota",
+      "type": "region"
+    },
+    {
+      "code": "CL-AR",
+      "country": "CL",
+      "name": "La Araucanía",
+      "slug": "la-araucania",
+      "type": "region"
+    },
+    {
+      "code": "CL-AT",
+      "country": "CL",
+      "name": "Atacama",
+      "slug": "atacama",
+      "type": "region"
+    },
+    {
+      "code": "CL-BI",
+      "country": "CL",
+      "name": "Biobío",
+      "slug": "biobio",
+      "type": "region"
+    },
+    {
+      "code": "CL-CO",
+      "country": "CL",
+      "name": "Coquimbo",
+      "slug": "coquimbo",
+      "type": "region"
+    },
+    {
+      "code": "CL-LI",
+      "country": "CL",
+      "name": "Libertador General Bernardo O'Higgins",
+      "native": "Liberador General Bernardo O'Higgins",
+      "slug": "libertador-general-bernardo-o-higgins",
+      "type": "region"
+    },
+    {
+      "code": "CL-LL",
+      "country": "CL",
+      "name": "Los Lagos",
+      "slug": "los-lagos",
+      "type": "region"
+    },
+    {
+      "code": "CL-LR",
+      "country": "CL",
+      "name": "Los Ríos",
+      "slug": "los-rios",
+      "type": "region"
+    },
+    {
+      "code": "CL-MA",
+      "country": "CL",
+      "name": "Magallanes y de la Antártica Chilena",
+      "slug": "magallanes-y-de-la-antartica-chilena",
+      "type": "region"
+    },
+    {
+      "code": "CL-ML",
+      "country": "CL",
+      "name": "Maule",
+      "slug": "maule",
+      "type": "region"
+    },
+    {
+      "code": "CL-NB",
+      "country": "CL",
+      "name": "Ñuble",
+      "slug": "nuble",
+      "type": "region"
+    },
+    {
+      "code": "CL-RM",
+      "country": "CL",
+      "name": "Región Metropolitana de Santiago",
+      "slug": "region-metropolitana-de-santiago",
+      "type": "region"
+    },
+    {
+      "code": "CL-TA",
+      "country": "CL",
+      "name": "Tarapacá",
+      "slug": "tarapaca",
+      "type": "region"
+    },
+    {
+      "code": "CL-VS",
+      "country": "CL",
+      "name": "Valparaíso",
+      "slug": "valparaiso",
+      "type": "region"
+    },
+    {
+      "code": "CO-AMA",
+      "country": "CO",
+      "name": "Amazonas",
+      "slug": "amazonas",
+      "type": "department"
+    },
+    {
+      "code": "CO-ANT",
+      "country": "CO",
+      "name": "Antioquia",
+      "slug": "antioquia",
+      "type": "department"
+    },
+    {
+      "code": "CO-ARA",
+      "country": "CO",
+      "name": "Arauca",
+      "slug": "arauca",
+      "type": "department"
+    },
+    {
+      "code": "CO-ATL",
+      "country": "CO",
+      "name": "Atlántico",
+      "native": "atlántico",
+      "slug": "atlantico",
+      "type": "department"
+    },
+    {
+      "code": "CO-BOL",
+      "country": "CO",
+      "name": "Bolívar",
+      "slug": "bolivar",
+      "type": "department"
+    },
+    {
+      "code": "CO-BOY",
+      "country": "CO",
+      "name": "Boyacá",
+      "slug": "boyaca",
+      "type": "department"
+    },
+    {
+      "code": "CO-CAL",
+      "country": "CO",
+      "name": "Caldas",
+      "slug": "caldas",
+      "type": "department"
+    },
+    {
+      "code": "CO-CAQ",
+      "country": "CO",
+      "name": "Caquetá",
+      "slug": "caqueta",
+      "type": "department"
+    },
+    {
+      "code": "CO-CAS",
+      "country": "CO",
+      "name": "Casanare",
+      "slug": "casanare",
+      "type": "department"
+    },
+    {
+      "code": "CO-CAU",
+      "country": "CO",
+      "name": "Cauca",
+      "slug": "cauca",
+      "type": "department"
+    },
+    {
+      "code": "CO-CES",
+      "country": "CO",
+      "name": "Cesar",
+      "native": "César",
+      "slug": "cesar",
+      "type": "department"
+    },
+    {
+      "code": "CO-CHO",
+      "country": "CO",
+      "name": "Chocó",
+      "slug": "choco",
+      "type": "department"
+    },
+    {
+      "code": "CO-COR",
+      "country": "CO",
+      "name": "Córdoba",
+      "slug": "cordoba",
+      "type": "department"
+    },
+    {
+      "code": "CO-CUN",
+      "country": "CO",
+      "name": "Cundinamarca",
+      "slug": "cundinamarca",
+      "type": "department"
+    },
+    {
+      "code": "CO-DC",
+      "country": "CO",
+      "name": "Bogotá D.C.",
+      "slug": "bogota-d-c",
+      "type": "capital district"
+    },
+    {
+      "code": "CO-GUA",
+      "country": "CO",
+      "name": "Guainía",
+      "slug": "guainia",
+      "type": "department"
+    },
+    {
+      "code": "CO-GUV",
+      "country": "CO",
+      "name": "Guaviare",
+      "slug": "guaviare",
+      "type": "department"
+    },
+    {
+      "code": "CO-HUI",
+      "country": "CO",
+      "name": "Huila",
+      "native": "Ruedas",
+      "slug": "huila",
+      "type": "department"
+    },
+    {
+      "code": "CO-LAG",
+      "country": "CO",
+      "name": "La Guajira",
+      "slug": "la-guajira",
+      "type": "department"
+    },
+    {
+      "code": "CO-MAG",
+      "country": "CO",
+      "name": "Magdalena",
+      "slug": "magdalena",
+      "type": "department"
+    },
+    {
+      "code": "CO-MET",
+      "country": "CO",
+      "name": "Meta",
+      "slug": "meta",
+      "type": "department"
+    },
+    {
+      "code": "CO-NAR",
+      "country": "CO",
+      "name": "Nariño",
+      "slug": "narino",
+      "type": "department"
+    },
+    {
+      "code": "CO-NSA",
+      "country": "CO",
+      "name": "Norte de Santander",
+      "slug": "norte-de-santander",
+      "type": "department"
+    },
+    {
+      "code": "CO-PUT",
+      "country": "CO",
+      "name": "Putumayo",
+      "slug": "putumayo",
+      "type": "department"
+    },
+    {
+      "code": "CO-QUI",
+      "country": "CO",
+      "name": "Quindío",
+      "slug": "quindio",
+      "type": "department"
+    },
+    {
+      "code": "CO-RIS",
+      "country": "CO",
+      "name": "Risaralda",
+      "slug": "risaralda",
+      "type": "department"
+    },
+    {
+      "code": "CO-SAN",
+      "country": "CO",
+      "name": "Santander",
+      "slug": "santander",
+      "type": "department"
+    },
+    {
+      "code": "CO-SAP",
+      "country": "CO",
+      "name": "San Andrés, Providencia y Santa Catalina",
+      "slug": "san-andres-providencia-y-santa-catalina",
+      "type": "department"
+    },
+    {
+      "code": "CO-SUC",
+      "country": "CO",
+      "name": "Sucre",
+      "slug": "sucre",
+      "type": "department"
+    },
+    {
+      "code": "CO-TOL",
+      "country": "CO",
+      "name": "Tolima",
+      "slug": "tolima",
+      "type": "department"
+    },
+    {
+      "code": "CO-VAC",
+      "country": "CO",
+      "name": "Valle del Cauca",
+      "slug": "valle-del-cauca",
+      "type": "department"
+    },
+    {
+      "code": "CO-VAU",
+      "country": "CO",
+      "name": "Vaupés",
+      "slug": "vaupes",
+      "type": "department"
+    },
+    {
+      "code": "CO-VID",
+      "country": "CO",
+      "name": "Vichada",
+      "slug": "vichada",
+      "type": "department"
     },
     {
       "code": "CY-01",
@@ -1743,6 +2515,176 @@
       "name": "Zealand",
       "slug": "zealand",
       "type": "region"
+    },
+    {
+      "code": "EC-A",
+      "country": "EC",
+      "name": "Azuay",
+      "slug": "azuay",
+      "type": "province"
+    },
+    {
+      "code": "EC-B",
+      "country": "EC",
+      "name": "Bolívar",
+      "slug": "bolivar",
+      "type": "province"
+    },
+    {
+      "code": "EC-C",
+      "country": "EC",
+      "name": "Carchi",
+      "slug": "carchi",
+      "type": "province"
+    },
+    {
+      "code": "EC-D",
+      "country": "EC",
+      "name": "Orellana",
+      "slug": "orellana",
+      "type": "province"
+    },
+    {
+      "code": "EC-E",
+      "country": "EC",
+      "name": "Esmeraldas",
+      "slug": "esmeraldas",
+      "type": "province"
+    },
+    {
+      "code": "EC-F",
+      "country": "EC",
+      "name": "Cañar",
+      "slug": "canar",
+      "type": "province"
+    },
+    {
+      "code": "EC-G",
+      "country": "EC",
+      "name": "Guayas",
+      "slug": "guayas",
+      "type": "province"
+    },
+    {
+      "code": "EC-H",
+      "country": "EC",
+      "name": "Chimborazo",
+      "slug": "chimborazo",
+      "type": "province"
+    },
+    {
+      "code": "EC-I",
+      "country": "EC",
+      "name": "Imbabura",
+      "slug": "imbabura",
+      "type": "province"
+    },
+    {
+      "code": "EC-L",
+      "country": "EC",
+      "name": "Loja",
+      "native": "Almacenar",
+      "slug": "loja",
+      "type": "province"
+    },
+    {
+      "code": "EC-M",
+      "country": "EC",
+      "name": "Manabí",
+      "slug": "manabi",
+      "type": "province"
+    },
+    {
+      "code": "EC-N",
+      "country": "EC",
+      "name": "Napo",
+      "native": "NAPO",
+      "slug": "napo",
+      "type": "province"
+    },
+    {
+      "code": "EC-O",
+      "country": "EC",
+      "name": "El Oro",
+      "slug": "el-oro",
+      "type": "province"
+    },
+    {
+      "code": "EC-P",
+      "country": "EC",
+      "name": "Pichincha",
+      "slug": "pichincha",
+      "type": "province"
+    },
+    {
+      "code": "EC-R",
+      "country": "EC",
+      "name": "Los Ríos",
+      "slug": "los-rios",
+      "type": "province"
+    },
+    {
+      "code": "EC-S",
+      "country": "EC",
+      "name": "Morona-Santiago",
+      "slug": "morona-santiago",
+      "type": "province"
+    },
+    {
+      "code": "EC-SD",
+      "country": "EC",
+      "name": "Santo Domingo de los Tsáchilas",
+      "slug": "santo-domingo-de-los-tsachilas",
+      "type": "province"
+    },
+    {
+      "code": "EC-SE",
+      "country": "EC",
+      "name": "Santa Elena",
+      "slug": "santa-elena",
+      "type": "province"
+    },
+    {
+      "code": "EC-T",
+      "country": "EC",
+      "name": "Tungurahua",
+      "slug": "tungurahua",
+      "type": "province"
+    },
+    {
+      "code": "EC-U",
+      "country": "EC",
+      "name": "Sucumbíos",
+      "slug": "sucumbios",
+      "type": "province"
+    },
+    {
+      "code": "EC-W",
+      "country": "EC",
+      "name": "Galápagos",
+      "slug": "galapagos",
+      "type": "province"
+    },
+    {
+      "code": "EC-X",
+      "country": "EC",
+      "name": "Cotopaxi",
+      "slug": "cotopaxi",
+      "type": "province"
+    },
+    {
+      "code": "EC-Y",
+      "country": "EC",
+      "name": "Pastaza",
+      "slug": "pastaza",
+      "type": "province"
+    },
+    {
+      "code": "EC-Z",
+      "country": "EC",
+      "name": "Zamora Chinchipe",
+      "slug": "zamora-chinchipe",
+      "type": "province"
     },
     {
       "code": "EE-130",
@@ -3794,6 +4736,14 @@
       "type": "overseas region"
     },
     {
+      "code": "FR-973",
+      "country": "FR",
+      "name": "French Guiana",
+      "native": "Guyane",
+      "slug": "french-guiana",
+      "type": "overseas region"
+    },
+    {
       "code": "FR-974",
       "country": "FR",
       "name": "La Réunion",
@@ -5704,6 +6654,80 @@
       "native": "Κρήτη",
       "slug": "crete",
       "type": "administrative region"
+    },
+    {
+      "code": "GY-BA",
+      "country": "GY",
+      "name": "Barima-Waini",
+      "slug": "barima-waini",
+      "type": "region"
+    },
+    {
+      "code": "GY-CU",
+      "country": "GY",
+      "name": "Cuyuni-Mazaruni",
+      "native": "The Cunyi-Pieces",
+      "slug": "cuyuni-mazaruni",
+      "type": "region"
+    },
+    {
+      "code": "GY-DE",
+      "country": "GY",
+      "name": "Demerara-Mahaica",
+      "slug": "demerara-mahaica",
+      "type": "region"
+    },
+    {
+      "code": "GY-EB",
+      "country": "GY",
+      "name": "East Berbice-Corentyne",
+      "slug": "east-berbice-corentyne",
+      "type": "region"
+    },
+    {
+      "code": "GY-ES",
+      "country": "GY",
+      "name": "Essequibo Islands-West Demerara",
+      "native": "Overcome Islands-West Demerara",
+      "slug": "essequibo-islands-west-demerara",
+      "type": "region"
+    },
+    {
+      "code": "GY-MA",
+      "country": "GY",
+      "name": "Mahaica-Berbice",
+      "slug": "mahaica-berbice",
+      "type": "region"
+    },
+    {
+      "code": "GY-PM",
+      "country": "GY",
+      "name": "Pomeroon-Supenaam",
+      "native": "Pomerone superconame",
+      "slug": "pomeroon-supenaam",
+      "type": "region"
+    },
+    {
+      "code": "GY-PT",
+      "country": "GY",
+      "name": "Potaro-Siparuni",
+      "native": "Potaro-saiparuni",
+      "slug": "potaro-siparuni",
+      "type": "region"
+    },
+    {
+      "code": "GY-UD",
+      "country": "GY",
+      "name": "Upper Demerara-Berbice",
+      "slug": "upper-demerara-berbice",
+      "type": "region"
+    },
+    {
+      "code": "GY-UT",
+      "country": "GY",
+      "name": "Upper Takutu-Upper Essequibo",
+      "slug": "upper-takutu-upper-essequibo",
+      "type": "region"
     },
     {
       "code": "HR-01",
@@ -10802,6 +11826,192 @@
       "type": "county"
     },
     {
+      "code": "PE-AMA",
+      "country": "PE",
+      "name": "Amazonas",
+      "slug": "amazonas",
+      "type": "region"
+    },
+    {
+      "code": "PE-ANC",
+      "country": "PE",
+      "name": "Áncash",
+      "slug": "ancash",
+      "type": "region"
+    },
+    {
+      "code": "PE-APU",
+      "country": "PE",
+      "name": "Apurímac",
+      "slug": "apurimac",
+      "type": "region"
+    },
+    {
+      "code": "PE-ARE",
+      "country": "PE",
+      "name": "Arequipa",
+      "slug": "arequipa",
+      "type": "region"
+    },
+    {
+      "code": "PE-AYA",
+      "country": "PE",
+      "name": "Ayacucho",
+      "slug": "ayacucho",
+      "type": "region"
+    },
+    {
+      "code": "PE-CAJ",
+      "country": "PE",
+      "name": "Cajamarca",
+      "slug": "cajamarca",
+      "type": "region"
+    },
+    {
+      "code": "PE-CAL",
+      "country": "PE",
+      "name": "Callao",
+      "slug": "callao",
+      "type": "region"
+    },
+    {
+      "code": "PE-CUS",
+      "country": "PE",
+      "name": "Cusco",
+      "native": "Cúsa",
+      "slug": "cusco",
+      "type": "region"
+    },
+    {
+      "code": "PE-HUC",
+      "country": "PE",
+      "name": "Huanuco",
+      "slug": "huanuco",
+      "type": "region"
+    },
+    {
+      "code": "PE-HUV",
+      "country": "PE",
+      "name": "Huancavelica",
+      "slug": "huancavelica",
+      "type": "region"
+    },
+    {
+      "code": "PE-ICA",
+      "country": "PE",
+      "name": "Ica",
+      "native": "ICA",
+      "slug": "ica",
+      "type": "region"
+    },
+    {
+      "code": "PE-JUN",
+      "country": "PE",
+      "name": "Junín",
+      "slug": "junin",
+      "type": "region"
+    },
+    {
+      "code": "PE-LAL",
+      "country": "PE",
+      "name": "La Libertad",
+      "slug": "la-libertad",
+      "type": "region"
+    },
+    {
+      "code": "PE-LAM",
+      "country": "PE",
+      "name": "Lambayeque",
+      "slug": "lambayeque",
+      "type": "region"
+    },
+    {
+      "code": "PE-LIM",
+      "country": "PE",
+      "name": "Lima",
+      "slug": "lima",
+      "type": "region"
+    },
+    {
+      "code": "PE-LMA",
+      "country": "PE",
+      "name": "Municipalidad Metropolitana de Lima",
+      "slug": "municipalidad-metropolitana-de-lima",
+      "type": "municipality"
+    },
+    {
+      "code": "PE-LOR",
+      "country": "PE",
+      "name": "Loreto",
+      "slug": "loreto",
+      "type": "region"
+    },
+    {
+      "code": "PE-MDD",
+      "country": "PE",
+      "name": "Madre de Dios",
+      "slug": "madre-de-dios",
+      "type": "region"
+    },
+    {
+      "code": "PE-MOQ",
+      "country": "PE",
+      "name": "Moquegua",
+      "slug": "moquegua",
+      "type": "region"
+    },
+    {
+      "code": "PE-PAS",
+      "country": "PE",
+      "name": "Pasco",
+      "native": "Pasto",
+      "slug": "pasco",
+      "type": "region"
+    },
+    {
+      "code": "PE-PIU",
+      "country": "PE",
+      "name": "Piura",
+      "slug": "piura",
+      "type": "region"
+    },
+    {
+      "code": "PE-PUN",
+      "country": "PE",
+      "name": "Puno",
+      "native": "Mucho",
+      "slug": "puno",
+      "type": "region"
+    },
+    {
+      "code": "PE-SAM",
+      "country": "PE",
+      "name": "San Martín",
+      "slug": "san-martin",
+      "type": "region"
+    },
+    {
+      "code": "PE-TAC",
+      "country": "PE",
+      "name": "Tacna",
+      "slug": "tacna",
+      "type": "region"
+    },
+    {
+      "code": "PE-TUM",
+      "country": "PE",
+      "name": "Tumbes",
+      "slug": "tumbes",
+      "type": "region"
+    },
+    {
+      "code": "PE-UCA",
+      "country": "PE",
+      "name": "Ucayali",
+      "slug": "ucayali",
+      "type": "region"
+    },
+    {
       "code": "PL-02",
       "country": "PL",
       "name": "Lower Silesia",
@@ -11059,6 +12269,134 @@
       "name": "Madeira",
       "slug": "madeira",
       "type": "autonomous region"
+    },
+    {
+      "code": "PY-1",
+      "country": "PY",
+      "name": "Concepción",
+      "slug": "concepcion",
+      "type": "department"
+    },
+    {
+      "code": "PY-10",
+      "country": "PY",
+      "name": "Alto Paraná",
+      "native": "Alto paraná",
+      "slug": "alto-parana",
+      "type": "department"
+    },
+    {
+      "code": "PY-11",
+      "country": "PY",
+      "name": "Central",
+      "slug": "central",
+      "type": "department"
+    },
+    {
+      "code": "PY-12",
+      "country": "PY",
+      "name": "Ñeembucú",
+      "slug": "neembucu",
+      "type": "department"
+    },
+    {
+      "code": "PY-13",
+      "country": "PY",
+      "name": "Amambay",
+      "slug": "amambay",
+      "type": "department"
+    },
+    {
+      "code": "PY-14",
+      "country": "PY",
+      "name": "Canindeyú",
+      "slug": "canindeyu",
+      "type": "department"
+    },
+    {
+      "code": "PY-15",
+      "country": "PY",
+      "name": "Presidente Hayes",
+      "slug": "presidente-hayes",
+      "type": "department"
+    },
+    {
+      "code": "PY-16",
+      "country": "PY",
+      "name": "Alto Paraguay",
+      "slug": "alto-paraguay",
+      "type": "department"
+    },
+    {
+      "code": "PY-19",
+      "country": "PY",
+      "name": "Boquerón",
+      "slug": "boqueron",
+      "type": "department"
+    },
+    {
+      "code": "PY-2",
+      "country": "PY",
+      "name": "San Pedro",
+      "slug": "san-pedro",
+      "type": "department"
+    },
+    {
+      "code": "PY-3",
+      "country": "PY",
+      "name": "Cordillera",
+      "slug": "cordillera",
+      "type": "department"
+    },
+    {
+      "code": "PY-4",
+      "country": "PY",
+      "name": "Guairá",
+      "slug": "guaira",
+      "type": "department"
+    },
+    {
+      "code": "PY-5",
+      "country": "PY",
+      "name": "Caaguazú",
+      "slug": "caaguazu",
+      "type": "department"
+    },
+    {
+      "code": "PY-6",
+      "country": "PY",
+      "name": "Caazapá",
+      "slug": "caazapa",
+      "type": "department"
+    },
+    {
+      "code": "PY-7",
+      "country": "PY",
+      "name": "Itapúa",
+      "slug": "itapua",
+      "type": "department"
+    },
+    {
+      "code": "PY-8",
+      "country": "PY",
+      "name": "Misiones",
+      "slug": "misiones",
+      "type": "department"
+    },
+    {
+      "code": "PY-9",
+      "country": "PY",
+      "name": "Paraguarí",
+      "slug": "paraguari",
+      "type": "department"
+    },
+    {
+      "code": "PY-ASU",
+      "country": "PY",
+      "name": "Asuncion",
+      "native": "Asunción",
+      "slug": "asuncion",
+      "type": "department"
     },
     {
       "code": "RO-AB",
@@ -14041,6 +15379,78 @@
       "type": "municipality"
     },
     {
+      "code": "SR-BR",
+      "country": "SR",
+      "name": "Brokopondo",
+      "native": "Brocopondo",
+      "slug": "brokopondo",
+      "type": "district"
+    },
+    {
+      "code": "SR-CM",
+      "country": "SR",
+      "name": "Commewijne",
+      "slug": "commewijne",
+      "type": "district"
+    },
+    {
+      "code": "SR-CR",
+      "country": "SR",
+      "name": "Coronie",
+      "slug": "coronie",
+      "type": "district"
+    },
+    {
+      "code": "SR-MA",
+      "country": "SR",
+      "name": "Marowijne",
+      "slug": "marowijne",
+      "type": "district"
+    },
+    {
+      "code": "SR-NI",
+      "country": "SR",
+      "name": "Nickerie",
+      "slug": "nickerie",
+      "type": "district"
+    },
+    {
+      "code": "SR-PM",
+      "country": "SR",
+      "name": "Paramaribo",
+      "slug": "paramaribo",
+      "type": "district"
+    },
+    {
+      "code": "SR-PR",
+      "country": "SR",
+      "name": "Para",
+      "native": "Naar",
+      "slug": "para",
+      "type": "district"
+    },
+    {
+      "code": "SR-SA",
+      "country": "SR",
+      "name": "Saramacca",
+      "slug": "saramacca",
+      "type": "district"
+    },
+    {
+      "code": "SR-SI",
+      "country": "SR",
+      "name": "Sipaliwini",
+      "slug": "sipaliwini",
+      "type": "district"
+    },
+    {
+      "code": "SR-WA",
+      "country": "SR",
+      "name": "Wanica",
+      "slug": "wanica",
+      "type": "district"
+    },
+    {
       "code": "UA-05",
       "country": "UA",
       "name": "Vinnytska",
@@ -14242,6 +15652,316 @@
       "name": "Chernivetska",
       "slug": "chernivetska",
       "type": "region"
+    },
+    {
+      "code": "UY-AR",
+      "country": "UY",
+      "name": "Artigas",
+      "slug": "artigas",
+      "type": "department"
+    },
+    {
+      "code": "UY-CA",
+      "country": "UY",
+      "name": "Canelones",
+      "slug": "canelones",
+      "type": "department"
+    },
+    {
+      "code": "UY-CL",
+      "country": "UY",
+      "name": "Cerro Largo",
+      "slug": "cerro-largo",
+      "type": "department"
+    },
+    {
+      "code": "UY-CO",
+      "country": "UY",
+      "name": "Colonia",
+      "slug": "colonia",
+      "type": "department"
+    },
+    {
+      "code": "UY-DU",
+      "country": "UY",
+      "name": "Durazno",
+      "slug": "durazno",
+      "type": "department"
+    },
+    {
+      "code": "UY-FD",
+      "country": "UY",
+      "name": "Florida",
+      "slug": "florida",
+      "type": "department"
+    },
+    {
+      "code": "UY-FS",
+      "country": "UY",
+      "name": "Flores",
+      "slug": "flores",
+      "type": "department"
+    },
+    {
+      "code": "UY-LA",
+      "country": "UY",
+      "name": "Lavalleja",
+      "slug": "lavalleja",
+      "type": "department"
+    },
+    {
+      "code": "UY-MA",
+      "country": "UY",
+      "name": "Maldonado",
+      "slug": "maldonado",
+      "type": "department"
+    },
+    {
+      "code": "UY-MO",
+      "country": "UY",
+      "name": "Montevideo",
+      "slug": "montevideo",
+      "type": "department"
+    },
+    {
+      "code": "UY-PA",
+      "country": "UY",
+      "name": "Paysandú",
+      "slug": "paysandu",
+      "type": "department"
+    },
+    {
+      "code": "UY-RN",
+      "country": "UY",
+      "name": "Río Negro",
+      "slug": "rio-negro",
+      "type": "department"
+    },
+    {
+      "code": "UY-RO",
+      "country": "UY",
+      "name": "Rocha",
+      "slug": "rocha",
+      "type": "department"
+    },
+    {
+      "code": "UY-RV",
+      "country": "UY",
+      "name": "Rivera",
+      "slug": "rivera",
+      "type": "department"
+    },
+    {
+      "code": "UY-SA",
+      "country": "UY",
+      "name": "Salto",
+      "native": "Tacón",
+      "slug": "salto",
+      "type": "department"
+    },
+    {
+      "code": "UY-SJ",
+      "country": "UY",
+      "name": "San José",
+      "slug": "san-jose",
+      "type": "department"
+    },
+    {
+      "code": "UY-SO",
+      "country": "UY",
+      "name": "Soriano",
+      "slug": "soriano",
+      "type": "department"
+    },
+    {
+      "code": "UY-TA",
+      "country": "UY",
+      "name": "Tacuarembó",
+      "slug": "tacuarembo",
+      "type": "department"
+    },
+    {
+      "code": "UY-TT",
+      "country": "UY",
+      "name": "Treinta y Tres",
+      "slug": "treinta-y-tres",
+      "type": "department"
+    },
+    {
+      "code": "VE-A",
+      "country": "VE",
+      "name": "Distrito Capital",
+      "slug": "distrito-capital",
+      "type": "capital district"
+    },
+    {
+      "code": "VE-B",
+      "country": "VE",
+      "name": "Anzoátegui",
+      "slug": "anzoategui",
+      "type": "state"
+    },
+    {
+      "code": "VE-C",
+      "country": "VE",
+      "name": "Apure",
+      "slug": "apure",
+      "type": "state"
+    },
+    {
+      "code": "VE-D",
+      "country": "VE",
+      "name": "Aragua",
+      "slug": "aragua",
+      "type": "state"
+    },
+    {
+      "code": "VE-E",
+      "country": "VE",
+      "name": "Barinas",
+      "slug": "barinas",
+      "type": "state"
+    },
+    {
+      "code": "VE-F",
+      "country": "VE",
+      "name": "Bolívar",
+      "slug": "bolivar",
+      "type": "state"
+    },
+    {
+      "code": "VE-G",
+      "country": "VE",
+      "name": "Carabobo",
+      "slug": "carabobo",
+      "type": "state"
+    },
+    {
+      "code": "VE-H",
+      "country": "VE",
+      "name": "Cojedes",
+      "slug": "cojedes",
+      "type": "state"
+    },
+    {
+      "code": "VE-I",
+      "country": "VE",
+      "name": "Falcón",
+      "slug": "falcon",
+      "type": "state"
+    },
+    {
+      "code": "VE-J",
+      "country": "VE",
+      "name": "Guárico",
+      "slug": "guarico",
+      "type": "state"
+    },
+    {
+      "code": "VE-K",
+      "country": "VE",
+      "name": "Lara",
+      "slug": "lara",
+      "type": "state"
+    },
+    {
+      "code": "VE-L",
+      "country": "VE",
+      "name": "Mérida",
+      "slug": "merida",
+      "type": "state"
+    },
+    {
+      "code": "VE-M",
+      "country": "VE",
+      "name": "Miranda",
+      "slug": "miranda",
+      "type": "state"
+    },
+    {
+      "code": "VE-N",
+      "country": "VE",
+      "name": "Monagas",
+      "slug": "monagas",
+      "type": "state"
+    },
+    {
+      "code": "VE-O",
+      "country": "VE",
+      "name": "Nueva Esparta",
+      "slug": "nueva-esparta",
+      "type": "state"
+    },
+    {
+      "code": "VE-P",
+      "country": "VE",
+      "name": "Portuguesa",
+      "native": "portugués",
+      "slug": "portuguesa",
+      "type": "state"
+    },
+    {
+      "code": "VE-R",
+      "country": "VE",
+      "name": "Sucre",
+      "slug": "sucre",
+      "type": "state"
+    },
+    {
+      "code": "VE-S",
+      "country": "VE",
+      "name": "Táchira",
+      "slug": "tachira",
+      "type": "state"
+    },
+    {
+      "code": "VE-T",
+      "country": "VE",
+      "name": "Trujillo",
+      "slug": "trujillo",
+      "type": "state"
+    },
+    {
+      "code": "VE-U",
+      "country": "VE",
+      "name": "Yaracuy",
+      "slug": "yaracuy",
+      "type": "state"
+    },
+    {
+      "code": "VE-V",
+      "country": "VE",
+      "name": "Zulia",
+      "slug": "zulia",
+      "type": "state"
+    },
+    {
+      "code": "VE-W",
+      "country": "VE",
+      "name": "Venezuela",
+      "slug": "venezuela",
+      "type": "federal dependency"
+    },
+    {
+      "code": "VE-X",
+      "country": "VE",
+      "name": "La Guaira",
+      "slug": "la-guaira",
+      "type": "state"
+    },
+    {
+      "code": "VE-Y",
+      "country": "VE",
+      "name": "Delta Amacuro",
+      "slug": "delta-amacuro",
+      "type": "state"
+    },
+    {
+      "code": "VE-Z",
+      "country": "VE",
+      "name": "Amazonas",
+      "slug": "amazonas",
+      "type": "state"
     },
     {
       "code": "XK-PEJ",

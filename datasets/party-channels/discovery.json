@@ -167,7 +167,7 @@
       "pages": 2
     },
     "be-vlg-vooruit": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -223,6 +223,126 @@
     },
     "bg-vazrazhdane": {
       "checkedAt": "2026-09-21",
+      "outcome": "none",
+      "pages": 1
+    },
+    "br-agir": {
+      "checkedAt": "2026-10-05",
+      "outcome": "none",
+      "pages": 1
+    },
+    "br-avante": {
+      "checkedAt": "2026-10-05",
+      "outcome": "none",
+      "pages": 1
+    },
+    "br-cidadania": {
+      "checkedAt": "2026-10-05",
+      "outcome": "none",
+      "pages": 1
+    },
+    "br-dc": {
+      "checkedAt": "2026-10-05",
+      "outcome": "found",
+      "pages": 1
+    },
+    "br-democrata": {
+      "checkedAt": "2026-10-05",
+      "outcome": "found",
+      "pages": 1
+    },
+    "br-mdb": {
+      "checkedAt": "2026-10-05",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "br-mobiliza": {
+      "checkedAt": "2026-10-05",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "br-novo": {
+      "checkedAt": "2026-10-05",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "br-pcb": {
+      "checkedAt": "2026-10-05",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "br-pcdob": {
+      "checkedAt": "2026-10-05",
+      "outcome": "none",
+      "pages": 1
+    },
+    "br-pco": {
+      "checkedAt": "2026-10-05",
+      "outcome": "found",
+      "pages": 3
+    },
+    "br-pode": {
+      "checkedAt": "2026-10-05",
+      "outcome": "found",
+      "pages": 1
+    },
+    "br-pp": {
+      "checkedAt": "2026-10-05",
+      "outcome": "none",
+      "pages": 1
+    },
+    "br-prd": {
+      "checkedAt": "2026-10-05",
+      "outcome": "none",
+      "pages": 1
+    },
+    "br-prtb": {
+      "checkedAt": "2026-10-05",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "br-psb": {
+      "checkedAt": "2026-10-05",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "br-psd": {
+      "checkedAt": "2026-10-05",
+      "outcome": "none",
+      "pages": 1
+    },
+    "br-psol": {
+      "checkedAt": "2026-10-05",
+      "outcome": "none",
+      "pages": 1
+    },
+    "br-pstu": {
+      "checkedAt": "2026-10-05",
+      "outcome": "found",
+      "pages": 1
+    },
+    "br-pv": {
+      "checkedAt": "2026-10-05",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "br-rede": {
+      "checkedAt": "2026-10-05",
+      "outcome": "robots",
+      "pages": 0
+    },
+    "br-republicanos": {
+      "checkedAt": "2026-10-05",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "br-sd": {
+      "checkedAt": "2026-10-05",
+      "outcome": "none",
+      "pages": 1
+    },
+    "br-up": {
+      "checkedAt": "2026-10-05",
       "outcome": "none",
       "pages": 1
     },
@@ -602,7 +722,7 @@
       "pages": 4
     },
     "europe-pes": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -727,12 +847,12 @@
       "pages": 5
     },
     "gb-nir-dup": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
     "gb-ruk": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -762,7 +882,7 @@
       "pages": 8
     },
     "gr-el": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -772,7 +892,7 @@
       "pages": 2
     },
     "gr-nd": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -787,7 +907,7 @@
       "pages": 2
     },
     "gr-syriza": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -977,12 +1097,12 @@
       "pages": 1
     },
     "it-az": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
     "it-ev": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1222,7 +1342,7 @@
       "pages": 7
     },
     "nl-bbb": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1262,12 +1382,12 @@
       "pages": 4
     },
     "nl-pvdd": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },
     "nl-pvv": {
-      "checkedAt": "2026-08-31",
+      "checkedAt": "2026-10-05",
       "outcome": "unreachable",
       "pages": 1
     },

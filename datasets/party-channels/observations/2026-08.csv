@@ -5,6 +5,8 @@ checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,ht
 2026-08-05T17:15:07Z,de-be-volt,0029VbBwmKu90x33w7IhA00Z,ok,434,exact,,Volt,200,channel,,
 2026-08-07T09:19:39Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,61000,rounded,,Die Linke,200,channel,,
 2026-08-09T09:36:25Z,de-st-grune,0029VakBvxx0Vyc7cCq2sM1A,ok,1700,rounded,,DIE GRÜNEN Sachsen-Anhalt,200,channel,,
+2026-08-15T06:18:39Z,br-uniao,0029Vb6M7vX3WHTRU0Kt1m0D,ok,668,exact,,União Brasil,200,channel,archive,https://web.archive.org/web/20260815061839/https://www.whatsapp.com/channel/0029Vb6M7vX3WHTRU0Kt1m0D
+2026-08-15T06:30:57Z,br-pt,0029Va9GZPM8vd1ThwjXO91d,ok,21000,rounded,,PT - Partido dos Trabalhadores,200,channel,archive,https://web.archive.org/web/20260815063057/https://www.whatsapp.com/channel/0029Va9GZPM8vd1ThwjXO91d
 2026-08-28T10:16:29Z,de-spd,0029VaDCDYDKrWQzJXHTJv0e,ok,31121,exact,de-DE,SPD,200,,,
 2026-08-28T10:16:29Z,de-linke,0029VaaFcBp8aKvCtcymPg1S,ok,60818,exact,de-DE,Die Linke,200,,,
 2026-08-28T10:16:29Z,de-fdp,0029VaFlergKmCPOtXP4aM1k,ok,7648,exact,de-DE,FDP,200,,,

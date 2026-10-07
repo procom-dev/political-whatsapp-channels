@@ -1,0 +1,408 @@
+{
+  "country": "BR",
+  "parties": [
+    {
+      "id": "br-agir",
+      "name": "Agir",
+      "abbreviation": "AGIR",
+      "englishName": "Act",
+      "orientation": "centre",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://agir36.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-avante",
+      "name": "Avante",
+      "abbreviation": "AVANTE",
+      "englishName": "Forward",
+      "orientation": "centre",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://avante70.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-cidadania",
+      "name": "Cidadania",
+      "abbreviation": "CIDADANIA",
+      "englishName": "Citizenship",
+      "orientation": "centre",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://cidadania23.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-dc",
+      "name": "Democracia Cristã",
+      "abbreviation": "DC",
+      "englishName": "Christian Democracy",
+      "orientation": "centre-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://www.democraciacrista.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-democrata",
+      "name": "Democrata",
+      "abbreviation": "DEMOCRATA",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q24478299",
+      "website": "https://democrata.org.br/",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/556196401283",
+        "id": "556196401283",
+        "added": "2026-09-28",
+        "source": "https://democrata.org.br/"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-mdb",
+      "name": "Movimento Democrático Brasileiro",
+      "abbreviation": "MDB",
+      "englishName": "Brazilian Democratic Movement",
+      "orientation": "centre",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://www.mdb.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-missao",
+      "name": "Missão",
+      "abbreviation": "MISSÃO",
+      "englishName": "Mission Party",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q134984491",
+      "website": "https://missao.org.br/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va9jVpT1t90cwN3Xk21A",
+        "id": "0029Va9jVpT1t90cwN3Xk21A",
+        "added": "2026-09-28",
+        "source": "https://missao.org.br/"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-mobiliza",
+      "name": "Mobilização Nacional",
+      "abbreviation": "MOBILIZA",
+      "englishName": "National Mobilization",
+      "orientation": "centre",
+      "orientationSource": "https://www.wikidata.org/wiki/Q429972",
+      "website": "https://www.pmn.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-novo",
+      "name": "Partido Novo",
+      "abbreviation": "NOVO",
+      "englishName": "New Party",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q18552710",
+      "website": "https://novo.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-pcb",
+      "name": "Partido Comunista Brasileiro",
+      "abbreviation": "PCB",
+      "englishName": "Brazilian Communist Party",
+      "orientation": "far-left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://pcb.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-pcdob",
+      "name": "Partido Comunista do Brasil",
+      "abbreviation": "PCdoB",
+      "englishName": "Communist Party of Brazil",
+      "orientation": "left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://pcdob.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-pco",
+      "name": "Partido da Causa Operária",
+      "abbreviation": "PCO",
+      "englishName": "Workers' Cause Party",
+      "orientation": "far-left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://pco.org.br/",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/5511983078783",
+        "id": "5511983078783",
+        "added": "2026-09-28",
+        "source": "https://pco.org.br/"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-pdt",
+      "name": "Partido Democrático Trabalhista",
+      "abbreviation": "PDT",
+      "englishName": "Democratic Labour Party",
+      "orientation": "centre-left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://www.pdt.org.br/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaAlIDhBPzjdcEShiD04",
+        "id": "0029VaAlIDhBPzjdcEShiD04",
+        "added": "2026-09-28",
+        "source": "https://pdt.org.br/"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-pl",
+      "name": "Partido Liberal",
+      "abbreviation": "PL",
+      "englishName": "Liberal Party",
+      "orientation": "far-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://partidoliberal.org.br/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaASWC80AgW20a3dQj1z",
+        "id": "0029VaASWC80AgW20a3dQj1z",
+        "added": "2026-09-28",
+        "source": "https://whatsapp.com/channel/0029VaASWC80AgW20a3dQj1z"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-pode",
+      "name": "Podemos",
+      "abbreviation": "PODE",
+      "englishName": "We Can",
+      "orientation": "centre-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://www.podemos.org.br/",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/556191214127",
+        "id": "556191214127",
+        "added": "2026-09-28",
+        "source": "https://podemos.org.br/"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-pp",
+      "name": "Progressistas",
+      "abbreviation": "PP",
+      "orientation": "centre-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://progressistas.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-prd",
+      "name": "Partido Renovação Democrática",
+      "abbreviation": "PRD",
+      "englishName": "Democratic Renewal Party",
+      "orientation": "right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://prd25.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-prtb",
+      "name": "Partido Renovador Trabalhista Brasileiro",
+      "abbreviation": "PRTB",
+      "englishName": "Brazilian Labour Renewal Party",
+      "orientation": "far-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://www.prtb.org.br/",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/556299332828",
+        "id": "556299332828",
+        "added": "2026-09-28",
+        "source": "https://www.prtb.org.br/"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-psb",
+      "name": "Partido Socialista Brasileiro",
+      "abbreviation": "PSB",
+      "englishName": "Brazilian Socialist Party",
+      "orientation": "centre-left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://www.psb40.org.br/",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/556181557040",
+        "id": "556181557040",
+        "added": "2026-09-28",
+        "source": "https://psb40.org.br/"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-psd",
+      "name": "Partido Social Democrático",
+      "abbreviation": "PSD",
+      "englishName": "Social Democratic Party",
+      "orientation": "centre",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://psd.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-psdb",
+      "name": "Partido da Social Democracia Brasileira",
+      "abbreviation": "PSDB",
+      "englishName": "Brazilian Social Democracy Party",
+      "orientation": "centre-right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q1322897",
+      "website": "https://www.psdb.org.br/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaAgzVWLdQehvwEodV0r",
+        "id": "0029VaAgzVWLdQehvwEodV0r",
+        "added": "2026-09-28",
+        "source": "https://whatsapp.com/channel/0029VaAgzVWLdQehvwEodV0r"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-psol",
+      "name": "Partido Socialismo e Liberdade",
+      "abbreviation": "PSOL",
+      "englishName": "Socialism and Liberty Party",
+      "orientation": "left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://psol50.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-pstu",
+      "name": "Partido Socialista dos Trabalhadores Unificado",
+      "abbreviation": "PSTU",
+      "englishName": "United Socialist Workers' Party",
+      "orientation": "far-left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://www.pstu.org.br/",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/5511941011917",
+        "id": "5511941011917",
+        "added": "2026-09-28",
+        "source": "https://www.pstu.org.br/"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-pt",
+      "name": "Partido dos Trabalhadores",
+      "abbreviation": "PT",
+      "englishName": "Workers' Party",
+      "orientation": "centre-left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://pt.org.br/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Va9GZPM8vd1ThwjXO91d",
+        "id": "0029Va9GZPM8vd1ThwjXO91d",
+        "added": "2026-09-28",
+        "source": "https://linktr.ee/ptbrasil"
+      },
+      "other": {
+        "kind": "group",
+        "url": "https://chat.whatsapp.com/CacjZ2wdkQqGcfUlWUIl4a",
+        "id": "CacjZ2wdkQqGcfUlWUIl4a",
+        "added": "2026-09-28",
+        "source": "https://linktr.ee/ptbrasil"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-pv",
+      "name": "Partido Verde",
+      "abbreviation": "PV",
+      "englishName": "Green Party",
+      "orientation": "centre-left",
+      "orientationSource": "https://www.wikidata.org/wiki/Q1234489",
+      "website": "https://pv.org.br/",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/5561981651143",
+        "id": "5561981651143",
+        "added": "2026-09-28",
+        "source": "https://pv.org.br/"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-rede",
+      "name": "Rede Sustentabilidade",
+      "abbreviation": "REDE",
+      "englishName": "Sustainability Network",
+      "orientation": "centre-left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://redesustentabilidade.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-republicanos",
+      "name": "Republicanos",
+      "abbreviation": "REPUBLICANOS",
+      "englishName": "Republicans",
+      "orientation": "right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://republicanos10.org.br/",
+      "verified": "2026-09-28",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/556198734461",
+        "id": "556198734461",
+        "added": "2026-09-28",
+        "source": "https://republicanos10.org.br/"
+      }
+    },
+    {
+      "id": "br-sd",
+      "name": "Solidariedade",
+      "abbreviation": "SD",
+      "englishName": "Solidarity",
+      "orientation": "centre",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://solidariedade.org.br/",
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-uniao",
+      "name": "União Brasil",
+      "abbreviation": "UNIÃO",
+      "englishName": "Brazil Union",
+      "orientation": "centre-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Brazil",
+      "website": "https://uniaobrasil.org.br/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb6M7vX3WHTRU0Kt1m0D",
+        "id": "0029Vb6M7vX3WHTRU0Kt1m0D",
+        "added": "2026-09-28",
+        "source": "https://uniaobrasil.org.br/"
+      },
+      "verified": "2026-09-28"
+    },
+    {
+      "id": "br-up",
+      "name": "Unidade Popular",
+      "abbreviation": "UP",
+      "englishName": "Popular Unity",
+      "orientation": "far-left",
+      "orientationSource": "https://www.wikidata.org/wiki/Q86534531",
+      "website": "https://unidadepopular.org.br/",
+      "verified": "2026-09-28"
+    }
+  ]
+}
