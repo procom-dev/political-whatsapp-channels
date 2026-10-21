@@ -1,0 +1,90 @@
+{
+  "country": "PE",
+  "parties": [
+    {
+      "id": "pe-ahora-nacion",
+      "name": "Ahora Nación",
+      "abbreviation": "AN",
+      "englishName": "Now Nation",
+      "orientation": "centre-left",
+      "orientationSource": "https://en.wikipedia.org/wiki/Ahora_Naci%C3%B3n",
+      "website": "https://ahoranacion.org.pe/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "pe-buen-gobierno",
+      "name": "Partido del Buen Gobierno",
+      "abbreviation": "PBG",
+      "englishName": "Party of Good Government",
+      "orientation": "centre",
+      "orientationSource": "https://en.wikipedia.org/wiki/Party_of_Good_Government",
+      "website": "https://partidodelbuengobierno.pe/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "pe-fuerza-popular",
+      "name": "Fuerza Popular",
+      "abbreviation": "FP",
+      "englishName": "Popular Force",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q1472820",
+      "website": "https://fuerzapopular.com.pe/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "pe-juntos-por-el-peru",
+      "name": "Juntos por el Perú",
+      "abbreviation": "JP",
+      "englishName": "Together for Peru",
+      "orientation": "centre-left",
+      "orientationSource": "https://en.wikipedia.org/wiki/Together_for_Peru",
+      "website": "https://jp.org.pe/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "pe-nuevo-peru",
+      "name": "Nuevo Perú por el Buen Vivir",
+      "abbreviation": "NP",
+      "englishName": "New Peru for Good Living",
+      "orientation": "left",
+      "orientationSource": "https://en.wikipedia.org/wiki/New_Peru",
+      "website": "https://nuevoperu.pe/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb5jQyAAYlUQwAHZos17",
+        "id": "0029Vb5jQyAAYlUQwAHZos17",
+        "added": "2026-10-20",
+        "source": "https://www.whatsapp.com/channel/0029Vb5jQyAAYlUQwAHZos17"
+      },
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "pe-obras",
+      "name": "Partido Cívico OBRAS",
+      "abbreviation": "OBRAS",
+      "englishName": "Civic Party OBRAS",
+      "orientation": "centre",
+      "orientationSource": "https://en.wikipedia.org/wiki/Civic_Party_OBRAS",
+      "website": "https://partidopoliticocivicoobras.com/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "pe-renovacion-popular",
+      "name": "Renovación Popular",
+      "abbreviation": "RP",
+      "englishName": "Popular Renewal",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q101116021",
+      "website": "https://renovacionpopular.com.pe/",
+      "verified": "2026-10-20",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb7XULg6hENz2dOsYB2u",
+        "id": "0029Vb7XULg6hENz2dOsYB2u",
+        "added": "2026-10-20",
+        "source": "https://www.whatsapp.com/channel/0029Vb7XULg6hENz2dOsYB2u",
+        "personal": true
+      }
+    }
+  ]
+}

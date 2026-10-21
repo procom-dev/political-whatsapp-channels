@@ -1,8 +1,9 @@
 {
-  "generated": "2026-09-28",
+  "generated": "2026-10-20",
   "continents": [
     "EU",
-    "SA"
+    "SA",
+    "AS"
   ],
   "source": "https://github.com/dr5hn/countries-states-cities-database",
   "note": "ISO 3166-1 alpha-2 and ISO 3166-2 codes. Regenerate with `npm run places:build`.",
@@ -15,12 +16,36 @@
       "continent": "EU"
     },
     {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "native": "دولة الإمارات العربية المتحدة",
+      "slug": "united-arab-emirates",
+      "capital": "Abu Dhabi",
+      "continent": "AS"
+    },
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "native": "افغانستان",
+      "slug": "afghanistan",
+      "capital": "Kabul",
+      "continent": "AS"
+    },
+    {
       "code": "AL",
       "name": "Albania",
       "native": "Shqipëria",
       "slug": "albania",
       "capital": "Tirana",
       "continent": "EU"
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "native": "Հայաստան",
+      "slug": "armenia",
+      "capital": "Yerevan",
+      "continent": "AS"
     },
     {
       "code": "AR",
@@ -46,12 +71,27 @@
       "continent": "EU"
     },
     {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "native": "Azərbaycan",
+      "slug": "azerbaijan",
+      "capital": "Baku",
+      "continent": "AS"
+    },
+    {
       "code": "BA",
       "name": "Bosnia and Herzegovina",
       "native": "Bosna i Hercegovina",
       "slug": "bosnia-and-herzegovina",
       "capital": "Sarajevo",
       "continent": "EU"
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "slug": "bangladesh",
+      "capital": "Dhaka",
+      "continent": "AS"
     },
     {
       "code": "BE",
@@ -70,6 +110,22 @@
       "continent": "EU"
     },
     {
+      "code": "BH",
+      "name": "Bahrain",
+      "native": "‏البحرين",
+      "slug": "bahrain",
+      "capital": "Manama",
+      "continent": "AS"
+    },
+    {
+      "code": "BN",
+      "name": "Brunei",
+      "native": "Negara Brunei Darussalam",
+      "slug": "brunei",
+      "capital": "Bandar Seri Begawan",
+      "continent": "AS"
+    },
+    {
       "code": "BO",
       "name": "Bolivia",
       "slug": "bolivia",
@@ -85,12 +141,27 @@
       "continent": "SA"
     },
     {
+      "code": "BT",
+      "name": "Bhutan",
+      "native": "ʼbrug-yul",
+      "slug": "bhutan",
+      "capital": "Thimphu",
+      "continent": "AS"
+    },
+    {
       "code": "BY",
       "name": "Belarus",
       "native": "Белару́сь",
       "slug": "belarus",
       "capital": "Minsk",
       "continent": "EU"
+    },
+    {
+      "code": "CC",
+      "name": "Cocos (Keeling) Islands",
+      "slug": "cocos-keeling-islands",
+      "capital": "West Island",
+      "continent": "AS"
     },
     {
       "code": "CH",
@@ -108,11 +179,26 @@
       "continent": "SA"
     },
     {
+      "code": "CN",
+      "name": "China",
+      "native": "中国",
+      "slug": "china",
+      "capital": "Beijing",
+      "continent": "AS"
+    },
+    {
       "code": "CO",
       "name": "Colombia",
       "slug": "colombia",
       "capital": "Bogotá",
       "continent": "SA"
+    },
+    {
+      "code": "CX",
+      "name": "Christmas Island",
+      "slug": "christmas-island",
+      "capital": "Flying Fish Cove",
+      "continent": "AS"
     },
     {
       "code": "CY",
@@ -207,6 +293,14 @@
       "continent": "EU"
     },
     {
+      "code": "GE",
+      "name": "Georgia",
+      "native": "საქართველო",
+      "slug": "georgia",
+      "capital": "Tbilisi",
+      "continent": "AS"
+    },
+    {
       "code": "GF",
       "name": "French Guiana",
       "native": "Guyane française",
@@ -244,6 +338,14 @@
       "continent": "SA"
     },
     {
+      "code": "HK",
+      "name": "Hong Kong S.A.R.",
+      "native": "香港",
+      "slug": "hong-kong-s-a-r",
+      "capital": "Hong Kong",
+      "continent": "AS"
+    },
+    {
       "code": "HR",
       "name": "Croatia",
       "native": "Hrvatska",
@@ -260,6 +362,13 @@
       "continent": "EU"
     },
     {
+      "code": "ID",
+      "name": "Indonesia",
+      "slug": "indonesia",
+      "capital": "Jakarta",
+      "continent": "AS"
+    },
+    {
       "code": "IE",
       "name": "Ireland",
       "native": "Éire",
@@ -268,12 +377,44 @@
       "continent": "EU"
     },
     {
+      "code": "IL",
+      "name": "Israel",
+      "native": "יִשְׂרָאֵל",
+      "slug": "israel",
+      "capital": "Jerusalem",
+      "continent": "AS"
+    },
+    {
       "code": "IM",
       "name": "Man (Isle of)",
       "native": "Isle of Man",
       "slug": "man-isle-of",
       "capital": "Douglas, Isle of Man",
       "continent": "EU"
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "native": "भारत",
+      "slug": "india",
+      "capital": "New Delhi",
+      "continent": "AS"
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "native": "العراق",
+      "slug": "iraq",
+      "capital": "Baghdad",
+      "continent": "AS"
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "native": "ایران",
+      "slug": "iran",
+      "capital": "Tehran",
+      "continent": "AS"
     },
     {
       "code": "IS",
@@ -299,11 +440,99 @@
       "continent": "EU"
     },
     {
+      "code": "JO",
+      "name": "Jordan",
+      "native": "الأردن",
+      "slug": "jordan",
+      "capital": "Amman",
+      "continent": "AS"
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "native": "日本",
+      "slug": "japan",
+      "capital": "Tokyo",
+      "continent": "AS"
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "native": "Кыргызстан",
+      "slug": "kyrgyzstan",
+      "capital": "Bishkek",
+      "continent": "AS"
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "native": "Kâmpŭchéa",
+      "slug": "cambodia",
+      "capital": "Phnom Penh",
+      "continent": "AS"
+    },
+    {
+      "code": "KP",
+      "name": "North Korea",
+      "native": "북한",
+      "slug": "north-korea",
+      "capital": "Pyongyang",
+      "continent": "AS"
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "native": "대한민국",
+      "slug": "south-korea",
+      "capital": "Seoul",
+      "continent": "AS"
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "native": "الكويت",
+      "slug": "kuwait",
+      "capital": "Kuwait City",
+      "continent": "AS"
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "native": "Қазақстан",
+      "slug": "kazakhstan",
+      "capital": "Astana",
+      "continent": "AS"
+    },
+    {
+      "code": "LA",
+      "name": "Laos",
+      "native": "ສປປລາວ",
+      "slug": "laos",
+      "capital": "Vientiane",
+      "continent": "AS"
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "native": "لبنان",
+      "slug": "lebanon",
+      "capital": "Beirut",
+      "continent": "AS"
+    },
+    {
       "code": "LI",
       "name": "Liechtenstein",
       "slug": "liechtenstein",
       "capital": "Vaduz",
       "continent": "EU"
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "native": "śrī laṃkāva",
+      "slug": "sri-lanka",
+      "capital": "Colombo",
+      "continent": "AS"
     },
     {
       "code": "LT",
@@ -359,11 +588,49 @@
       "continent": "EU"
     },
     {
+      "code": "MM",
+      "name": "Myanmar",
+      "native": "မြန်မာ",
+      "slug": "myanmar",
+      "capital": "Nay Pyi Taw",
+      "continent": "AS"
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "native": "Монгол улс",
+      "slug": "mongolia",
+      "capital": "Ulan Bator",
+      "continent": "AS"
+    },
+    {
+      "code": "MO",
+      "name": "Macau S.A.R.",
+      "native": "澳門",
+      "slug": "macau-s-a-r",
+      "capital": "Macao",
+      "continent": "AS"
+    },
+    {
       "code": "MT",
       "name": "Malta",
       "slug": "malta",
       "capital": "Valletta",
       "continent": "EU"
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "slug": "maldives",
+      "capital": "Male",
+      "continent": "AS"
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "slug": "malaysia",
+      "capital": "Kuala Lumpur",
+      "continent": "AS"
     },
     {
       "code": "NL",
@@ -382,6 +649,22 @@
       "continent": "EU"
     },
     {
+      "code": "NP",
+      "name": "Nepal",
+      "native": "नेपाल",
+      "slug": "nepal",
+      "capital": "Kathmandu",
+      "continent": "AS"
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "native": "عمان",
+      "slug": "oman",
+      "capital": "Muscat",
+      "continent": "AS"
+    },
+    {
       "code": "PE",
       "name": "Peru",
       "native": "Perú",
@@ -390,12 +673,36 @@
       "continent": "SA"
     },
     {
+      "code": "PH",
+      "name": "Philippines",
+      "native": "Pilipinas",
+      "slug": "philippines",
+      "capital": "Manila",
+      "continent": "AS"
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "native": "پاکستان",
+      "slug": "pakistan",
+      "capital": "Islamabad",
+      "continent": "AS"
+    },
+    {
       "code": "PL",
       "name": "Poland",
       "native": "Polska",
       "slug": "poland",
       "capital": "Warsaw",
       "continent": "EU"
+    },
+    {
+      "code": "PS",
+      "name": "Palestine",
+      "native": "فلسطين",
+      "slug": "palestine",
+      "capital": "East Jerusalem",
+      "continent": "AS"
     },
     {
       "code": "PT",
@@ -410,6 +717,14 @@
       "slug": "paraguay",
       "capital": "Asunción",
       "continent": "SA"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "native": "قطر",
+      "slug": "qatar",
+      "capital": "Doha",
+      "continent": "AS"
     },
     {
       "code": "RO",
@@ -436,12 +751,27 @@
       "continent": "EU"
     },
     {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "native": "المملكة العربية السعودية",
+      "slug": "saudi-arabia",
+      "capital": "Riyadh",
+      "continent": "AS"
+    },
+    {
       "code": "SE",
       "name": "Sweden",
       "native": "Sverige",
       "slug": "sweden",
       "capital": "Stockholm",
       "continent": "EU"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "slug": "singapore",
+      "capital": "Singapur",
+      "continent": "AS"
     },
     {
       "code": "SI",
@@ -482,6 +812,61 @@
       "continent": "SA"
     },
     {
+      "code": "SY",
+      "name": "Syria",
+      "native": "سوريا",
+      "slug": "syria",
+      "capital": "Damascus",
+      "continent": "AS"
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "native": "ประเทศไทย",
+      "slug": "thailand",
+      "capital": "Bangkok",
+      "continent": "AS"
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "native": "Тоҷикистон",
+      "slug": "tajikistan",
+      "capital": "Dushanbe",
+      "continent": "AS"
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "slug": "timor-leste",
+      "capital": "Dili",
+      "continent": "AS"
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "native": "Türkmenistan",
+      "slug": "turkmenistan",
+      "capital": "Ashgabat",
+      "continent": "AS"
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "native": "Türkiye",
+      "slug": "turkey",
+      "capital": "Ankara",
+      "continent": "AS"
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "native": "臺灣",
+      "slug": "taiwan",
+      "capital": "Taipei",
+      "continent": "AS"
+    },
+    {
       "code": "UA",
       "name": "Ukraine",
       "native": "Україна",
@@ -495,6 +880,14 @@
       "slug": "uruguay",
       "capital": "Montevideo",
       "continent": "SA"
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "native": "O‘zbekiston",
+      "slug": "uzbekistan",
+      "capital": "Tashkent",
+      "continent": "AS"
     },
     {
       "code": "VA",
@@ -512,12 +905,28 @@
       "continent": "SA"
     },
     {
+      "code": "VN",
+      "name": "Vietnam",
+      "native": "Việt Nam",
+      "slug": "vietnam",
+      "capital": "Hanoi",
+      "continent": "AS"
+    },
+    {
       "code": "XK",
       "name": "Kosovo",
       "native": "Republika e Kosovës",
       "slug": "kosovo",
       "capital": "Pristina",
       "continent": "EU"
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "native": "اليَمَن",
+      "slug": "yemen",
+      "capital": "Sanaa",
+      "continent": "AS"
     }
   ]
 }

@@ -1061,6 +1061,106 @@
       "outcome": "none",
       "pages": 8
     },
+    "il-agudat-yisrael": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-balad": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "il-blue-and-white": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "il-degel-hatorah": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-democrats": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "il-hadash": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 2
+    },
+    "il-jm-jerusalem-hitorerut-in-jerusalem": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 3
+    },
+    "il-likud": {
+      "checkedAt": "2026-10-20",
+      "outcome": "robots",
+      "pages": 0
+    },
+    "il-new-hope": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "il-noam": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "il-otzma-yehudit": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "il-raam": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-religious-zionism": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "il-reservists": {
+      "checkedAt": "2026-10-20",
+      "outcome": "found",
+      "pages": 2
+    },
+    "il-shas": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "il-taal": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-yashar": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "il-yesh-atid": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "il-yisrael-beiteinu": {
+      "checkedAt": "2026-10-20",
+      "outcome": "found",
+      "pages": 5
+    },
+    "il-zehut": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 2
+    },
     "is-b": {
       "checkedAt": "2026-09-21",
       "outcome": "none",
@@ -1456,6 +1556,36 @@
       "outcome": "unreachable",
       "pages": 1
     },
+    "pe-ahora-nacion": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "pe-buen-gobierno": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 3
+    },
+    "pe-fuerza-popular": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "pe-juntos-por-el-peru": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "pe-obras": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "pe-renovacion-popular": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 3
+    },
     "pl-nowa-lewica": {
       "checkedAt": "2026-09-21",
       "outcome": "none",
@@ -1582,34 +1712,134 @@
       "pages": 2
     },
     "rs-ds": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 1
     },
     "rs-dveri": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 3
+    },
+    "rs-ekoloski-ustanak": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "rs-js": {
+      "checkedAt": "2026-10-20",
       "outcome": "unreachable",
       "pages": 1
     },
+    "rs-mi-gin": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 3
+    },
+    "rs-mi-sn": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 2
+    },
+    "rs-nls": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 2
+    },
+    "rs-novi-dss": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 8
+    },
+    "rs-nps": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 2
+    },
+    "rs-poks": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 2
+    },
+    "rs-ps": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 2
+    },
+    "rs-psg": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 4
+    },
+    "rs-pups": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "rs-pvd": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 1
+    },
+    "rs-radnicka-partija": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "rs-ruska-stranka": {
+      "checkedAt": "2026-10-20",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "rs-sdas": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 3
+    },
+    "rs-sdps": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 3
+    },
     "rs-sns": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "unreachable",
       "pages": 1
     },
     "rs-sps": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 4
     },
-    "rs-ssp": {
-      "checkedAt": "2026-09-21",
+    "rs-srce": {
+      "checkedAt": "2026-10-20",
       "outcome": "unreachable",
       "pages": 1
     },
+    "rs-ssp": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 2
+    },
     "rs-svm": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 1
+    },
+    "rs-uss": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "rs-zlf": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "rs-zs": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 2
     },
     "se-c": {
       "checkedAt": "2026-09-14",
@@ -1676,6 +1906,11 @@
       "outcome": "none",
       "pages": 7
     },
+    "si-prerod": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
     "si-resni-ca": {
       "checkedAt": "2026-09-21",
       "outcome": "none",
@@ -1696,50 +1931,70 @@
       "outcome": "none",
       "pages": 6
     },
-    "sk-demokrati": {
-      "checkedAt": "2026-09-21",
+    "si-vesna": {
+      "checkedAt": "2026-10-20",
       "outcome": "none",
-      "pages": 8
+      "pages": 2
+    },
+    "sk-demokrati": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 7
     },
     "sk-hlas": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "none",
-      "pages": 3
+      "pages": 4
     },
     "sk-konzervativci-krestanska-unia": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 2
     },
     "sk-krestanskodemokraticke-hnutie": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 2
     },
-    "sk-progresivne-slovensko": {
-      "checkedAt": "2026-09-21",
+    "sk-madarska-aliancia": {
+      "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 1
     },
+    "sk-progresivne-slovensko": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 1
+    },
+    "sk-republika": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 3
+    },
     "sk-sloboda-a-solidarita": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 1
     },
     "sk-slovensko": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 1
     },
+    "sk-sme-rodina": {
+      "checkedAt": "2026-10-20",
+      "outcome": "none",
+      "pages": 3
+    },
     "sk-smer-socialna-demokracia": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 3
     },
     "sk-sns": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-20",
       "outcome": "none",
-      "pages": 4
+      "pages": 1
     },
     "sm-dml": {
       "checkedAt": "2026-09-21",

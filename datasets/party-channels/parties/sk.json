@@ -35,12 +35,28 @@
       "verified": "2026-09-18"
     },
     {
+      "id": "sk-madarska-aliancia",
+      "name": "Magyar Szövetség – Maďarská aliancia",
+      "englishName": "Hungarian Alliance",
+      "europarty": "EPP",
+      "website": "https://www.szovetseg.sk/",
+      "verified": "2026-10-20"
+    },
+    {
       "id": "sk-progresivne-slovensko",
       "name": "Progresívne Slovensko",
       "englishName": "Progressive Slovakia",
       "europarty": "ALDE",
       "website": "https://www.progresivne.sk/",
       "verified": "2026-09-18"
+    },
+    {
+      "id": "sk-republika",
+      "name": "Republika",
+      "englishName": "Republic",
+      "epGroup": "ESN",
+      "website": "https://www.hnutie-republika.sk/",
+      "verified": "2026-10-20"
     },
     {
       "id": "sk-sloboda-a-solidarita",
@@ -59,6 +75,14 @@
       "verified": "2026-09-18"
     },
     {
+      "id": "sk-sme-rodina",
+      "name": "SME RODINA",
+      "englishName": "We Are Family",
+      "europarty": "PATRIOTS",
+      "website": "https://hnutie-smerodina.sk/",
+      "verified": "2026-10-20"
+    },
+    {
       "id": "sk-smer-socialna-demokracia",
       "name": "SMER – sociálna demokracia",
       "englishName": "Direction – Social Democracy",
@@ -72,7 +96,9 @@
       "abbreviation": "SNS",
       "englishName": "Slovak National Party",
       "website": "https://www.sns.sk/",
-      "verified": "2026-09-18"
+      "verified": "2026-09-18",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q221480"
     }
   ]
 }

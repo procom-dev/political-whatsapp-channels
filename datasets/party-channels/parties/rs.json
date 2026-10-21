@@ -16,7 +16,155 @@
       "abbreviation": "Dveri",
       "englishName": "Serbian Movement Dveri",
       "website": "https://dveri.rs/",
-      "verified": "2026-09-18"
+      "verified": "2026-09-18",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q4155724"
+    },
+    {
+      "id": "rs-ekoloski-ustanak",
+      "name": "Ekološki ustanak",
+      "englishName": "Ecological Uprising",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-js",
+      "name": "Jedinstvena Srbija",
+      "abbreviation": "JS",
+      "englishName": "United Serbia",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q1559559",
+      "website": "https://www.jedinstvenasrbija.org.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-mi-gin",
+      "name": "Mi – Glas iz naroda",
+      "abbreviation": "MI–GIN",
+      "englishName": "We – Voice from the People",
+      "orientation": "right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Serbia",
+      "website": "https://miglasiznaroda.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-mi-sn",
+      "name": "Mi – Snaga naroda",
+      "abbreviation": "MI–SN",
+      "englishName": "We – Power of the People",
+      "orientation": "right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Serbia",
+      "website": "https://mi-snaganaroda.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-nls",
+      "name": "Novo lice Srbije",
+      "abbreviation": "NLS",
+      "englishName": "New Face of Serbia",
+      "orientation": "centre-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Serbia",
+      "website": "https://novolicesrbije.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-novi-dss",
+      "name": "Nova demokratska stranka Srbije",
+      "abbreviation": "Novi DSS",
+      "englishName": "New Democratic Party of Serbia",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q640380",
+      "website": "https://www.novidss.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-nps",
+      "name": "Narodni pokret Srbije",
+      "abbreviation": "NPS",
+      "englishName": "People's Movement of Serbia",
+      "orientation": "centre-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Serbia",
+      "website": "https://nps.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-poks",
+      "name": "Pokret obnove Kraljevine Srbije",
+      "abbreviation": "POKS",
+      "englishName": "Movement for the Restoration of the Kingdom of Serbia",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q48837949",
+      "website": "https://poks.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-ps",
+      "name": "Pokret socijalista",
+      "abbreviation": "PS",
+      "englishName": "Movement of Socialists",
+      "orientation": "centre-left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Serbia",
+      "website": "https://www.pokretsocijalista.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-psg",
+      "name": "Pokret slobodnih građana",
+      "abbreviation": "PSG",
+      "englishName": "Movement of Free Citizens",
+      "orientation": "centre",
+      "orientationSource": "https://www.wikidata.org/wiki/Q47463814",
+      "website": "https://pokretslobodnih.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-pups",
+      "name": "Partija ujedinjenih penzionera Srbije",
+      "abbreviation": "PUPS",
+      "englishName": "Party of United Pensioners of Serbia",
+      "website": "https://pups.org.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-pvd",
+      "name": "Partia për Veprim Demokratik",
+      "abbreviation": "PVD",
+      "englishName": "Party for Democratic Action",
+      "website": "https://www.pvd-pbm.org/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-radnicka-partija",
+      "name": "Radnička partija",
+      "englishName": "Workers' Party",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-ruska-stranka",
+      "name": "Ruska stranka",
+      "englishName": "Russian Party",
+      "orientation": "right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Serbia",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-sdas",
+      "name": "Stranka demokratske akcije Sandžaka",
+      "abbreviation": "SDA",
+      "englishName": "Party of Democratic Action of Sandžak",
+      "orientation": "right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Serbia",
+      "website": "https://sda.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-sdps",
+      "name": "Socijaldemokratska partija Srbije",
+      "abbreviation": "SDPS",
+      "englishName": "Social Democratic Party of Serbia",
+      "orientation": "centre-left",
+      "orientationSource": "https://www.wikidata.org/wiki/Q1273056",
+      "website": "https://sdpsrbije.org.rs/",
+      "verified": "2026-10-20"
     },
     {
       "id": "rs-sns",
@@ -32,7 +180,19 @@
       "abbreviation": "SPS",
       "englishName": "Socialist Party of Serbia",
       "website": "https://www.sps.org.rs/",
-      "verified": "2026-09-18"
+      "verified": "2026-09-18",
+      "orientation": "centre-left",
+      "orientationSource": "https://www.wikidata.org/wiki/Q752521"
+    },
+    {
+      "id": "rs-srce",
+      "name": "Srbija centar",
+      "abbreviation": "SRCE",
+      "englishName": "Serbia Centre",
+      "orientation": "centre",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Serbia",
+      "website": "https://srce-org.rs/",
+      "verified": "2026-10-20"
     },
     {
       "id": "rs-ssp",
@@ -49,7 +209,39 @@
       "abbreviation": "SVM",
       "englishName": "Alliance of Vojvodina Hungarians",
       "website": "https://www.vmsz.org.rs/",
-      "verified": "2026-09-18"
+      "verified": "2026-09-18",
+      "orientation": "centre-right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q1076922"
+    },
+    {
+      "id": "rs-uss",
+      "name": "Ujedinjena seljačka stranka",
+      "abbreviation": "USS",
+      "englishName": "United Peasant Party",
+      "orientation": "centre-right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q3366583",
+      "website": "https://www.ujedinjenaseljackastranka.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-zlf",
+      "name": "Zeleno-levi front",
+      "abbreviation": "ZLF",
+      "englishName": "Green–Left Front",
+      "orientation": "left",
+      "orientationSource": "https://www.wikidata.org/wiki/Q119249720",
+      "website": "https://zelenolevifront.rs/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "rs-zs",
+      "name": "Zdrava Srbija",
+      "abbreviation": "ZS",
+      "englishName": "Healthy Serbia",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q48741645",
+      "website": "https://zdravasrbija.org.rs/",
+      "verified": "2026-10-20"
     }
   ]
 }

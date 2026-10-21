@@ -280,6 +280,27 @@
       "verified": "2026-08-31"
     },
     {
+      "id": "es-frente-amplio",
+      "name": "Frente Amplio",
+      "englishName": "Broad Front",
+      "translations": {
+        "pt": "Frente Ampla",
+        "it": "Fronte Ampio",
+        "fr": "Front large",
+        "de": "Breite Front"
+      },
+      "orientation": "left",
+      "orientationSource": "https://www.democrata.es/politica/ampliacion-frente-amplio-elige-a-colau-para-liderar-el-29n-e-insta-a-podemos-a-sumarse-pese-a-su-pacto-con-erc/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb9LywUFcow8dwKxpd25",
+        "id": "0029Vb9LywUFcow8dwKxpd25",
+        "added": "2026-10-16",
+        "source": "https://whatsapp.com/channel/0029Vb9LywUFcow8dwKxpd25"
+      },
+      "verified": "2026-10-16"
+    },
+    {
       "id": "es-ga-bng",
       "name": "Bloque Nacionalista Galego",
       "abbreviation": "BNG",

@@ -6,13 +6,17 @@
       "name": "Demokrati",
       "englishName": "Democrats",
       "website": "https://www.demokrati.si/",
-      "verified": "2026-09-18"
+      "verified": "2026-09-18",
+      "orientation": "centre-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/Democrats_(Slovenia)"
     },
     {
       "id": "si-fokus",
       "name": "Fokus",
       "website": "https://fokus.center/",
-      "verified": "2026-09-18"
+      "verified": "2026-09-18",
+      "orientation": "centre-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/Focus_(Slovenia)"
     },
     {
       "id": "si-gs",
@@ -40,10 +44,20 @@
       "verified": "2026-09-18"
     },
     {
+      "id": "si-prerod",
+      "name": "Prerod – Stranka Vladimirja Prebiliča",
+      "englishName": "Rebirth",
+      "epGroup": "GREENS_EFA",
+      "website": "https://prerod.si/",
+      "verified": "2026-10-20"
+    },
+    {
       "id": "si-resni-ca",
       "name": "Resni.ca",
       "website": "https://resni.ca",
-      "verified": "2026-09-18"
+      "verified": "2026-09-18",
+      "orientation": "far-right",
+      "orientationSource": "https://en.wikipedia.org/wiki/Resni.ca"
     },
     {
       "id": "si-slovenska-demokratska-stranka",
@@ -68,6 +82,14 @@
       "europarty": "PES",
       "website": "https://www.socialnidemokrati.si/",
       "verified": "2026-09-18"
+    },
+    {
+      "id": "si-vesna",
+      "name": "Vesna – zelena stranka",
+      "englishName": "Vesna – Green Party",
+      "europarty": "EGP",
+      "website": "https://www.vesnazelenastranka.si/",
+      "verified": "2026-10-20"
     }
   ]
 }

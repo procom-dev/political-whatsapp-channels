@@ -1,0 +1,1095 @@
+{
+  "country": "IL",
+  "parties": [
+    {
+      "id": "il-agudat-yisrael",
+      "name": "אגודת ישראל",
+      "englishName": "Agudat Yisrael",
+      "orientation": "right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Israel",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-balad",
+      "name": "التجمع الوطني الديمقراطي",
+      "englishName": "Balad",
+      "orientation": "left",
+      "orientationSource": "https://en.wikipedia.org/wiki/Balad_(political_party)",
+      "website": "https://www.altajamoa.org/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-bennett-2026",
+      "name": "בנט 2026",
+      "englishName": "Bennett 2026",
+      "orientation": "centre",
+      "orientationSource": "https://www.wikidata.org/wiki/Q139250050",
+      "website": "https://bennett2026.org.il/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VajOGiwCHDyhLzHerf3W",
+        "id": "0029VajOGiwCHDyhLzHerf3W",
+        "added": "2026-10-20",
+        "source": "https://be-yahad.org.il/",
+        "personal": true
+      },
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-blue-and-white",
+      "name": "כחול לבן",
+      "englishName": "Blue and White",
+      "orientation": "centre",
+      "orientationSource": "https://www.wikidata.org/wiki/Q60198488",
+      "website": "https://kachollavan.org.il/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-ashdod-advancing",
+      "name": "אשדוד מתקדמת",
+      "englishName": "Ashdod Advancing",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-ashdod-on-the-move",
+      "name": "אשדוד בתנופה",
+      "englishName": "Ashdod on the Move",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-ashdod-together",
+      "name": "אשדוד ביחד",
+      "englishName": "Ashdod Together",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-ashdod-will-win",
+      "name": "אשדוד תנצח",
+      "englishName": "Ashdod Will Win",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-ashdodim",
+      "name": "אשדודים",
+      "englishName": "Ashdodim",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-ashdods-future",
+      "name": "עתיד אשדוד",
+      "englishName": "Ashdod's Future",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-new-way",
+      "name": "דרך חדשה",
+      "englishName": "New Way",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "parentId": "il-shas",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-torah-ashdod-degel-hatorah",
+      "name": "אשדוד התורנית – דגל התורה",
+      "englishName": "Torah Ashdod – Degel HaTorah",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "parentId": "il-degel-hatorah",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-united-torah-judaism",
+      "name": "יהדות התורה",
+      "englishName": "United Torah Judaism",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-voice-of-the-heart-new-horizon-otzma-yehudit",
+      "name": "קול הלב – אופק חדש – עוצמה יהודית",
+      "englishName": "Voice of the Heart–New Horizon–Otzma Yehudit",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "parentId": "il-otzma-yehudit",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-ashdod-we-have-no-other-ashdod",
+      "name": "אין לנו עוד אשדוד",
+      "englishName": "We Have No Other Ashdod",
+      "region": "IL-D",
+      "city": "Ashdod",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-beersheba-beersheba-our-home",
+      "name": "באר שבע ביתנו",
+      "englishName": "Beersheba Our Home",
+      "region": "IL-D",
+      "city": "Beersheba",
+      "parentId": "il-yisrael-beiteinu",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-beersheba-gesher",
+      "name": "גשר",
+      "englishName": "Gesher",
+      "region": "IL-D",
+      "city": "Beersheba",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-beersheba-kehila",
+      "name": "קהילה",
+      "englishName": "Kehila",
+      "region": "IL-D",
+      "city": "Beersheba",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-beersheba-likud",
+      "name": "הליכוד",
+      "englishName": "Likud",
+      "region": "IL-D",
+      "city": "Beersheba",
+      "parentId": "il-likud",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-beersheba-new-contract",
+      "name": "חוזה חדש",
+      "englishName": "New Contract",
+      "region": "IL-D",
+      "city": "Beersheba",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-beersheba-new-way",
+      "name": "דרך חדשה",
+      "englishName": "New Way",
+      "region": "IL-D",
+      "city": "Beersheba",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-beersheba-otzma-yehudit-and-religious-zionism",
+      "name": "עוצמה יהודית והציונות הדתית",
+      "englishName": "Otzma Yehudit and Religious Zionism",
+      "region": "IL-D",
+      "city": "Beersheba",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-d-beersheba-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "region": "IL-D",
+      "city": "Beersheba",
+      "parentId": "il-shas",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-degel-hatorah",
+      "name": "דגל התורה",
+      "englishName": "Degel HaTorah",
+      "orientation": "right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Israel",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-democrats",
+      "name": "הדמוקרטים",
+      "englishName": "The Democrats",
+      "orientation": "centre-left",
+      "orientationSource": "https://www.wikidata.org/wiki/Q126948059",
+      "website": "https://democrats.org.il/",
+      "verified": "2026-10-20",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/972526513603",
+        "id": "972526513603",
+        "added": "2026-10-20",
+        "source": "https://democrats.org.il/"
+      }
+    },
+    {
+      "id": "il-ha-haifa-connected-to-haifa-and-kiryat-haim",
+      "name": "מחוברים לחיפה ולקריית חיים",
+      "englishName": "Connected to Haifa and Kiryat Haim",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-degel-for-the-resident",
+      "name": "דגל לתושב",
+      "englishName": "Degel for the Resident",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-hadash-haifa",
+      "name": "חד״ש חיפה",
+      "englishName": "Hadash Haifa",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "parentId": "il-hadash",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-haifa-our-home",
+      "name": "חיפה ביתנו",
+      "englishName": "Haifa Our Home",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "parentId": "il-yisrael-beiteinu",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-i-care-about-haifas-residents",
+      "name": "אכפת לי מתושבי חיפה",
+      "englishName": "I Care About Haifa's Residents",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-i-live-here",
+      "name": "אני חי פה",
+      "englishName": "I Live Here",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-likud",
+      "name": "הליכוד",
+      "englishName": "Likud",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "parentId": "il-likud",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-new-contract",
+      "name": "חוזה חדש",
+      "englishName": "New Contract",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-our-haifa",
+      "name": "חיפה שלנו",
+      "englishName": "Our Haifa",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-our-home",
+      "name": "הבית שלנו",
+      "englishName": "Our Home",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-pensioners-lobby",
+      "name": "שדולת הגמלאים",
+      "englishName": "Pensioners' Lobby",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-religious-zionist-unity",
+      "name": "אחדות הציונות הדתית",
+      "englishName": "Religious Zionist Unity",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-rov-hair",
+      "name": "רוב העיר",
+      "englishName": "Rov HaIr",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "parentId": "il-shas",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-tajamu-haifa-balad",
+      "name": "תג׳מוע חיפה – בל״ד",
+      "englishName": "Tajamu Haifa – Balad",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "parentId": "il-balad",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-the-greens-blue-and-white",
+      "name": "הירוקים כחול לבן",
+      "englishName": "The Greens–Blue and White",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-united-agudat-yisrael",
+      "name": "אגודת ישראל המאוחדת",
+      "englishName": "United Agudat Yisrael",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "parentId": "il-agudat-yisrael",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ha-haifa-yesh-atid-and-haifa-youth",
+      "name": "יש עתיד וצעירי חיפה",
+      "englishName": "Yesh Atid and Haifa Youth",
+      "region": "IL-HA",
+      "city": "Haifa",
+      "parentId": "il-yesh-atid",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-hadash",
+      "name": "חד״ש",
+      "englishName": "Hadash",
+      "orientation": "left",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Israel",
+      "website": "https://hadash.org.il/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-jm-jerusalem-agudat-yisrael",
+      "name": "אגודת ישראל",
+      "englishName": "Agudat Yisrael",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "parentId": "il-agudat-yisrael",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-jm-jerusalem-bnei-torah",
+      "name": "בני תורה",
+      "englishName": "Bnei Torah",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-jm-jerusalem-degel-hatorah",
+      "name": "דגל התורה",
+      "englishName": "Degel HaTorah",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "parentId": "il-degel-hatorah",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-jm-jerusalem-hitorerut-in-jerusalem",
+      "name": "התעוררות בירושלים",
+      "englishName": "Hitorerut in Jerusalem",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "verified": "2026-10-20",
+      "website": "https://in-jerusalem.org/"
+    },
+    {
+      "id": "il-jm-jerusalem-jerusalem-in-noam",
+      "name": "ירושלים בנעם",
+      "englishName": "Jerusalem in Noam",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "parentId": "il-noam",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-jm-jerusalem-jerusalem-union",
+      "name": "האיחוד הירושלמי",
+      "englishName": "Jerusalem Union",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-jm-jerusalem-likud",
+      "name": "הליכוד",
+      "englishName": "Likud",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "parentId": "il-likud",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-jm-jerusalem-national-religious-party-religious-zionism",
+      "name": "מפד״ל – הציונות הדתית",
+      "englishName": "National Religious Party–Religious Zionism",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "parentId": "il-religious-zionism",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-jm-jerusalem-one-jerusalem",
+      "name": "ירושלים אחת",
+      "englishName": "One Jerusalem",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-jm-jerusalem-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "parentId": "il-shas",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-jm-jerusalem-united-with-aryeh-king",
+      "name": "מאוחדים עם אריה קינג",
+      "englishName": "United with Aryeh King",
+      "region": "IL-JM",
+      "city": "Jerusalem",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-likud",
+      "name": "הליכוד",
+      "englishName": "Likud",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q187009",
+      "website": "https://www.likud.org.il/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-ahavat-yisrael",
+      "name": "אהבת ישראל",
+      "englishName": "Ahavat Yisrael",
+      "region": "IL-M",
+      "city": "Netanya",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-for-education-health-and-welfare",
+      "name": "לקידום חינוך בריאות ורווחה",
+      "englishName": "For Education, Health and Welfare",
+      "region": "IL-M",
+      "city": "Netanya",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-likud",
+      "name": "הליכוד",
+      "englishName": "Likud",
+      "region": "IL-M",
+      "city": "Netanya",
+      "parentId": "il-likud",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-national-unity",
+      "name": "המחנה הממלכתי",
+      "englishName": "National Unity",
+      "region": "IL-M",
+      "city": "Netanya",
+      "parentId": "il-blue-and-white",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-netanya-our-home",
+      "name": "נתניה ביתנו",
+      "englishName": "Netanya Our Home",
+      "region": "IL-M",
+      "city": "Netanya",
+      "parentId": "il-yisrael-beiteinu",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-new-pulse",
+      "name": "פעימה חדשה",
+      "englishName": "New Pulse",
+      "region": "IL-M",
+      "city": "Netanya",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-new-way",
+      "name": "דרך חדשה",
+      "englishName": "New Way",
+      "region": "IL-M",
+      "city": "Netanya",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-one-netanya",
+      "name": "נתניה אחת",
+      "englishName": "One Netanya",
+      "region": "IL-M",
+      "city": "Netanya",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-otzma-yehudit",
+      "name": "עוצמה יהודית",
+      "englishName": "Otzma Yehudit",
+      "region": "IL-M",
+      "city": "Netanya",
+      "parentId": "il-otzma-yehudit",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-outside-the-box",
+      "name": "מחוץ לקופסא",
+      "englishName": "Outside the Box",
+      "region": "IL-M",
+      "city": "Netanya",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-religious-zionist-rainbow",
+      "name": "קשת הציונות הדתית",
+      "englishName": "Religious Zionist Rainbow",
+      "region": "IL-M",
+      "city": "Netanya",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "region": "IL-M",
+      "city": "Netanya",
+      "parentId": "il-shas",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-netanya-yesh-atid",
+      "name": "יש עתיד",
+      "englishName": "Yesh Atid",
+      "region": "IL-M",
+      "city": "Netanya",
+      "parentId": "il-yesh-atid",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-petah-tikva-committed",
+      "name": "מחויבים",
+      "englishName": "Committed",
+      "region": "IL-M",
+      "city": "Petah Tikva",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-petah-tikva-emet-democratic-camp",
+      "name": "אמת – המחנה הדמוקרטי",
+      "englishName": "Emet – Democratic Camp",
+      "region": "IL-M",
+      "city": "Petah Tikva",
+      "parentId": "il-democrats",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-petah-tikva-petah-tikva-our-home",
+      "name": "פתח תקווה ביתנו",
+      "englishName": "Petah Tikva Our Home",
+      "region": "IL-M",
+      "city": "Petah Tikva",
+      "parentId": "il-yisrael-beiteinu",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-petah-tikva-religious-zionism",
+      "name": "הציונות הדתית",
+      "englishName": "Religious Zionism",
+      "region": "IL-M",
+      "city": "Petah Tikva",
+      "parentId": "il-religious-zionism",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-petah-tikva-renewal",
+      "name": "התחדשות",
+      "englishName": "Renewal",
+      "region": "IL-M",
+      "city": "Petah Tikva",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-petah-tikva-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "region": "IL-M",
+      "city": "Petah Tikva",
+      "parentId": "il-shas",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-petah-tikva-united-torah-judaism",
+      "name": "יהדות התורה",
+      "englishName": "United Torah Judaism",
+      "region": "IL-M",
+      "city": "Petah Tikva",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-petah-tikva-yesh-atid",
+      "name": "יש עתיד",
+      "englishName": "Yesh Atid",
+      "region": "IL-M",
+      "city": "Petah Tikva",
+      "parentId": "il-yesh-atid",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-rishon-lezion-green-meretz",
+      "name": "מרצ הירוקה",
+      "englishName": "Green Meretz",
+      "region": "IL-M",
+      "city": "Rishon LeZion",
+      "parentId": "il-democrats",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-rishon-lezion-likud",
+      "name": "הליכוד",
+      "englishName": "Likud",
+      "region": "IL-M",
+      "city": "Rishon LeZion",
+      "parentId": "il-likud",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-rishon-lezion-only-together",
+      "name": "רק ביחד",
+      "englishName": "Only Together",
+      "region": "IL-M",
+      "city": "Rishon LeZion",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-rishon-lezion-paz",
+      "name": "פז",
+      "englishName": "Paz",
+      "region": "IL-M",
+      "city": "Rishon LeZion",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-rishon-lezion-rishon-our-home",
+      "name": "ראשון ביתנו",
+      "englishName": "Rishon Our Home",
+      "region": "IL-M",
+      "city": "Rishon LeZion",
+      "parentId": "il-yisrael-beiteinu",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-rishon-lezion-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "region": "IL-M",
+      "city": "Rishon LeZion",
+      "parentId": "il-shas",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-m-rishon-lezion-yesh-atid-and-rishon-lezion-youth",
+      "name": "יש עתיד וצעירי ראשון לציון",
+      "englishName": "Yesh Atid and Rishon LeZion Youth",
+      "region": "IL-M",
+      "city": "Rishon LeZion",
+      "parentId": "il-yesh-atid",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-new-hope",
+      "name": "תקווה חדשה",
+      "englishName": "New Hope",
+      "orientation": "centre-right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q104073895",
+      "website": "https://www.newhope.org.il/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-noam",
+      "name": "נעם",
+      "englishName": "Noam",
+      "orientation": "far-right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q65553954",
+      "website": "https://www.noamlisrael.org.il/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-otzma-yehudit",
+      "name": "עוצמה יהודית",
+      "englishName": "Otzma Yehudit",
+      "orientation": "far-right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q46559",
+      "website": "https://www.ozma-yeudit.co.il/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-raam",
+      "name": "القائمة العربية الموحدة",
+      "englishName": "United Arab List (Ra'am)",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-religious-zionism",
+      "name": "הציונות הדתית",
+      "englishName": "Religious Zionist Party",
+      "orientation": "right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q121167164",
+      "website": "https://zionutdatit.org.il/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-reservists",
+      "name": "המילואימניקים",
+      "englishName": "The Reservists",
+      "orientation": "centre",
+      "orientationSource": "https://www.wikidata.org/wiki/Q136333970",
+      "website": "https://www.themiluimnikim.org.il/",
+      "verified": "2026-10-20",
+      "other": {
+        "kind": "group",
+        "url": "https://chat.whatsapp.com/GCRy5SkeIlK9TDc6cc5rVi",
+        "id": "GCRy5SkeIlK9TDc6cc5rVi",
+        "added": "2026-10-20",
+        "source": "https://www.themiluimnikim.org.il/"
+      }
+    },
+    {
+      "id": "il-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "orientation": "right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Israel",
+      "website": "https://shas.org.il/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-bnei-brak-agudat-yisrael",
+      "name": "אגודת ישראל",
+      "englishName": "Agudat Yisrael",
+      "region": "IL-TA",
+      "city": "Bnei Brak",
+      "parentId": "il-agudat-yisrael",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-bnei-brak-bnei-torah",
+      "name": "בני תורה",
+      "englishName": "Bnei Torah",
+      "region": "IL-TA",
+      "city": "Bnei Brak",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-bnei-brak-degel-hatorah",
+      "name": "דגל התורה",
+      "englishName": "Degel HaTorah",
+      "region": "IL-TA",
+      "city": "Bnei Brak",
+      "parentId": "il-degel-hatorah",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-bnei-brak-for-the-citys-good",
+      "name": "טובת העיר",
+      "englishName": "For the City's Good",
+      "region": "IL-TA",
+      "city": "Bnei Brak",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-bnei-brak-likud",
+      "name": "הליכוד",
+      "englishName": "Likud",
+      "region": "IL-TA",
+      "city": "Bnei Brak",
+      "parentId": "il-likud",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-bnei-brak-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "region": "IL-TA",
+      "city": "Bnei Brak",
+      "parentId": "il-shas",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-holon-good-for-holon",
+      "name": "טוב לחולון",
+      "englishName": "Good for Holon",
+      "region": "IL-TA",
+      "city": "Holon",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-holon-holon-renewing",
+      "name": "חולון מתחדשת",
+      "englishName": "Holon Renewing",
+      "region": "IL-TA",
+      "city": "Holon",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-holon-labor",
+      "name": "העבודה",
+      "englishName": "Labor",
+      "region": "IL-TA",
+      "city": "Holon",
+      "parentId": "il-democrats",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-holon-likud",
+      "name": "הליכוד",
+      "englishName": "Likud",
+      "region": "IL-TA",
+      "city": "Holon",
+      "parentId": "il-likud",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-holon-new-contract",
+      "name": "חוזה חדש",
+      "englishName": "New Contract",
+      "region": "IL-TA",
+      "city": "Holon",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-holon-new-hope",
+      "name": "תקווה חדשה",
+      "englishName": "New Hope",
+      "region": "IL-TA",
+      "city": "Holon",
+      "parentId": "il-new-hope",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-holon-religious-zionism",
+      "name": "הציונות הדתית",
+      "englishName": "Religious Zionism",
+      "region": "IL-TA",
+      "city": "Holon",
+      "parentId": "il-religious-zionism",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-holon-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "region": "IL-TA",
+      "city": "Holon",
+      "parentId": "il-shas",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-holon-together-building-a-safe-and-smart-city",
+      "name": "יחד בונים עיר בטוחה וחכמה",
+      "englishName": "Together Building a Safe and Smart City",
+      "region": "IL-TA",
+      "city": "Holon",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-holon-young-plus",
+      "name": "צעירים פלוס",
+      "englishName": "Young Plus",
+      "region": "IL-TA",
+      "city": "Holon",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-believing-in-tel-aviv",
+      "name": "מאמינים בתל אביב",
+      "englishName": "Believing in Tel Aviv",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-chai-green-seculars",
+      "name": "חי – חילונים ירוקים",
+      "englishName": "Chai – Green Seculars",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-likud-otzma-yehudit",
+      "name": "הליכוד – עוצמה יהודית",
+      "englishName": "Likud–Otzma Yehudit",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "parentId": "il-likud",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-meretz-tel-aviv-yafo",
+      "name": "מרצ תל אביב-יפו – חוזה חדש – ירוקים במרכז",
+      "englishName": "Meretz Tel Aviv-Yafo",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "parentId": "il-democrats",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-new-hope",
+      "name": "תקווה חדשה",
+      "englishName": "New Hope",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "parentId": "il-new-hope",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-one-tel-aviv",
+      "name": "תל אביב אחת",
+      "englishName": "One Tel Aviv",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-power-to-the-pensioners",
+      "name": "כ״ח לגמלאים",
+      "englishName": "Power to the Pensioners",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-shas",
+      "name": "ש״ס",
+      "englishName": "Shas",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "parentId": "il-shas",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-the-young-faction",
+      "name": "סיעת הצעירים",
+      "englishName": "The Young Faction",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-we-are-all-the-city",
+      "name": "כולנו העיר",
+      "englishName": "We Are All the City",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-ta-tel-aviv-yafo-yesh-atid-and-the-tel-avivians",
+      "name": "יש עתיד והתל אביבים",
+      "englishName": "Yesh Atid and the Tel Avivians",
+      "region": "IL-TA",
+      "city": "Tel Aviv-Yafo",
+      "parentId": "il-yesh-atid",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-taal",
+      "name": "الحركة العربية للتغيير",
+      "englishName": "Ta'al",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-yashar",
+      "name": "ישר!",
+      "englishName": "Yashar",
+      "orientation": "centre",
+      "orientationSource": "https://www.wikidata.org/wiki/Q136306684",
+      "website": "https://yasharwitheisenkot.com/",
+      "verified": "2026-10-20"
+    },
+    {
+      "id": "il-yesh-atid",
+      "name": "יש עתיד",
+      "englishName": "Yesh Atid",
+      "orientation": "centre",
+      "orientationSource": "https://www.wikidata.org/wiki/Q622716",
+      "website": "https://www.yeshatid.org.il/",
+      "verified": "2026-10-20",
+      "other": {
+        "kind": "group",
+        "url": "https://chat.whatsapp.com/HqwjwCbOZCsIoeP2I9ES8I",
+        "id": "HqwjwCbOZCsIoeP2I9ES8I",
+        "added": "2026-10-20",
+        "source": "https://www.yeshatid.org.il/"
+      }
+    },
+    {
+      "id": "il-yisrael-beiteinu",
+      "name": "ישראל ביתנו",
+      "englishName": "Yisrael Beiteinu",
+      "orientation": "centre-right",
+      "orientationSource": "https://www.wikidata.org/wiki/Q514442",
+      "website": "https://beytenu.org.il/",
+      "verified": "2026-10-20",
+      "other": {
+        "kind": "group",
+        "url": "https://chat.whatsapp.com/JvrW6fLKjFMCtAs3MmkzqW",
+        "id": "JvrW6fLKjFMCtAs3MmkzqW",
+        "added": "2026-10-20",
+        "source": "https://beytenu.org.il/newsletter-2-2-2/"
+      }
+    },
+    {
+      "id": "il-zehut",
+      "name": "זהות",
+      "englishName": "Zehut",
+      "orientation": "right",
+      "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Israel",
+      "website": "https://zehut.org.il/",
+      "verified": "2026-10-20"
+    }
+  ]
+}

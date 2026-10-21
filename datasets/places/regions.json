@@ -1,8 +1,9 @@
 {
-  "generated": "2026-09-28",
+  "generated": "2026-10-20",
   "continents": [
     "EU",
-    "SA"
+    "SA",
+    "AS"
   ],
   "source": "https://github.com/dr5hn/countries-states-cities-database",
   "note": "ISO 3166-1 alpha-2 and ISO 3166-2 codes. Regenerate with `npm run places:build`.",
@@ -55,6 +56,334 @@
       "name": "Escaldes-Engordany",
       "slug": "escaldes-engordany",
       "type": "parish"
+    },
+    {
+      "code": "AE-AJ",
+      "country": "AE",
+      "name": "Ajman",
+      "native": "عجمان",
+      "slug": "ajman",
+      "type": "emirate"
+    },
+    {
+      "code": "AE-AZ",
+      "country": "AE",
+      "name": "Abu Dhabi",
+      "native": "أبو ظبي",
+      "slug": "abu-dhabi",
+      "type": "emirate"
+    },
+    {
+      "code": "AE-DU",
+      "country": "AE",
+      "name": "Dubai",
+      "native": "دبي",
+      "slug": "dubai",
+      "type": "emirate"
+    },
+    {
+      "code": "AE-FU",
+      "country": "AE",
+      "name": "Fujairah",
+      "native": "فجيرة",
+      "slug": "fujairah",
+      "type": "emirate"
+    },
+    {
+      "code": "AE-RK",
+      "country": "AE",
+      "name": "Ras Al Khaimah",
+      "native": "رأس الخيمة",
+      "slug": "ras-al-khaimah",
+      "type": "emirate"
+    },
+    {
+      "code": "AE-SH",
+      "country": "AE",
+      "name": "Sharjah",
+      "native": "الشارقة",
+      "slug": "sharjah",
+      "type": "emirate"
+    },
+    {
+      "code": "AE-UQ",
+      "country": "AE",
+      "name": "Umm Al Quwain",
+      "native": "أم القوي",
+      "slug": "umm-al-quwain",
+      "type": "emirate"
+    },
+    {
+      "code": "AF-BAL",
+      "country": "AF",
+      "name": "Balkh",
+      "native": "بلخ",
+      "slug": "balkh",
+      "type": "province"
+    },
+    {
+      "code": "AF-BAM",
+      "country": "AF",
+      "name": "Bamyan",
+      "native": "بامیان",
+      "slug": "bamyan",
+      "type": "province"
+    },
+    {
+      "code": "AF-BDG",
+      "country": "AF",
+      "name": "Badghis",
+      "native": "بادغیس",
+      "slug": "badghis",
+      "type": "province"
+    },
+    {
+      "code": "AF-BDS",
+      "country": "AF",
+      "name": "Badakhshan",
+      "native": "بدخشان",
+      "slug": "badakhshan",
+      "type": "province"
+    },
+    {
+      "code": "AF-BGL",
+      "country": "AF",
+      "name": "Baghlan",
+      "native": "بغلان",
+      "slug": "baghlan",
+      "type": "province"
+    },
+    {
+      "code": "AF-DAY",
+      "country": "AF",
+      "name": "Daykundi",
+      "native": "دیوکونډي",
+      "slug": "daykundi",
+      "type": "province"
+    },
+    {
+      "code": "AF-FRA",
+      "country": "AF",
+      "name": "Farah",
+      "native": "فراه",
+      "slug": "farah",
+      "type": "province"
+    },
+    {
+      "code": "AF-FYB",
+      "country": "AF",
+      "name": "Faryab",
+      "native": "د فارماب",
+      "slug": "faryab",
+      "type": "province"
+    },
+    {
+      "code": "AF-GHA",
+      "country": "AF",
+      "name": "Ghazni",
+      "native": "غزني",
+      "slug": "ghazni",
+      "type": "province"
+    },
+    {
+      "code": "AF-GHO",
+      "country": "AF",
+      "name": "Ghōr",
+      "native": "جور",
+      "slug": "ghor",
+      "type": "province"
+    },
+    {
+      "code": "AF-HEL",
+      "country": "AF",
+      "name": "Helmand",
+      "native": "هلمند",
+      "slug": "helmand",
+      "type": "province"
+    },
+    {
+      "code": "AF-HER",
+      "country": "AF",
+      "name": "Herat",
+      "native": "هرات",
+      "slug": "herat",
+      "type": "province"
+    },
+    {
+      "code": "AF-JOW",
+      "country": "AF",
+      "name": "Jowzjan",
+      "native": "جوزجان",
+      "slug": "jowzjan",
+      "type": "province"
+    },
+    {
+      "code": "AF-KAB",
+      "country": "AF",
+      "name": "Kabul",
+      "native": "کابل",
+      "slug": "kabul",
+      "type": "province"
+    },
+    {
+      "code": "AF-KAN",
+      "country": "AF",
+      "name": "Kandahar",
+      "native": "کندهار",
+      "slug": "kandahar",
+      "type": "province"
+    },
+    {
+      "code": "AF-KAP",
+      "country": "AF",
+      "name": "Kapisa",
+      "native": "کیپټن",
+      "slug": "kapisa",
+      "type": "province"
+    },
+    {
+      "code": "AF-KDZ",
+      "country": "AF",
+      "name": "Kunduz Province",
+      "native": "کندز ولایت",
+      "slug": "kunduz-province",
+      "type": "province"
+    },
+    {
+      "code": "AF-KHO",
+      "country": "AF",
+      "name": "Khost",
+      "native": "خوست",
+      "slug": "khost",
+      "type": "province"
+    },
+    {
+      "code": "AF-KNR",
+      "country": "AF",
+      "name": "Kunar",
+      "native": "دری برابره",
+      "slug": "kunar",
+      "type": "province"
+    },
+    {
+      "code": "AF-LAG",
+      "country": "AF",
+      "name": "Laghman",
+      "native": "لغمان",
+      "slug": "laghman",
+      "type": "province"
+    },
+    {
+      "code": "AF-LOG",
+      "country": "AF",
+      "name": "Logar",
+      "native": "لوګر",
+      "slug": "logar",
+      "type": "province"
+    },
+    {
+      "code": "AF-NAN",
+      "country": "AF",
+      "name": "Nangarhar",
+      "native": "ننګرهار",
+      "slug": "nangarhar",
+      "type": "province"
+    },
+    {
+      "code": "AF-NIM",
+      "country": "AF",
+      "name": "Nimruz",
+      "native": "نیمروز",
+      "slug": "nimruz",
+      "type": "province"
+    },
+    {
+      "code": "AF-NUR",
+      "country": "AF",
+      "name": "Nuristan",
+      "native": "نورستان",
+      "slug": "nuristan",
+      "type": "province"
+    },
+    {
+      "code": "AF-PAN",
+      "country": "AF",
+      "name": "Panjshir",
+      "native": "پنجشیر",
+      "slug": "panjshir",
+      "type": "province"
+    },
+    {
+      "code": "AF-PAR",
+      "country": "AF",
+      "name": "Parwan",
+      "native": "ایوان",
+      "slug": "parwan",
+      "type": "province"
+    },
+    {
+      "code": "AF-PIA",
+      "country": "AF",
+      "name": "Paktia",
+      "native": "بسته",
+      "slug": "paktia",
+      "type": "province"
+    },
+    {
+      "code": "AF-PKA",
+      "country": "AF",
+      "name": "Paktika",
+      "native": "بسته",
+      "slug": "paktika",
+      "type": "province"
+    },
+    {
+      "code": "AF-SAM",
+      "country": "AF",
+      "name": "Samangan",
+      "native": "خدايه",
+      "slug": "samangan",
+      "type": "province"
+    },
+    {
+      "code": "AF-SAR",
+      "country": "AF",
+      "name": "Sar-e Pol",
+      "native": "سرپل پول",
+      "slug": "sar-e-pol",
+      "type": "province"
+    },
+    {
+      "code": "AF-TAK",
+      "country": "AF",
+      "name": "Takhar",
+      "native": "تخار",
+      "slug": "takhar",
+      "type": "province"
+    },
+    {
+      "code": "AF-URU",
+      "country": "AF",
+      "name": "Urozgan",
+      "native": "ارزګان",
+      "slug": "urozgan",
+      "type": "province"
+    },
+    {
+      "code": "AF-WAR",
+      "country": "AF",
+      "name": "Wardak",
+      "native": "میدان وردک",
+      "slug": "wardak",
+      "type": "province"
+    },
+    {
+      "code": "AF-ZAB",
+      "country": "AF",
+      "name": "Zabul",
+      "native": "زابل",
+      "slug": "zabul",
+      "type": "province"
     },
     {
       "code": "AL-01",
@@ -142,6 +471,92 @@
       "name": "Vlorë",
       "slug": "vlore",
       "type": "county"
+    },
+    {
+      "code": "AM-AG",
+      "country": "AM",
+      "name": "Aragatsotn",
+      "native": "Արագածոտն",
+      "slug": "aragatsotn",
+      "type": "region"
+    },
+    {
+      "code": "AM-AR",
+      "country": "AM",
+      "name": "Ararat",
+      "native": "Արարատ",
+      "slug": "ararat",
+      "type": "region"
+    },
+    {
+      "code": "AM-AV",
+      "country": "AM",
+      "name": "Armavir",
+      "slug": "armavir",
+      "type": "region"
+    },
+    {
+      "code": "AM-ER",
+      "country": "AM",
+      "name": "Yerevan",
+      "slug": "yerevan",
+      "type": "city"
+    },
+    {
+      "code": "AM-GR",
+      "country": "AM",
+      "name": "Gegharkunik",
+      "native": "Գեղարքունիք",
+      "slug": "gegharkunik",
+      "type": "region"
+    },
+    {
+      "code": "AM-KT",
+      "country": "AM",
+      "name": "Kotayk",
+      "native": "Կոտայք",
+      "slug": "kotayk",
+      "type": "region"
+    },
+    {
+      "code": "AM-LO",
+      "country": "AM",
+      "name": "Lori",
+      "native": "Լոռի",
+      "slug": "lori",
+      "type": "region"
+    },
+    {
+      "code": "AM-SH",
+      "country": "AM",
+      "name": "Shirak",
+      "native": "Շիրակ",
+      "slug": "shirak",
+      "type": "region"
+    },
+    {
+      "code": "AM-SU",
+      "country": "AM",
+      "name": "Syunik",
+      "native": "Սյուն",
+      "slug": "syunik",
+      "type": "region"
+    },
+    {
+      "code": "AM-TV",
+      "country": "AM",
+      "name": "Tavush",
+      "native": "Տավուշ",
+      "slug": "tavush",
+      "type": "region"
+    },
+    {
+      "code": "AM-VD",
+      "country": "AM",
+      "name": "Vayots Dzor",
+      "native": "Վայոց ձոր",
+      "slug": "vayots-dzor",
+      "type": "region"
     },
     {
       "code": "AR-A",
@@ -494,6 +909,595 @@
       "type": "municipality"
     },
     {
+      "code": "AZ-ABS",
+      "country": "AZ",
+      "name": "Absheron",
+      "native": "Abşeron",
+      "slug": "absheron",
+      "type": "district"
+    },
+    {
+      "code": "AZ-AGA",
+      "country": "AZ",
+      "name": "Agstafa",
+      "native": "Göt",
+      "slug": "agstafa",
+      "type": "district"
+    },
+    {
+      "code": "AZ-AGC",
+      "country": "AZ",
+      "name": "Aghjabadi",
+      "native": "İngrabədi",
+      "slug": "aghjabadi",
+      "type": "district"
+    },
+    {
+      "code": "AZ-AGM",
+      "country": "AZ",
+      "name": "Agdam",
+      "slug": "agdam",
+      "type": "district"
+    },
+    {
+      "code": "AZ-AGS",
+      "country": "AZ",
+      "name": "Agdash",
+      "native": "Ağdaş",
+      "slug": "agdash",
+      "type": "district"
+    },
+    {
+      "code": "AZ-AGU",
+      "country": "AZ",
+      "name": "Agsu",
+      "native": "Ağsu",
+      "slug": "agsu",
+      "type": "district"
+    },
+    {
+      "code": "AZ-AST",
+      "country": "AZ",
+      "name": "Astara",
+      "slug": "astara",
+      "type": "district"
+    },
+    {
+      "code": "AZ-BA",
+      "country": "AZ",
+      "name": "Baku",
+      "native": "Bakı",
+      "slug": "baku",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-BAB",
+      "country": "AZ",
+      "name": "Babek",
+      "slug": "babek",
+      "type": "district"
+    },
+    {
+      "code": "AZ-BAL",
+      "country": "AZ",
+      "name": "Balakan",
+      "native": "Balakən",
+      "slug": "balakan",
+      "type": "district"
+    },
+    {
+      "code": "AZ-BAR",
+      "country": "AZ",
+      "name": "Barda",
+      "native": "Çubuqda",
+      "slug": "barda",
+      "type": "district"
+    },
+    {
+      "code": "AZ-BEY",
+      "country": "AZ",
+      "name": "Beylagan",
+      "native": "Cavabdeh",
+      "slug": "beylagan",
+      "type": "district"
+    },
+    {
+      "code": "AZ-BIL",
+      "country": "AZ",
+      "name": "Bilasuvar",
+      "native": "Biləsuvar",
+      "slug": "bilasuvar",
+      "type": "district"
+    },
+    {
+      "code": "AZ-CAB",
+      "country": "AZ",
+      "name": "Jabrayil",
+      "native": "Jabbbas",
+      "slug": "jabrayil",
+      "type": "district"
+    },
+    {
+      "code": "AZ-CAL",
+      "country": "AZ",
+      "name": "Jalilabad",
+      "native": "Cəlilabad",
+      "slug": "jalilabad",
+      "type": "district"
+    },
+    {
+      "code": "AZ-CUL",
+      "country": "AZ",
+      "name": "Julfa",
+      "native": "Ciyərli",
+      "slug": "julfa",
+      "type": "district"
+    },
+    {
+      "code": "AZ-DAS",
+      "country": "AZ",
+      "name": "Dashkasan",
+      "native": "Daşkasan",
+      "slug": "dashkasan",
+      "type": "district"
+    },
+    {
+      "code": "AZ-FUZ",
+      "country": "AZ",
+      "name": "Fizuli",
+      "slug": "fizuli",
+      "type": "district"
+    },
+    {
+      "code": "AZ-GA",
+      "country": "AZ",
+      "name": "Ganja",
+      "slug": "ganja",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-GAD",
+      "country": "AZ",
+      "name": "Gədəbəy",
+      "slug": "g-d-b-y",
+      "type": "district"
+    },
+    {
+      "code": "AZ-GOR",
+      "country": "AZ",
+      "name": "Goranboy",
+      "slug": "goranboy",
+      "type": "district"
+    },
+    {
+      "code": "AZ-GOY",
+      "country": "AZ",
+      "name": "Goychay",
+      "native": "Qobud",
+      "slug": "goychay",
+      "type": "district"
+    },
+    {
+      "code": "AZ-GYG",
+      "country": "AZ",
+      "name": "Goygol",
+      "native": "Xas",
+      "slug": "goygol",
+      "type": "district"
+    },
+    {
+      "code": "AZ-HAC",
+      "country": "AZ",
+      "name": "Hajigabul",
+      "slug": "hajigabul",
+      "type": "district"
+    },
+    {
+      "code": "AZ-IMI",
+      "country": "AZ",
+      "name": "Imishli",
+      "slug": "imishli",
+      "type": "district"
+    },
+    {
+      "code": "AZ-ISM",
+      "country": "AZ",
+      "name": "Ismailli",
+      "native": "İsmayıllı",
+      "slug": "ismailli",
+      "type": "district"
+    },
+    {
+      "code": "AZ-KAL",
+      "country": "AZ",
+      "name": "Kalbajar",
+      "native": "Kalbəcər",
+      "slug": "kalbajar",
+      "type": "district"
+    },
+    {
+      "code": "AZ-KAN",
+      "country": "AZ",
+      "name": "Kangarli",
+      "slug": "kangarli",
+      "type": "district"
+    },
+    {
+      "code": "AZ-KUR",
+      "country": "AZ",
+      "name": "Kurdamir",
+      "slug": "kurdamir",
+      "type": "district"
+    },
+    {
+      "code": "AZ-LA",
+      "country": "AZ",
+      "name": "Lankaran",
+      "slug": "lankaran",
+      "type": "district"
+    },
+    {
+      "code": "AZ-LAC",
+      "country": "AZ",
+      "name": "Lachin",
+      "slug": "lachin",
+      "type": "district"
+    },
+    {
+      "code": "AZ-LAN",
+      "country": "AZ",
+      "name": "Lankaran",
+      "slug": "az-lan",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-LER",
+      "country": "AZ",
+      "name": "Lerik",
+      "slug": "lerik",
+      "type": "district"
+    },
+    {
+      "code": "AZ-MAS",
+      "country": "AZ",
+      "name": "Masally",
+      "native": "Masallı",
+      "slug": "masally",
+      "type": "district"
+    },
+    {
+      "code": "AZ-MI",
+      "country": "AZ",
+      "name": "Mingachevir",
+      "slug": "mingachevir",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-NA",
+      "country": "AZ",
+      "name": "Naftalan",
+      "slug": "naftalan",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-NEF",
+      "country": "AZ",
+      "name": "Neftchala",
+      "native": "Neftçala",
+      "slug": "neftchala",
+      "type": "district"
+    },
+    {
+      "code": "AZ-NV",
+      "country": "AZ",
+      "name": "Nakhchivan",
+      "native": "Naxçıvan",
+      "slug": "nakhchivan",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-NX",
+      "country": "AZ",
+      "name": "Nakhchivan",
+      "native": "Naxçıvan",
+      "slug": "az-nx",
+      "type": "autonomous republic"
+    },
+    {
+      "code": "AZ-OGU",
+      "country": "AZ",
+      "name": "Oghuz",
+      "native": "Ohz",
+      "slug": "oghuz",
+      "type": "district"
+    },
+    {
+      "code": "AZ-ORD",
+      "country": "AZ",
+      "name": "Ordubad",
+      "slug": "ordubad",
+      "type": "district"
+    },
+    {
+      "code": "AZ-QAB",
+      "country": "AZ",
+      "name": "Qabala",
+      "native": "Aparmaq",
+      "slug": "qabala",
+      "type": "district"
+    },
+    {
+      "code": "AZ-QAX",
+      "country": "AZ",
+      "name": "Qakh",
+      "native": "Qark",
+      "slug": "qakh",
+      "type": "district"
+    },
+    {
+      "code": "AZ-QAZ",
+      "country": "AZ",
+      "name": "Qazakh",
+      "slug": "qazakh",
+      "type": "district"
+    },
+    {
+      "code": "AZ-QBA",
+      "country": "AZ",
+      "name": "Quba",
+      "slug": "quba",
+      "type": "district"
+    },
+    {
+      "code": "AZ-QBI",
+      "country": "AZ",
+      "name": "Qubadli",
+      "slug": "qubadli",
+      "type": "district"
+    },
+    {
+      "code": "AZ-QOB",
+      "country": "AZ",
+      "name": "Gobustan",
+      "native": "Onlar idarə edirlər",
+      "slug": "gobustan",
+      "type": "district"
+    },
+    {
+      "code": "AZ-QUS",
+      "country": "AZ",
+      "name": "Qusar",
+      "slug": "qusar",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SA",
+      "country": "AZ",
+      "name": "Shaki",
+      "native": "Şübhə",
+      "slug": "shaki",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-SAB",
+      "country": "AZ",
+      "name": "Sabirabad",
+      "slug": "sabirabad",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SAD",
+      "country": "AZ",
+      "name": "Sadarak",
+      "native": "Sədərək",
+      "slug": "sadarak",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SAH",
+      "country": "AZ",
+      "name": "Shahbuz",
+      "native": "Şahbuz",
+      "slug": "shahbuz",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SAK",
+      "country": "AZ",
+      "name": "Shaki",
+      "native": "Şübhə",
+      "slug": "az-sak",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SAL",
+      "country": "AZ",
+      "name": "Salyan",
+      "slug": "salyan",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SAR",
+      "country": "AZ",
+      "name": "Sharur",
+      "slug": "sharur",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SAT",
+      "country": "AZ",
+      "name": "Saatly",
+      "slug": "saatly",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SBN",
+      "country": "AZ",
+      "name": "Shabran",
+      "native": "Şabran",
+      "slug": "shabran",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SIY",
+      "country": "AZ",
+      "name": "Siazan",
+      "slug": "siazan",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SKR",
+      "country": "AZ",
+      "name": "Shamkir",
+      "slug": "shamkir",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SM",
+      "country": "AZ",
+      "name": "Sumqayit",
+      "slug": "sumqayit",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-SMI",
+      "country": "AZ",
+      "name": "Shamakhi",
+      "native": "Şamakay",
+      "slug": "shamakhi",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SMX",
+      "country": "AZ",
+      "name": "Samukh",
+      "native": "Samux",
+      "slug": "samukh",
+      "type": "district"
+    },
+    {
+      "code": "AZ-SR",
+      "country": "AZ",
+      "name": "Shirvan",
+      "native": "Şirvan",
+      "slug": "shirvan",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-SUS",
+      "country": "AZ",
+      "name": "Shusha",
+      "slug": "shusha",
+      "type": "district"
+    },
+    {
+      "code": "AZ-TAR",
+      "country": "AZ",
+      "name": "Tartar",
+      "slug": "tartar",
+      "type": "district"
+    },
+    {
+      "code": "AZ-TOV",
+      "country": "AZ",
+      "name": "Tovuz",
+      "slug": "tovuz",
+      "type": "district"
+    },
+    {
+      "code": "AZ-UCA",
+      "country": "AZ",
+      "name": "Ujar",
+      "native": "Dedi-qodu",
+      "slug": "ujar",
+      "type": "district"
+    },
+    {
+      "code": "AZ-XA",
+      "country": "AZ",
+      "name": "Khankendi",
+      "native": "Xankəndi",
+      "slug": "khankendi",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-XAC",
+      "country": "AZ",
+      "name": "Khachmaz",
+      "native": "Xaçmaz",
+      "slug": "khachmaz",
+      "type": "district"
+    },
+    {
+      "code": "AZ-XCI",
+      "country": "AZ",
+      "name": "Khojali",
+      "native": "Xojali",
+      "slug": "khojali",
+      "type": "district"
+    },
+    {
+      "code": "AZ-XIZ",
+      "country": "AZ",
+      "name": "Khizi",
+      "native": "Xızı",
+      "slug": "khizi",
+      "type": "district"
+    },
+    {
+      "code": "AZ-XVD",
+      "country": "AZ",
+      "name": "Martuni",
+      "slug": "martuni",
+      "type": "district"
+    },
+    {
+      "code": "AZ-YAR",
+      "country": "AZ",
+      "name": "Yardymli",
+      "native": "Yarası",
+      "slug": "yardymli",
+      "type": "district"
+    },
+    {
+      "code": "AZ-YE",
+      "country": "AZ",
+      "name": "Yevlakh",
+      "slug": "yevlakh",
+      "type": "municipality"
+    },
+    {
+      "code": "AZ-YEV",
+      "country": "AZ",
+      "name": "Yevlakh",
+      "native": "Yevlax",
+      "slug": "az-yev",
+      "type": "district"
+    },
+    {
+      "code": "AZ-ZAN",
+      "country": "AZ",
+      "name": "Zangilan",
+      "native": "Düşərgə",
+      "slug": "zangilan",
+      "type": "district"
+    },
+    {
+      "code": "AZ-ZAQ",
+      "country": "AZ",
+      "name": "Zaqatala",
+      "slug": "zaqatala",
+      "type": "district"
+    },
+    {
+      "code": "AZ-ZAR",
+      "country": "AZ",
+      "name": "Zardab",
+      "native": "Qaxac etmək",
+      "slug": "zardab",
+      "type": "district"
+    },
+    {
       "code": "BA-BIH",
       "country": "BA",
       "name": "Federation of Bosnia and Herzegovina",
@@ -514,6 +1518,582 @@
       "name": "Republika Srpska",
       "slug": "republika-srpska",
       "type": "entity"
+    },
+    {
+      "code": "BD-01",
+      "country": "BD",
+      "name": "Bandarban",
+      "native": "বান্দরবান জেলা",
+      "slug": "bandarban",
+      "type": "district"
+    },
+    {
+      "code": "BD-02",
+      "country": "BD",
+      "name": "Barguna",
+      "native": "বরগুনা জেলা",
+      "slug": "barguna",
+      "type": "district"
+    },
+    {
+      "code": "BD-03",
+      "country": "BD",
+      "name": "Bogura",
+      "native": "বগুড়া জেলা",
+      "slug": "bogura",
+      "type": "district"
+    },
+    {
+      "code": "BD-04",
+      "country": "BD",
+      "name": "Brahmanbaria",
+      "native": "ব্রাহ্মণবাড়িয়া জেলা",
+      "slug": "brahmanbaria",
+      "type": "district"
+    },
+    {
+      "code": "BD-05",
+      "country": "BD",
+      "name": "Bagerhat",
+      "native": "বাগেরহাট জেলা",
+      "slug": "bagerhat",
+      "type": "district"
+    },
+    {
+      "code": "BD-06",
+      "country": "BD",
+      "name": "Barishal",
+      "native": "বরিশাল জেলা",
+      "slug": "barishal",
+      "type": "district"
+    },
+    {
+      "code": "BD-07",
+      "country": "BD",
+      "name": "Bhola",
+      "native": "ভোলা জেলা",
+      "slug": "bhola",
+      "type": "district"
+    },
+    {
+      "code": "BD-08",
+      "country": "BD",
+      "name": "Cumilla",
+      "native": "কুমিল্লা জেলা",
+      "slug": "cumilla",
+      "type": "district"
+    },
+    {
+      "code": "BD-09",
+      "country": "BD",
+      "name": "Chandpur",
+      "native": "চাঁদপুর জেলা",
+      "slug": "chandpur",
+      "type": "district"
+    },
+    {
+      "code": "BD-10",
+      "country": "BD",
+      "name": "Chattogram",
+      "native": "চট্টগ্রাম জেলা",
+      "slug": "chattogram",
+      "type": "district"
+    },
+    {
+      "code": "BD-11",
+      "country": "BD",
+      "name": "Cox's Bazar",
+      "native": "কক্সবাজার জেলা",
+      "slug": "cox-s-bazar",
+      "type": "district"
+    },
+    {
+      "code": "BD-12",
+      "country": "BD",
+      "name": "Chuadanga",
+      "native": "চুয়াডাঙ্গা জেলা",
+      "slug": "chuadanga",
+      "type": "district"
+    },
+    {
+      "code": "BD-13",
+      "country": "BD",
+      "name": "Dhaka",
+      "native": "ঢাকা জেলা",
+      "slug": "dhaka",
+      "type": "district"
+    },
+    {
+      "code": "BD-14",
+      "country": "BD",
+      "name": "Dinajpur",
+      "native": "দিনাজপুর জেলা",
+      "slug": "dinajpur",
+      "type": "district"
+    },
+    {
+      "code": "BD-15",
+      "country": "BD",
+      "name": "Faridpur",
+      "native": "ফরিদপুর জেলা",
+      "slug": "faridpur",
+      "type": "district"
+    },
+    {
+      "code": "BD-16",
+      "country": "BD",
+      "name": "Feni",
+      "native": "ফেনী জেলা",
+      "slug": "feni",
+      "type": "district"
+    },
+    {
+      "code": "BD-17",
+      "country": "BD",
+      "name": "Gopalganj",
+      "native": "গোপালগঞ্জ (দ্ব্যর্থতা নিরসন)",
+      "slug": "gopalganj",
+      "type": "district"
+    },
+    {
+      "code": "BD-18",
+      "country": "BD",
+      "name": "Gazipur",
+      "native": "গাজীপুর জেলা",
+      "slug": "gazipur",
+      "type": "district"
+    },
+    {
+      "code": "BD-19",
+      "country": "BD",
+      "name": "Gaibandha",
+      "native": "গাইবান্ধা জেলা",
+      "slug": "gaibandha",
+      "type": "district"
+    },
+    {
+      "code": "BD-20",
+      "country": "BD",
+      "name": "Habiganj",
+      "native": "হবিগঞ্জ জেলা",
+      "slug": "habiganj",
+      "type": "district"
+    },
+    {
+      "code": "BD-21",
+      "country": "BD",
+      "name": "Jamalpur",
+      "native": "জামালপুর জেলা",
+      "slug": "jamalpur",
+      "type": "district"
+    },
+    {
+      "code": "BD-22",
+      "country": "BD",
+      "name": "Jashore",
+      "native": "যশোর জেলা",
+      "slug": "jashore",
+      "type": "district"
+    },
+    {
+      "code": "BD-23",
+      "country": "BD",
+      "name": "Jhenaidah",
+      "native": "ঝিনাইদহ জেলা",
+      "slug": "jhenaidah",
+      "type": "district"
+    },
+    {
+      "code": "BD-24",
+      "country": "BD",
+      "name": "Joypurhat",
+      "native": "জয়পুরহাট জেলা",
+      "slug": "joypurhat",
+      "type": "district"
+    },
+    {
+      "code": "BD-25",
+      "country": "BD",
+      "name": "Jhalakathi",
+      "native": "ঝালকাঠি জেলা",
+      "slug": "jhalakathi",
+      "type": "district"
+    },
+    {
+      "code": "BD-26",
+      "country": "BD",
+      "name": "Kishoreganj",
+      "native": "কিশোরগঞ্জ জেলা",
+      "slug": "kishoreganj",
+      "type": "district"
+    },
+    {
+      "code": "BD-27",
+      "country": "BD",
+      "name": "Khulna",
+      "native": "খুলনা জেলা",
+      "slug": "khulna",
+      "type": "district"
+    },
+    {
+      "code": "BD-28",
+      "country": "BD",
+      "name": "Kurigram",
+      "native": "কুড়িগ্রাম জেলা",
+      "slug": "kurigram",
+      "type": "district"
+    },
+    {
+      "code": "BD-29",
+      "country": "BD",
+      "name": "Khagrachhari",
+      "native": "খাগড়াছড়ি জেলা",
+      "slug": "khagrachhari",
+      "type": "district"
+    },
+    {
+      "code": "BD-30",
+      "country": "BD",
+      "name": "Kushtia",
+      "native": "কুষ্টিয়া জেলা",
+      "slug": "kushtia",
+      "type": "district"
+    },
+    {
+      "code": "BD-31",
+      "country": "BD",
+      "name": "Lakshmipur",
+      "native": "লক্ষ্মীপুর জেলা",
+      "slug": "lakshmipur",
+      "type": "district"
+    },
+    {
+      "code": "BD-32",
+      "country": "BD",
+      "name": "Lalmonirhat",
+      "native": "লালমনিরহাট জেলা",
+      "slug": "lalmonirhat",
+      "type": "district"
+    },
+    {
+      "code": "BD-33",
+      "country": "BD",
+      "name": "Manikganj",
+      "native": "মানিকগঞ্জ জেলা",
+      "slug": "manikganj",
+      "type": "district"
+    },
+    {
+      "code": "BD-34",
+      "country": "BD",
+      "name": "Mymensingh",
+      "native": "ময়মনসিংহ জেলা",
+      "slug": "mymensingh",
+      "type": "district"
+    },
+    {
+      "code": "BD-35",
+      "country": "BD",
+      "name": "Munshiganj",
+      "native": "মুন্সীগঞ্জ জেলা",
+      "slug": "munshiganj",
+      "type": "district"
+    },
+    {
+      "code": "BD-36",
+      "country": "BD",
+      "name": "Madaripur",
+      "native": "মাদারীপুর জেলা",
+      "slug": "madaripur",
+      "type": "district"
+    },
+    {
+      "code": "BD-37",
+      "country": "BD",
+      "name": "Magura",
+      "native": "মাগুরা জেলা",
+      "slug": "magura",
+      "type": "district"
+    },
+    {
+      "code": "BD-38",
+      "country": "BD",
+      "name": "Moulvibazar",
+      "native": "মৌলভীবাজার জেলা",
+      "slug": "moulvibazar",
+      "type": "district"
+    },
+    {
+      "code": "BD-39",
+      "country": "BD",
+      "name": "Meherpur",
+      "native": "মেহেরপুর জেলা",
+      "slug": "meherpur",
+      "type": "district"
+    },
+    {
+      "code": "BD-40",
+      "country": "BD",
+      "name": "Narayanganj",
+      "native": "নারায়ণগঞ্জ জেলা",
+      "slug": "narayanganj",
+      "type": "district"
+    },
+    {
+      "code": "BD-41",
+      "country": "BD",
+      "name": "Netrakona",
+      "native": "নেত্রকোণা জেলা",
+      "slug": "netrakona",
+      "type": "district"
+    },
+    {
+      "code": "BD-42",
+      "country": "BD",
+      "name": "Narsingdi",
+      "native": "নরসিংদী জেলা",
+      "slug": "narsingdi",
+      "type": "district"
+    },
+    {
+      "code": "BD-43",
+      "country": "BD",
+      "name": "Narail",
+      "native": "নড়াইল জেলা",
+      "slug": "narail",
+      "type": "district"
+    },
+    {
+      "code": "BD-44",
+      "country": "BD",
+      "name": "Natore",
+      "native": "নাটোর জেলা",
+      "slug": "natore",
+      "type": "district"
+    },
+    {
+      "code": "BD-45",
+      "country": "BD",
+      "name": "Chapai Nawabganj",
+      "native": "চাঁপাইনবাবগঞ্জ জেলা",
+      "slug": "chapai-nawabganj",
+      "type": "district"
+    },
+    {
+      "code": "BD-46",
+      "country": "BD",
+      "name": "Nilphamari",
+      "native": "নীলফামারী জেলা",
+      "slug": "nilphamari",
+      "type": "district"
+    },
+    {
+      "code": "BD-47",
+      "country": "BD",
+      "name": "Noakhali",
+      "native": "নোয়াখালী জেলা",
+      "slug": "noakhali",
+      "type": "district"
+    },
+    {
+      "code": "BD-48",
+      "country": "BD",
+      "name": "Naogaon",
+      "native": "নওগাঁ জেলা",
+      "slug": "naogaon",
+      "type": "district"
+    },
+    {
+      "code": "BD-49",
+      "country": "BD",
+      "name": "Pabna",
+      "native": "পাবনা জেলা",
+      "slug": "pabna",
+      "type": "district"
+    },
+    {
+      "code": "BD-50",
+      "country": "BD",
+      "name": "Pirojpur",
+      "native": "পিরোজপুর জেলা",
+      "slug": "pirojpur",
+      "type": "district"
+    },
+    {
+      "code": "BD-51",
+      "country": "BD",
+      "name": "Patuakhali",
+      "native": "পটুয়াখালী জেলা",
+      "slug": "patuakhali",
+      "type": "district"
+    },
+    {
+      "code": "BD-52",
+      "country": "BD",
+      "name": "Panchagarh",
+      "native": "পঞ্চগড় জেলা",
+      "slug": "panchagarh",
+      "type": "district"
+    },
+    {
+      "code": "BD-53",
+      "country": "BD",
+      "name": "Rajbari",
+      "native": "রাজবাড়ী জেলা",
+      "slug": "rajbari",
+      "type": "district"
+    },
+    {
+      "code": "BD-54",
+      "country": "BD",
+      "name": "Rajshahi",
+      "native": "রাজশাহী জেলা",
+      "slug": "rajshahi",
+      "type": "district"
+    },
+    {
+      "code": "BD-55",
+      "country": "BD",
+      "name": "Rangpur",
+      "native": "রংপুর জেলা",
+      "slug": "rangpur",
+      "type": "district"
+    },
+    {
+      "code": "BD-56",
+      "country": "BD",
+      "name": "Rangamati",
+      "native": "রাঙ্গামাটি জেলা",
+      "slug": "rangamati",
+      "type": "district"
+    },
+    {
+      "code": "BD-57",
+      "country": "BD",
+      "name": "Sherpur",
+      "native": "শেরপুর জেলা",
+      "slug": "sherpur",
+      "type": "district"
+    },
+    {
+      "code": "BD-58",
+      "country": "BD",
+      "name": "Satkhira",
+      "native": "সাতক্ষীরা জেলা",
+      "slug": "satkhira",
+      "type": "district"
+    },
+    {
+      "code": "BD-59",
+      "country": "BD",
+      "name": "Sirajganj",
+      "native": "সিরাজগঞ্জ জেলা",
+      "slug": "sirajganj",
+      "type": "district"
+    },
+    {
+      "code": "BD-60",
+      "country": "BD",
+      "name": "Sylhet",
+      "native": "সিলেট জেলা",
+      "slug": "sylhet",
+      "type": "district"
+    },
+    {
+      "code": "BD-61",
+      "country": "BD",
+      "name": "Sunamganj",
+      "native": "সুনামগঞ্জ জেলা",
+      "slug": "sunamganj",
+      "type": "district"
+    },
+    {
+      "code": "BD-62",
+      "country": "BD",
+      "name": "Shariatpur",
+      "native": "শরীয়তপুর জেলা",
+      "slug": "shariatpur",
+      "type": "district"
+    },
+    {
+      "code": "BD-63",
+      "country": "BD",
+      "name": "Tangail",
+      "native": "টাঙ্গাইল জেলা",
+      "slug": "tangail",
+      "type": "district"
+    },
+    {
+      "code": "BD-64",
+      "country": "BD",
+      "name": "Thakurgaon",
+      "native": "ঠাকুরগাঁও জেলা",
+      "slug": "thakurgaon",
+      "type": "district"
+    },
+    {
+      "code": "BD-A",
+      "country": "BD",
+      "name": "Barisal",
+      "native": "বরিশাল",
+      "slug": "barisal",
+      "type": "division"
+    },
+    {
+      "code": "BD-B",
+      "country": "BD",
+      "name": "Chittagong",
+      "native": "চট্টগ্রাম",
+      "slug": "chittagong",
+      "type": "division"
+    },
+    {
+      "code": "BD-C",
+      "country": "BD",
+      "name": "Dhaka",
+      "native": "ঢাকা",
+      "slug": "bd-c",
+      "type": "division"
+    },
+    {
+      "code": "BD-D",
+      "country": "BD",
+      "name": "Khulna",
+      "native": "খুলনা",
+      "slug": "bd-d",
+      "type": "division"
+    },
+    {
+      "code": "BD-E",
+      "country": "BD",
+      "name": "Rajshahi",
+      "native": "রাজশাহী",
+      "slug": "bd-e",
+      "type": "division"
+    },
+    {
+      "code": "BD-F",
+      "country": "BD",
+      "name": "Rangpur",
+      "native": "রংপুর",
+      "slug": "bd-f",
+      "type": "division"
+    },
+    {
+      "code": "BD-G",
+      "country": "BD",
+      "name": "Sylhet",
+      "native": "সিলেট",
+      "slug": "bd-g",
+      "type": "division"
+    },
+    {
+      "code": "BD-H",
+      "country": "BD",
+      "name": "Mymensingh",
+      "native": "মাইমেনসিংহ",
+      "slug": "bd-h",
+      "type": "division"
     },
     {
       "code": "BE-BRU",
@@ -839,6 +2419,66 @@
       "type": "district"
     },
     {
+      "code": "BH-13",
+      "country": "BH",
+      "name": "Capital",
+      "native": "عاصمة",
+      "slug": "capital",
+      "type": "governorate"
+    },
+    {
+      "code": "BH-14",
+      "country": "BH",
+      "name": "Southern",
+      "native": "الجنوب",
+      "slug": "southern",
+      "type": "governorate"
+    },
+    {
+      "code": "BH-15",
+      "country": "BH",
+      "name": "Muharraq",
+      "native": "محارق",
+      "slug": "muharraq",
+      "type": "governorate"
+    },
+    {
+      "code": "BH-17",
+      "country": "BH",
+      "name": "Northern",
+      "native": "شمالي",
+      "slug": "northern",
+      "type": "governorate"
+    },
+    {
+      "code": "BN-BE",
+      "country": "BN",
+      "name": "Belait",
+      "slug": "belait",
+      "type": "district"
+    },
+    {
+      "code": "BN-BM",
+      "country": "BN",
+      "name": "Brunei-Muara",
+      "slug": "brunei-muara",
+      "type": "district"
+    },
+    {
+      "code": "BN-TE",
+      "country": "BN",
+      "name": "Temburong",
+      "slug": "temburong",
+      "type": "district"
+    },
+    {
+      "code": "BN-TU",
+      "country": "BN",
+      "name": "Tutong",
+      "slug": "tutong",
+      "type": "district"
+    },
+    {
       "code": "BO-B",
       "country": "BO",
       "name": "Beni",
@@ -1090,6 +2730,146 @@
       "name": "Tocantins",
       "slug": "tocantins",
       "type": "state"
+    },
+    {
+      "code": "BT-11",
+      "country": "BT",
+      "name": "Paro",
+      "slug": "paro",
+      "type": "district"
+    },
+    {
+      "code": "BT-12",
+      "country": "BT",
+      "name": "Chukha",
+      "slug": "chukha",
+      "type": "district"
+    },
+    {
+      "code": "BT-13",
+      "country": "BT",
+      "name": "Haa",
+      "slug": "haa",
+      "type": "district"
+    },
+    {
+      "code": "BT-14",
+      "country": "BT",
+      "name": "Samtse",
+      "slug": "samtse",
+      "type": "district"
+    },
+    {
+      "code": "BT-15",
+      "country": "BT",
+      "name": "Thimphu",
+      "slug": "thimphu",
+      "type": "district"
+    },
+    {
+      "code": "BT-21",
+      "country": "BT",
+      "name": "Tsirang",
+      "slug": "tsirang",
+      "type": "district"
+    },
+    {
+      "code": "BT-22",
+      "country": "BT",
+      "name": "Dagana",
+      "slug": "dagana",
+      "type": "district"
+    },
+    {
+      "code": "BT-23",
+      "country": "BT",
+      "name": "Punakha",
+      "slug": "punakha",
+      "type": "district"
+    },
+    {
+      "code": "BT-24",
+      "country": "BT",
+      "name": "Wangdue Phodrang",
+      "slug": "wangdue-phodrang",
+      "type": "district"
+    },
+    {
+      "code": "BT-31",
+      "country": "BT",
+      "name": "Sarpang",
+      "slug": "sarpang",
+      "type": "district"
+    },
+    {
+      "code": "BT-32",
+      "country": "BT",
+      "name": "Trongsa",
+      "slug": "trongsa",
+      "type": "district"
+    },
+    {
+      "code": "BT-33",
+      "country": "BT",
+      "name": "Bumthang",
+      "slug": "bumthang",
+      "type": "district"
+    },
+    {
+      "code": "BT-34",
+      "country": "BT",
+      "name": "Zhemgang",
+      "slug": "zhemgang",
+      "type": "district"
+    },
+    {
+      "code": "BT-41",
+      "country": "BT",
+      "name": "Trashigang",
+      "slug": "trashigang",
+      "type": "district"
+    },
+    {
+      "code": "BT-42",
+      "country": "BT",
+      "name": "Mongar",
+      "slug": "mongar",
+      "type": "district"
+    },
+    {
+      "code": "BT-43",
+      "country": "BT",
+      "name": "Pemagatshel",
+      "slug": "pemagatshel",
+      "type": "district"
+    },
+    {
+      "code": "BT-44",
+      "country": "BT",
+      "name": "Lhuntse",
+      "slug": "lhuntse",
+      "type": "district"
+    },
+    {
+      "code": "BT-45",
+      "country": "BT",
+      "name": "Samdrup Jongkhar",
+      "slug": "samdrup-jongkhar",
+      "type": "district"
+    },
+    {
+      "code": "BT-GA",
+      "country": "BT",
+      "name": "Gasa",
+      "slug": "gasa",
+      "type": "district"
+    },
+    {
+      "code": "BT-TY",
+      "country": "BT",
+      "name": "Trashi Yangtse",
+      "slug": "trashi-yangtse",
+      "type": "district"
     },
     {
       "code": "BY-BR",
@@ -1445,6 +3225,278 @@
       "name": "Valparaíso",
       "slug": "valparaiso",
       "type": "region"
+    },
+    {
+      "code": "CN-AH",
+      "country": "CN",
+      "name": "Anhui",
+      "native": "安徽省",
+      "slug": "anhui",
+      "type": "province"
+    },
+    {
+      "code": "CN-BJ",
+      "country": "CN",
+      "name": "Beijing",
+      "native": "北京市",
+      "slug": "beijing",
+      "type": "municipality"
+    },
+    {
+      "code": "CN-CQ",
+      "country": "CN",
+      "name": "Chongqing",
+      "native": "重庆市",
+      "slug": "chongqing",
+      "type": "municipality"
+    },
+    {
+      "code": "CN-FJ",
+      "country": "CN",
+      "name": "Fujian",
+      "native": "福建省",
+      "slug": "fujian",
+      "type": "province"
+    },
+    {
+      "code": "CN-GD",
+      "country": "CN",
+      "name": "Guangdong",
+      "native": "广东省",
+      "slug": "guangdong",
+      "type": "province"
+    },
+    {
+      "code": "CN-GS",
+      "country": "CN",
+      "name": "Gansu",
+      "native": "甘肃省",
+      "slug": "gansu",
+      "type": "province"
+    },
+    {
+      "code": "CN-GX",
+      "country": "CN",
+      "name": "Guangxi",
+      "native": "广西壮族自治区",
+      "slug": "guangxi",
+      "type": "autonomous region"
+    },
+    {
+      "code": "CN-GZ",
+      "country": "CN",
+      "name": "Guizhou",
+      "native": "贵州省",
+      "slug": "guizhou",
+      "type": "province"
+    },
+    {
+      "code": "CN-HA",
+      "country": "CN",
+      "name": "Henan",
+      "native": "河南省",
+      "slug": "henan",
+      "type": "province"
+    },
+    {
+      "code": "CN-HB",
+      "country": "CN",
+      "name": "Hubei",
+      "native": "湖北省",
+      "slug": "hubei",
+      "type": "province"
+    },
+    {
+      "code": "CN-HE",
+      "country": "CN",
+      "name": "Hebei",
+      "native": "河北省",
+      "slug": "hebei",
+      "type": "province"
+    },
+    {
+      "code": "CN-HI",
+      "country": "CN",
+      "name": "Hainan",
+      "native": "海南省",
+      "slug": "hainan",
+      "type": "province"
+    },
+    {
+      "code": "CN-HK",
+      "country": "CN",
+      "name": "Hong Kong SAR",
+      "native": "香港特别行政区",
+      "slug": "hong-kong-sar",
+      "type": "special administrative region"
+    },
+    {
+      "code": "CN-HL",
+      "country": "CN",
+      "name": "Heilongjiang",
+      "native": "黑龙江省",
+      "slug": "heilongjiang",
+      "type": "province"
+    },
+    {
+      "code": "CN-HN",
+      "country": "CN",
+      "name": "Hunan",
+      "native": "湖南省",
+      "slug": "hunan",
+      "type": "province"
+    },
+    {
+      "code": "CN-JL",
+      "country": "CN",
+      "name": "Jilin",
+      "native": "吉林省",
+      "slug": "jilin",
+      "type": "province"
+    },
+    {
+      "code": "CN-JS",
+      "country": "CN",
+      "name": "Jiangsu",
+      "native": "江苏省",
+      "slug": "jiangsu",
+      "type": "province"
+    },
+    {
+      "code": "CN-JX",
+      "country": "CN",
+      "name": "Jiangxi",
+      "native": "江西省",
+      "slug": "jiangxi",
+      "type": "province"
+    },
+    {
+      "code": "CN-LN",
+      "country": "CN",
+      "name": "Liaoning",
+      "native": "辽宁省",
+      "slug": "liaoning",
+      "type": "province"
+    },
+    {
+      "code": "CN-MO",
+      "country": "CN",
+      "name": "Macau SAR",
+      "native": "澳门特别行政区",
+      "slug": "macau-sar",
+      "type": "special administrative region"
+    },
+    {
+      "code": "CN-NM",
+      "country": "CN",
+      "name": "Inner Mongolia",
+      "native": "内蒙古自治区",
+      "slug": "inner-mongolia",
+      "type": "autonomous region"
+    },
+    {
+      "code": "CN-NX",
+      "country": "CN",
+      "name": "Ningxia",
+      "native": "宁夏回族自治区",
+      "slug": "ningxia",
+      "type": "autonomous region"
+    },
+    {
+      "code": "CN-QH",
+      "country": "CN",
+      "name": "Qinghai",
+      "native": "青海省",
+      "slug": "qinghai",
+      "type": "province"
+    },
+    {
+      "code": "CN-SC",
+      "country": "CN",
+      "name": "Sichuan",
+      "native": "四川省",
+      "slug": "sichuan",
+      "type": "province"
+    },
+    {
+      "code": "CN-SD",
+      "country": "CN",
+      "name": "Shandong",
+      "native": "山东省",
+      "slug": "shandong",
+      "type": "province"
+    },
+    {
+      "code": "CN-SH",
+      "country": "CN",
+      "name": "Shanghai",
+      "native": "上海市",
+      "slug": "shanghai",
+      "type": "municipality"
+    },
+    {
+      "code": "CN-SN",
+      "country": "CN",
+      "name": "Shaanxi",
+      "native": "陕西省",
+      "slug": "shaanxi",
+      "type": "province"
+    },
+    {
+      "code": "CN-SX",
+      "country": "CN",
+      "name": "Shanxi",
+      "native": "山西省",
+      "slug": "shanxi",
+      "type": "province"
+    },
+    {
+      "code": "CN-TJ",
+      "country": "CN",
+      "name": "Tianjin",
+      "native": "天津市",
+      "slug": "tianjin",
+      "type": "municipality"
+    },
+    {
+      "code": "CN-TW",
+      "country": "CN",
+      "name": "Taiwan",
+      "native": "台湾",
+      "slug": "taiwan",
+      "type": "province"
+    },
+    {
+      "code": "CN-XJ",
+      "country": "CN",
+      "name": "Xinjiang",
+      "native": "新疆维吾尔自治区",
+      "slug": "xinjiang",
+      "type": "autonomous region"
+    },
+    {
+      "code": "CN-XZ",
+      "country": "CN",
+      "name": "Tibet",
+      "native": "西藏自治区",
+      "slug": "tibet",
+      "type": "autonomous region"
+    },
+    {
+      "code": "CN-YN",
+      "country": "CN",
+      "name": "Yunnan",
+      "native": "云南省",
+      "slug": "yunnan",
+      "type": "province"
+    },
+    {
+      "code": "CN-ZJ",
+      "country": "CN",
+      "name": "Zhejiang",
+      "native": "浙江省",
+      "slug": "zhejiang",
+      "type": "province"
     },
     {
       "code": "CO-AMA",
@@ -2764,6 +4816,14 @@
       "type": "rural municipality"
     },
     {
+      "code": "EE-250",
+      "country": "EE",
+      "name": "Jõhvi",
+      "native": "Jõhvi vald",
+      "slug": "ee-250",
+      "type": "rural municipality"
+    },
+    {
       "code": "EE-251",
       "country": "EE",
       "name": "Jõhvi",
@@ -3842,6 +5902,14 @@
       "name": "Zamora",
       "slug": "zamora",
       "type": "province"
+    },
+    {
+      "code": "FI-01",
+      "country": "FI",
+      "name": "Åland Islands",
+      "native": "Åland",
+      "slug": "aland-islands",
+      "type": "region"
     },
     {
       "code": "FI-02",
@@ -6452,6 +8520,102 @@
       "type": "council area"
     },
     {
+      "code": "GE-AB",
+      "country": "GE",
+      "name": "Abkhazia",
+      "native": "აფხაზეთი",
+      "slug": "abkhazia",
+      "type": "autonomous republic"
+    },
+    {
+      "code": "GE-AJ",
+      "country": "GE",
+      "name": "Adjara",
+      "native": "აჭარა",
+      "slug": "adjara",
+      "type": "autonomous republic"
+    },
+    {
+      "code": "GE-GU",
+      "country": "GE",
+      "name": "Guria",
+      "native": "გურია",
+      "slug": "guria",
+      "type": "region"
+    },
+    {
+      "code": "GE-IM",
+      "country": "GE",
+      "name": "Imereti",
+      "native": "იმერეთი",
+      "slug": "imereti",
+      "type": "region"
+    },
+    {
+      "code": "GE-KA",
+      "country": "GE",
+      "name": "Kakheti",
+      "native": "კახეთი",
+      "slug": "kakheti",
+      "type": "region"
+    },
+    {
+      "code": "GE-KK",
+      "country": "GE",
+      "name": "Kvemo Kartli",
+      "native": "ქვემო ქართლი",
+      "slug": "kvemo-kartli",
+      "type": "region"
+    },
+    {
+      "code": "GE-MM",
+      "country": "GE",
+      "name": "Mtskheta-Mtianeti",
+      "native": "მცხეთა-მთიანეთი",
+      "slug": "mtskheta-mtianeti",
+      "type": "region"
+    },
+    {
+      "code": "GE-RL",
+      "country": "GE",
+      "name": "Racha-Lechkhumi and Kvemo Svaneti",
+      "native": "რაჭა-ლეჩხუმი და ქვემო სვანეთი",
+      "slug": "racha-lechkhumi-and-kvemo-svaneti",
+      "type": "region"
+    },
+    {
+      "code": "GE-SJ",
+      "country": "GE",
+      "name": "Samtskhe-Javakheti",
+      "native": "სამცხე-ჯავახეთი",
+      "slug": "samtskhe-javakheti",
+      "type": "region"
+    },
+    {
+      "code": "GE-SK",
+      "country": "GE",
+      "name": "Shida Kartli",
+      "native": "შიდა ქართლი",
+      "slug": "shida-kartli",
+      "type": "region"
+    },
+    {
+      "code": "GE-SZ",
+      "country": "GE",
+      "name": "Samegrelo-Zemo Svaneti",
+      "native": "სამეგრელო-ზემო სვანეთი",
+      "slug": "samegrelo-zemo-svaneti",
+      "type": "region"
+    },
+    {
+      "code": "GE-TB",
+      "country": "GE",
+      "name": "Tbilisi",
+      "native": "თბილის",
+      "slug": "tbilisi",
+      "type": "city"
+    },
+    {
       "code": "GG-01",
       "country": "GG",
       "name": "Castel",
@@ -6542,6 +8706,14 @@
       "native": "Αχαΐα",
       "slug": "achaea",
       "type": "regional unit"
+    },
+    {
+      "code": "GR-69",
+      "country": "GR",
+      "name": "Mount Athos",
+      "native": "Άγιον Όρος",
+      "slug": "mount-athos",
+      "type": "self-governed part"
     },
     {
       "code": "GR-A",
@@ -6730,6 +8902,132 @@
       "type": "region"
     },
     {
+      "code": "HK-HCW",
+      "country": "HK",
+      "name": "Central and Western",
+      "slug": "central-and-western",
+      "type": "district"
+    },
+    {
+      "code": "HK-HEA",
+      "country": "HK",
+      "name": "Eastern",
+      "slug": "eastern",
+      "type": "district"
+    },
+    {
+      "code": "HK-HSO",
+      "country": "HK",
+      "name": "Southern",
+      "slug": "southern",
+      "type": "district"
+    },
+    {
+      "code": "HK-HWC",
+      "country": "HK",
+      "name": "Wan Chai",
+      "slug": "wan-chai",
+      "type": "district"
+    },
+    {
+      "code": "HK-KKC",
+      "country": "HK",
+      "name": "Kowloon City",
+      "slug": "kowloon-city",
+      "type": "district"
+    },
+    {
+      "code": "HK-KKT",
+      "country": "HK",
+      "name": "Kwun Tong",
+      "slug": "kwun-tong",
+      "type": "district"
+    },
+    {
+      "code": "HK-KSS",
+      "country": "HK",
+      "name": "Sham Shui Po",
+      "slug": "sham-shui-po",
+      "type": "district"
+    },
+    {
+      "code": "HK-KWT",
+      "country": "HK",
+      "name": "Wong Tai Sin",
+      "slug": "wong-tai-sin",
+      "type": "district"
+    },
+    {
+      "code": "HK-KYT",
+      "country": "HK",
+      "name": "Yau Tsim Mong",
+      "slug": "yau-tsim-mong",
+      "type": "district"
+    },
+    {
+      "code": "HK-NIS",
+      "country": "HK",
+      "name": "Islands",
+      "slug": "islands",
+      "type": "district"
+    },
+    {
+      "code": "HK-NKT",
+      "country": "HK",
+      "name": "Kwai Tsing",
+      "slug": "kwai-tsing",
+      "type": "district"
+    },
+    {
+      "code": "HK-NNO",
+      "country": "HK",
+      "name": "North",
+      "slug": "north",
+      "type": "district"
+    },
+    {
+      "code": "HK-NSK",
+      "country": "HK",
+      "name": "Sai Kung",
+      "slug": "sai-kung",
+      "type": "district"
+    },
+    {
+      "code": "HK-NST",
+      "country": "HK",
+      "name": "Sha Tin",
+      "slug": "sha-tin",
+      "type": "district"
+    },
+    {
+      "code": "HK-NTM",
+      "country": "HK",
+      "name": "Tuen Mun",
+      "slug": "tuen-mun",
+      "type": "district"
+    },
+    {
+      "code": "HK-NTP",
+      "country": "HK",
+      "name": "Tai Po",
+      "slug": "tai-po",
+      "type": "district"
+    },
+    {
+      "code": "HK-NTW",
+      "country": "HK",
+      "name": "Tsuen Wan",
+      "slug": "tsuen-wan",
+      "type": "district"
+    },
+    {
+      "code": "HK-NYL",
+      "country": "HK",
+      "name": "Yuen Long",
+      "slug": "yuen-long",
+      "type": "district"
+    },
+    {
       "code": "HR-01",
       "country": "HR",
       "name": "Zagreb",
@@ -6872,6 +9170,14 @@
       "name": "Međimurje",
       "slug": "me-imurje",
       "type": "county"
+    },
+    {
+      "code": "HR-21",
+      "country": "HR",
+      "name": "City of Zagreb",
+      "native": "Grad Zagreb",
+      "slug": "city-of-zagreb",
+      "type": "city"
     },
     {
       "code": "HU-BA",
@@ -7180,6 +9486,321 @@
       "type": "county"
     },
     {
+      "code": "ID-AC",
+      "country": "ID",
+      "name": "Aceh",
+      "slug": "aceh",
+      "type": "province"
+    },
+    {
+      "code": "ID-BA",
+      "country": "ID",
+      "name": "Bali",
+      "slug": "bali",
+      "type": "province"
+    },
+    {
+      "code": "ID-BB",
+      "country": "ID",
+      "name": "Kepulauan Bangka Belitung",
+      "slug": "kepulauan-bangka-belitung",
+      "type": "province"
+    },
+    {
+      "code": "ID-BE",
+      "country": "ID",
+      "name": "Bengkulu",
+      "slug": "bengkulu",
+      "type": "province"
+    },
+    {
+      "code": "ID-BT",
+      "country": "ID",
+      "name": "Banten",
+      "slug": "banten",
+      "type": "province"
+    },
+    {
+      "code": "ID-GO",
+      "country": "ID",
+      "name": "Gorontalo",
+      "slug": "gorontalo",
+      "type": "province"
+    },
+    {
+      "code": "ID-JA",
+      "country": "ID",
+      "name": "Jambi",
+      "slug": "jambi",
+      "type": "province"
+    },
+    {
+      "code": "ID-JB",
+      "country": "ID",
+      "name": "Jawa Barat",
+      "slug": "jawa-barat",
+      "type": "province"
+    },
+    {
+      "code": "ID-JI",
+      "country": "ID",
+      "name": "Jawa Timur",
+      "slug": "jawa-timur",
+      "type": "province"
+    },
+    {
+      "code": "ID-JK",
+      "country": "ID",
+      "name": "DKI Jakarta",
+      "slug": "dki-jakarta",
+      "type": "capital district"
+    },
+    {
+      "code": "ID-JT",
+      "country": "ID",
+      "name": "Jawa Tengah",
+      "slug": "jawa-tengah",
+      "type": "province"
+    },
+    {
+      "code": "ID-JW",
+      "country": "ID",
+      "name": "Jawa",
+      "slug": "jawa",
+      "type": "geographical unit"
+    },
+    {
+      "code": "ID-KA",
+      "country": "ID",
+      "name": "Kalimantan",
+      "slug": "kalimantan",
+      "type": "geographical unit"
+    },
+    {
+      "code": "ID-KB",
+      "country": "ID",
+      "name": "Kalimantan Barat",
+      "slug": "kalimantan-barat",
+      "type": "province"
+    },
+    {
+      "code": "ID-KI",
+      "country": "ID",
+      "name": "Kalimantan Timur",
+      "slug": "kalimantan-timur",
+      "type": "province"
+    },
+    {
+      "code": "ID-KR",
+      "country": "ID",
+      "name": "Kepulauan Riau",
+      "slug": "kepulauan-riau",
+      "type": "province"
+    },
+    {
+      "code": "ID-KS",
+      "country": "ID",
+      "name": "Kalimantan Selatan",
+      "slug": "kalimantan-selatan",
+      "type": "province"
+    },
+    {
+      "code": "ID-KT",
+      "country": "ID",
+      "name": "Kalimantan Tengah",
+      "slug": "kalimantan-tengah",
+      "type": "province"
+    },
+    {
+      "code": "ID-KU",
+      "country": "ID",
+      "name": "Kalimantan Utara",
+      "slug": "kalimantan-utara",
+      "type": "province"
+    },
+    {
+      "code": "ID-LA",
+      "country": "ID",
+      "name": "Lampung",
+      "slug": "lampung",
+      "type": "province"
+    },
+    {
+      "code": "ID-MA",
+      "country": "ID",
+      "name": "Maluku",
+      "slug": "maluku",
+      "type": "province"
+    },
+    {
+      "code": "ID-ML",
+      "country": "ID",
+      "name": "Maluku",
+      "slug": "id-ml",
+      "type": "geographical unit"
+    },
+    {
+      "code": "ID-MU",
+      "country": "ID",
+      "name": "Maluku Utara",
+      "slug": "maluku-utara",
+      "type": "province"
+    },
+    {
+      "code": "ID-NB",
+      "country": "ID",
+      "name": "Nusa Tenggara Barat",
+      "slug": "nusa-tenggara-barat",
+      "type": "province"
+    },
+    {
+      "code": "ID-NT",
+      "country": "ID",
+      "name": "Nusa Tenggara Timur",
+      "slug": "nusa-tenggara-timur",
+      "type": "province"
+    },
+    {
+      "code": "ID-NU",
+      "country": "ID",
+      "name": "Nusa Tenggara",
+      "slug": "nusa-tenggara",
+      "type": "geographical unit"
+    },
+    {
+      "code": "ID-PA",
+      "country": "ID",
+      "name": "Papua",
+      "slug": "papua",
+      "type": "province"
+    },
+    {
+      "code": "ID-PB",
+      "country": "ID",
+      "name": "Papua Barat",
+      "slug": "papua-barat",
+      "type": "province"
+    },
+    {
+      "code": "ID-PD",
+      "country": "ID",
+      "name": "Papua Barat Daya",
+      "slug": "papua-barat-daya",
+      "type": "province"
+    },
+    {
+      "code": "ID-PE",
+      "country": "ID",
+      "name": "Papua Pegunungan",
+      "slug": "papua-pegunungan",
+      "type": "province"
+    },
+    {
+      "code": "ID-PP",
+      "country": "ID",
+      "name": "Papua",
+      "slug": "id-pp",
+      "type": "geographical unit"
+    },
+    {
+      "code": "ID-PS",
+      "country": "ID",
+      "name": "Papua Selatan",
+      "slug": "papua-selatan",
+      "type": "province"
+    },
+    {
+      "code": "ID-PT",
+      "country": "ID",
+      "name": "Papua Tengah",
+      "slug": "papua-tengah",
+      "type": "province"
+    },
+    {
+      "code": "ID-RI",
+      "country": "ID",
+      "name": "Riau",
+      "slug": "riau",
+      "type": "province"
+    },
+    {
+      "code": "ID-SA",
+      "country": "ID",
+      "name": "Sulawesi Utara",
+      "slug": "sulawesi-utara",
+      "type": "province"
+    },
+    {
+      "code": "ID-SB",
+      "country": "ID",
+      "name": "Sumatera Barat",
+      "slug": "sumatera-barat",
+      "type": "province"
+    },
+    {
+      "code": "ID-SG",
+      "country": "ID",
+      "name": "Sulawesi Tenggara",
+      "slug": "sulawesi-tenggara",
+      "type": "province"
+    },
+    {
+      "code": "ID-SL",
+      "country": "ID",
+      "name": "Sulawesi",
+      "slug": "sulawesi",
+      "type": "geographical unit"
+    },
+    {
+      "code": "ID-SM",
+      "country": "ID",
+      "name": "Sumatera",
+      "slug": "sumatera",
+      "type": "geographical unit"
+    },
+    {
+      "code": "ID-SN",
+      "country": "ID",
+      "name": "Sulawesi Selatan",
+      "slug": "sulawesi-selatan",
+      "type": "province"
+    },
+    {
+      "code": "ID-SR",
+      "country": "ID",
+      "name": "Sulawesi Barat",
+      "slug": "sulawesi-barat",
+      "type": "province"
+    },
+    {
+      "code": "ID-SS",
+      "country": "ID",
+      "name": "Sumatera Selatan",
+      "slug": "sumatera-selatan",
+      "type": "province"
+    },
+    {
+      "code": "ID-ST",
+      "country": "ID",
+      "name": "Sulawesi Tengah",
+      "slug": "sulawesi-tengah",
+      "type": "province"
+    },
+    {
+      "code": "ID-SU",
+      "country": "ID",
+      "name": "Sumatera Utara",
+      "slug": "sumatera-utara",
+      "type": "province"
+    },
+    {
+      "code": "ID-YO",
+      "country": "ID",
+      "name": "DI Yogyakarta",
+      "slug": "di-yogyakarta",
+      "type": "Special region"
+    },
+    {
       "code": "IE-C",
       "country": "IE",
       "name": "Connacht",
@@ -7390,6 +10011,48 @@
       "type": "county"
     },
     {
+      "code": "IL-D",
+      "country": "IL",
+      "name": "Southern",
+      "slug": "southern",
+      "type": "district"
+    },
+    {
+      "code": "IL-HA",
+      "country": "IL",
+      "name": "Haifa",
+      "slug": "haifa",
+      "type": "district"
+    },
+    {
+      "code": "IL-JM",
+      "country": "IL",
+      "name": "Jerusalem",
+      "slug": "jerusalem",
+      "type": "district"
+    },
+    {
+      "code": "IL-M",
+      "country": "IL",
+      "name": "Central",
+      "slug": "central",
+      "type": "district"
+    },
+    {
+      "code": "IL-TA",
+      "country": "IL",
+      "name": "Tel Aviv",
+      "slug": "tel-aviv",
+      "type": "district"
+    },
+    {
+      "code": "IL-Z",
+      "country": "IL",
+      "name": "Northern",
+      "slug": "northern",
+      "type": "district"
+    },
+    {
       "code": "IM-01",
       "country": "IM",
       "name": "Ayre",
@@ -7431,6 +10094,694 @@
       "native": "Rush",
       "slug": "rushen",
       "type": "sheadings"
+    },
+    {
+      "code": "IN-AN",
+      "country": "IN",
+      "name": "Andaman and Nicobar Islands",
+      "native": "अंडमान व नोकोबार द्वीप समूह",
+      "slug": "andaman-and-nicobar-islands",
+      "type": "union territory"
+    },
+    {
+      "code": "IN-AP",
+      "country": "IN",
+      "name": "Andhra Pradesh",
+      "native": "आंध्र प्रदेश",
+      "slug": "andhra-pradesh",
+      "type": "state"
+    },
+    {
+      "code": "IN-AR",
+      "country": "IN",
+      "name": "Arunachal Pradesh",
+      "native": "अरुणाचल प्रदेश",
+      "slug": "arunachal-pradesh",
+      "type": "state"
+    },
+    {
+      "code": "IN-AS",
+      "country": "IN",
+      "name": "Assam",
+      "native": "असम",
+      "slug": "assam",
+      "type": "state"
+    },
+    {
+      "code": "IN-BR",
+      "country": "IN",
+      "name": "Bihar",
+      "native": "बिहार",
+      "slug": "bihar",
+      "type": "state"
+    },
+    {
+      "code": "IN-CG",
+      "country": "IN",
+      "name": "Chhattisgarh",
+      "native": "छत्तीसगढ",
+      "slug": "chhattisgarh",
+      "type": "state"
+    },
+    {
+      "code": "IN-CH",
+      "country": "IN",
+      "name": "Chandigarh",
+      "native": "चंडीगढ़",
+      "slug": "chandigarh",
+      "type": "union territory"
+    },
+    {
+      "code": "IN-DH",
+      "country": "IN",
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "native": "दादरा और नगर हवेली और दमन और दीव",
+      "slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+      "type": "union territory"
+    },
+    {
+      "code": "IN-DL",
+      "country": "IN",
+      "name": "Delhi",
+      "native": "दिल्ली",
+      "slug": "delhi",
+      "type": "union territory"
+    },
+    {
+      "code": "IN-GA",
+      "country": "IN",
+      "name": "Goa",
+      "native": "गोवा",
+      "slug": "goa",
+      "type": "state"
+    },
+    {
+      "code": "IN-GJ",
+      "country": "IN",
+      "name": "Gujarat",
+      "native": "गुजरात",
+      "slug": "gujarat",
+      "type": "state"
+    },
+    {
+      "code": "IN-HP",
+      "country": "IN",
+      "name": "Himachal Pradesh",
+      "native": "हिमाचल प्रदेश",
+      "slug": "himachal-pradesh",
+      "type": "state"
+    },
+    {
+      "code": "IN-HR",
+      "country": "IN",
+      "name": "Haryana",
+      "native": "हरियाणा",
+      "slug": "haryana",
+      "type": "state"
+    },
+    {
+      "code": "IN-JH",
+      "country": "IN",
+      "name": "Jharkhand",
+      "native": "झारखंड",
+      "slug": "jharkhand",
+      "type": "state"
+    },
+    {
+      "code": "IN-JK",
+      "country": "IN",
+      "name": "Jammu and Kashmir",
+      "native": "जम्मू और कश्मीर",
+      "slug": "jammu-and-kashmir",
+      "type": "union territory"
+    },
+    {
+      "code": "IN-KA",
+      "country": "IN",
+      "name": "Karnataka",
+      "native": "कर्नाटक",
+      "slug": "karnataka",
+      "type": "state"
+    },
+    {
+      "code": "IN-KL",
+      "country": "IN",
+      "name": "Kerala",
+      "native": "केरल",
+      "slug": "kerala",
+      "type": "state"
+    },
+    {
+      "code": "IN-LA",
+      "country": "IN",
+      "name": "Ladakh",
+      "native": "लद्दाख",
+      "slug": "ladakh",
+      "type": "union territory"
+    },
+    {
+      "code": "IN-LD",
+      "country": "IN",
+      "name": "Lakshadweep",
+      "native": "लक्षद्वीप",
+      "slug": "lakshadweep",
+      "type": "union territory"
+    },
+    {
+      "code": "IN-MH",
+      "country": "IN",
+      "name": "Maharashtra",
+      "native": "महाराष्ट्र",
+      "slug": "maharashtra",
+      "type": "state"
+    },
+    {
+      "code": "IN-ML",
+      "country": "IN",
+      "name": "Meghalaya",
+      "native": "मेघालय",
+      "slug": "meghalaya",
+      "type": "state"
+    },
+    {
+      "code": "IN-MN",
+      "country": "IN",
+      "name": "Manipur",
+      "native": "मणिपुर",
+      "slug": "manipur",
+      "type": "state"
+    },
+    {
+      "code": "IN-MP",
+      "country": "IN",
+      "name": "Madhya Pradesh",
+      "native": "मध्य प्रदेश",
+      "slug": "madhya-pradesh",
+      "type": "state"
+    },
+    {
+      "code": "IN-MZ",
+      "country": "IN",
+      "name": "Mizoram",
+      "native": "मिजोरम",
+      "slug": "mizoram",
+      "type": "state"
+    },
+    {
+      "code": "IN-NL",
+      "country": "IN",
+      "name": "Nagaland",
+      "native": "नागालैंड",
+      "slug": "nagaland",
+      "type": "state"
+    },
+    {
+      "code": "IN-OD",
+      "country": "IN",
+      "name": "Odisha",
+      "native": "ओडिशा",
+      "slug": "odisha",
+      "type": "state"
+    },
+    {
+      "code": "IN-PB",
+      "country": "IN",
+      "name": "Punjab",
+      "native": "पंजाब",
+      "slug": "punjab",
+      "type": "state"
+    },
+    {
+      "code": "IN-PY",
+      "country": "IN",
+      "name": "Puducherry",
+      "native": "पुदुचेरी",
+      "slug": "puducherry",
+      "type": "union territory"
+    },
+    {
+      "code": "IN-RJ",
+      "country": "IN",
+      "name": "Rajasthan",
+      "native": "राजस्थान",
+      "slug": "rajasthan",
+      "type": "state"
+    },
+    {
+      "code": "IN-SK",
+      "country": "IN",
+      "name": "Sikkim",
+      "native": "सिक्किम",
+      "slug": "sikkim",
+      "type": "state"
+    },
+    {
+      "code": "IN-TN",
+      "country": "IN",
+      "name": "Tamil Nadu",
+      "native": "तमिलनाडु",
+      "slug": "tamil-nadu",
+      "type": "state"
+    },
+    {
+      "code": "IN-TR",
+      "country": "IN",
+      "name": "Tripura",
+      "native": "त्रिपुरा",
+      "slug": "tripura",
+      "type": "state"
+    },
+    {
+      "code": "IN-TS",
+      "country": "IN",
+      "name": "Telangana",
+      "native": "तेलंगाना",
+      "slug": "telangana",
+      "type": "state"
+    },
+    {
+      "code": "IN-UK",
+      "country": "IN",
+      "name": "Uttarakhand",
+      "native": "उत्तराखंड",
+      "slug": "uttarakhand",
+      "type": "state"
+    },
+    {
+      "code": "IN-UP",
+      "country": "IN",
+      "name": "Uttar Pradesh",
+      "native": "उत्तर प्रदेश",
+      "slug": "uttar-pradesh",
+      "type": "state"
+    },
+    {
+      "code": "IN-WB",
+      "country": "IN",
+      "name": "West Bengal",
+      "native": "पश्चिम बंगाल",
+      "slug": "west-bengal",
+      "type": "state"
+    },
+    {
+      "code": "IQ-AN",
+      "country": "IQ",
+      "name": "Al Anbar",
+      "native": "الأنبار",
+      "slug": "al-anbar",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-AR",
+      "country": "IQ",
+      "name": "Erbil",
+      "native": "أربيل",
+      "slug": "erbil",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-BA",
+      "country": "IQ",
+      "name": "Basra",
+      "native": "البصرة",
+      "slug": "basra",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-BB",
+      "country": "IQ",
+      "name": "Babylon",
+      "native": "بابل",
+      "slug": "babylon",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-BG",
+      "country": "IQ",
+      "name": "Baghdad",
+      "native": "بغداد",
+      "slug": "baghdad",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-DA",
+      "country": "IQ",
+      "name": "Dohuk",
+      "native": "دهوك",
+      "slug": "dohuk",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-DI",
+      "country": "IQ",
+      "name": "Diyala",
+      "native": "ديالى",
+      "slug": "diyala",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-DQ",
+      "country": "IQ",
+      "name": "Dhi Qar",
+      "native": "ذي قار",
+      "slug": "dhi-qar",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-KA",
+      "country": "IQ",
+      "name": "Karbala",
+      "native": "كربلاء",
+      "slug": "karbala",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-KI",
+      "country": "IQ",
+      "name": "Kirkuk",
+      "native": "كركوك",
+      "slug": "kirkuk",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-KR",
+      "country": "IQ",
+      "name": "Iqlim Kurdistan",
+      "native": "ھەرێمی کوردستان",
+      "slug": "iqlim-kurdistan",
+      "type": "region"
+    },
+    {
+      "code": "IQ-MA",
+      "country": "IQ",
+      "name": "Maysan",
+      "native": "ميسان",
+      "slug": "maysan",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-MU",
+      "country": "IQ",
+      "name": "Al Muthanna",
+      "native": "المثنى",
+      "slug": "al-muthanna",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-NA",
+      "country": "IQ",
+      "name": "Najaf",
+      "native": "النجف",
+      "slug": "najaf",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-NI",
+      "country": "IQ",
+      "name": "Nineveh",
+      "native": "نينوى",
+      "slug": "nineveh",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-QA",
+      "country": "IQ",
+      "name": "Al-Qādisiyyah",
+      "native": "القادسية",
+      "slug": "al-qadisiyyah",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-SD",
+      "country": "IQ",
+      "name": "Saladin",
+      "native": "صلاح الدين",
+      "slug": "saladin",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-SU",
+      "country": "IQ",
+      "name": "Sulaymaniyah",
+      "native": "السليمانية",
+      "slug": "sulaymaniyah",
+      "type": "governorate"
+    },
+    {
+      "code": "IQ-WA",
+      "country": "IQ",
+      "name": "Wasit",
+      "native": "واسط",
+      "slug": "wasit",
+      "type": "governorate"
+    },
+    {
+      "code": "IR-00",
+      "country": "IR",
+      "name": "Markazi",
+      "native": "مرکزی",
+      "slug": "markazi",
+      "type": "province"
+    },
+    {
+      "code": "IR-01",
+      "country": "IR",
+      "name": "Gilan",
+      "native": "گیلان",
+      "slug": "gilan",
+      "type": "province"
+    },
+    {
+      "code": "IR-02",
+      "country": "IR",
+      "name": "Mazandaran",
+      "native": "مازندران",
+      "slug": "mazandaran",
+      "type": "province"
+    },
+    {
+      "code": "IR-03",
+      "country": "IR",
+      "name": "East Azerbaijan",
+      "native": "آذربایجان شرقی",
+      "slug": "east-azerbaijan",
+      "type": "province"
+    },
+    {
+      "code": "IR-04",
+      "country": "IR",
+      "name": "West Azarbaijan",
+      "native": "آذربایجان غربی",
+      "slug": "west-azarbaijan",
+      "type": "province"
+    },
+    {
+      "code": "IR-05",
+      "country": "IR",
+      "name": "Kermanshah",
+      "native": "کرمانشاه",
+      "slug": "kermanshah",
+      "type": "province"
+    },
+    {
+      "code": "IR-06",
+      "country": "IR",
+      "name": "Khuzestan",
+      "native": "خوزستان",
+      "slug": "khuzestan",
+      "type": "province"
+    },
+    {
+      "code": "IR-07",
+      "country": "IR",
+      "name": "Fars",
+      "native": "فارس",
+      "slug": "fars",
+      "type": "province"
+    },
+    {
+      "code": "IR-08",
+      "country": "IR",
+      "name": "Kerman",
+      "native": "کرمان",
+      "slug": "kerman",
+      "type": "province"
+    },
+    {
+      "code": "IR-09",
+      "country": "IR",
+      "name": "Razavi Khorasan",
+      "native": "خراسان رضوی",
+      "slug": "razavi-khorasan",
+      "type": "province"
+    },
+    {
+      "code": "IR-10",
+      "country": "IR",
+      "name": "Isfahan",
+      "native": "اصفهان",
+      "slug": "isfahan",
+      "type": "province"
+    },
+    {
+      "code": "IR-11",
+      "country": "IR",
+      "name": "Sistan and Baluchestan",
+      "native": "سیستان و بلوچستان",
+      "slug": "sistan-and-baluchestan",
+      "type": "province"
+    },
+    {
+      "code": "IR-12",
+      "country": "IR",
+      "name": "Kurdistan",
+      "native": "کردستان",
+      "slug": "kurdistan",
+      "type": "province"
+    },
+    {
+      "code": "IR-13",
+      "country": "IR",
+      "name": "Hamadan",
+      "native": "همدان",
+      "slug": "hamadan",
+      "type": "province"
+    },
+    {
+      "code": "IR-14",
+      "country": "IR",
+      "name": "Chaharmahal and Bakhtiari",
+      "native": "چهارمحال و بختیاری",
+      "slug": "chaharmahal-and-bakhtiari",
+      "type": "province"
+    },
+    {
+      "code": "IR-15",
+      "country": "IR",
+      "name": "Lorestan",
+      "native": "لرستان",
+      "slug": "lorestan",
+      "type": "province"
+    },
+    {
+      "code": "IR-16",
+      "country": "IR",
+      "name": "Ilam",
+      "native": "ایلام",
+      "slug": "ilam",
+      "type": "province"
+    },
+    {
+      "code": "IR-17",
+      "country": "IR",
+      "name": "Kohgiluyeh and Boyer-Ahmad",
+      "native": "کهگیلویه و بویراحمد",
+      "slug": "kohgiluyeh-and-boyer-ahmad",
+      "type": "province"
+    },
+    {
+      "code": "IR-18",
+      "country": "IR",
+      "name": "Bushehr",
+      "native": "بوشهر",
+      "slug": "bushehr",
+      "type": "province"
+    },
+    {
+      "code": "IR-19",
+      "country": "IR",
+      "name": "Zanjan",
+      "native": "زنجان",
+      "slug": "zanjan",
+      "type": "province"
+    },
+    {
+      "code": "IR-20",
+      "country": "IR",
+      "name": "Semnan",
+      "native": "سمنان",
+      "slug": "semnan",
+      "type": "province"
+    },
+    {
+      "code": "IR-21",
+      "country": "IR",
+      "name": "Yazd",
+      "native": "یزد",
+      "slug": "yazd",
+      "type": "province"
+    },
+    {
+      "code": "IR-22",
+      "country": "IR",
+      "name": "Hormozgan",
+      "native": "هرمزگان",
+      "slug": "hormozgan",
+      "type": "province"
+    },
+    {
+      "code": "IR-23",
+      "country": "IR",
+      "name": "Tehran",
+      "native": "تهران",
+      "slug": "tehran",
+      "type": "province"
+    },
+    {
+      "code": "IR-24",
+      "country": "IR",
+      "name": "Ardabil",
+      "native": "اردبیل",
+      "slug": "ardabil",
+      "type": "province"
+    },
+    {
+      "code": "IR-25",
+      "country": "IR",
+      "name": "Qom",
+      "native": "قم",
+      "slug": "qom",
+      "type": "province"
+    },
+    {
+      "code": "IR-26",
+      "country": "IR",
+      "name": "Qazvin",
+      "native": "قزوین",
+      "slug": "qazvin",
+      "type": "province"
+    },
+    {
+      "code": "IR-27",
+      "country": "IR",
+      "name": "Golestan",
+      "native": "گلستان",
+      "slug": "golestan",
+      "type": "province"
+    },
+    {
+      "code": "IR-28",
+      "country": "IR",
+      "name": "North Khorasan",
+      "native": "خراسان شمالی",
+      "slug": "north-khorasan",
+      "type": "province"
+    },
+    {
+      "code": "IR-29",
+      "country": "IR",
+      "name": "South Khorasan",
+      "native": "خراسان جنوبی",
+      "slug": "south-khorasan",
+      "type": "province"
+    },
+    {
+      "code": "IR-30",
+      "country": "IR",
+      "name": "Alborz",
+      "native": "البرز",
+      "slug": "alborz",
+      "type": "province"
     },
     {
       "code": "IS-1",
@@ -8950,6 +12301,1398 @@
       "type": "parish"
     },
     {
+      "code": "JO-AJ",
+      "country": "JO",
+      "name": "Ajloun",
+      "native": "عجلون",
+      "slug": "ajloun",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-AM",
+      "country": "JO",
+      "name": "Amman",
+      "native": "عمان",
+      "slug": "amman",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-AQ",
+      "country": "JO",
+      "name": "Aqaba",
+      "native": "العقبة",
+      "slug": "aqaba",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-AT",
+      "country": "JO",
+      "name": "Tafilah",
+      "native": "الطفيلة",
+      "slug": "tafilah",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-AZ",
+      "country": "JO",
+      "name": "Zarqa",
+      "native": "الزرقاء",
+      "slug": "zarqa",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-BA",
+      "country": "JO",
+      "name": "Balqa",
+      "native": "البلقاء",
+      "slug": "balqa",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-IR",
+      "country": "JO",
+      "name": "Irbid",
+      "native": "إربد",
+      "slug": "irbid",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-JA",
+      "country": "JO",
+      "name": "Jerash",
+      "native": "جرش",
+      "slug": "jerash",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-KA",
+      "country": "JO",
+      "name": "Karak",
+      "native": "الكرك",
+      "slug": "karak",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-MA",
+      "country": "JO",
+      "name": "Mafraq",
+      "native": "المفرق",
+      "slug": "mafraq",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-MD",
+      "country": "JO",
+      "name": "Madaba",
+      "native": "مادبا",
+      "slug": "madaba",
+      "type": "governorate"
+    },
+    {
+      "code": "JO-MN",
+      "country": "JO",
+      "name": "Ma'an",
+      "native": "معان",
+      "slug": "ma-an",
+      "type": "governorate"
+    },
+    {
+      "code": "JP-01",
+      "country": "JP",
+      "name": "Hokkaidō",
+      "native": "北海道",
+      "slug": "hokkaido",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-02",
+      "country": "JP",
+      "name": "Aomori",
+      "native": "青森",
+      "slug": "aomori",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-03",
+      "country": "JP",
+      "name": "Iwate",
+      "native": "岩手",
+      "slug": "iwate",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-04",
+      "country": "JP",
+      "name": "Miyagi",
+      "native": "宮城県",
+      "slug": "miyagi",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-05",
+      "country": "JP",
+      "name": "Akita",
+      "native": "秋田",
+      "slug": "akita",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-06",
+      "country": "JP",
+      "name": "Yamagata",
+      "native": "山形",
+      "slug": "yamagata",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-07",
+      "country": "JP",
+      "name": "Fukushima",
+      "native": "福島",
+      "slug": "fukushima",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-08",
+      "country": "JP",
+      "name": "Ibaraki",
+      "native": "茨城",
+      "slug": "ibaraki",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-09",
+      "country": "JP",
+      "name": "Tochigi",
+      "native": "栃木県",
+      "slug": "tochigi",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-10",
+      "country": "JP",
+      "name": "Gunma",
+      "native": "群馬",
+      "slug": "gunma",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-11",
+      "country": "JP",
+      "name": "Saitama",
+      "native": "埼玉",
+      "slug": "saitama",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-12",
+      "country": "JP",
+      "name": "Chiba",
+      "native": "千葉",
+      "slug": "chiba",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-13",
+      "country": "JP",
+      "name": "Tokyo",
+      "native": "東京",
+      "slug": "tokyo",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-14",
+      "country": "JP",
+      "name": "Kanagawa",
+      "native": "神奈川",
+      "slug": "kanagawa",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-15",
+      "country": "JP",
+      "name": "Niigata",
+      "native": "新潟",
+      "slug": "niigata",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-16",
+      "country": "JP",
+      "name": "Toyama",
+      "native": "富山",
+      "slug": "toyama",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-17",
+      "country": "JP",
+      "name": "Ishikawa",
+      "native": "石川",
+      "slug": "ishikawa",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-18",
+      "country": "JP",
+      "name": "Fukui",
+      "native": "福井",
+      "slug": "fukui",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-19",
+      "country": "JP",
+      "name": "Yamanashi",
+      "native": "山梨",
+      "slug": "yamanashi",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-20",
+      "country": "JP",
+      "name": "Nagano",
+      "native": "長野",
+      "slug": "nagano",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-21",
+      "country": "JP",
+      "name": "Gifu",
+      "native": "岐阜",
+      "slug": "gifu",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-22",
+      "country": "JP",
+      "name": "Shizuoka",
+      "native": "静岡",
+      "slug": "shizuoka",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-23",
+      "country": "JP",
+      "name": "Aichi",
+      "native": "愛知",
+      "slug": "aichi",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-24",
+      "country": "JP",
+      "name": "Mie",
+      "native": "三重",
+      "slug": "mie",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-25",
+      "country": "JP",
+      "name": "Shiga",
+      "native": "滋賀",
+      "slug": "shiga",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-26",
+      "country": "JP",
+      "name": "Kyōto",
+      "native": "京都",
+      "slug": "kyoto",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-27",
+      "country": "JP",
+      "name": "Ōsaka",
+      "native": "大阪",
+      "slug": "osaka",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-28",
+      "country": "JP",
+      "name": "Hyōgo",
+      "native": "兵庫県",
+      "slug": "hyogo",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-29",
+      "country": "JP",
+      "name": "Nara",
+      "native": "奈良",
+      "slug": "nara",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-30",
+      "country": "JP",
+      "name": "Wakayama",
+      "native": "和歌山",
+      "slug": "wakayama",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-31",
+      "country": "JP",
+      "name": "Tottori",
+      "native": "鳥取",
+      "slug": "tottori",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-32",
+      "country": "JP",
+      "name": "Shimane",
+      "native": "島根",
+      "slug": "shimane",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-33",
+      "country": "JP",
+      "name": "Okayama",
+      "native": "岡山",
+      "slug": "okayama",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-34",
+      "country": "JP",
+      "name": "Hiroshima",
+      "native": "広島",
+      "slug": "hiroshima",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-35",
+      "country": "JP",
+      "name": "Yamaguchi",
+      "native": "山口",
+      "slug": "yamaguchi",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-36",
+      "country": "JP",
+      "name": "Tokushima",
+      "native": "徳島",
+      "slug": "tokushima",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-37",
+      "country": "JP",
+      "name": "Kagawa",
+      "native": "香川",
+      "slug": "kagawa",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-38",
+      "country": "JP",
+      "name": "Ehime",
+      "native": "愛媛",
+      "slug": "ehime",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-39",
+      "country": "JP",
+      "name": "Kōchi",
+      "native": "高知",
+      "slug": "kochi",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-40",
+      "country": "JP",
+      "name": "Fukuoka",
+      "native": "福岡",
+      "slug": "fukuoka",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-41",
+      "country": "JP",
+      "name": "Saga",
+      "native": "佐賀",
+      "slug": "saga",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-42",
+      "country": "JP",
+      "name": "Nagasaki",
+      "native": "長崎",
+      "slug": "nagasaki",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-43",
+      "country": "JP",
+      "name": "Kumamoto",
+      "native": "熊本",
+      "slug": "kumamoto",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-44",
+      "country": "JP",
+      "name": "Ōita",
+      "native": "大分",
+      "slug": "oita",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-45",
+      "country": "JP",
+      "name": "Miyazaki",
+      "native": "宮崎",
+      "slug": "miyazaki",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-46",
+      "country": "JP",
+      "name": "Kagoshima",
+      "native": "鹿児島",
+      "slug": "kagoshima",
+      "type": "prefecture"
+    },
+    {
+      "code": "JP-47",
+      "country": "JP",
+      "name": "Okinawa",
+      "native": "沖縄",
+      "slug": "okinawa",
+      "type": "prefecture"
+    },
+    {
+      "code": "KG-B",
+      "country": "KG",
+      "name": "Batken",
+      "native": "Баткен",
+      "slug": "batken",
+      "type": "region"
+    },
+    {
+      "code": "KG-C",
+      "country": "KG",
+      "name": "Chuy",
+      "native": "Чүй",
+      "slug": "chuy",
+      "type": "region"
+    },
+    {
+      "code": "KG-GB",
+      "country": "KG",
+      "name": "Bishkek",
+      "native": "Бишкек",
+      "slug": "bishkek",
+      "type": "city"
+    },
+    {
+      "code": "KG-GO",
+      "country": "KG",
+      "name": "Osh",
+      "native": "Ош",
+      "slug": "osh",
+      "type": "city"
+    },
+    {
+      "code": "KG-J",
+      "country": "KG",
+      "name": "Jalal-Abad",
+      "native": "Жалал Абад",
+      "slug": "jalal-abad",
+      "type": "region"
+    },
+    {
+      "code": "KG-N",
+      "country": "KG",
+      "name": "Naryn",
+      "native": "Нарын",
+      "slug": "naryn",
+      "type": "region"
+    },
+    {
+      "code": "KG-O",
+      "country": "KG",
+      "name": "Osh",
+      "native": "Ош",
+      "slug": "kg-o",
+      "type": "region"
+    },
+    {
+      "code": "KG-T",
+      "country": "KG",
+      "name": "Talas",
+      "native": "Талас",
+      "slug": "talas",
+      "type": "region"
+    },
+    {
+      "code": "KG-Y",
+      "country": "KG",
+      "name": "Issyk-Kul",
+      "native": "Ыссык Көл",
+      "slug": "issyk-kul",
+      "type": "region"
+    },
+    {
+      "code": "KH-1",
+      "country": "KH",
+      "name": "Banteay Meanchey",
+      "native": "បន្ទាយមានជ័យ",
+      "slug": "banteay-meanchey",
+      "type": "province"
+    },
+    {
+      "code": "KH-10",
+      "country": "KH",
+      "name": "Kratie",
+      "native": "ក្រចេះ",
+      "slug": "kratie",
+      "type": "province"
+    },
+    {
+      "code": "KH-11",
+      "country": "KH",
+      "name": "Mondulkiri",
+      "native": "មណ្ឌលគីរី",
+      "slug": "mondulkiri",
+      "type": "province"
+    },
+    {
+      "code": "KH-12",
+      "country": "KH",
+      "name": "Phnom Penh",
+      "native": "រាជធានី",
+      "slug": "phnom-penh",
+      "type": "autonomous municipality"
+    },
+    {
+      "code": "KH-13",
+      "country": "KH",
+      "name": "Preah Vihear",
+      "native": "ព្រះវិហារ",
+      "slug": "preah-vihear",
+      "type": "province"
+    },
+    {
+      "code": "KH-14",
+      "country": "KH",
+      "name": "Prey Veng",
+      "native": "បុរស",
+      "slug": "prey-veng",
+      "type": "province"
+    },
+    {
+      "code": "KH-15",
+      "country": "KH",
+      "name": "Pursat",
+      "native": "ឱកាស",
+      "slug": "pursat",
+      "type": "province"
+    },
+    {
+      "code": "KH-16",
+      "country": "KH",
+      "name": "Ratanakiri",
+      "native": "រតនគិរី",
+      "slug": "ratanakiri",
+      "type": "province"
+    },
+    {
+      "code": "KH-17",
+      "country": "KH",
+      "name": "Siem Reap",
+      "native": "សៀមរាប",
+      "slug": "siem-reap",
+      "type": "province"
+    },
+    {
+      "code": "KH-18",
+      "country": "KH",
+      "name": "Sihanoukville",
+      "native": "ក្រុងព្រះសីហនុ",
+      "slug": "sihanoukville",
+      "type": "province"
+    },
+    {
+      "code": "KH-19",
+      "country": "KH",
+      "name": "Stung Treng",
+      "native": "ត្រូវការស្ទឹង",
+      "slug": "stung-treng",
+      "type": "province"
+    },
+    {
+      "code": "KH-2",
+      "country": "KH",
+      "name": "Battambang",
+      "native": "បាត់ដំបង",
+      "slug": "battambang",
+      "type": "province"
+    },
+    {
+      "code": "KH-20",
+      "country": "KH",
+      "name": "Svay Rieng",
+      "native": "ស្វាយរៀង",
+      "slug": "svay-rieng",
+      "type": "province"
+    },
+    {
+      "code": "KH-21",
+      "country": "KH",
+      "name": "Takeo",
+      "native": "តាកែវ",
+      "slug": "takeo",
+      "type": "province"
+    },
+    {
+      "code": "KH-22",
+      "country": "KH",
+      "name": "Oddar Meanchey",
+      "native": "ឧត្តរមានជ័យ",
+      "slug": "oddar-meanchey",
+      "type": "province"
+    },
+    {
+      "code": "KH-23",
+      "country": "KH",
+      "name": "Kep",
+      "native": "កែប",
+      "slug": "kep",
+      "type": "province"
+    },
+    {
+      "code": "KH-24",
+      "country": "KH",
+      "name": "Pailin",
+      "native": "លំអី",
+      "slug": "pailin",
+      "type": "province"
+    },
+    {
+      "code": "KH-25",
+      "country": "KH",
+      "name": "Tboung Khmum",
+      "native": "ត្បូងឃ្មុំ",
+      "slug": "tboung-khmum",
+      "type": "province"
+    },
+    {
+      "code": "KH-3",
+      "country": "KH",
+      "name": "Kampong Cham",
+      "native": "កំពង់ចាម",
+      "slug": "kampong-cham",
+      "type": "province"
+    },
+    {
+      "code": "KH-4",
+      "country": "KH",
+      "name": "Kampong Chhnang",
+      "native": "កំពង់ឆ្នាំង",
+      "slug": "kampong-chhnang",
+      "type": "province"
+    },
+    {
+      "code": "KH-5",
+      "country": "KH",
+      "name": "Kampong Speu",
+      "native": "ភូមិសែ",
+      "slug": "kampong-speu",
+      "type": "province"
+    },
+    {
+      "code": "KH-6",
+      "country": "KH",
+      "name": "Kampong Thom",
+      "native": "កំពង់ធំ",
+      "slug": "kampong-thom",
+      "type": "province"
+    },
+    {
+      "code": "KH-7",
+      "country": "KH",
+      "name": "Kampot",
+      "native": "កំពត",
+      "slug": "kampot",
+      "type": "province"
+    },
+    {
+      "code": "KH-8",
+      "country": "KH",
+      "name": "Kandal",
+      "native": "បេសបេល",
+      "slug": "kandal",
+      "type": "province"
+    },
+    {
+      "code": "KH-9",
+      "country": "KH",
+      "name": "Koh Kong",
+      "native": "កោះកុង",
+      "slug": "koh-kong",
+      "type": "province"
+    },
+    {
+      "code": "KP-01",
+      "country": "KP",
+      "name": "Pyongyang",
+      "native": "평양",
+      "slug": "pyongyang",
+      "type": "capital city"
+    },
+    {
+      "code": "KP-02",
+      "country": "KP",
+      "name": "South Pyongan",
+      "native": "남평안",
+      "slug": "south-pyongan",
+      "type": "province"
+    },
+    {
+      "code": "KP-03",
+      "country": "KP",
+      "name": "North Pyongan",
+      "native": "평안북도",
+      "slug": "north-pyongan",
+      "type": "province"
+    },
+    {
+      "code": "KP-04",
+      "country": "KP",
+      "name": "Chagang",
+      "native": "차강",
+      "slug": "chagang",
+      "type": "province"
+    },
+    {
+      "code": "KP-05",
+      "country": "KP",
+      "name": "South Hwanghae",
+      "native": "황해남도",
+      "slug": "south-hwanghae",
+      "type": "province"
+    },
+    {
+      "code": "KP-06",
+      "country": "KP",
+      "name": "North Hwanghae",
+      "native": "황해북도",
+      "slug": "north-hwanghae",
+      "type": "province"
+    },
+    {
+      "code": "KP-07",
+      "country": "KP",
+      "name": "Kangwon",
+      "native": "강원도",
+      "slug": "kangwon",
+      "type": "province"
+    },
+    {
+      "code": "KP-08",
+      "country": "KP",
+      "name": "South Hamgyong",
+      "native": "함경남도",
+      "slug": "south-hamgyong",
+      "type": "province"
+    },
+    {
+      "code": "KP-09",
+      "country": "KP",
+      "name": "North Hamgyong",
+      "native": "함경북도",
+      "slug": "north-hamgyong",
+      "type": "province"
+    },
+    {
+      "code": "KP-10",
+      "country": "KP",
+      "name": "Ryanggang",
+      "native": "량강",
+      "slug": "ryanggang",
+      "type": "province"
+    },
+    {
+      "code": "KP-13",
+      "country": "KP",
+      "name": "Rason",
+      "native": "라손",
+      "slug": "rason",
+      "type": "special city"
+    },
+    {
+      "code": "KP-14",
+      "country": "KP",
+      "name": "Nampho",
+      "native": "남포시",
+      "slug": "nampho",
+      "type": "metropolitan city"
+    },
+    {
+      "code": "KP-15",
+      "country": "KP",
+      "name": "Kaesong",
+      "native": "개성시",
+      "slug": "kaesong",
+      "type": "metropolitan city"
+    },
+    {
+      "code": "KR-11",
+      "country": "KR",
+      "name": "Seoul",
+      "native": "서울",
+      "slug": "seoul",
+      "type": "special city"
+    },
+    {
+      "code": "KR-12",
+      "country": "KR",
+      "name": "Jeonnam-Gwangju Integrated Special City",
+      "native": "전남광주통합특별시",
+      "slug": "jeonnam-gwangju-integrated-special-city",
+      "type": "integrated special city"
+    },
+    {
+      "code": "KR-26",
+      "country": "KR",
+      "name": "Busan",
+      "native": "부산",
+      "slug": "busan",
+      "type": "metropolitan city"
+    },
+    {
+      "code": "KR-27",
+      "country": "KR",
+      "name": "Daegu",
+      "native": "대구",
+      "slug": "daegu",
+      "type": "metropolitan city"
+    },
+    {
+      "code": "KR-28",
+      "country": "KR",
+      "name": "Incheon",
+      "native": "인천",
+      "slug": "incheon",
+      "type": "metropolitan city"
+    },
+    {
+      "code": "KR-30",
+      "country": "KR",
+      "name": "Daejeon",
+      "native": "대전",
+      "slug": "daejeon",
+      "type": "metropolitan city"
+    },
+    {
+      "code": "KR-31",
+      "country": "KR",
+      "name": "Ulsan",
+      "native": "울산",
+      "slug": "ulsan",
+      "type": "metropolitan city"
+    },
+    {
+      "code": "KR-41",
+      "country": "KR",
+      "name": "Gyeonggi",
+      "native": "경기도",
+      "slug": "gyeonggi",
+      "type": "province"
+    },
+    {
+      "code": "KR-42",
+      "country": "KR",
+      "name": "Gangwon",
+      "native": "강원특별자치도",
+      "slug": "gangwon",
+      "type": "special self-governing province"
+    },
+    {
+      "code": "KR-43",
+      "country": "KR",
+      "name": "North Chungcheong",
+      "native": "충청북도",
+      "slug": "north-chungcheong",
+      "type": "province"
+    },
+    {
+      "code": "KR-44",
+      "country": "KR",
+      "name": "South Chungcheong",
+      "native": "충청남도",
+      "slug": "south-chungcheong",
+      "type": "province"
+    },
+    {
+      "code": "KR-45",
+      "country": "KR",
+      "name": "North Jeolla",
+      "native": "전북특별자치도",
+      "slug": "north-jeolla",
+      "type": "special self-governing province"
+    },
+    {
+      "code": "KR-47",
+      "country": "KR",
+      "name": "North Gyeongsang",
+      "native": "경상북도",
+      "slug": "north-gyeongsang",
+      "type": "province"
+    },
+    {
+      "code": "KR-48",
+      "country": "KR",
+      "name": "South Gyeongsang",
+      "native": "경상남도",
+      "slug": "south-gyeongsang",
+      "type": "province"
+    },
+    {
+      "code": "KR-49",
+      "country": "KR",
+      "name": "Jeju",
+      "native": "제주",
+      "slug": "jeju",
+      "type": "special self-governing province"
+    },
+    {
+      "code": "KR-50",
+      "country": "KR",
+      "name": "Sejong City",
+      "native": "세종시",
+      "slug": "sejong-city",
+      "type": "special self-governing city"
+    },
+    {
+      "code": "KW-AH",
+      "country": "KW",
+      "name": "Al Ahmadi",
+      "native": "الأحمدي",
+      "slug": "al-ahmadi",
+      "type": "governorate"
+    },
+    {
+      "code": "KW-FA",
+      "country": "KW",
+      "name": "Al Farwaniyah",
+      "native": "الفروانية",
+      "slug": "al-farwaniyah",
+      "type": "governorate"
+    },
+    {
+      "code": "KW-HA",
+      "country": "KW",
+      "name": "Hawalli",
+      "native": "حولي",
+      "slug": "hawalli",
+      "type": "governorate"
+    },
+    {
+      "code": "KW-JA",
+      "country": "KW",
+      "name": "Al Jahra",
+      "native": "الجهراء",
+      "slug": "al-jahra",
+      "type": "governorate"
+    },
+    {
+      "code": "KW-KU",
+      "country": "KW",
+      "name": "Al Asimah",
+      "native": "العاصمة",
+      "slug": "al-asimah",
+      "type": "governorate"
+    },
+    {
+      "code": "KW-MU",
+      "country": "KW",
+      "name": "Mubarak Al-Kabeer",
+      "native": "مبارك الكبير",
+      "slug": "mubarak-al-kabeer",
+      "type": "governorate"
+    },
+    {
+      "code": "KZ-10",
+      "country": "KZ",
+      "name": "Abai",
+      "native": "Абай",
+      "slug": "abai",
+      "type": "region"
+    },
+    {
+      "code": "KZ-11",
+      "country": "KZ",
+      "name": "Akmola",
+      "native": "Ақмола",
+      "slug": "akmola",
+      "type": "region"
+    },
+    {
+      "code": "KZ-15",
+      "country": "KZ",
+      "name": "Aktobe",
+      "native": "Ақтөбе",
+      "slug": "aktobe",
+      "type": "region"
+    },
+    {
+      "code": "KZ-19",
+      "country": "KZ",
+      "name": "Almaty",
+      "native": "Алматы",
+      "slug": "almaty",
+      "type": "region"
+    },
+    {
+      "code": "KZ-23",
+      "country": "KZ",
+      "name": "Atyrau",
+      "native": "Атырау",
+      "slug": "atyrau",
+      "type": "region"
+    },
+    {
+      "code": "KZ-27",
+      "country": "KZ",
+      "name": "West Kazakhstan",
+      "native": "Батыс Қазақстан",
+      "slug": "west-kazakhstan",
+      "type": "region"
+    },
+    {
+      "code": "KZ-31",
+      "country": "KZ",
+      "name": "Jambyl",
+      "native": "Жамбыл",
+      "slug": "jambyl",
+      "type": "region"
+    },
+    {
+      "code": "KZ-33",
+      "country": "KZ",
+      "name": "Jetisu",
+      "native": "Жетісу",
+      "slug": "jetisu",
+      "type": "region"
+    },
+    {
+      "code": "KZ-35",
+      "country": "KZ",
+      "name": "Karaganda",
+      "native": "Қарағанды",
+      "slug": "karaganda",
+      "type": "region"
+    },
+    {
+      "code": "KZ-39",
+      "country": "KZ",
+      "name": "Kostanay",
+      "native": "Қостанай",
+      "slug": "kostanay",
+      "type": "region"
+    },
+    {
+      "code": "KZ-43",
+      "country": "KZ",
+      "name": "Kyzylorda",
+      "native": "Қызылорда",
+      "slug": "kyzylorda",
+      "type": "region"
+    },
+    {
+      "code": "KZ-47",
+      "country": "KZ",
+      "name": "Mangystau",
+      "native": "Маңғыстау",
+      "slug": "mangystau",
+      "type": "region"
+    },
+    {
+      "code": "KZ-55",
+      "country": "KZ",
+      "name": "Pavlodar",
+      "native": "Павлодар",
+      "slug": "pavlodar",
+      "type": "region"
+    },
+    {
+      "code": "KZ-59",
+      "country": "KZ",
+      "name": "North Kazakhstan",
+      "native": "Солтүстік Қазақстан",
+      "slug": "north-kazakhstan",
+      "type": "region"
+    },
+    {
+      "code": "KZ-61",
+      "country": "KZ",
+      "name": "Turkistan",
+      "native": "Түркістан",
+      "slug": "turkistan",
+      "type": "region"
+    },
+    {
+      "code": "KZ-62",
+      "country": "KZ",
+      "name": "Ulytau",
+      "native": "Ұлытау",
+      "slug": "ulytau",
+      "type": "region"
+    },
+    {
+      "code": "KZ-63",
+      "country": "KZ",
+      "name": "East Kazakhstan",
+      "native": "Шығыс Қазақстан",
+      "slug": "east-kazakhstan",
+      "type": "region"
+    },
+    {
+      "code": "KZ-71",
+      "country": "KZ",
+      "name": "Astana",
+      "native": "Астана",
+      "slug": "astana",
+      "type": "city"
+    },
+    {
+      "code": "KZ-75",
+      "country": "KZ",
+      "name": "Almaty",
+      "native": "Алматы",
+      "slug": "kz-75",
+      "type": "city"
+    },
+    {
+      "code": "KZ-79",
+      "country": "KZ",
+      "name": "Shymkent",
+      "native": "Шымкент",
+      "slug": "shymkent",
+      "type": "city"
+    },
+    {
+      "code": "LA-AT",
+      "country": "LA",
+      "name": "Attapeu",
+      "native": "ອັດຕະປື",
+      "slug": "attapeu",
+      "type": "province"
+    },
+    {
+      "code": "LA-BK",
+      "country": "LA",
+      "name": "Bokeo",
+      "native": "ບໍ່ແກ້ວ",
+      "slug": "bokeo",
+      "type": "province"
+    },
+    {
+      "code": "LA-BL",
+      "country": "LA",
+      "name": "Bolikhamsai",
+      "native": "ບໍລິຄຳໄຊ",
+      "slug": "bolikhamsai",
+      "type": "province"
+    },
+    {
+      "code": "LA-CH",
+      "country": "LA",
+      "name": "Champasak",
+      "native": "ຈໍາປາສັກ",
+      "slug": "champasak",
+      "type": "province"
+    },
+    {
+      "code": "LA-HO",
+      "country": "LA",
+      "name": "Houaphanh",
+      "native": "ຫົວພັນ",
+      "slug": "houaphanh",
+      "type": "province"
+    },
+    {
+      "code": "LA-KH",
+      "country": "LA",
+      "name": "Khammouane",
+      "native": "ຄຳມ່ວນ",
+      "slug": "khammouane",
+      "type": "province"
+    },
+    {
+      "code": "LA-LM",
+      "country": "LA",
+      "name": "Luang Namtha",
+      "native": "ຫຼວງນ້ຳທາ",
+      "slug": "luang-namtha",
+      "type": "province"
+    },
+    {
+      "code": "LA-LP",
+      "country": "LA",
+      "name": "Luang Prabang",
+      "native": "ຫຼວງພະບາງ",
+      "slug": "luang-prabang",
+      "type": "province"
+    },
+    {
+      "code": "LA-OU",
+      "country": "LA",
+      "name": "Oudomxay",
+      "native": "ອຸດົມໄຊ",
+      "slug": "oudomxay",
+      "type": "province"
+    },
+    {
+      "code": "LA-PH",
+      "country": "LA",
+      "name": "Phongsaly",
+      "native": "ຜົ້ງສາລີ",
+      "slug": "phongsaly",
+      "type": "province"
+    },
+    {
+      "code": "LA-SL",
+      "country": "LA",
+      "name": "Salavan",
+      "native": "ສາລະວັນ",
+      "slug": "salavan",
+      "type": "province"
+    },
+    {
+      "code": "LA-SV",
+      "country": "LA",
+      "name": "Savannakhet",
+      "native": "ສະຫວັນນະເຂດ",
+      "slug": "savannakhet",
+      "type": "province"
+    },
+    {
+      "code": "LA-VI",
+      "country": "LA",
+      "name": "Vientiane",
+      "native": "ວຽງຈັນ",
+      "slug": "vientiane",
+      "type": "province"
+    },
+    {
+      "code": "LA-VT",
+      "country": "LA",
+      "name": "Vientiane",
+      "native": "ວຽງຈັນ",
+      "slug": "la-vt",
+      "type": "prefecture"
+    },
+    {
+      "code": "LA-XA",
+      "country": "LA",
+      "name": "Sainyabuli",
+      "native": "ໄຊຍາບູລີ",
+      "slug": "sainyabuli",
+      "type": "province"
+    },
+    {
+      "code": "LA-XE",
+      "country": "LA",
+      "name": "Sekong",
+      "native": "ເຊກອງ",
+      "slug": "sekong",
+      "type": "province"
+    },
+    {
+      "code": "LA-XI",
+      "country": "LA",
+      "name": "Xiangkhouang",
+      "native": "ຊຽງຂວາງ",
+      "slug": "xiangkhouang",
+      "type": "province"
+    },
+    {
+      "code": "LA-XS",
+      "country": "LA",
+      "name": "Xaisomboun",
+      "native": "ໄຊສົມບູນ",
+      "slug": "xaisomboun",
+      "type": "province"
+    },
+    {
+      "code": "LB-AK",
+      "country": "LB",
+      "name": "Akkar",
+      "native": "الحبار",
+      "slug": "akkar",
+      "type": "governorate"
+    },
+    {
+      "code": "LB-AS",
+      "country": "LB",
+      "name": "North",
+      "native": "شمال",
+      "slug": "north",
+      "type": "governorate"
+    },
+    {
+      "code": "LB-BA",
+      "country": "LB",
+      "name": "Beirut",
+      "native": "بير",
+      "slug": "beirut",
+      "type": "governorate"
+    },
+    {
+      "code": "LB-BH",
+      "country": "LB",
+      "name": "Baalbek-Hermel",
+      "native": "بيل هيرميل",
+      "slug": "baalbek-hermel",
+      "type": "governorate"
+    },
+    {
+      "code": "LB-BI",
+      "country": "LB",
+      "name": "Beqaa",
+      "native": "البقاع",
+      "slug": "beqaa",
+      "type": "governorate"
+    },
+    {
+      "code": "LB-JA",
+      "country": "LB",
+      "name": "South",
+      "native": "جنوب",
+      "slug": "south",
+      "type": "governorate"
+    },
+    {
+      "code": "LB-JL",
+      "country": "LB",
+      "name": "Mount Lebanon",
+      "native": "جبل لبنان",
+      "slug": "mount-lebanon",
+      "type": "governorate"
+    },
+    {
+      "code": "LB-NA",
+      "country": "LB",
+      "name": "Nabatieh",
+      "native": "ناباتيه",
+      "slug": "nabatieh",
+      "type": "governorate"
+    },
+    {
       "code": "LI-01",
       "country": "LI",
       "name": "Balzers",
@@ -9027,6 +13770,278 @@
       "name": "Vaduz",
       "slug": "vaduz",
       "type": "commune"
+    },
+    {
+      "code": "LK-1",
+      "country": "LK",
+      "name": "Western",
+      "native": "බටහිර",
+      "slug": "western",
+      "type": "province"
+    },
+    {
+      "code": "LK-11",
+      "country": "LK",
+      "name": "Colombo",
+      "native": "කොළඹ",
+      "slug": "colombo",
+      "type": "district"
+    },
+    {
+      "code": "LK-12",
+      "country": "LK",
+      "name": "Gampaha",
+      "native": "ගම්පහ",
+      "slug": "gampaha",
+      "type": "district"
+    },
+    {
+      "code": "LK-13",
+      "country": "LK",
+      "name": "Kalutara",
+      "native": "කළුතර",
+      "slug": "kalutara",
+      "type": "district"
+    },
+    {
+      "code": "LK-2",
+      "country": "LK",
+      "name": "Central",
+      "native": "මධ්‍යම",
+      "slug": "central",
+      "type": "province"
+    },
+    {
+      "code": "LK-21",
+      "country": "LK",
+      "name": "Kandy",
+      "native": "මහනුවර",
+      "slug": "kandy",
+      "type": "district"
+    },
+    {
+      "code": "LK-22",
+      "country": "LK",
+      "name": "Matale",
+      "native": "මාතලේ",
+      "slug": "matale",
+      "type": "district"
+    },
+    {
+      "code": "LK-23",
+      "country": "LK",
+      "name": "Nuwara Eliya",
+      "native": "නුවරඑළිය",
+      "slug": "nuwara-eliya",
+      "type": "district"
+    },
+    {
+      "code": "LK-3",
+      "country": "LK",
+      "name": "Southern",
+      "native": "දකුණු",
+      "slug": "southern",
+      "type": "province"
+    },
+    {
+      "code": "LK-31",
+      "country": "LK",
+      "name": "Galle",
+      "native": "ගාල්ල",
+      "slug": "galle",
+      "type": "district"
+    },
+    {
+      "code": "LK-32",
+      "country": "LK",
+      "name": "Matara",
+      "native": "මාතර",
+      "slug": "matara",
+      "type": "district"
+    },
+    {
+      "code": "LK-33",
+      "country": "LK",
+      "name": "Hambantota",
+      "native": "හම්බන්තොට",
+      "slug": "hambantota",
+      "type": "district"
+    },
+    {
+      "code": "LK-4",
+      "country": "LK",
+      "name": "Northern",
+      "native": "උතුරු",
+      "slug": "northern",
+      "type": "province"
+    },
+    {
+      "code": "LK-41",
+      "country": "LK",
+      "name": "Jaffna",
+      "native": "යාපනය",
+      "slug": "jaffna",
+      "type": "district"
+    },
+    {
+      "code": "LK-42",
+      "country": "LK",
+      "name": "Kilinochchi",
+      "native": "කිලිනොච්චිය",
+      "slug": "kilinochchi",
+      "type": "district"
+    },
+    {
+      "code": "LK-43",
+      "country": "LK",
+      "name": "Mannar",
+      "native": "මන්නාරම",
+      "slug": "mannar",
+      "type": "district"
+    },
+    {
+      "code": "LK-44",
+      "country": "LK",
+      "name": "Vavuniya",
+      "native": "වවුනියාව",
+      "slug": "vavuniya",
+      "type": "district"
+    },
+    {
+      "code": "LK-45",
+      "country": "LK",
+      "name": "Mullaitivu",
+      "native": "මුලතිව්",
+      "slug": "mullaitivu",
+      "type": "district"
+    },
+    {
+      "code": "LK-5",
+      "country": "LK",
+      "name": "Eastern",
+      "native": "නැගෙනහිර",
+      "slug": "eastern",
+      "type": "province"
+    },
+    {
+      "code": "LK-51",
+      "country": "LK",
+      "name": "Batticaloa",
+      "native": "මඩකලපුව",
+      "slug": "batticaloa",
+      "type": "district"
+    },
+    {
+      "code": "LK-52",
+      "country": "LK",
+      "name": "Ampara",
+      "native": "අම්පාර",
+      "slug": "ampara",
+      "type": "district"
+    },
+    {
+      "code": "LK-53",
+      "country": "LK",
+      "name": "Trincomalee",
+      "native": "ත්‍රිකුණාමලය",
+      "slug": "trincomalee",
+      "type": "district"
+    },
+    {
+      "code": "LK-6",
+      "country": "LK",
+      "name": "North Western",
+      "native": "වයඹ",
+      "slug": "north-western",
+      "type": "province"
+    },
+    {
+      "code": "LK-61",
+      "country": "LK",
+      "name": "Kurunegala",
+      "native": "කුරුණෑගල",
+      "slug": "kurunegala",
+      "type": "district"
+    },
+    {
+      "code": "LK-62",
+      "country": "LK",
+      "name": "Puttalam",
+      "native": "පුත්තලම",
+      "slug": "puttalam",
+      "type": "district"
+    },
+    {
+      "code": "LK-7",
+      "country": "LK",
+      "name": "North Central",
+      "native": "උතුරු මැද",
+      "slug": "north-central",
+      "type": "province"
+    },
+    {
+      "code": "LK-71",
+      "country": "LK",
+      "name": "Anuradhapura",
+      "native": "අනුරාධපුර",
+      "slug": "anuradhapura",
+      "type": "district"
+    },
+    {
+      "code": "LK-72",
+      "country": "LK",
+      "name": "Polonnaruwa",
+      "native": "පොලොන්නරුව",
+      "slug": "polonnaruwa",
+      "type": "district"
+    },
+    {
+      "code": "LK-8",
+      "country": "LK",
+      "name": "Uva",
+      "native": "ඌව",
+      "slug": "uva",
+      "type": "province"
+    },
+    {
+      "code": "LK-81",
+      "country": "LK",
+      "name": "Badulla",
+      "native": "බදුල්ල",
+      "slug": "badulla",
+      "type": "district"
+    },
+    {
+      "code": "LK-82",
+      "country": "LK",
+      "name": "Monaragala",
+      "native": "මොනරාගල",
+      "slug": "monaragala",
+      "type": "district"
+    },
+    {
+      "code": "LK-9",
+      "country": "LK",
+      "name": "Sabaragamuwa",
+      "native": "සබරගමුව",
+      "slug": "sabaragamuwa",
+      "type": "province"
+    },
+    {
+      "code": "LK-91",
+      "country": "LK",
+      "name": "Ratnapura",
+      "native": "රත්නපුර",
+      "slug": "ratnapura",
+      "type": "district"
+    },
+    {
+      "code": "LK-92",
+      "country": "LK",
+      "name": "Kegalle",
+      "native": "කෑගල්ල",
+      "slug": "kegalle",
+      "type": "district"
     },
     {
       "code": "LT-01",
@@ -9567,11 +14582,27 @@
       "type": "canton"
     },
     {
+      "code": "LU-GR",
+      "country": "LU",
+      "name": "Grevenmacher",
+      "native": "Kanton Gréiwemaacher",
+      "slug": "lu-gr",
+      "type": "canton"
+    },
+    {
       "code": "LU-L",
       "country": "LU",
       "name": "Luxembourg ",
       "native": "Luxembourg",
       "slug": "luxembourg",
+      "type": "canton"
+    },
+    {
+      "code": "LU-LU",
+      "country": "LU",
+      "name": "Luxembourg",
+      "native": "Kanton Lëtzebuerg",
+      "slug": "lu-lu",
       "type": "canton"
     },
     {
@@ -11136,6 +16167,302 @@
       "type": "municipality"
     },
     {
+      "code": "MM-01",
+      "country": "MM",
+      "name": "Sagaing",
+      "native": "စစ်ကိုင်းတိုင်း",
+      "slug": "sagaing",
+      "type": "region"
+    },
+    {
+      "code": "MM-02",
+      "country": "MM",
+      "name": "Bago",
+      "native": "ဉီးစွာ",
+      "slug": "bago",
+      "type": "region"
+    },
+    {
+      "code": "MM-03",
+      "country": "MM",
+      "name": "Magway",
+      "native": "ဆောင်ရွက်နိုင်",
+      "slug": "magway",
+      "type": "region"
+    },
+    {
+      "code": "MM-04",
+      "country": "MM",
+      "name": "Mandalay",
+      "native": "မန္တလေး",
+      "slug": "mandalay",
+      "type": "region"
+    },
+    {
+      "code": "MM-05",
+      "country": "MM",
+      "name": "Tanintharyi",
+      "native": "တနင်္သာရီ",
+      "slug": "tanintharyi",
+      "type": "region"
+    },
+    {
+      "code": "MM-06",
+      "country": "MM",
+      "name": "Yangon",
+      "native": "ရန်ကုန်",
+      "slug": "yangon",
+      "type": "region"
+    },
+    {
+      "code": "MM-07",
+      "country": "MM",
+      "name": "Ayeyarwady",
+      "native": "ar ရာဝတီ",
+      "slug": "ayeyarwady",
+      "type": "region"
+    },
+    {
+      "code": "MM-11",
+      "country": "MM",
+      "name": "Kachin",
+      "native": "ကချင်လူမျိုး",
+      "slug": "kachin",
+      "type": "state"
+    },
+    {
+      "code": "MM-12",
+      "country": "MM",
+      "name": "Kayah",
+      "native": "ကရင်",
+      "slug": "kayah",
+      "type": "state"
+    },
+    {
+      "code": "MM-13",
+      "country": "MM",
+      "name": "Kayin",
+      "native": "nephy",
+      "slug": "kayin",
+      "type": "state"
+    },
+    {
+      "code": "MM-14",
+      "country": "MM",
+      "name": "Chin",
+      "native": "မေးစေ့",
+      "slug": "chin",
+      "type": "state"
+    },
+    {
+      "code": "MM-15",
+      "country": "MM",
+      "name": "Mon State",
+      "native": "မွန်ပြည်နယ်",
+      "slug": "mon-state",
+      "type": "state"
+    },
+    {
+      "code": "MM-16",
+      "country": "MM",
+      "name": "Rakhine",
+      "native": "ရခိုင်",
+      "slug": "rakhine",
+      "type": "state"
+    },
+    {
+      "code": "MM-17",
+      "country": "MM",
+      "name": "Shan",
+      "native": "ရှမ်း",
+      "slug": "shan",
+      "type": "state"
+    },
+    {
+      "code": "MM-18",
+      "country": "MM",
+      "name": "Naypyidaw",
+      "native": "နေပြည်တော်",
+      "slug": "naypyidaw",
+      "type": "union territory"
+    },
+    {
+      "code": "MN-035",
+      "country": "MN",
+      "name": "Orkhon",
+      "native": "Орхон",
+      "slug": "orkhon",
+      "type": "province"
+    },
+    {
+      "code": "MN-037",
+      "country": "MN",
+      "name": "Darkhan-Uul",
+      "native": "Дархан-Уул",
+      "slug": "darkhan-uul",
+      "type": "province"
+    },
+    {
+      "code": "MN-039",
+      "country": "MN",
+      "name": "Khentii",
+      "native": "Хэнтий",
+      "slug": "khentii",
+      "type": "province"
+    },
+    {
+      "code": "MN-041",
+      "country": "MN",
+      "name": "Khövsgöl",
+      "native": "Хөвсгөл",
+      "slug": "khovsgol",
+      "type": "province"
+    },
+    {
+      "code": "MN-043",
+      "country": "MN",
+      "name": "Khovd",
+      "native": "Ховд",
+      "slug": "khovd",
+      "type": "province"
+    },
+    {
+      "code": "MN-046",
+      "country": "MN",
+      "name": "Uvs",
+      "native": "Увс",
+      "slug": "uvs",
+      "type": "province"
+    },
+    {
+      "code": "MN-047",
+      "country": "MN",
+      "name": "Töv",
+      "native": "Төв",
+      "slug": "tov",
+      "type": "province"
+    },
+    {
+      "code": "MN-049",
+      "country": "MN",
+      "name": "Selenge",
+      "native": "Сэлэнгэ",
+      "slug": "selenge",
+      "type": "province"
+    },
+    {
+      "code": "MN-051",
+      "country": "MN",
+      "name": "Sükhbaatar",
+      "native": "Сүхбаатар",
+      "slug": "sukhbaatar",
+      "type": "province"
+    },
+    {
+      "code": "MN-053",
+      "country": "MN",
+      "name": "Ömnögovi",
+      "native": "Өмнөговь",
+      "slug": "omnogovi",
+      "type": "province"
+    },
+    {
+      "code": "MN-055",
+      "country": "MN",
+      "name": "Övörkhangai",
+      "native": "Өвөрхангай",
+      "slug": "ovorkhangai",
+      "type": "province"
+    },
+    {
+      "code": "MN-057",
+      "country": "MN",
+      "name": "Zavkhan",
+      "native": "Завхан",
+      "slug": "zavkhan",
+      "type": "province"
+    },
+    {
+      "code": "MN-059",
+      "country": "MN",
+      "name": "Dundgovi",
+      "native": "Дундговь",
+      "slug": "dundgovi",
+      "type": "province"
+    },
+    {
+      "code": "MN-061",
+      "country": "MN",
+      "name": "Dornod",
+      "native": "Дорнод",
+      "slug": "dornod",
+      "type": "province"
+    },
+    {
+      "code": "MN-063",
+      "country": "MN",
+      "name": "Dornogovi",
+      "native": "Дорноговь",
+      "slug": "dornogovi",
+      "type": "province"
+    },
+    {
+      "code": "MN-064",
+      "country": "MN",
+      "name": "Govisümber",
+      "native": "Говьсүмбэр",
+      "slug": "govisumber",
+      "type": "province"
+    },
+    {
+      "code": "MN-065",
+      "country": "MN",
+      "name": "Govi-Altai",
+      "native": "Говь-Алтай",
+      "slug": "govi-altai",
+      "type": "province"
+    },
+    {
+      "code": "MN-067",
+      "country": "MN",
+      "name": "Bulgan",
+      "native": "Булган",
+      "slug": "bulgan",
+      "type": "province"
+    },
+    {
+      "code": "MN-069",
+      "country": "MN",
+      "name": "Bayankhongor",
+      "native": "Баянхонгор",
+      "slug": "bayankhongor",
+      "type": "province"
+    },
+    {
+      "code": "MN-071",
+      "country": "MN",
+      "name": "Bayan-Ölgii",
+      "native": "Баян-Өлгий",
+      "slug": "bayan-olgii",
+      "type": "province"
+    },
+    {
+      "code": "MN-073",
+      "country": "MN",
+      "name": "Arkhangai",
+      "native": "Архангай",
+      "slug": "arkhangai",
+      "type": "province"
+    },
+    {
+      "code": "MN-1",
+      "country": "MN",
+      "name": "Ulaanbaatar",
+      "native": "Улаанбаатар",
+      "slug": "ulaanbaatar",
+      "type": "capital city"
+    },
+    {
       "code": "MT-01",
       "country": "MT",
       "name": "Attard",
@@ -11619,6 +16946,288 @@
       "type": "local council"
     },
     {
+      "code": "MV-00",
+      "country": "MV",
+      "name": "Alif Dhaal",
+      "native": "އަލީފް ދަލް",
+      "slug": "alif-dhaal",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-01",
+      "country": "MV",
+      "name": "Addu",
+      "native": "ދުޢާ",
+      "slug": "addu",
+      "type": "city"
+    },
+    {
+      "code": "MV-02",
+      "country": "MV",
+      "name": "Alif Alif",
+      "native": "އަލީފް އަލީފް",
+      "slug": "alif-alif",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-03",
+      "country": "MV",
+      "name": "Lhaviyani",
+      "native": "ލަހަވާނީ",
+      "slug": "lhaviyani",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-04",
+      "country": "MV",
+      "name": "Vaavu",
+      "native": "ހެދުން",
+      "slug": "vaavu",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-05",
+      "country": "MV",
+      "name": "Laamu",
+      "native": "ސަރުކާރު",
+      "slug": "laamu",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-07",
+      "country": "MV",
+      "name": "Haa Alif",
+      "native": "ހާ އަލިފް",
+      "slug": "haa-alif",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-08",
+      "country": "MV",
+      "name": "Thaa",
+      "native": "ތައާ",
+      "slug": "thaa",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-12",
+      "country": "MV",
+      "name": "Meemu",
+      "native": "މީމު",
+      "slug": "meemu",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-13",
+      "country": "MV",
+      "name": "Raa",
+      "native": "ރާ",
+      "slug": "raa",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-14",
+      "country": "MV",
+      "name": "Faafu",
+      "native": "ފައު",
+      "slug": "faafu",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-17",
+      "country": "MV",
+      "name": "Dhaalu",
+      "native": "ދައުލޫ",
+      "slug": "dhaalu",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-20",
+      "country": "MV",
+      "name": "Baa",
+      "native": "ބ އަތޮޅު",
+      "slug": "baa",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-23",
+      "country": "MV",
+      "name": "Haa Dhaalu",
+      "native": "އޭނާއަށް ވާރުތަވާށިއެވެ .",
+      "slug": "haa-dhaalu",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-24",
+      "country": "MV",
+      "name": "Shaviyani",
+      "native": "ލޮނު",
+      "slug": "shaviyani",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-25",
+      "country": "MV",
+      "name": "Noonu",
+      "native": "ނޫނޫނެވެ",
+      "slug": "noonu",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-26",
+      "country": "MV",
+      "name": "Kaafu",
+      "native": "ކައިފީ",
+      "slug": "kaafu",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-27",
+      "country": "MV",
+      "name": "Gaafu Alif",
+      "native": "އެ ސުވާލު އަލިފް",
+      "slug": "gaafu-alif",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-28",
+      "country": "MV",
+      "name": "Gaafu Dhaalu",
+      "native": "އެމީހުންނަށް ވާރުތަވާ ސުވާލު",
+      "slug": "gaafu-dhaalu",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-29",
+      "country": "MV",
+      "name": "Gnaviyani",
+      "native": "ގްނާވިއަން",
+      "slug": "gnaviyani",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MV-MLE",
+      "country": "MV",
+      "name": "Malé",
+      "native": "ކުޑަ",
+      "slug": "male",
+      "type": "administrative atoll"
+    },
+    {
+      "code": "MY-01",
+      "country": "MY",
+      "name": "Johor",
+      "slug": "johor",
+      "type": "state"
+    },
+    {
+      "code": "MY-02",
+      "country": "MY",
+      "name": "Kedah",
+      "slug": "kedah",
+      "type": "state"
+    },
+    {
+      "code": "MY-03",
+      "country": "MY",
+      "name": "Kelantan",
+      "slug": "kelantan",
+      "type": "state"
+    },
+    {
+      "code": "MY-04",
+      "country": "MY",
+      "name": "Malacca",
+      "native": "Melaka",
+      "slug": "malacca",
+      "type": "state"
+    },
+    {
+      "code": "MY-05",
+      "country": "MY",
+      "name": "Negeri Sembilan",
+      "slug": "negeri-sembilan",
+      "type": "state"
+    },
+    {
+      "code": "MY-06",
+      "country": "MY",
+      "name": "Pahang",
+      "slug": "pahang",
+      "type": "state"
+    },
+    {
+      "code": "MY-07",
+      "country": "MY",
+      "name": "Penang",
+      "native": "Pulau Pinang",
+      "slug": "penang",
+      "type": "state"
+    },
+    {
+      "code": "MY-08",
+      "country": "MY",
+      "name": "Perak",
+      "slug": "perak",
+      "type": "state"
+    },
+    {
+      "code": "MY-09",
+      "country": "MY",
+      "name": "Perlis",
+      "slug": "perlis",
+      "type": "state"
+    },
+    {
+      "code": "MY-10",
+      "country": "MY",
+      "name": "Selangor",
+      "slug": "selangor",
+      "type": "state"
+    },
+    {
+      "code": "MY-11",
+      "country": "MY",
+      "name": "Terengganu",
+      "slug": "terengganu",
+      "type": "state"
+    },
+    {
+      "code": "MY-12",
+      "country": "MY",
+      "name": "Sabah",
+      "slug": "sabah",
+      "type": "state"
+    },
+    {
+      "code": "MY-13",
+      "country": "MY",
+      "name": "Sarawak",
+      "slug": "sarawak",
+      "type": "state"
+    },
+    {
+      "code": "MY-14",
+      "country": "MY",
+      "name": "Kuala Lumpur",
+      "slug": "kuala-lumpur",
+      "type": "federal territory"
+    },
+    {
+      "code": "MY-15",
+      "country": "MY",
+      "name": "Labuan",
+      "slug": "labuan",
+      "type": "federal territory"
+    },
+    {
+      "code": "MY-16",
+      "country": "MY",
+      "name": "Putrajaya",
+      "slug": "putrajaya",
+      "type": "federal territory"
+    },
+    {
       "code": "NL-DR",
       "country": "NL",
       "name": "Drenthe",
@@ -11826,6 +17435,150 @@
       "type": "county"
     },
     {
+      "code": "NP-P1",
+      "country": "NP",
+      "name": "Koshi",
+      "native": "कोशी",
+      "slug": "koshi",
+      "type": "province"
+    },
+    {
+      "code": "NP-P2",
+      "country": "NP",
+      "name": "Madhesh",
+      "native": "मधेश",
+      "slug": "madhesh",
+      "type": "province"
+    },
+    {
+      "code": "NP-P3",
+      "country": "NP",
+      "name": "Bagmati",
+      "native": "बागमती",
+      "slug": "bagmati",
+      "type": "province"
+    },
+    {
+      "code": "NP-P4",
+      "country": "NP",
+      "name": "Gandaki",
+      "native": "गण्डकी",
+      "slug": "gandaki",
+      "type": "province"
+    },
+    {
+      "code": "NP-P5",
+      "country": "NP",
+      "name": "Lumbini",
+      "native": "लुम्बिनी",
+      "slug": "lumbini",
+      "type": "province"
+    },
+    {
+      "code": "NP-P6",
+      "country": "NP",
+      "name": "Karnali",
+      "native": "कर्णाली",
+      "slug": "karnali",
+      "type": "province"
+    },
+    {
+      "code": "NP-P7",
+      "country": "NP",
+      "name": "Sudurpashchim",
+      "native": "सुदर्गेपचिम",
+      "slug": "sudurpashchim",
+      "type": "province"
+    },
+    {
+      "code": "OM-BJ",
+      "country": "OM",
+      "name": "Al Batinah South",
+      "native": "جنوب الباطنة",
+      "slug": "al-batinah-south",
+      "type": "governorate"
+    },
+    {
+      "code": "OM-BS",
+      "country": "OM",
+      "name": "Al Batinah North",
+      "native": "شمال الباطنة",
+      "slug": "al-batinah-north",
+      "type": "governorate"
+    },
+    {
+      "code": "OM-BU",
+      "country": "OM",
+      "name": "Al Buraimi",
+      "native": "البريمي",
+      "slug": "al-buraimi",
+      "type": "governorate"
+    },
+    {
+      "code": "OM-DA",
+      "country": "OM",
+      "name": "Ad Dakhiliyah",
+      "native": "الداخلية",
+      "slug": "ad-dakhiliyah",
+      "type": "governorate"
+    },
+    {
+      "code": "OM-MA",
+      "country": "OM",
+      "name": "Muscat",
+      "native": "المسكات عنب طيب الشذا",
+      "slug": "muscat",
+      "type": "governorate"
+    },
+    {
+      "code": "OM-MU",
+      "country": "OM",
+      "name": "Musandam",
+      "native": "مسندم",
+      "slug": "musandam",
+      "type": "governorate"
+    },
+    {
+      "code": "OM-SJ",
+      "country": "OM",
+      "name": "Ash Sharqiyah South",
+      "native": "جنوب الشرقية",
+      "slug": "ash-sharqiyah-south",
+      "type": "governorate"
+    },
+    {
+      "code": "OM-SS",
+      "country": "OM",
+      "name": "Ash Sharqiyah North",
+      "native": "شمال الشرقية",
+      "slug": "ash-sharqiyah-north",
+      "type": "governorate"
+    },
+    {
+      "code": "OM-WU",
+      "country": "OM",
+      "name": "Al Wusta",
+      "native": "الوسطى",
+      "slug": "al-wusta",
+      "type": "governorate"
+    },
+    {
+      "code": "OM-ZA",
+      "country": "OM",
+      "name": "Ad Dhahirah",
+      "native": "الظاهرة",
+      "slug": "ad-dhahirah",
+      "type": "governorate"
+    },
+    {
+      "code": "OM-ZU",
+      "country": "OM",
+      "name": "Dhofar",
+      "native": "ظفار",
+      "slug": "dhofar",
+      "type": "governorate"
+    },
+    {
       "code": "PE-AMA",
       "country": "PE",
       "name": "Amazonas",
@@ -12012,6 +17765,755 @@
       "type": "region"
     },
     {
+      "code": "PH-00",
+      "country": "PH",
+      "name": "National Capital Region (Metro Manila)",
+      "slug": "national-capital-region-metro-manila",
+      "type": "region"
+    },
+    {
+      "code": "PH-01",
+      "country": "PH",
+      "name": "Ilocos",
+      "slug": "ilocos",
+      "type": "region"
+    },
+    {
+      "code": "PH-02",
+      "country": "PH",
+      "name": "Cagayan Valley",
+      "slug": "cagayan-valley",
+      "type": "region"
+    },
+    {
+      "code": "PH-03",
+      "country": "PH",
+      "name": "Central Luzon",
+      "slug": "central-luzon",
+      "type": "region"
+    },
+    {
+      "code": "PH-05",
+      "country": "PH",
+      "name": "Bicol",
+      "slug": "bicol",
+      "type": "region"
+    },
+    {
+      "code": "PH-06",
+      "country": "PH",
+      "name": "Western Visayas",
+      "slug": "western-visayas",
+      "type": "region"
+    },
+    {
+      "code": "PH-07",
+      "country": "PH",
+      "name": "Central Visayas",
+      "slug": "central-visayas",
+      "type": "region"
+    },
+    {
+      "code": "PH-08",
+      "country": "PH",
+      "name": "Eastern Visayas",
+      "slug": "eastern-visayas",
+      "type": "region"
+    },
+    {
+      "code": "PH-09",
+      "country": "PH",
+      "name": "Zamboanga Peninsula",
+      "slug": "zamboanga-peninsula",
+      "type": "region"
+    },
+    {
+      "code": "PH-10",
+      "country": "PH",
+      "name": "Northern Mindanao",
+      "slug": "northern-mindanao",
+      "type": "region"
+    },
+    {
+      "code": "PH-11",
+      "country": "PH",
+      "name": "Davao",
+      "slug": "davao",
+      "type": "region"
+    },
+    {
+      "code": "PH-12",
+      "country": "PH",
+      "name": "Soccsksargen",
+      "slug": "soccsksargen",
+      "type": "region"
+    },
+    {
+      "code": "PH-13",
+      "country": "PH",
+      "name": "Caraga",
+      "slug": "caraga",
+      "type": "region"
+    },
+    {
+      "code": "PH-14",
+      "country": "PH",
+      "name": "Autonomous Region in Muslim Mindanao",
+      "slug": "autonomous-region-in-muslim-mindanao",
+      "type": "region"
+    },
+    {
+      "code": "PH-15",
+      "country": "PH",
+      "name": "Cordillera Administrative",
+      "slug": "cordillera-administrative",
+      "type": "region"
+    },
+    {
+      "code": "PH-40",
+      "country": "PH",
+      "name": "Calabarzon",
+      "slug": "calabarzon",
+      "type": "region"
+    },
+    {
+      "code": "PH-41",
+      "country": "PH",
+      "name": "Mimaropa",
+      "slug": "mimaropa",
+      "type": "region"
+    },
+    {
+      "code": "PH-ABR",
+      "country": "PH",
+      "name": "Abra",
+      "slug": "abra",
+      "type": "province"
+    },
+    {
+      "code": "PH-AGN",
+      "country": "PH",
+      "name": "Agusan del Norte",
+      "slug": "agusan-del-norte",
+      "type": "province"
+    },
+    {
+      "code": "PH-AGS",
+      "country": "PH",
+      "name": "Agusan del Sur",
+      "slug": "agusan-del-sur",
+      "type": "province"
+    },
+    {
+      "code": "PH-AKL",
+      "country": "PH",
+      "name": "Aklan",
+      "slug": "aklan",
+      "type": "province"
+    },
+    {
+      "code": "PH-ALB",
+      "country": "PH",
+      "name": "Albay",
+      "slug": "albay",
+      "type": "province"
+    },
+    {
+      "code": "PH-ANT",
+      "country": "PH",
+      "name": "Antique",
+      "slug": "antique",
+      "type": "province"
+    },
+    {
+      "code": "PH-APA",
+      "country": "PH",
+      "name": "Apayao",
+      "slug": "apayao",
+      "type": "province"
+    },
+    {
+      "code": "PH-AUR",
+      "country": "PH",
+      "name": "Aurora",
+      "slug": "aurora",
+      "type": "province"
+    },
+    {
+      "code": "PH-BAN",
+      "country": "PH",
+      "name": "Bataan",
+      "slug": "bataan",
+      "type": "province"
+    },
+    {
+      "code": "PH-BAS",
+      "country": "PH",
+      "name": "Basilan",
+      "slug": "basilan",
+      "type": "province"
+    },
+    {
+      "code": "PH-BEN",
+      "country": "PH",
+      "name": "Benguet",
+      "slug": "benguet",
+      "type": "province"
+    },
+    {
+      "code": "PH-BIL",
+      "country": "PH",
+      "name": "Biliran",
+      "slug": "biliran",
+      "type": "province"
+    },
+    {
+      "code": "PH-BOH",
+      "country": "PH",
+      "name": "Bohol",
+      "slug": "bohol",
+      "type": "province"
+    },
+    {
+      "code": "PH-BTG",
+      "country": "PH",
+      "name": "Batangas",
+      "slug": "batangas",
+      "type": "province"
+    },
+    {
+      "code": "PH-BTN",
+      "country": "PH",
+      "name": "Batanes",
+      "slug": "batanes",
+      "type": "province"
+    },
+    {
+      "code": "PH-BUK",
+      "country": "PH",
+      "name": "Bukidnon",
+      "slug": "bukidnon",
+      "type": "province"
+    },
+    {
+      "code": "PH-BUL",
+      "country": "PH",
+      "name": "Bulacan",
+      "slug": "bulacan",
+      "type": "province"
+    },
+    {
+      "code": "PH-CAG",
+      "country": "PH",
+      "name": "Cagayan",
+      "slug": "cagayan",
+      "type": "province"
+    },
+    {
+      "code": "PH-CAM",
+      "country": "PH",
+      "name": "Camiguin",
+      "slug": "camiguin",
+      "type": "province"
+    },
+    {
+      "code": "PH-CAN",
+      "country": "PH",
+      "name": "Camarines Norte",
+      "slug": "camarines-norte",
+      "type": "province"
+    },
+    {
+      "code": "PH-CAP",
+      "country": "PH",
+      "name": "Capiz",
+      "slug": "capiz",
+      "type": "province"
+    },
+    {
+      "code": "PH-CAS",
+      "country": "PH",
+      "name": "Camarines Sur",
+      "slug": "camarines-sur",
+      "type": "province"
+    },
+    {
+      "code": "PH-CAT",
+      "country": "PH",
+      "name": "Catanduanes",
+      "slug": "catanduanes",
+      "type": "province"
+    },
+    {
+      "code": "PH-CAV",
+      "country": "PH",
+      "name": "Cavite",
+      "slug": "cavite",
+      "type": "province"
+    },
+    {
+      "code": "PH-CEB",
+      "country": "PH",
+      "name": "Cebu",
+      "slug": "cebu",
+      "type": "province"
+    },
+    {
+      "code": "PH-COM",
+      "country": "PH",
+      "name": "Davao de Oro",
+      "slug": "davao-de-oro",
+      "type": "province"
+    },
+    {
+      "code": "PH-DAO",
+      "country": "PH",
+      "name": "Davao Oriental",
+      "slug": "davao-oriental",
+      "type": "province"
+    },
+    {
+      "code": "PH-DAS",
+      "country": "PH",
+      "name": "Davao del Sur",
+      "slug": "davao-del-sur",
+      "type": "province"
+    },
+    {
+      "code": "PH-DAV",
+      "country": "PH",
+      "name": "Davao del Norte",
+      "slug": "davao-del-norte",
+      "type": "province"
+    },
+    {
+      "code": "PH-DIN",
+      "country": "PH",
+      "name": "Dinagat Islands",
+      "slug": "dinagat-islands",
+      "type": "province"
+    },
+    {
+      "code": "PH-DVO",
+      "country": "PH",
+      "name": "Davao Occidental",
+      "slug": "davao-occidental",
+      "type": "province"
+    },
+    {
+      "code": "PH-EAS",
+      "country": "PH",
+      "name": "Eastern Samar",
+      "slug": "eastern-samar",
+      "type": "province"
+    },
+    {
+      "code": "PH-GUI",
+      "country": "PH",
+      "name": "Guimaras",
+      "slug": "guimaras",
+      "type": "province"
+    },
+    {
+      "code": "PH-IFU",
+      "country": "PH",
+      "name": "Ifugao",
+      "slug": "ifugao",
+      "type": "province"
+    },
+    {
+      "code": "PH-ILI",
+      "country": "PH",
+      "name": "Iloilo",
+      "slug": "iloilo",
+      "type": "province"
+    },
+    {
+      "code": "PH-ILN",
+      "country": "PH",
+      "name": "Ilocos Norte",
+      "slug": "ilocos-norte",
+      "type": "province"
+    },
+    {
+      "code": "PH-ILS",
+      "country": "PH",
+      "name": "Ilocos Sur",
+      "slug": "ilocos-sur",
+      "type": "province"
+    },
+    {
+      "code": "PH-ISA",
+      "country": "PH",
+      "name": "Isabela",
+      "slug": "isabela",
+      "type": "province"
+    },
+    {
+      "code": "PH-KAL",
+      "country": "PH",
+      "name": "Kalinga",
+      "slug": "kalinga",
+      "type": "province"
+    },
+    {
+      "code": "PH-LAG",
+      "country": "PH",
+      "name": "Laguna",
+      "slug": "laguna",
+      "type": "province"
+    },
+    {
+      "code": "PH-LAN",
+      "country": "PH",
+      "name": "Lanao del Norte",
+      "slug": "lanao-del-norte",
+      "type": "province"
+    },
+    {
+      "code": "PH-LAS",
+      "country": "PH",
+      "name": "Lanao del Sur",
+      "slug": "lanao-del-sur",
+      "type": "province"
+    },
+    {
+      "code": "PH-LEY",
+      "country": "PH",
+      "name": "Leyte",
+      "slug": "leyte",
+      "type": "province"
+    },
+    {
+      "code": "PH-LUN",
+      "country": "PH",
+      "name": "La Union",
+      "slug": "la-union",
+      "type": "province"
+    },
+    {
+      "code": "PH-MAD",
+      "country": "PH",
+      "name": "Marinduque",
+      "slug": "marinduque",
+      "type": "province"
+    },
+    {
+      "code": "PH-MAS",
+      "country": "PH",
+      "name": "Masbate",
+      "slug": "masbate",
+      "type": "province"
+    },
+    {
+      "code": "PH-MDC",
+      "country": "PH",
+      "name": "Occidental Mindoro",
+      "slug": "occidental-mindoro",
+      "type": "province"
+    },
+    {
+      "code": "PH-MDR",
+      "country": "PH",
+      "name": "Oriental Mindoro",
+      "slug": "oriental-mindoro",
+      "type": "province"
+    },
+    {
+      "code": "PH-MGN",
+      "country": "PH",
+      "name": "Maguindanao del Norte",
+      "slug": "maguindanao-del-norte",
+      "type": "province"
+    },
+    {
+      "code": "PH-MGS",
+      "country": "PH",
+      "name": "Maguindanao del Sur",
+      "slug": "maguindanao-del-sur",
+      "type": "province"
+    },
+    {
+      "code": "PH-MOU",
+      "country": "PH",
+      "name": "Mountain Province",
+      "slug": "mountain-province",
+      "type": "province"
+    },
+    {
+      "code": "PH-MSC",
+      "country": "PH",
+      "name": "Misamis Occidental",
+      "slug": "misamis-occidental",
+      "type": "province"
+    },
+    {
+      "code": "PH-MSR",
+      "country": "PH",
+      "name": "Misamis Oriental",
+      "slug": "misamis-oriental",
+      "type": "province"
+    },
+    {
+      "code": "PH-NCO",
+      "country": "PH",
+      "name": "Cotabato",
+      "slug": "cotabato",
+      "type": "province"
+    },
+    {
+      "code": "PH-NEC",
+      "country": "PH",
+      "name": "Negros Occidental",
+      "slug": "negros-occidental",
+      "type": "province"
+    },
+    {
+      "code": "PH-NER",
+      "country": "PH",
+      "name": "Negros Oriental",
+      "slug": "negros-oriental",
+      "type": "province"
+    },
+    {
+      "code": "PH-NSA",
+      "country": "PH",
+      "name": "Northern Samar",
+      "slug": "northern-samar",
+      "type": "province"
+    },
+    {
+      "code": "PH-NUE",
+      "country": "PH",
+      "name": "Nueva Ecija",
+      "slug": "nueva-ecija",
+      "type": "province"
+    },
+    {
+      "code": "PH-NUV",
+      "country": "PH",
+      "name": "Nueva Vizcaya",
+      "slug": "nueva-vizcaya",
+      "type": "province"
+    },
+    {
+      "code": "PH-PAM",
+      "country": "PH",
+      "name": "Pampanga",
+      "slug": "pampanga",
+      "type": "province"
+    },
+    {
+      "code": "PH-PAN",
+      "country": "PH",
+      "name": "Pangasinan",
+      "slug": "pangasinan",
+      "type": "province"
+    },
+    {
+      "code": "PH-PLW",
+      "country": "PH",
+      "name": "Palawan",
+      "slug": "palawan",
+      "type": "province"
+    },
+    {
+      "code": "PH-QUE",
+      "country": "PH",
+      "name": "Quezon",
+      "slug": "quezon",
+      "type": "province"
+    },
+    {
+      "code": "PH-QUI",
+      "country": "PH",
+      "name": "Quirino",
+      "slug": "quirino",
+      "type": "province"
+    },
+    {
+      "code": "PH-RIZ",
+      "country": "PH",
+      "name": "Rizal",
+      "slug": "rizal",
+      "type": "province"
+    },
+    {
+      "code": "PH-ROM",
+      "country": "PH",
+      "name": "Romblon",
+      "slug": "romblon",
+      "type": "province"
+    },
+    {
+      "code": "PH-SAR",
+      "country": "PH",
+      "name": "Sarangani",
+      "slug": "sarangani",
+      "type": "province"
+    },
+    {
+      "code": "PH-SCO",
+      "country": "PH",
+      "name": "South Cotabato",
+      "slug": "south-cotabato",
+      "type": "province"
+    },
+    {
+      "code": "PH-SIG",
+      "country": "PH",
+      "name": "Siquijor",
+      "slug": "siquijor",
+      "type": "province"
+    },
+    {
+      "code": "PH-SLE",
+      "country": "PH",
+      "name": "Southern Leyte",
+      "slug": "southern-leyte",
+      "type": "province"
+    },
+    {
+      "code": "PH-SLU",
+      "country": "PH",
+      "name": "Sulu",
+      "slug": "sulu",
+      "type": "province"
+    },
+    {
+      "code": "PH-SOR",
+      "country": "PH",
+      "name": "Sorsogon",
+      "slug": "sorsogon",
+      "type": "province"
+    },
+    {
+      "code": "PH-SUK",
+      "country": "PH",
+      "name": "Sultan Kudarat",
+      "slug": "sultan-kudarat",
+      "type": "province"
+    },
+    {
+      "code": "PH-SUN",
+      "country": "PH",
+      "name": "Surigao del Norte",
+      "slug": "surigao-del-norte",
+      "type": "province"
+    },
+    {
+      "code": "PH-SUR",
+      "country": "PH",
+      "name": "Surigao del Sur",
+      "slug": "surigao-del-sur",
+      "type": "province"
+    },
+    {
+      "code": "PH-TAR",
+      "country": "PH",
+      "name": "Tarlac",
+      "slug": "tarlac",
+      "type": "province"
+    },
+    {
+      "code": "PH-TAW",
+      "country": "PH",
+      "name": "Tawi-Tawi",
+      "slug": "tawi-tawi",
+      "type": "province"
+    },
+    {
+      "code": "PH-WSA",
+      "country": "PH",
+      "name": "Western Samar",
+      "slug": "western-samar",
+      "type": "province"
+    },
+    {
+      "code": "PH-ZAN",
+      "country": "PH",
+      "name": "Zamboanga del Norte",
+      "slug": "zamboanga-del-norte",
+      "type": "province"
+    },
+    {
+      "code": "PH-ZAS",
+      "country": "PH",
+      "name": "Zamboanga del Sur",
+      "slug": "zamboanga-del-sur",
+      "type": "province"
+    },
+    {
+      "code": "PH-ZMB",
+      "country": "PH",
+      "name": "Zambales",
+      "slug": "zambales",
+      "type": "province"
+    },
+    {
+      "code": "PH-ZSI",
+      "country": "PH",
+      "name": "Zamboanga Sibugay",
+      "slug": "zamboanga-sibugay",
+      "type": "province"
+    },
+    {
+      "code": "PK-BA",
+      "country": "PK",
+      "name": "Balochistan",
+      "native": "بلوچستان",
+      "slug": "balochistan",
+      "type": "province"
+    },
+    {
+      "code": "PK-GB",
+      "country": "PK",
+      "name": "Gilgit-Baltistan",
+      "native": "گلگٹ بلتستان",
+      "slug": "gilgit-baltistan",
+      "type": "administered area"
+    },
+    {
+      "code": "PK-IS",
+      "country": "PK",
+      "name": "Islamabad",
+      "native": "اسلام آباد",
+      "slug": "islamabad",
+      "type": "federal capital territory"
+    },
+    {
+      "code": "PK-JK",
+      "country": "PK",
+      "name": "Azad Kashmir",
+      "native": "آزاد کشمیر",
+      "slug": "azad-kashmir",
+      "type": "administered area"
+    },
+    {
+      "code": "PK-KP",
+      "country": "PK",
+      "name": "Khyber Pakhtunkhwa",
+      "native": "خیبر پختوننہوا",
+      "slug": "khyber-pakhtunkhwa",
+      "type": "province"
+    },
+    {
+      "code": "PK-PB",
+      "country": "PK",
+      "name": "Punjab",
+      "native": "پنجاب",
+      "slug": "punjab",
+      "type": "province"
+    },
+    {
+      "code": "PK-SD",
+      "country": "PK",
+      "name": "Sindh",
+      "native": "سندھ",
+      "slug": "sindh",
+      "type": "province"
+    },
+    {
       "code": "PL-02",
       "country": "PL",
       "name": "Lower Silesia",
@@ -12129,6 +18631,134 @@
       "name": "West Pomerania",
       "slug": "west-pomerania",
       "type": "voivodship"
+    },
+    {
+      "code": "PS-BTH",
+      "country": "PS",
+      "name": "Bethlehem",
+      "native": "بيت لحم",
+      "slug": "bethlehem",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-DEB",
+      "country": "PS",
+      "name": "Deir El Balah",
+      "native": "دير البلح",
+      "slug": "deir-el-balah",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-GZA",
+      "country": "PS",
+      "name": "Gaza",
+      "native": "غزة",
+      "slug": "gaza",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-HBN",
+      "country": "PS",
+      "name": "Hebron",
+      "native": "الخليل",
+      "slug": "hebron",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-JEM",
+      "country": "PS",
+      "name": "Jerusalem (Quds)",
+      "native": "القدس",
+      "slug": "jerusalem-quds",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-JEN",
+      "country": "PS",
+      "name": "Jenin",
+      "native": "جنين",
+      "slug": "jenin",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-JRH",
+      "country": "PS",
+      "name": "Jericho",
+      "native": "أريحا",
+      "slug": "jericho",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-KYS",
+      "country": "PS",
+      "name": "Khan Yunis",
+      "native": "خان يونس",
+      "slug": "khan-yunis",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-NBS",
+      "country": "PS",
+      "name": "Nablus",
+      "native": "نابلس",
+      "slug": "nablus",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-NGZ",
+      "country": "PS",
+      "name": "North Gaza",
+      "native": "شمال غزة",
+      "slug": "north-gaza",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-QQA",
+      "country": "PS",
+      "name": "Qalqilya",
+      "native": "قلقيلية",
+      "slug": "qalqilya",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-RBH",
+      "country": "PS",
+      "name": "Ramallah",
+      "native": "رام الله",
+      "slug": "ramallah",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-RFH",
+      "country": "PS",
+      "name": "Rafah",
+      "native": "رفح",
+      "slug": "rafah",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-SLT",
+      "country": "PS",
+      "name": "Salfit",
+      "native": "سلفيت",
+      "slug": "salfit",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-TBS",
+      "country": "PS",
+      "name": "Tubas",
+      "native": "طوباس",
+      "slug": "tubas",
+      "type": "governorate"
+    },
+    {
+      "code": "PS-TKM",
+      "country": "PS",
+      "name": "Tulkarm",
+      "native": "طولكرم",
+      "slug": "tulkarm",
+      "type": "governorate"
     },
     {
       "code": "PT-01",
@@ -12397,6 +19027,68 @@
       "native": "Asunción",
       "slug": "asuncion",
       "type": "department"
+    },
+    {
+      "code": "QA-DA",
+      "country": "QA",
+      "name": "Doha",
+      "native": "الدوحة",
+      "slug": "doha",
+      "type": "municipality"
+    },
+    {
+      "code": "QA-KH",
+      "country": "QA",
+      "name": "Al Khor",
+      "slug": "al-khor",
+      "type": "municipality"
+    },
+    {
+      "code": "QA-MS",
+      "country": "QA",
+      "name": "Madinat ash Shamal",
+      "native": "مينات آش شوال",
+      "slug": "madinat-ash-shamal",
+      "type": "municipality"
+    },
+    {
+      "code": "QA-RA",
+      "country": "QA",
+      "name": "Al Rayyan",
+      "slug": "al-rayyan",
+      "type": "municipality"
+    },
+    {
+      "code": "QA-SH",
+      "country": "QA",
+      "name": "Al-Shahaniya",
+      "native": "الشهانية",
+      "slug": "al-shahaniya",
+      "type": "municipality"
+    },
+    {
+      "code": "QA-US",
+      "country": "QA",
+      "name": "Umm Salal",
+      "native": "قاعدة أم",
+      "slug": "umm-salal",
+      "type": "municipality"
+    },
+    {
+      "code": "QA-WA",
+      "country": "QA",
+      "name": "Al Wakrah",
+      "native": "واكرا",
+      "slug": "al-wakrah",
+      "type": "municipality"
+    },
+    {
+      "code": "QA-ZA",
+      "country": "QA",
+      "name": "Al Daayen",
+      "native": "دايين",
+      "slug": "al-daayen",
+      "type": "municipality"
     },
     {
       "code": "RO-AB",
@@ -13612,6 +20304,110 @@
       "type": "administrative territory"
     },
     {
+      "code": "SA-01",
+      "country": "SA",
+      "name": "Riyadh",
+      "native": "الرياض",
+      "slug": "riyadh",
+      "type": "region"
+    },
+    {
+      "code": "SA-02",
+      "country": "SA",
+      "name": "Makkah",
+      "native": "مكة المكرمة",
+      "slug": "makkah",
+      "type": "region"
+    },
+    {
+      "code": "SA-03",
+      "country": "SA",
+      "name": "Al Madinah",
+      "native": "المدينة المنورة",
+      "slug": "al-madinah",
+      "type": "region"
+    },
+    {
+      "code": "SA-04",
+      "country": "SA",
+      "name": "Eastern Province",
+      "native": "المنطقة الشرقية",
+      "slug": "eastern-province",
+      "type": "region"
+    },
+    {
+      "code": "SA-05",
+      "country": "SA",
+      "name": "Al-Qassim",
+      "native": "القصيم",
+      "slug": "al-qassim",
+      "type": "region"
+    },
+    {
+      "code": "SA-06",
+      "country": "SA",
+      "name": "Ha'il",
+      "native": "يشيد",
+      "slug": "ha-il",
+      "type": "region"
+    },
+    {
+      "code": "SA-07",
+      "country": "SA",
+      "name": "Tabuk",
+      "native": "تبوك",
+      "slug": "tabuk",
+      "type": "region"
+    },
+    {
+      "code": "SA-08",
+      "country": "SA",
+      "name": "Northern Borders",
+      "native": "الحدود الشمالية",
+      "slug": "northern-borders",
+      "type": "region"
+    },
+    {
+      "code": "SA-09",
+      "country": "SA",
+      "name": "Jizan",
+      "native": "جيزان",
+      "slug": "jizan",
+      "type": "region"
+    },
+    {
+      "code": "SA-10",
+      "country": "SA",
+      "name": "Najran",
+      "native": "نجران",
+      "slug": "najran",
+      "type": "region"
+    },
+    {
+      "code": "SA-11",
+      "country": "SA",
+      "name": "Al Bahah",
+      "native": "الباحة",
+      "slug": "al-bahah",
+      "type": "region"
+    },
+    {
+      "code": "SA-12",
+      "country": "SA",
+      "name": "Al Jawf",
+      "native": "الجوف",
+      "slug": "al-jawf",
+      "type": "region"
+    },
+    {
+      "code": "SA-14",
+      "country": "SA",
+      "name": "Asir",
+      "native": "عسير",
+      "slug": "asir",
+      "type": "region"
+    },
+    {
       "code": "SE-AB",
       "country": "SE",
       "name": "Stockholm",
@@ -13757,6 +20553,41 @@
       "name": "Jämtland",
       "slug": "jamtland",
       "type": "county"
+    },
+    {
+      "code": "SG-01",
+      "country": "SG",
+      "name": "Central Singapore",
+      "slug": "central-singapore",
+      "type": "district"
+    },
+    {
+      "code": "SG-02",
+      "country": "SG",
+      "name": "North East",
+      "slug": "north-east",
+      "type": "district"
+    },
+    {
+      "code": "SG-03",
+      "country": "SG",
+      "name": "North West",
+      "slug": "north-west",
+      "type": "district"
+    },
+    {
+      "code": "SG-04",
+      "country": "SG",
+      "name": "South East",
+      "slug": "south-east",
+      "type": "district"
+    },
+    {
+      "code": "SG-05",
+      "country": "SG",
+      "name": "South West",
+      "slug": "south-west",
+      "type": "district"
     },
     {
       "code": "SI-001",
@@ -15451,6 +22282,1668 @@
       "type": "district"
     },
     {
+      "code": "SY-DI",
+      "country": "SY",
+      "name": "Damascus",
+      "native": "دمشق",
+      "slug": "damascus",
+      "type": "province"
+    },
+    {
+      "code": "SY-DR",
+      "country": "SY",
+      "name": "Daraa",
+      "native": "درعا",
+      "slug": "daraa",
+      "type": "province"
+    },
+    {
+      "code": "SY-DY",
+      "country": "SY",
+      "name": "Deir ez-Zor",
+      "native": "دير الزور",
+      "slug": "deir-ez-zor",
+      "type": "province"
+    },
+    {
+      "code": "SY-HA",
+      "country": "SY",
+      "name": "Al-Hasakah",
+      "native": "الحسكة",
+      "slug": "al-hasakah",
+      "type": "province"
+    },
+    {
+      "code": "SY-HI",
+      "country": "SY",
+      "name": "Homs",
+      "native": "حمص",
+      "slug": "homs",
+      "type": "province"
+    },
+    {
+      "code": "SY-HL",
+      "country": "SY",
+      "name": "Aleppo",
+      "native": "حلب",
+      "slug": "aleppo",
+      "type": "province"
+    },
+    {
+      "code": "SY-HM",
+      "country": "SY",
+      "name": "Hama",
+      "native": "حماة",
+      "slug": "hama",
+      "type": "province"
+    },
+    {
+      "code": "SY-ID",
+      "country": "SY",
+      "name": "Idlib",
+      "native": "إدلب",
+      "slug": "idlib",
+      "type": "province"
+    },
+    {
+      "code": "SY-LA",
+      "country": "SY",
+      "name": "Latakia",
+      "native": "اللاذقية",
+      "slug": "latakia",
+      "type": "province"
+    },
+    {
+      "code": "SY-QU",
+      "country": "SY",
+      "name": "Quneitra",
+      "native": "القنيطرة",
+      "slug": "quneitra",
+      "type": "province"
+    },
+    {
+      "code": "SY-RA",
+      "country": "SY",
+      "name": "Al-Raqqah",
+      "native": "الرقة",
+      "slug": "al-raqqah",
+      "type": "province"
+    },
+    {
+      "code": "SY-RD",
+      "country": "SY",
+      "name": "Rif Dimashq",
+      "native": "ريف دمشق",
+      "slug": "rif-dimashq",
+      "type": "province"
+    },
+    {
+      "code": "SY-SU",
+      "country": "SY",
+      "name": "As-Suwayda",
+      "native": "السويداء",
+      "slug": "as-suwayda",
+      "type": "province"
+    },
+    {
+      "code": "SY-TA",
+      "country": "SY",
+      "name": "Tartus",
+      "native": "طرطوس",
+      "slug": "tartus",
+      "type": "province"
+    },
+    {
+      "code": "TH-10",
+      "country": "TH",
+      "name": "Bangkok",
+      "native": "กรุงเทพฯ",
+      "slug": "bangkok",
+      "type": "metropolitan administration"
+    },
+    {
+      "code": "TH-11",
+      "country": "TH",
+      "name": "Samut Prakan",
+      "native": "สมุทรปราการ",
+      "slug": "samut-prakan",
+      "type": "province"
+    },
+    {
+      "code": "TH-12",
+      "country": "TH",
+      "name": "Nonthaburi",
+      "native": "นนทบุรี",
+      "slug": "nonthaburi",
+      "type": "province"
+    },
+    {
+      "code": "TH-13",
+      "country": "TH",
+      "name": "Pathum Thani",
+      "native": "ปทุมธานี",
+      "slug": "pathum-thani",
+      "type": "province"
+    },
+    {
+      "code": "TH-14",
+      "country": "TH",
+      "name": "Phra Nakhon Si Ayutthaya",
+      "native": "พระนครศรีอยุธยา",
+      "slug": "phra-nakhon-si-ayutthaya",
+      "type": "province"
+    },
+    {
+      "code": "TH-15",
+      "country": "TH",
+      "name": "Ang Thong",
+      "native": "อ่างทอง",
+      "slug": "ang-thong",
+      "type": "province"
+    },
+    {
+      "code": "TH-16",
+      "country": "TH",
+      "name": "Lop Buri",
+      "native": "ลพบุรี",
+      "slug": "lop-buri",
+      "type": "province"
+    },
+    {
+      "code": "TH-17",
+      "country": "TH",
+      "name": "Sing Buri",
+      "native": "สิงห์บุรี",
+      "slug": "sing-buri",
+      "type": "province"
+    },
+    {
+      "code": "TH-18",
+      "country": "TH",
+      "name": "Chai Nat",
+      "native": "ชัยนาท",
+      "slug": "chai-nat",
+      "type": "province"
+    },
+    {
+      "code": "TH-19",
+      "country": "TH",
+      "name": "Saraburi",
+      "native": "สระบุรี",
+      "slug": "saraburi",
+      "type": "province"
+    },
+    {
+      "code": "TH-20",
+      "country": "TH",
+      "name": "Chon Buri",
+      "native": "ชลบุรี",
+      "slug": "chon-buri",
+      "type": "province"
+    },
+    {
+      "code": "TH-21",
+      "country": "TH",
+      "name": "Rayong",
+      "native": "ระยอง",
+      "slug": "rayong",
+      "type": "province"
+    },
+    {
+      "code": "TH-22",
+      "country": "TH",
+      "name": "Chanthaburi",
+      "native": "จันทบุรี",
+      "slug": "chanthaburi",
+      "type": "province"
+    },
+    {
+      "code": "TH-23",
+      "country": "TH",
+      "name": "Trat",
+      "native": "ตราด",
+      "slug": "trat",
+      "type": "province"
+    },
+    {
+      "code": "TH-24",
+      "country": "TH",
+      "name": "Chachoengsao",
+      "native": "ฉะเชิงเทรา",
+      "slug": "chachoengsao",
+      "type": "province"
+    },
+    {
+      "code": "TH-25",
+      "country": "TH",
+      "name": "Prachin Buri",
+      "native": "ปราจีนบุรี",
+      "slug": "prachin-buri",
+      "type": "province"
+    },
+    {
+      "code": "TH-26",
+      "country": "TH",
+      "name": "Nakhon Nayok",
+      "native": "นครนายก",
+      "slug": "nakhon-nayok",
+      "type": "province"
+    },
+    {
+      "code": "TH-27",
+      "country": "TH",
+      "name": "Sa Kaeo",
+      "native": "สระแก้ว",
+      "slug": "sa-kaeo",
+      "type": "province"
+    },
+    {
+      "code": "TH-30",
+      "country": "TH",
+      "name": "Nakhon Ratchasima",
+      "native": "นครราชสีมา",
+      "slug": "nakhon-ratchasima",
+      "type": "province"
+    },
+    {
+      "code": "TH-31",
+      "country": "TH",
+      "name": "Buri Ram",
+      "native": "บุรีรัมย์",
+      "slug": "buri-ram",
+      "type": "province"
+    },
+    {
+      "code": "TH-32",
+      "country": "TH",
+      "name": "Surin",
+      "native": "สุรินทร์",
+      "slug": "surin",
+      "type": "province"
+    },
+    {
+      "code": "TH-33",
+      "country": "TH",
+      "name": "Si Sa Ket",
+      "native": "ศรีสะเกษ",
+      "slug": "si-sa-ket",
+      "type": "province"
+    },
+    {
+      "code": "TH-34",
+      "country": "TH",
+      "name": "Ubon Ratchathani",
+      "native": "อุบลราชธานี",
+      "slug": "ubon-ratchathani",
+      "type": "province"
+    },
+    {
+      "code": "TH-35",
+      "country": "TH",
+      "name": "Yasothon",
+      "native": "ยโสธร",
+      "slug": "yasothon",
+      "type": "province"
+    },
+    {
+      "code": "TH-36",
+      "country": "TH",
+      "name": "Chaiyaphum",
+      "native": "ชัยภูมิ",
+      "slug": "chaiyaphum",
+      "type": "province"
+    },
+    {
+      "code": "TH-37",
+      "country": "TH",
+      "name": "Amnat Charoen",
+      "native": "อำนาจเจริญ",
+      "slug": "amnat-charoen",
+      "type": "province"
+    },
+    {
+      "code": "TH-38",
+      "country": "TH",
+      "name": "Bueng Kan",
+      "native": "บึงกาฬ",
+      "slug": "bueng-kan",
+      "type": "province"
+    },
+    {
+      "code": "TH-39",
+      "country": "TH",
+      "name": "Nong Bua Lam Phu",
+      "native": "หนองบัวลำภู",
+      "slug": "nong-bua-lam-phu",
+      "type": "province"
+    },
+    {
+      "code": "TH-40",
+      "country": "TH",
+      "name": "Khon Kaen",
+      "native": "ขอนแก่น",
+      "slug": "khon-kaen",
+      "type": "province"
+    },
+    {
+      "code": "TH-41",
+      "country": "TH",
+      "name": "Udon Thani",
+      "native": "อุดรธานี",
+      "slug": "udon-thani",
+      "type": "province"
+    },
+    {
+      "code": "TH-42",
+      "country": "TH",
+      "name": "Loei",
+      "native": "เลย",
+      "slug": "loei",
+      "type": "province"
+    },
+    {
+      "code": "TH-43",
+      "country": "TH",
+      "name": "Nong Khai",
+      "native": "หนองคาย",
+      "slug": "nong-khai",
+      "type": "province"
+    },
+    {
+      "code": "TH-44",
+      "country": "TH",
+      "name": "Maha Sarakham",
+      "native": "มหาสารคาม",
+      "slug": "maha-sarakham",
+      "type": "province"
+    },
+    {
+      "code": "TH-45",
+      "country": "TH",
+      "name": "Roi Et",
+      "native": "ร้อยเอ็ด",
+      "slug": "roi-et",
+      "type": "province"
+    },
+    {
+      "code": "TH-46",
+      "country": "TH",
+      "name": "Kalasin",
+      "native": "กาฬสินธุ์",
+      "slug": "kalasin",
+      "type": "province"
+    },
+    {
+      "code": "TH-47",
+      "country": "TH",
+      "name": "Sakon Nakhon",
+      "native": "สกลนคร",
+      "slug": "sakon-nakhon",
+      "type": "province"
+    },
+    {
+      "code": "TH-48",
+      "country": "TH",
+      "name": "Nakhon Phanom",
+      "native": "นครพนม",
+      "slug": "nakhon-phanom",
+      "type": "province"
+    },
+    {
+      "code": "TH-49",
+      "country": "TH",
+      "name": "Mukdahan",
+      "native": "มุกดาหาร",
+      "slug": "mukdahan",
+      "type": "province"
+    },
+    {
+      "code": "TH-50",
+      "country": "TH",
+      "name": "Chiang Mai",
+      "native": "เชียงใหม่",
+      "slug": "chiang-mai",
+      "type": "province"
+    },
+    {
+      "code": "TH-51",
+      "country": "TH",
+      "name": "Lamphun",
+      "native": "ลำพูน",
+      "slug": "lamphun",
+      "type": "province"
+    },
+    {
+      "code": "TH-52",
+      "country": "TH",
+      "name": "Lampang",
+      "native": "ลำปาง",
+      "slug": "lampang",
+      "type": "province"
+    },
+    {
+      "code": "TH-53",
+      "country": "TH",
+      "name": "Uttaradit",
+      "native": "อุตรดิตถ์",
+      "slug": "uttaradit",
+      "type": "province"
+    },
+    {
+      "code": "TH-54",
+      "country": "TH",
+      "name": "Phrae",
+      "native": "แพร่",
+      "slug": "phrae",
+      "type": "province"
+    },
+    {
+      "code": "TH-55",
+      "country": "TH",
+      "name": "Nan",
+      "native": "แนน",
+      "slug": "nan",
+      "type": "province"
+    },
+    {
+      "code": "TH-56",
+      "country": "TH",
+      "name": "Phayao",
+      "native": "พะเยา",
+      "slug": "phayao",
+      "type": "province"
+    },
+    {
+      "code": "TH-57",
+      "country": "TH",
+      "name": "Chiang Rai",
+      "native": "เชียงราย",
+      "slug": "chiang-rai",
+      "type": "province"
+    },
+    {
+      "code": "TH-58",
+      "country": "TH",
+      "name": "Mae Hong Son",
+      "native": "แม่ฮ่องสอน",
+      "slug": "mae-hong-son",
+      "type": "province"
+    },
+    {
+      "code": "TH-60",
+      "country": "TH",
+      "name": "Nakhon Sawan",
+      "native": "นครสวรรค์",
+      "slug": "nakhon-sawan",
+      "type": "province"
+    },
+    {
+      "code": "TH-61",
+      "country": "TH",
+      "name": "Uthai Thani",
+      "native": "อุทัยธานี",
+      "slug": "uthai-thani",
+      "type": "province"
+    },
+    {
+      "code": "TH-62",
+      "country": "TH",
+      "name": "Kamphaeng Phet",
+      "native": "กำแพงเพชร",
+      "slug": "kamphaeng-phet",
+      "type": "province"
+    },
+    {
+      "code": "TH-63",
+      "country": "TH",
+      "name": "Tak",
+      "native": "ตาก",
+      "slug": "tak",
+      "type": "province"
+    },
+    {
+      "code": "TH-64",
+      "country": "TH",
+      "name": "Sukhothai",
+      "native": "สุโขทัย",
+      "slug": "sukhothai",
+      "type": "province"
+    },
+    {
+      "code": "TH-65",
+      "country": "TH",
+      "name": "Phitsanulok",
+      "native": "พิษณุโลก",
+      "slug": "phitsanulok",
+      "type": "province"
+    },
+    {
+      "code": "TH-66",
+      "country": "TH",
+      "name": "Phichit",
+      "native": "พิจิตร",
+      "slug": "phichit",
+      "type": "province"
+    },
+    {
+      "code": "TH-67",
+      "country": "TH",
+      "name": "Phetchabun",
+      "native": "เพชรบูรณ์",
+      "slug": "phetchabun",
+      "type": "province"
+    },
+    {
+      "code": "TH-70",
+      "country": "TH",
+      "name": "Ratchaburi",
+      "native": "ราชบุรี",
+      "slug": "ratchaburi",
+      "type": "province"
+    },
+    {
+      "code": "TH-71",
+      "country": "TH",
+      "name": "Kanchanaburi",
+      "native": "กาญจนบุรี",
+      "slug": "kanchanaburi",
+      "type": "province"
+    },
+    {
+      "code": "TH-72",
+      "country": "TH",
+      "name": "Suphan Buri",
+      "native": "สุพรรณบุรี",
+      "slug": "suphan-buri",
+      "type": "province"
+    },
+    {
+      "code": "TH-73",
+      "country": "TH",
+      "name": "Nakhon Pathom",
+      "native": "นครปฐม",
+      "slug": "nakhon-pathom",
+      "type": "province"
+    },
+    {
+      "code": "TH-74",
+      "country": "TH",
+      "name": "Samut Sakhon",
+      "native": "สมุทรสาคร",
+      "slug": "samut-sakhon",
+      "type": "province"
+    },
+    {
+      "code": "TH-75",
+      "country": "TH",
+      "name": "Samut Songkhram",
+      "native": "สมุทรสงคราม",
+      "slug": "samut-songkhram",
+      "type": "province"
+    },
+    {
+      "code": "TH-76",
+      "country": "TH",
+      "name": "Phetchaburi",
+      "native": "เพชรบุรี",
+      "slug": "phetchaburi",
+      "type": "province"
+    },
+    {
+      "code": "TH-77",
+      "country": "TH",
+      "name": "Prachuap Khiri Khan",
+      "native": "ประจวบคีรีขันธ์",
+      "slug": "prachuap-khiri-khan",
+      "type": "province"
+    },
+    {
+      "code": "TH-80",
+      "country": "TH",
+      "name": "Nakhon Si Thammarat",
+      "native": "นครศรีธรรมราช",
+      "slug": "nakhon-si-thammarat",
+      "type": "province"
+    },
+    {
+      "code": "TH-81",
+      "country": "TH",
+      "name": "Krabi",
+      "native": "กระบี่",
+      "slug": "krabi",
+      "type": "province"
+    },
+    {
+      "code": "TH-82",
+      "country": "TH",
+      "name": "Phangnga",
+      "native": "พังงา",
+      "slug": "phangnga",
+      "type": "province"
+    },
+    {
+      "code": "TH-83",
+      "country": "TH",
+      "name": "Phuket",
+      "native": "ภูเก็ต",
+      "slug": "phuket",
+      "type": "province"
+    },
+    {
+      "code": "TH-84",
+      "country": "TH",
+      "name": "Surat Thani",
+      "native": "สุราษฎร์ธานี",
+      "slug": "surat-thani",
+      "type": "province"
+    },
+    {
+      "code": "TH-85",
+      "country": "TH",
+      "name": "Ranong",
+      "native": "ระนอง",
+      "slug": "ranong",
+      "type": "province"
+    },
+    {
+      "code": "TH-86",
+      "country": "TH",
+      "name": "Chumphon",
+      "native": "ชุมพร",
+      "slug": "chumphon",
+      "type": "province"
+    },
+    {
+      "code": "TH-90",
+      "country": "TH",
+      "name": "Songkhla",
+      "native": "สงขลา",
+      "slug": "songkhla",
+      "type": "province"
+    },
+    {
+      "code": "TH-91",
+      "country": "TH",
+      "name": "Satun",
+      "native": "สตูล",
+      "slug": "satun",
+      "type": "province"
+    },
+    {
+      "code": "TH-92",
+      "country": "TH",
+      "name": "Trang",
+      "native": "ตรัง",
+      "slug": "trang",
+      "type": "province"
+    },
+    {
+      "code": "TH-93",
+      "country": "TH",
+      "name": "Phatthalung",
+      "native": "พัทลุง",
+      "slug": "phatthalung",
+      "type": "province"
+    },
+    {
+      "code": "TH-94",
+      "country": "TH",
+      "name": "Pattani",
+      "native": "ปัตตานี",
+      "slug": "pattani",
+      "type": "province"
+    },
+    {
+      "code": "TH-95",
+      "country": "TH",
+      "name": "Yala",
+      "native": "ยะลา",
+      "slug": "yala",
+      "type": "province"
+    },
+    {
+      "code": "TH-96",
+      "country": "TH",
+      "name": "Narathiwat",
+      "native": "นราธิวาส",
+      "slug": "narathiwat",
+      "type": "province"
+    },
+    {
+      "code": "TH-S",
+      "country": "TH",
+      "name": "Pattaya",
+      "native": "พัทยา",
+      "slug": "pattaya",
+      "type": "metropolitan administration"
+    },
+    {
+      "code": "TJ-DU",
+      "country": "TJ",
+      "name": "Dushanbe",
+      "native": "Душанбе",
+      "slug": "dushanbe",
+      "type": "capital territory"
+    },
+    {
+      "code": "TJ-GB",
+      "country": "TJ",
+      "name": "Gorno-Badakhshan",
+      "native": "Вилаҳмо-Бадахшон",
+      "slug": "gorno-badakhshan",
+      "type": "autonomous region"
+    },
+    {
+      "code": "TJ-KT",
+      "country": "TJ",
+      "name": "Khatlon",
+      "native": "Вилоят",
+      "slug": "khatlon",
+      "type": "region"
+    },
+    {
+      "code": "TJ-RA",
+      "country": "TJ",
+      "name": "Nohiyahoi Tobei Jumhurí",
+      "slug": "nohiyahoi-tobei-jumhuri",
+      "type": "districts under republic administration"
+    },
+    {
+      "code": "TJ-SU",
+      "country": "TJ",
+      "name": "Sughd",
+      "native": "Суғд",
+      "slug": "sughd",
+      "type": "region"
+    },
+    {
+      "code": "TL-AL",
+      "country": "TL",
+      "name": "Aileu",
+      "slug": "aileu",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-AN",
+      "country": "TL",
+      "name": "Ainaro",
+      "slug": "ainaro",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-BA",
+      "country": "TL",
+      "name": "Baucau",
+      "native": "Bauau",
+      "slug": "baucau",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-BO",
+      "country": "TL",
+      "name": "Bobonaro",
+      "native": "Ver",
+      "slug": "bobonaro",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-CO",
+      "country": "TL",
+      "name": "Cova Lima",
+      "slug": "cova-lima",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-DI",
+      "country": "TL",
+      "name": "Dili",
+      "slug": "dili",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-ER",
+      "country": "TL",
+      "name": "Ermera",
+      "native": "Hermera",
+      "slug": "ermera",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-LA",
+      "country": "TL",
+      "name": "Lautém",
+      "native": "Lautem",
+      "slug": "lautem",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-LI",
+      "country": "TL",
+      "name": "Liquiçá",
+      "slug": "liquica",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-MF",
+      "country": "TL",
+      "name": "Manufahi",
+      "native": "Fabricante",
+      "slug": "manufahi",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-MT",
+      "country": "TL",
+      "name": "Manatuto",
+      "native": "Manatsuto",
+      "slug": "manatuto",
+      "type": "municipality"
+    },
+    {
+      "code": "TL-OE",
+      "country": "TL",
+      "name": "Oecusse",
+      "native": "Oé-Cusse Ambeno",
+      "slug": "oecusse",
+      "type": "special administrative region"
+    },
+    {
+      "code": "TL-VI",
+      "country": "TL",
+      "name": "Viqueque",
+      "slug": "viqueque",
+      "type": "municipality"
+    },
+    {
+      "code": "TM-A",
+      "country": "TM",
+      "name": "Ahal",
+      "native": "Mümkin",
+      "slug": "ahal",
+      "type": "region"
+    },
+    {
+      "code": "TM-B",
+      "country": "TM",
+      "name": "Balkan",
+      "slug": "balkan",
+      "type": "region"
+    },
+    {
+      "code": "TM-D",
+      "country": "TM",
+      "name": "Daşoguz",
+      "native": "Daş",
+      "slug": "dasoguz",
+      "type": "region"
+    },
+    {
+      "code": "TM-L",
+      "country": "TM",
+      "name": "Lebap",
+      "slug": "lebap",
+      "type": "region"
+    },
+    {
+      "code": "TM-M",
+      "country": "TM",
+      "name": "Mary",
+      "slug": "mary",
+      "type": "region"
+    },
+    {
+      "code": "TM-S",
+      "country": "TM",
+      "name": "Ashgabat",
+      "slug": "ashgabat",
+      "type": "city"
+    },
+    {
+      "code": "TR-01",
+      "country": "TR",
+      "name": "Adana",
+      "slug": "adana",
+      "type": "province"
+    },
+    {
+      "code": "TR-02",
+      "country": "TR",
+      "name": "Adıyaman",
+      "slug": "ad-yaman",
+      "type": "province"
+    },
+    {
+      "code": "TR-03",
+      "country": "TR",
+      "name": "Afyonkarahisar",
+      "slug": "afyonkarahisar",
+      "type": "province"
+    },
+    {
+      "code": "TR-04",
+      "country": "TR",
+      "name": "Ağrı",
+      "slug": "agr",
+      "type": "province"
+    },
+    {
+      "code": "TR-05",
+      "country": "TR",
+      "name": "Amasya",
+      "slug": "amasya",
+      "type": "province"
+    },
+    {
+      "code": "TR-06",
+      "country": "TR",
+      "name": "Ankara",
+      "slug": "ankara",
+      "type": "province"
+    },
+    {
+      "code": "TR-07",
+      "country": "TR",
+      "name": "Antalya",
+      "slug": "antalya",
+      "type": "province"
+    },
+    {
+      "code": "TR-08",
+      "country": "TR",
+      "name": "Artvin",
+      "slug": "artvin",
+      "type": "province"
+    },
+    {
+      "code": "TR-09",
+      "country": "TR",
+      "name": "Aydın",
+      "slug": "ayd-n",
+      "type": "province"
+    },
+    {
+      "code": "TR-10",
+      "country": "TR",
+      "name": "Balıkesir",
+      "slug": "bal-kesir",
+      "type": "province"
+    },
+    {
+      "code": "TR-11",
+      "country": "TR",
+      "name": "Bilecik",
+      "slug": "bilecik",
+      "type": "province"
+    },
+    {
+      "code": "TR-12",
+      "country": "TR",
+      "name": "Bingöl",
+      "slug": "bingol",
+      "type": "province"
+    },
+    {
+      "code": "TR-13",
+      "country": "TR",
+      "name": "Bitlis",
+      "slug": "bitlis",
+      "type": "province"
+    },
+    {
+      "code": "TR-14",
+      "country": "TR",
+      "name": "Bolu",
+      "slug": "bolu",
+      "type": "province"
+    },
+    {
+      "code": "TR-15",
+      "country": "TR",
+      "name": "Burdur",
+      "slug": "burdur",
+      "type": "province"
+    },
+    {
+      "code": "TR-16",
+      "country": "TR",
+      "name": "Bursa",
+      "slug": "bursa",
+      "type": "province"
+    },
+    {
+      "code": "TR-17",
+      "country": "TR",
+      "name": "Çanakkale",
+      "slug": "canakkale",
+      "type": "province"
+    },
+    {
+      "code": "TR-18",
+      "country": "TR",
+      "name": "Çankırı",
+      "slug": "cank-r",
+      "type": "province"
+    },
+    {
+      "code": "TR-19",
+      "country": "TR",
+      "name": "Çorum",
+      "slug": "corum",
+      "type": "province"
+    },
+    {
+      "code": "TR-20",
+      "country": "TR",
+      "name": "Denizli",
+      "slug": "denizli",
+      "type": "province"
+    },
+    {
+      "code": "TR-21",
+      "country": "TR",
+      "name": "Diyarbakır",
+      "slug": "diyarbak-r",
+      "type": "province"
+    },
+    {
+      "code": "TR-22",
+      "country": "TR",
+      "name": "Edirne",
+      "slug": "edirne",
+      "type": "province"
+    },
+    {
+      "code": "TR-23",
+      "country": "TR",
+      "name": "Elazığ",
+      "slug": "elaz-g",
+      "type": "province"
+    },
+    {
+      "code": "TR-24",
+      "country": "TR",
+      "name": "Erzincan",
+      "slug": "erzincan",
+      "type": "province"
+    },
+    {
+      "code": "TR-25",
+      "country": "TR",
+      "name": "Erzurum",
+      "slug": "erzurum",
+      "type": "province"
+    },
+    {
+      "code": "TR-26",
+      "country": "TR",
+      "name": "Eskişehir",
+      "slug": "eskisehir",
+      "type": "province"
+    },
+    {
+      "code": "TR-27",
+      "country": "TR",
+      "name": "Gaziantep",
+      "slug": "gaziantep",
+      "type": "province"
+    },
+    {
+      "code": "TR-28",
+      "country": "TR",
+      "name": "Giresun",
+      "slug": "giresun",
+      "type": "province"
+    },
+    {
+      "code": "TR-29",
+      "country": "TR",
+      "name": "Gümüşhane",
+      "slug": "gumushane",
+      "type": "province"
+    },
+    {
+      "code": "TR-30",
+      "country": "TR",
+      "name": "Hakkâri",
+      "slug": "hakkari",
+      "type": "province"
+    },
+    {
+      "code": "TR-31",
+      "country": "TR",
+      "name": "Hatay",
+      "slug": "hatay",
+      "type": "province"
+    },
+    {
+      "code": "TR-32",
+      "country": "TR",
+      "name": "Isparta",
+      "slug": "isparta",
+      "type": "province"
+    },
+    {
+      "code": "TR-33",
+      "country": "TR",
+      "name": "Mersin",
+      "slug": "mersin",
+      "type": "province"
+    },
+    {
+      "code": "TR-34",
+      "country": "TR",
+      "name": "İstanbul",
+      "slug": "istanbul",
+      "type": "province"
+    },
+    {
+      "code": "TR-35",
+      "country": "TR",
+      "name": "İzmir",
+      "slug": "izmir",
+      "type": "province"
+    },
+    {
+      "code": "TR-36",
+      "country": "TR",
+      "name": "Kars",
+      "native": "Karma",
+      "slug": "kars",
+      "type": "province"
+    },
+    {
+      "code": "TR-37",
+      "country": "TR",
+      "name": "Kastamonu",
+      "slug": "kastamonu",
+      "type": "province"
+    },
+    {
+      "code": "TR-38",
+      "country": "TR",
+      "name": "Kayseri",
+      "slug": "kayseri",
+      "type": "province"
+    },
+    {
+      "code": "TR-39",
+      "country": "TR",
+      "name": "Kırklareli",
+      "slug": "k-rklareli",
+      "type": "province"
+    },
+    {
+      "code": "TR-40",
+      "country": "TR",
+      "name": "Kırşehir",
+      "slug": "k-rsehir",
+      "type": "province"
+    },
+    {
+      "code": "TR-41",
+      "country": "TR",
+      "name": "Kocaeli",
+      "slug": "kocaeli",
+      "type": "province"
+    },
+    {
+      "code": "TR-42",
+      "country": "TR",
+      "name": "Konya",
+      "slug": "konya",
+      "type": "province"
+    },
+    {
+      "code": "TR-43",
+      "country": "TR",
+      "name": "Kütahya",
+      "slug": "kutahya",
+      "type": "province"
+    },
+    {
+      "code": "TR-44",
+      "country": "TR",
+      "name": "Malatya",
+      "slug": "malatya",
+      "type": "province"
+    },
+    {
+      "code": "TR-45",
+      "country": "TR",
+      "name": "Manisa",
+      "slug": "manisa",
+      "type": "province"
+    },
+    {
+      "code": "TR-46",
+      "country": "TR",
+      "name": "Kahramanmaraş",
+      "slug": "kahramanmaras",
+      "type": "province"
+    },
+    {
+      "code": "TR-47",
+      "country": "TR",
+      "name": "Mardin",
+      "slug": "mardin",
+      "type": "province"
+    },
+    {
+      "code": "TR-48",
+      "country": "TR",
+      "name": "Muğla",
+      "slug": "mugla",
+      "type": "province"
+    },
+    {
+      "code": "TR-49",
+      "country": "TR",
+      "name": "Muş",
+      "slug": "mus",
+      "type": "province"
+    },
+    {
+      "code": "TR-50",
+      "country": "TR",
+      "name": "Nevşehir",
+      "slug": "nevsehir",
+      "type": "province"
+    },
+    {
+      "code": "TR-51",
+      "country": "TR",
+      "name": "Niğde",
+      "slug": "nigde",
+      "type": "province"
+    },
+    {
+      "code": "TR-52",
+      "country": "TR",
+      "name": "Ordu",
+      "native": "Saat",
+      "slug": "ordu",
+      "type": "province"
+    },
+    {
+      "code": "TR-53",
+      "country": "TR",
+      "name": "Rize",
+      "slug": "rize",
+      "type": "province"
+    },
+    {
+      "code": "TR-54",
+      "country": "TR",
+      "name": "Sakarya",
+      "slug": "sakarya",
+      "type": "province"
+    },
+    {
+      "code": "TR-55",
+      "country": "TR",
+      "name": "Samsun",
+      "slug": "samsun",
+      "type": "province"
+    },
+    {
+      "code": "TR-56",
+      "country": "TR",
+      "name": "Siirt",
+      "slug": "siirt",
+      "type": "province"
+    },
+    {
+      "code": "TR-57",
+      "country": "TR",
+      "name": "Sinop",
+      "slug": "sinop",
+      "type": "province"
+    },
+    {
+      "code": "TR-58",
+      "country": "TR",
+      "name": "Sivas",
+      "slug": "sivas",
+      "type": "province"
+    },
+    {
+      "code": "TR-59",
+      "country": "TR",
+      "name": "Tekirdağ",
+      "slug": "tekirdag",
+      "type": "province"
+    },
+    {
+      "code": "TR-60",
+      "country": "TR",
+      "name": "Tokat",
+      "slug": "tokat",
+      "type": "province"
+    },
+    {
+      "code": "TR-61",
+      "country": "TR",
+      "name": "Trabzon",
+      "slug": "trabzon",
+      "type": "province"
+    },
+    {
+      "code": "TR-62",
+      "country": "TR",
+      "name": "Tunceli",
+      "slug": "tunceli",
+      "type": "province"
+    },
+    {
+      "code": "TR-63",
+      "country": "TR",
+      "name": "Şanlıurfa",
+      "slug": "sanl-urfa",
+      "type": "province"
+    },
+    {
+      "code": "TR-64",
+      "country": "TR",
+      "name": "Uşak",
+      "slug": "usak",
+      "type": "province"
+    },
+    {
+      "code": "TR-65",
+      "country": "TR",
+      "name": "Van",
+      "slug": "van",
+      "type": "province"
+    },
+    {
+      "code": "TR-66",
+      "country": "TR",
+      "name": "Yozgat",
+      "slug": "yozgat",
+      "type": "province"
+    },
+    {
+      "code": "TR-67",
+      "country": "TR",
+      "name": "Zonguldak",
+      "slug": "zonguldak",
+      "type": "province"
+    },
+    {
+      "code": "TR-68",
+      "country": "TR",
+      "name": "Aksaray",
+      "slug": "aksaray",
+      "type": "province"
+    },
+    {
+      "code": "TR-69",
+      "country": "TR",
+      "name": "Bayburt",
+      "slug": "bayburt",
+      "type": "province"
+    },
+    {
+      "code": "TR-70",
+      "country": "TR",
+      "name": "Karaman",
+      "slug": "karaman",
+      "type": "province"
+    },
+    {
+      "code": "TR-71",
+      "country": "TR",
+      "name": "Kırıkkale",
+      "slug": "k-r-kkale",
+      "type": "province"
+    },
+    {
+      "code": "TR-72",
+      "country": "TR",
+      "name": "Batman",
+      "slug": "batman",
+      "type": "province"
+    },
+    {
+      "code": "TR-73",
+      "country": "TR",
+      "name": "Şırnak",
+      "slug": "s-rnak",
+      "type": "province"
+    },
+    {
+      "code": "TR-74",
+      "country": "TR",
+      "name": "Bartın",
+      "slug": "bart-n",
+      "type": "province"
+    },
+    {
+      "code": "TR-75",
+      "country": "TR",
+      "name": "Ardahan",
+      "slug": "ardahan",
+      "type": "province"
+    },
+    {
+      "code": "TR-76",
+      "country": "TR",
+      "name": "Iğdır",
+      "slug": "igd-r",
+      "type": "province"
+    },
+    {
+      "code": "TR-77",
+      "country": "TR",
+      "name": "Yalova",
+      "slug": "yalova",
+      "type": "province"
+    },
+    {
+      "code": "TR-78",
+      "country": "TR",
+      "name": "Karabük",
+      "slug": "karabuk",
+      "type": "province"
+    },
+    {
+      "code": "TR-79",
+      "country": "TR",
+      "name": "Kilis",
+      "slug": "kilis",
+      "type": "province"
+    },
+    {
+      "code": "TR-80",
+      "country": "TR",
+      "name": "Osmaniye",
+      "slug": "osmaniye",
+      "type": "province"
+    },
+    {
+      "code": "TR-81",
+      "country": "TR",
+      "name": "Düzce",
+      "slug": "duzce",
+      "type": "province"
+    },
+    {
+      "code": "TW-CHA",
+      "country": "TW",
+      "name": "Changhua",
+      "native": "彰化縣",
+      "slug": "changhua",
+      "type": "county"
+    },
+    {
+      "code": "TW-CYI",
+      "country": "TW",
+      "name": "Chiayi",
+      "native": "嘉義市",
+      "slug": "chiayi",
+      "type": "city"
+    },
+    {
+      "code": "TW-CYQ",
+      "country": "TW",
+      "name": "Chiayi County",
+      "native": "嘉義縣",
+      "slug": "chiayi-county",
+      "type": "county"
+    },
+    {
+      "code": "TW-HSQ",
+      "country": "TW",
+      "name": "Hsinchu County",
+      "native": "新竹縣",
+      "slug": "hsinchu-county",
+      "type": "county"
+    },
+    {
+      "code": "TW-HSZ",
+      "country": "TW",
+      "name": "Hsinchu",
+      "native": "新竹市",
+      "slug": "hsinchu",
+      "type": "city"
+    },
+    {
+      "code": "TW-HUA",
+      "country": "TW",
+      "name": "Hualien",
+      "native": "花蓮縣",
+      "slug": "hualien",
+      "type": "county"
+    },
+    {
+      "code": "TW-ILA",
+      "country": "TW",
+      "name": "Yilan",
+      "native": "宜蘭縣",
+      "slug": "yilan",
+      "type": "county"
+    },
+    {
+      "code": "TW-KEE",
+      "country": "TW",
+      "name": "Keelung",
+      "native": "基隆市",
+      "slug": "keelung",
+      "type": "city"
+    },
+    {
+      "code": "TW-KHH",
+      "country": "TW",
+      "name": "Kaohsiung",
+      "native": "高雄市",
+      "slug": "kaohsiung",
+      "type": "special municipality"
+    },
+    {
+      "code": "TW-KIN",
+      "country": "TW",
+      "name": "Kinmen",
+      "native": "金門縣",
+      "slug": "kinmen",
+      "type": "county"
+    },
+    {
+      "code": "TW-LIE",
+      "country": "TW",
+      "name": "Lienchiang",
+      "native": "連江縣",
+      "slug": "lienchiang",
+      "type": "county"
+    },
+    {
+      "code": "TW-MIA",
+      "country": "TW",
+      "name": "Miaoli",
+      "native": "苗栗縣",
+      "slug": "miaoli",
+      "type": "county"
+    },
+    {
+      "code": "TW-NAN",
+      "country": "TW",
+      "name": "Nantou",
+      "native": "南投縣",
+      "slug": "nantou",
+      "type": "county"
+    },
+    {
+      "code": "TW-NWT",
+      "country": "TW",
+      "name": "New Taipei",
+      "native": "新北市",
+      "slug": "new-taipei",
+      "type": "special municipality"
+    },
+    {
+      "code": "TW-PEN",
+      "country": "TW",
+      "name": "Penghu",
+      "native": "澎湖縣",
+      "slug": "penghu",
+      "type": "county"
+    },
+    {
+      "code": "TW-PIF",
+      "country": "TW",
+      "name": "Pingtung",
+      "native": "屏東縣",
+      "slug": "pingtung",
+      "type": "county"
+    },
+    {
+      "code": "TW-TAO",
+      "country": "TW",
+      "name": "Taoyuan",
+      "native": "桃園市",
+      "slug": "taoyuan",
+      "type": "special municipality"
+    },
+    {
+      "code": "TW-TNN",
+      "country": "TW",
+      "name": "Tainan",
+      "native": "臺南市",
+      "slug": "tainan",
+      "type": "special municipality"
+    },
+    {
+      "code": "TW-TPE",
+      "country": "TW",
+      "name": "Taipei",
+      "native": "臺北市",
+      "slug": "taipei",
+      "type": "special municipality"
+    },
+    {
+      "code": "TW-TTT",
+      "country": "TW",
+      "name": "Taitung",
+      "native": "臺東縣",
+      "slug": "taitung",
+      "type": "county"
+    },
+    {
+      "code": "TW-TXG",
+      "country": "TW",
+      "name": "Taichung",
+      "native": "臺中市",
+      "slug": "taichung",
+      "type": "special municipality"
+    },
+    {
+      "code": "TW-YUN",
+      "country": "TW",
+      "name": "Yunlin",
+      "native": "雲林縣",
+      "slug": "yunlin",
+      "type": "county"
+    },
+    {
       "code": "UA-05",
       "country": "UA",
       "name": "Vinnytska",
@@ -15788,6 +24281,108 @@
       "type": "department"
     },
     {
+      "code": "UZ-AN",
+      "country": "UZ",
+      "name": "Andijan",
+      "slug": "andijan",
+      "type": "region"
+    },
+    {
+      "code": "UZ-BU",
+      "country": "UZ",
+      "name": "Bukhara",
+      "native": "Buxoro",
+      "slug": "bukhara",
+      "type": "region"
+    },
+    {
+      "code": "UZ-FA",
+      "country": "UZ",
+      "name": "Fergana",
+      "native": "Farg'ona",
+      "slug": "fergana",
+      "type": "region"
+    },
+    {
+      "code": "UZ-JI",
+      "country": "UZ",
+      "name": "Jizzakh",
+      "slug": "jizzakh",
+      "type": "region"
+    },
+    {
+      "code": "UZ-NG",
+      "country": "UZ",
+      "name": "Namangan",
+      "slug": "namangan",
+      "type": "region"
+    },
+    {
+      "code": "UZ-NW",
+      "country": "UZ",
+      "name": "Navoiy",
+      "slug": "navoiy",
+      "type": "region"
+    },
+    {
+      "code": "UZ-QA",
+      "country": "UZ",
+      "name": "Qashqadaryo",
+      "slug": "qashqadaryo",
+      "type": "region"
+    },
+    {
+      "code": "UZ-QR",
+      "country": "UZ",
+      "name": "Karakalpakstan",
+      "native": "Qoraqalpog'iston",
+      "slug": "karakalpakstan",
+      "type": "republic"
+    },
+    {
+      "code": "UZ-SA",
+      "country": "UZ",
+      "name": "Samarqand",
+      "slug": "samarqand",
+      "type": "region"
+    },
+    {
+      "code": "UZ-SI",
+      "country": "UZ",
+      "name": "Sirdaryo",
+      "slug": "sirdaryo",
+      "type": "region"
+    },
+    {
+      "code": "UZ-SU",
+      "country": "UZ",
+      "name": "Surxondaryo",
+      "slug": "surxondaryo",
+      "type": "region"
+    },
+    {
+      "code": "UZ-TK",
+      "country": "UZ",
+      "name": "Tashkent",
+      "slug": "tashkent",
+      "type": "city"
+    },
+    {
+      "code": "UZ-TO",
+      "country": "UZ",
+      "name": "Tashkent",
+      "native": "Toshkent",
+      "slug": "uz-to",
+      "type": "region"
+    },
+    {
+      "code": "UZ-XO",
+      "country": "UZ",
+      "name": "Xorazm",
+      "slug": "xorazm",
+      "type": "region"
+    },
+    {
       "code": "VE-A",
       "country": "VE",
       "name": "Distrito Capital",
@@ -15964,6 +24559,244 @@
       "type": "state"
     },
     {
+      "code": "VN-01",
+      "country": "VN",
+      "name": "Lai Châu",
+      "slug": "lai-chau",
+      "type": "province"
+    },
+    {
+      "code": "VN-02",
+      "country": "VN",
+      "name": "Lào Cai",
+      "slug": "lao-cai",
+      "type": "province"
+    },
+    {
+      "code": "VN-04",
+      "country": "VN",
+      "name": "Cao Bằng",
+      "slug": "cao-bang",
+      "type": "province"
+    },
+    {
+      "code": "VN-05",
+      "country": "VN",
+      "name": "Sơn La",
+      "slug": "son-la",
+      "type": "province"
+    },
+    {
+      "code": "VN-07",
+      "country": "VN",
+      "name": "Tuyên Quang",
+      "slug": "tuyen-quang",
+      "type": "province"
+    },
+    {
+      "code": "VN-09",
+      "country": "VN",
+      "name": "Lạng Sơn",
+      "slug": "lang-son",
+      "type": "province"
+    },
+    {
+      "code": "VN-13",
+      "country": "VN",
+      "name": "Quảng Ninh",
+      "slug": "quang-ninh",
+      "type": "municipality"
+    },
+    {
+      "code": "VN-18",
+      "country": "VN",
+      "name": "Ninh Bình",
+      "slug": "ninh-binh",
+      "type": "province"
+    },
+    {
+      "code": "VN-21",
+      "country": "VN",
+      "name": "Thanh Hóa",
+      "slug": "thanh-hoa",
+      "type": "province"
+    },
+    {
+      "code": "VN-22",
+      "country": "VN",
+      "name": "Nghệ An",
+      "slug": "nghe-an",
+      "type": "province"
+    },
+    {
+      "code": "VN-23",
+      "country": "VN",
+      "name": "Hà Tĩnh",
+      "slug": "ha-tinh",
+      "type": "province"
+    },
+    {
+      "code": "VN-25",
+      "country": "VN",
+      "name": "Quảng Trị",
+      "slug": "quang-tri",
+      "type": "province"
+    },
+    {
+      "code": "VN-26",
+      "country": "VN",
+      "name": "Huế",
+      "slug": "hue",
+      "type": "municipality"
+    },
+    {
+      "code": "VN-29",
+      "country": "VN",
+      "name": "Quảng Ngãi",
+      "slug": "quang-ngai",
+      "type": "province"
+    },
+    {
+      "code": "VN-30",
+      "country": "VN",
+      "name": "Gia Lai",
+      "slug": "gia-lai",
+      "type": "province"
+    },
+    {
+      "code": "VN-33",
+      "country": "VN",
+      "name": "Đắk Lắk",
+      "slug": "ak-lak",
+      "type": "province"
+    },
+    {
+      "code": "VN-34",
+      "country": "VN",
+      "name": "Khánh Hòa",
+      "slug": "khanh-hoa",
+      "type": "province"
+    },
+    {
+      "code": "VN-35",
+      "country": "VN",
+      "name": "Lâm Đồng",
+      "slug": "lam-ong",
+      "type": "province"
+    },
+    {
+      "code": "VN-37",
+      "country": "VN",
+      "name": "Tây Ninh",
+      "slug": "tay-ninh",
+      "type": "province"
+    },
+    {
+      "code": "VN-39",
+      "country": "VN",
+      "name": "Đồng Nai",
+      "slug": "ong-nai",
+      "type": "municipality"
+    },
+    {
+      "code": "VN-44",
+      "country": "VN",
+      "name": "An Giang",
+      "slug": "an-giang",
+      "type": "province"
+    },
+    {
+      "code": "VN-45",
+      "country": "VN",
+      "name": "Đồng Tháp",
+      "slug": "ong-thap",
+      "type": "province"
+    },
+    {
+      "code": "VN-49",
+      "country": "VN",
+      "name": "Vĩnh Long",
+      "slug": "vinh-long",
+      "type": "province"
+    },
+    {
+      "code": "VN-56",
+      "country": "VN",
+      "name": "Bắc Ninh",
+      "slug": "bac-ninh",
+      "type": "municipality"
+    },
+    {
+      "code": "VN-59",
+      "country": "VN",
+      "name": "Cà Mau",
+      "slug": "ca-mau",
+      "type": "province"
+    },
+    {
+      "code": "VN-66",
+      "country": "VN",
+      "name": "Hưng Yên",
+      "slug": "hung-yen",
+      "type": "province"
+    },
+    {
+      "code": "VN-68",
+      "country": "VN",
+      "name": "Phú Thọ",
+      "slug": "phu-tho",
+      "type": "province"
+    },
+    {
+      "code": "VN-69",
+      "country": "VN",
+      "name": "Thái Nguyên",
+      "slug": "thai-nguyen",
+      "type": "province"
+    },
+    {
+      "code": "VN-71",
+      "country": "VN",
+      "name": "Điện Biên",
+      "slug": "ien-bien",
+      "type": "province"
+    },
+    {
+      "code": "VN-CT",
+      "country": "VN",
+      "name": "Cần Thơ",
+      "slug": "can-tho",
+      "type": "municipality"
+    },
+    {
+      "code": "VN-DN",
+      "country": "VN",
+      "name": "Đà Nẵng",
+      "slug": "a-nang",
+      "type": "municipality"
+    },
+    {
+      "code": "VN-HN",
+      "country": "VN",
+      "name": "Hà Nội",
+      "slug": "ha-noi",
+      "type": "municipality"
+    },
+    {
+      "code": "VN-HP",
+      "country": "VN",
+      "name": "Hải Phòng",
+      "slug": "hai-phong",
+      "type": "municipality"
+    },
+    {
+      "code": "VN-SG",
+      "country": "VN",
+      "name": "Hồ Chí Minh",
+      "slug": "ho-chi-minh",
+      "type": "municipality"
+    },
+    {
       "code": "XK-PEJ",
       "country": "XK",
       "name": "Peja",
@@ -16011,6 +24844,182 @@
       "name": "Ferizaj",
       "slug": "ferizaj",
       "type": "district"
+    },
+    {
+      "code": "YE-AB",
+      "country": "YE",
+      "name": "Abyan",
+      "native": "أبين",
+      "slug": "abyan",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-AD",
+      "country": "YE",
+      "name": "Adan",
+      "native": "عدن",
+      "slug": "adan",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-AM",
+      "country": "YE",
+      "name": "Amran",
+      "native": "عمران",
+      "slug": "amran",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-BA",
+      "country": "YE",
+      "name": "Al Bayda'",
+      "native": "البيضاء",
+      "slug": "al-bayda",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-DA",
+      "country": "YE",
+      "name": "Ad Dali'",
+      "native": "الضالع",
+      "slug": "ad-dali",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-DH",
+      "country": "YE",
+      "name": "Dhamar",
+      "native": "ذمار",
+      "slug": "dhamar",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-HD",
+      "country": "YE",
+      "name": "Hadhramaut",
+      "native": "حضرموت",
+      "slug": "hadhramaut",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-HJ",
+      "country": "YE",
+      "name": "Hajjah",
+      "native": "حجة",
+      "slug": "hajjah",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-HU",
+      "country": "YE",
+      "name": "Al Hudaydah",
+      "native": "الحديدة",
+      "slug": "al-hudaydah",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-IB",
+      "country": "YE",
+      "name": "Ibb",
+      "native": "إب",
+      "slug": "ibb",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-JA",
+      "country": "YE",
+      "name": "Al Jawf",
+      "native": "الجوف",
+      "slug": "al-jawf",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-LA",
+      "country": "YE",
+      "name": "Lahij",
+      "native": "لحج",
+      "slug": "lahij",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-MA",
+      "country": "YE",
+      "name": "Ma'rib",
+      "native": "مأرب",
+      "slug": "ma-rib",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-MR",
+      "country": "YE",
+      "name": "Al Mahrah",
+      "native": "المهرة",
+      "slug": "al-mahrah",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-MW",
+      "country": "YE",
+      "name": "Al Mahwit",
+      "native": "المحويت",
+      "slug": "al-mahwit",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-RA",
+      "country": "YE",
+      "name": "Raymah",
+      "native": "ريمة",
+      "slug": "raymah",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-SA",
+      "country": "YE",
+      "name": "Amanat Al Asimah",
+      "native": "أمانة العاصمة",
+      "slug": "amanat-al-asimah",
+      "type": "municipality"
+    },
+    {
+      "code": "YE-SD",
+      "country": "YE",
+      "name": "Saada",
+      "native": "صعدة",
+      "slug": "saada",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-SH",
+      "country": "YE",
+      "name": "Shabwah",
+      "native": "شبوة",
+      "slug": "shabwah",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-SN",
+      "country": "YE",
+      "name": "Sana'a",
+      "native": "صنعاء",
+      "slug": "sana-a",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-SU",
+      "country": "YE",
+      "name": "Socotra",
+      "native": "سقطرى",
+      "slug": "socotra",
+      "type": "governorate"
+    },
+    {
+      "code": "YE-TA",
+      "country": "YE",
+      "name": "Ta'izz",
+      "native": "تعز",
+      "slug": "ta-izz",
+      "type": "governorate"
     }
   ]
 }
