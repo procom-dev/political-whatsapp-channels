@@ -7,7 +7,8 @@
       "englishName": "Agudat Yisrael",
       "orientation": "right",
       "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Israel",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "il-balad",
@@ -16,7 +17,8 @@
       "orientation": "left",
       "orientationSource": "https://en.wikipedia.org/wiki/Balad_(political_party)",
       "website": "https://www.altajamoa.org/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "il-bennett-2026",
@@ -42,7 +44,8 @@
       "orientation": "centre",
       "orientationSource": "https://www.wikidata.org/wiki/Q60198488",
       "website": "https://kachollavan.org.il/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "il-d-ashdod-ashdod-advancing",
@@ -216,7 +219,8 @@
       "englishName": "Degel HaTorah",
       "orientation": "right",
       "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Israel",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "il-democrats",
@@ -392,7 +396,14 @@
       "orientation": "left",
       "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Israel",
       "website": "https://hadash.org.il/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb6YKi9Lo4hbG9zDdv2K",
+        "id": "0029Vb6YKi9Lo4hbG9zDdv2K",
+        "added": "2026-10-20",
+        "source": "https://www.whatsapp.com/channel/0029Vb6YKi9Lo4hbG9zDdv2K"
+      }
     },
     {
       "id": "il-jm-jerusalem-agudat-yisrael",
@@ -496,7 +507,14 @@
       "orientation": "right",
       "orientationSource": "https://www.wikidata.org/wiki/Q187009",
       "website": "https://www.likud.org.il/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "other": {
+        "kind": "account",
+        "url": "https://wa.me/972544700047",
+        "id": "972544700047",
+        "added": "2026-10-20",
+        "source": "https://wa.me/972544700047"
+      }
     },
     {
       "id": "il-m-netanya-ahavat-yisrael",
@@ -745,7 +763,8 @@
       "orientation": "centre-right",
       "orientationSource": "https://www.wikidata.org/wiki/Q104073895",
       "website": "https://www.newhope.org.il/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "il-noam",
@@ -754,7 +773,15 @@
       "orientation": "far-right",
       "orientationSource": "https://www.wikidata.org/wiki/Q65553954",
       "website": "https://www.noamlisrael.org.il/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb7Jdw01iUxgnmLSHq3B",
+        "id": "0029Vb7Jdw01iUxgnmLSHq3B",
+        "added": "2026-10-20",
+        "source": "https://www.whatsapp.com/channel/0029Vb7Jdw01iUxgnmLSHq3B",
+        "personal": true
+      }
     },
     {
       "id": "il-otzma-yehudit",
@@ -763,13 +790,15 @@
       "orientation": "far-right",
       "orientationSource": "https://www.wikidata.org/wiki/Q46559",
       "website": "https://www.ozma-yeudit.co.il/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "il-raam",
       "name": "القائمة العربية الموحدة",
       "englishName": "United Arab List (Ra'am)",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "il-religious-zionism",
@@ -778,7 +807,8 @@
       "orientation": "right",
       "orientationSource": "https://www.wikidata.org/wiki/Q121167164",
       "website": "https://zionutdatit.org.il/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "il-reservists",
@@ -803,7 +833,8 @@
       "orientation": "right",
       "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Israel",
       "website": "https://shas.org.il/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "il-ta-bnei-brak-agudat-yisrael",
@@ -1039,7 +1070,8 @@
       "id": "il-taal",
       "name": "الحركة العربية للتغيير",
       "englishName": "Ta'al",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "il-yashar",
@@ -1048,7 +1080,14 @@
       "orientation": "centre",
       "orientationSource": "https://www.wikidata.org/wiki/Q136306684",
       "website": "https://yasharwitheisenkot.com/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "other": {
+        "kind": "group",
+        "url": "https://chat.whatsapp.com/EASRg7FaEfOCQr8yAT5FGP",
+        "id": "EASRg7FaEfOCQr8yAT5FGP",
+        "added": "2026-10-20",
+        "source": "http://joineisenkot.com/"
+      }
     },
     {
       "id": "il-yesh-atid",
@@ -1060,10 +1099,10 @@
       "verified": "2026-10-20",
       "other": {
         "kind": "group",
-        "url": "https://chat.whatsapp.com/HqwjwCbOZCsIoeP2I9ES8I",
-        "id": "HqwjwCbOZCsIoeP2I9ES8I",
+        "url": "https://chat.whatsapp.com/Lflh4txn1NOICqFyMRRADT",
+        "id": "Lflh4txn1NOICqFyMRRADT",
         "added": "2026-10-20",
-        "source": "https://www.yeshatid.org.il/"
+        "source": "https://chat.whatsapp.com/Lflh4txn1NOICqFyMRRADT"
       }
     },
     {
@@ -1089,7 +1128,15 @@
       "orientation": "right",
       "orientationSource": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Israel",
       "website": "https://zehut.org.il/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb5M9ug6RGJODiQSxg0X",
+        "id": "0029Vb5M9ug6RGJODiQSxg0X",
+        "added": "2026-10-20",
+        "source": "https://www.whatsapp.com/channel/0029Vb5M9ug6RGJODiQSxg0X",
+        "personal": true
+      }
     }
   ]
 }

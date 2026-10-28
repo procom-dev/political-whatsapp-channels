@@ -9,7 +9,8 @@
       "orientation": "centre-left",
       "orientationSource": "https://en.wikipedia.org/wiki/Ahora_Naci%C3%B3n",
       "website": "https://ahoranacion.org.pe/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "pe-buen-gobierno",
@@ -19,7 +20,8 @@
       "orientation": "centre",
       "orientationSource": "https://en.wikipedia.org/wiki/Party_of_Good_Government",
       "website": "https://partidodelbuengobierno.pe/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "pe-fuerza-popular",
@@ -29,7 +31,8 @@
       "orientation": "right",
       "orientationSource": "https://www.wikidata.org/wiki/Q1472820",
       "website": "https://fuerzapopular.com.pe/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "pe-juntos-por-el-peru",
@@ -39,7 +42,8 @@
       "orientation": "centre-left",
       "orientationSource": "https://en.wikipedia.org/wiki/Together_for_Peru",
       "website": "https://jp.org.pe/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "pe-nuevo-peru",
@@ -66,7 +70,8 @@
       "orientation": "centre",
       "orientationSource": "https://en.wikipedia.org/wiki/Civic_Party_OBRAS",
       "website": "https://partidopoliticocivicoobras.com/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "pe-renovacion-popular",

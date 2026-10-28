@@ -7,7 +7,8 @@
       "englishName": "Democrats",
       "europarty": "EPP",
       "website": "https://www.smedemokrati.sk/",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-hlas",
@@ -16,7 +17,8 @@
       "englishName": "Voice – Social Democracy",
       "europarty": "PES",
       "website": "https://strana-hlas.sk/",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-konzervativci-krestanska-unia",
@@ -24,7 +26,8 @@
       "englishName": "Conservatives – Christian Union",
       "europarty": "ECPM",
       "website": "https://krestanskaunia.sk/",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-krestanskodemokraticke-hnutie",
@@ -32,7 +35,8 @@
       "englishName": "Christian Democratic Movement",
       "europarty": "EPP",
       "website": "https://www.kdh.sk/",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-madarska-aliancia",
@@ -40,7 +44,8 @@
       "englishName": "Hungarian Alliance",
       "europarty": "EPP",
       "website": "https://www.szovetseg.sk/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-progresivne-slovensko",
@@ -48,7 +53,8 @@
       "englishName": "Progressive Slovakia",
       "europarty": "ALDE",
       "website": "https://www.progresivne.sk/",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-republika",
@@ -56,7 +62,8 @@
       "englishName": "Republic",
       "epGroup": "ESN",
       "website": "https://www.hnutie-republika.sk/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-sloboda-a-solidarita",
@@ -64,7 +71,8 @@
       "englishName": "Freedom and Solidarity",
       "europarty": "ALDE",
       "website": "https://www.sas.sk/",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-slovensko",
@@ -72,7 +80,8 @@
       "englishName": "Slovakia",
       "europarty": "EPP",
       "website": "https://obycajniludia.sk",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-sme-rodina",
@@ -80,7 +89,8 @@
       "englishName": "We Are Family",
       "europarty": "PATRIOTS",
       "website": "https://hnutie-smerodina.sk/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-smer-socialna-demokracia",
@@ -88,7 +98,8 @@
       "englishName": "Direction – Social Democracy",
       "europarty": "PES",
       "website": "https://www.strana-smer.sk",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "sk-sns",
@@ -96,9 +107,10 @@
       "abbreviation": "SNS",
       "englishName": "Slovak National Party",
       "website": "https://www.sns.sk/",
-      "verified": "2026-09-18",
+      "verified": "2026-10-20",
       "orientation": "right",
-      "orientationSource": "https://www.wikidata.org/wiki/Q221480"
+      "orientationSource": "https://www.wikidata.org/wiki/Q221480",
+      "noChannel": "2026-10-20"
     }
   ]
 }

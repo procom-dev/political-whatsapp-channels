@@ -128,6 +128,7 @@ A surface (`channel` or `other`) is:
 | `added` | ISO date the surface was recorded. |
 | `source` | Where the link was found (optional). |
 | `personal` | On a `channel` only: `true` when the linked Channel is a candidate's personal one, not the party's official presence. |
+| `unofficial` | On a `channel` only: `true` when the Channel is run by the party's supporters, not the party. Such an entry is named after the channel and carries `parentId` = the party it supports. |
 
 ### The place ladder
 
@@ -200,7 +201,9 @@ if none of those things belong in the data, none of them need a label. The rule
 is applied where entries come in (research, review, pull request), not by the
 schema. The one exception is already handled: a channel may be flagged `personal`
 when a party's only WhatsApp presence is its lead candidate's own Channel, so the
-two are never conflated.
+two are never conflated. The second is a channel flagged `unofficial`: one run by a
+party's supporters, kept in its own row (linked to the party through `parentId`)
+because some of them reach far more people than the party's own Channel.
 
 ## Methodology and limitations
 

@@ -2,6 +2,21 @@
   "country": "ES",
   "parties": [
     {
+      "id": "es-an-adelante-andalucia",
+      "name": "Adelante Andalucía",
+      "englishName": "Forward Andalusia",
+      "region": "ES-AN",
+      "website": "https://adelanteandalucia.org/",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VaSwwDB5a23uHLiaYG2G",
+        "id": "0029VaSwwDB5a23uHLiaYG2G",
+        "added": "2026-10-22",
+        "source": "https://www.whatsapp.com/channel/0029VaSwwDB5a23uHLiaYG2G"
+      },
+      "verified": "2026-10-22"
+    },
+    {
       "id": "es-an-rincon-de-la-victoria-iu-rincon-de-la-victoria",
       "name": "Izquierda Unida Rincón de la Victoria",
       "abbreviation": "IU Rincón de la Victoria",
@@ -286,19 +301,19 @@
       "translations": {
         "pt": "Frente Ampla",
         "it": "Fronte Ampio",
-        "fr": "Front large",
-        "de": "Breite Front"
+        "fr": "Front large"
       },
       "orientation": "left",
       "orientationSource": "https://www.democrata.es/politica/ampliacion-frente-amplio-elige-a-colau-para-liderar-el-29n-e-insta-a-podemos-a-sumarse-pese-a-su-pacto-con-erc/",
+      "website": "https://frenteamplio.info/",
       "channel": {
         "kind": "channel",
         "url": "https://www.whatsapp.com/channel/0029Vb9LywUFcow8dwKxpd25",
         "id": "0029Vb9LywUFcow8dwKxpd25",
-        "added": "2026-10-16",
-        "source": "https://whatsapp.com/channel/0029Vb9LywUFcow8dwKxpd25"
+        "added": "2026-10-16"
       },
-      "verified": "2026-10-16"
+      "cadence": "daily",
+      "verified": "2026-10-27"
     },
     {
       "id": "es-ga-bng",
@@ -470,6 +485,25 @@
       },
       "verified": "2026-08-29",
       "epGroup": "SD"
+    },
+    {
+      "id": "es-psoe-la-fuerza-de-la-gente",
+      "name": "La Fuerza de la Gente",
+      "englishName": "The Strength of the People (unofficial PSOE channel)",
+      "translations": {
+        "pt": "A Força do Povo (canal não oficial do PSOE)",
+        "it": "La forza della gente (canale non ufficiale del PSOE)",
+        "fr": "La force des gens (chaîne non officielle du PSOE)"
+      },
+      "parentId": "es-psoe",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbDmpaQJP214T6SB133L",
+        "id": "0029VbDmpaQJP214T6SB133L",
+        "added": "2026-10-27",
+        "unofficial": true
+      },
+      "verified": "2026-10-27"
     },
     {
       "id": "es-pv-ea",

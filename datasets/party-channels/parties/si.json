@@ -6,17 +6,19 @@
       "name": "Demokrati",
       "englishName": "Democrats",
       "website": "https://www.demokrati.si/",
-      "verified": "2026-09-18",
+      "verified": "2026-10-20",
       "orientation": "centre-right",
-      "orientationSource": "https://en.wikipedia.org/wiki/Democrats_(Slovenia)"
+      "orientationSource": "https://en.wikipedia.org/wiki/Democrats_(Slovenia)",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "si-fokus",
       "name": "Fokus",
       "website": "https://fokus.center/",
-      "verified": "2026-09-18",
+      "verified": "2026-10-20",
       "orientation": "centre-right",
-      "orientationSource": "https://en.wikipedia.org/wiki/Focus_(Slovenia)"
+      "orientationSource": "https://en.wikipedia.org/wiki/Focus_(Slovenia)",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "si-gs",
@@ -25,7 +27,8 @@
       "englishName": "Freedom Movement",
       "epGroup": "RENEW",
       "website": "https://gibanjesvoboda.si/",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "si-levica",
@@ -33,7 +36,8 @@
       "englishName": "The Left",
       "europarty": "EL",
       "website": "https://levica.si",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "si-nova-slovenija",
@@ -41,7 +45,8 @@
       "englishName": "New Slovenia",
       "europarty": "EPP",
       "website": "https://www.nsi.si",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "si-prerod",
@@ -49,15 +54,17 @@
       "englishName": "Rebirth",
       "epGroup": "GREENS_EFA",
       "website": "https://prerod.si/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "si-resni-ca",
       "name": "Resni.ca",
       "website": "https://resni.ca",
-      "verified": "2026-09-18",
+      "verified": "2026-10-20",
       "orientation": "far-right",
-      "orientationSource": "https://en.wikipedia.org/wiki/Resni.ca"
+      "orientationSource": "https://en.wikipedia.org/wiki/Resni.ca",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "si-slovenska-demokratska-stranka",
@@ -65,7 +72,8 @@
       "englishName": "Slovenian Democratic Party",
       "europarty": "EPP",
       "website": "https://www.sds.si",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "si-slovenska-ljudska-stranka",
@@ -73,7 +81,8 @@
       "englishName": "Slovenian People's Party",
       "europarty": "EPP",
       "website": "https://www.sls.si",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "si-socialni-demokrati",
@@ -81,7 +90,8 @@
       "englishName": "Social Democrats",
       "europarty": "PES",
       "website": "https://www.socialnidemokrati.si/",
-      "verified": "2026-09-18"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     },
     {
       "id": "si-vesna",
@@ -89,7 +99,8 @@
       "englishName": "Vesna – Green Party",
       "europarty": "EGP",
       "website": "https://www.vesnazelenastranka.si/",
-      "verified": "2026-10-20"
+      "verified": "2026-10-20",
+      "noChannel": "2026-10-20"
     }
   ]
 }

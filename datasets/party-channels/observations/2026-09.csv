@@ -409,6 +409,7 @@ checked_at,party_id,channel_id,status,followers,precision,locale,channel_name,ht
 2026-09-22T09:57:12Z,de-cdu,0029VaHl2dj6mYPGKPOnK636,ok,20613,exact,de-DE,CDU Deutschlands,200,channel,live,
 2026-09-22T09:57:13Z,it-m5s,0029VaDq9ngDuMRdwp5IrC0E,ok,77259,exact,de-DE,Giuseppe Conte,200,channel,live,
 2026-09-22T09:57:13Z,es-vox,0029VaDCD1UJJhzPmDOnRy2E,ok,80802,exact,de-DE,Santiago Abascal 🇪🇸,200,channel,live,
+2026-09-23T05:12:48Z,il-bennett-2026,0029VajOGiwCHDyhLzHerf3W,ok,8700,rounded,,נפתלי בנט 🇮🇱,200,channel,archive,https://web.archive.org/web/20260923051248/https://www.whatsapp.com/channel/0029VajOGiwCHDyhLzHerf3W
 2026-09-23T09:58:49Z,nl-christenunie,0029VaPnmvj0gcfQd0YkS200,ok,1526,exact,de-DE,ChristenUnie,200,channel,live,
 2026-09-23T09:58:49Z,nl-sgp,0029VaDLxdM7z4kfdsHvfS2K,ok,7119,exact,de-DE,SGP,200,channel,live,
 2026-09-23T09:58:50Z,fr-ps,0029VaDvUzm9cDDdqPbhmj19,ok,8381,exact,de-DE,Parti socialiste,200,channel,live,

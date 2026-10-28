@@ -2,7 +2,7 @@
   "version": 1,
   "parties": {
     "ad-ae": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 0
     },
@@ -17,7 +17,7 @@
       "pages": 4
     },
     "ad-ps": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 0
     },
@@ -67,7 +67,7 @@
       "pages": 1
     },
     "ax-hi": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -82,7 +82,7 @@
       "pages": 3
     },
     "ax-obs": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 0
     },
@@ -117,7 +117,7 @@
       "pages": 3
     },
     "ba-sds": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -217,7 +217,7 @@
       "pages": 1
     },
     "bg-pp": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -392,7 +392,7 @@
       "pages": 1
     },
     "cy-diko": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -422,9 +422,9 @@
       "pages": 8
     },
     "cz-10-praha-kdu-csl": {
-      "checkedAt": "2026-09-21",
-      "outcome": "unreachable",
-      "pages": 1
+      "checkedAt": "2026-10-26",
+      "outcome": "none",
+      "pages": 6
     },
     "cz-10-praha-pirati": {
       "checkedAt": "2026-09-21",
@@ -467,9 +467,9 @@
       "pages": 4
     },
     "cz-kdu-csl": {
-      "checkedAt": "2026-09-21",
-      "outcome": "unreachable",
-      "pages": 1
+      "checkedAt": "2026-10-26",
+      "outcome": "none",
+      "pages": 6
     },
     "cz-ods": {
       "checkedAt": "2026-09-18",
@@ -522,8 +522,8 @@
       "pages": 2
     },
     "cz-trikolora": {
-      "checkedAt": "2026-09-21",
-      "outcome": "unreachable",
+      "checkedAt": "2026-10-26",
+      "outcome": "none",
       "pages": 1
     },
     "de-afd": {
@@ -587,7 +587,7 @@
       "pages": 5
     },
     "dk-aa": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -602,7 +602,7 @@
       "pages": 2
     },
     "dk-c": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -632,7 +632,7 @@
       "pages": 3
     },
     "dk-oe": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -762,8 +762,8 @@
       "pages": 1
     },
     "fi-vasemmistoliitto": {
-      "checkedAt": "2026-09-21",
-      "outcome": "unreachable",
+      "checkedAt": "2026-10-26",
+      "outcome": "none",
       "pages": 1
     },
     "fi-vihrea-liitto": {
@@ -922,7 +922,7 @@
       "pages": 2
     },
     "hr-hds": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -967,8 +967,8 @@
       "pages": 1
     },
     "hu-fidesz": {
-      "checkedAt": "2026-09-21",
-      "outcome": "unreachable",
+      "checkedAt": "2026-10-26",
+      "outcome": "none",
       "pages": 1
     },
     "hu-jobbik": {
@@ -987,7 +987,7 @@
       "pages": 2
     },
     "hu-mi-hazank": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -997,7 +997,7 @@
       "pages": 1
     },
     "hu-mszp": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1032,7 +1032,7 @@
       "pages": 7
     },
     "ie-human-dignity-alliance": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1042,7 +1042,7 @@
       "pages": 3
     },
     "ie-labour-party": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1052,7 +1052,7 @@
       "pages": 3
     },
     "ie-sd": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1076,6 +1076,106 @@
       "outcome": "unreachable",
       "pages": 1
     },
+    "il-d-ashdod-ashdod-advancing": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-ashdod-on-the-move": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-ashdod-together": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-ashdod-will-win": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-ashdodim": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-ashdods-future": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-new-way": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-shas": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-torah-ashdod-degel-hatorah": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-united-torah-judaism": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-voice-of-the-heart-new-horizon-otzma-yehudit": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-ashdod-we-have-no-other-ashdod": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-beersheba-beersheba-our-home": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-beersheba-gesher": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-beersheba-kehila": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-beersheba-likud": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-beersheba-new-contract": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-beersheba-new-way": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-beersheba-otzma-yehudit-and-religious-zionism": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-d-beersheba-shas": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
     "il-degel-hatorah": {
       "checkedAt": "2026-10-20",
       "outcome": "unreachable",
@@ -1086,19 +1186,299 @@
       "outcome": "none",
       "pages": 1
     },
+    "il-ha-haifa-connected-to-haifa-and-kiryat-haim": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-degel-for-the-resident": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-hadash-haifa": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-haifa-our-home": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-i-care-about-haifas-residents": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-i-live-here": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-likud": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-new-contract": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-our-haifa": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-our-home": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-pensioners-lobby": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-religious-zionist-unity": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-rov-hair": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-shas": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-tajamu-haifa-balad": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-the-greens-blue-and-white": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-united-agudat-yisrael": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ha-haifa-yesh-atid-and-haifa-youth": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
     "il-hadash": {
       "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 2
+    },
+    "il-jm-jerusalem-agudat-yisrael": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-jm-jerusalem-bnei-torah": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-jm-jerusalem-degel-hatorah": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
     },
     "il-jm-jerusalem-hitorerut-in-jerusalem": {
       "checkedAt": "2026-10-20",
       "outcome": "none",
       "pages": 3
     },
+    "il-jm-jerusalem-jerusalem-in-noam": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-jm-jerusalem-jerusalem-union": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-jm-jerusalem-likud": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-jm-jerusalem-national-religious-party-religious-zionism": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-jm-jerusalem-one-jerusalem": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-jm-jerusalem-shas": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-jm-jerusalem-united-with-aryeh-king": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
     "il-likud": {
       "checkedAt": "2026-10-20",
       "outcome": "robots",
+      "pages": 0
+    },
+    "il-m-netanya-ahavat-yisrael": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-for-education-health-and-welfare": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-likud": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-national-unity": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-netanya-our-home": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-new-pulse": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-new-way": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-one-netanya": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-otzma-yehudit": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-outside-the-box": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-religious-zionist-rainbow": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-shas": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-netanya-yesh-atid": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-petah-tikva-committed": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-petah-tikva-emet-democratic-camp": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-petah-tikva-petah-tikva-our-home": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-petah-tikva-religious-zionism": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-petah-tikva-renewal": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-petah-tikva-shas": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-petah-tikva-united-torah-judaism": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-petah-tikva-yesh-atid": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-rishon-lezion-green-meretz": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-rishon-lezion-likud": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-rishon-lezion-only-together": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-rishon-lezion-paz": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-rishon-lezion-rishon-our-home": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-rishon-lezion-shas": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-m-rishon-lezion-yesh-atid-and-rishon-lezion-youth": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
       "pages": 0
     },
     "il-new-hope": {
@@ -1135,6 +1515,141 @@
       "checkedAt": "2026-10-20",
       "outcome": "unreachable",
       "pages": 1
+    },
+    "il-ta-bnei-brak-agudat-yisrael": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-bnei-brak-bnei-torah": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-bnei-brak-degel-hatorah": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-bnei-brak-for-the-citys-good": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-bnei-brak-likud": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-bnei-brak-shas": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-holon-good-for-holon": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-holon-holon-renewing": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-holon-labor": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-holon-likud": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-holon-new-contract": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-holon-new-hope": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-holon-religious-zionism": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-holon-shas": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-holon-together-building-a-safe-and-smart-city": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-holon-young-plus": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-believing-in-tel-aviv": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-chai-green-seculars": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-likud-otzma-yehudit": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-meretz-tel-aviv-yafo": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-new-hope": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-one-tel-aviv": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-power-to-the-pensioners": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-shas": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-the-young-faction": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-we-are-all-the-city": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
+    },
+    "il-ta-tel-aviv-yafo-yesh-atid-and-the-tel-avivians": {
+      "checkedAt": "2026-10-26",
+      "outcome": "unreachable",
+      "pages": 0
     },
     "il-taal": {
       "checkedAt": "2026-10-20",
@@ -1287,7 +1802,7 @@
       "pages": 3
     },
     "lu-adr": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1317,7 +1832,7 @@
       "pages": 5
     },
     "lu-piraten": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1347,7 +1862,7 @@
       "pages": 2
     },
     "lv-vienotiba": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1367,7 +1882,7 @@
       "pages": 2
     },
     "md-ppda": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 0
     },
@@ -1377,7 +1892,7 @@
       "pages": 2
     },
     "me-bs": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 0
     },
@@ -1397,7 +1912,7 @@
       "pages": 2
     },
     "me-ura": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1407,7 +1922,7 @@
       "pages": 3
     },
     "mk-levica": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1422,7 +1937,7 @@
       "pages": 1
     },
     "mk-znam": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1432,7 +1947,7 @@
       "pages": 2
     },
     "mt-partit-laburista": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1517,7 +2032,7 @@
       "pages": 2
     },
     "no-frp": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1537,7 +2052,7 @@
       "pages": 3
     },
     "no-r": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1552,7 +2067,7 @@
       "pages": 3
     },
     "no-v": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1592,7 +2107,7 @@
       "pages": 5
     },
     "pl-nowa-nadzieja": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1607,9 +2122,9 @@
       "pages": 3
     },
     "pl-polskie-stronnictwo-ludowe": {
-      "checkedAt": "2026-09-21",
-      "outcome": "unreachable",
-      "pages": 1
+      "checkedAt": "2026-10-26",
+      "outcome": "none",
+      "pages": 3
     },
     "pl-prawo-i-sprawiedliwosc": {
       "checkedAt": "2026-09-21",
@@ -1682,7 +2197,7 @@
       "pages": 2
     },
     "ro-pot": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1702,7 +2217,7 @@
       "pages": 2
     },
     "ro-udscr": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1882,7 +2397,7 @@
       "pages": 1
     },
     "si-demokrati": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -1917,7 +2432,7 @@
       "pages": 1
     },
     "si-slovenska-demokratska-stranka": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -2012,12 +2527,12 @@
       "pages": 6
     },
     "sm-rete": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 0
     },
     "sm-rf": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 0
     },
@@ -2027,7 +2542,7 @@
       "pages": 8
     },
     "ua-es": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -2037,8 +2552,8 @@
       "pages": 8
     },
     "ua-sn": {
-      "checkedAt": "2026-09-21",
-      "outcome": "unreachable",
+      "checkedAt": "2026-10-26",
+      "outcome": "none",
       "pages": 1
     },
     "xk-aak": {
@@ -2047,7 +2562,7 @@
       "pages": 3
     },
     "xk-ldk": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
@@ -2057,12 +2572,12 @@
       "pages": 1
     },
     "xk-pdk": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 1
     },
     "xk-sl": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-10-26",
       "outcome": "unreachable",
       "pages": 0
     }

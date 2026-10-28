@@ -324,6 +324,25 @@
       "verified": "2026-09-28"
     },
     {
+      "id": "br-pt-exercito-do-lula",
+      "name": "Exército do Lula",
+      "englishName": "Lula's Army (unofficial PT channel)",
+      "translations": {
+        "es": "Ejército de Lula (canal no oficial del PT)",
+        "it": "Esercito di Lula (canale non ufficiale del PT)",
+        "fr": "Armée de Lula (chaîne non officielle du PT)"
+      },
+      "parentId": "br-pt",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029VbCbRfD7tkj88k3soZ0Y",
+        "id": "0029VbCbRfD7tkj88k3soZ0Y",
+        "added": "2026-10-27",
+        "unofficial": true
+      },
+      "verified": "2026-10-27"
+    },
+    {
       "id": "br-pv",
       "name": "Partido Verde",
       "abbreviation": "PV",
