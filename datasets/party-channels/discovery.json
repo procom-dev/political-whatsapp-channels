@@ -686,6 +686,11 @@
       "outcome": "unreachable",
       "pages": 1
     },
+    "es-frente-amplio": {
+      "checkedAt": "2026-11-02",
+      "outcome": "found",
+      "pages": 1
+    },
     "es-iu": {
       "checkedAt": "2026-10-12",
       "outcome": "unreachable",

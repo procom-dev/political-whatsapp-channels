@@ -306,14 +306,26 @@
       "orientation": "left",
       "orientationSource": "https://www.democrata.es/politica/ampliacion-frente-amplio-elige-a-colau-para-liderar-el-29n-e-insta-a-podemos-a-sumarse-pese-a-su-pacto-con-erc/",
       "website": "https://frenteamplio.info/",
+      "verified": "2026-10-27"
+    },
+    {
+      "id": "es-frente-amplio-frenteamplistas",
+      "name": "FRENTEAMPLISTAS",
+      "englishName": "Broad Fronters (unofficial Frente Amplio channel)",
+      "translations": {
+        "pt": "Frenteamplistas (canal não oficial do Frente Amplio)",
+        "it": "Frenteamplisti (canale non ufficiale del Frente Amplio)",
+        "fr": "Frenteamplistes (chaîne non officielle du Frente Amplio)"
+      },
+      "parentId": "es-frente-amplio",
       "channel": {
         "kind": "channel",
         "url": "https://www.whatsapp.com/channel/0029Vb9LywUFcow8dwKxpd25",
         "id": "0029Vb9LywUFcow8dwKxpd25",
-        "added": "2026-10-16"
+        "added": "2026-10-16",
+        "unofficial": true
       },
-      "cadence": "daily",
-      "verified": "2026-10-27"
+      "verified": "2026-10-29"
     },
     {
       "id": "es-ga-bng",
@@ -436,14 +448,27 @@
       "abbreviation": "Podemos",
       "englishName": "We Can",
       "website": "https://podemos.info/",
+      "verified": "2026-11-02",
+      "epGroup": "LEFT"
+    },
+    {
+      "id": "es-podemos-paz-casa-y-trabajo",
+      "name": "PAZ, CASA Y TRABAJO",
+      "englishName": "Peace, Housing and Work (unofficial Podemos channel)",
+      "translations": {
+        "pt": "Paz, Casa e Trabalho (canal não oficial do Podemos)",
+        "it": "Pace, Casa e Lavoro (canale non ufficiale di Podemos)",
+        "fr": "Paix, Logement et Travail (chaîne non officielle de Podemos)"
+      },
+      "parentId": "es-podemos",
       "channel": {
         "kind": "channel",
         "url": "https://www.whatsapp.com/channel/0029Va8DejyIiRowrYG9PK0C",
         "id": "0029Va8DejyIiRowrYG9PK0C",
-        "added": "2026-08-29"
+        "added": "2026-08-29",
+        "unofficial": true
       },
-      "verified": "2026-08-29",
-      "epGroup": "LEFT"
+      "verified": "2026-11-02"
     },
     {
       "id": "es-pp",
@@ -576,13 +601,28 @@
       "region": "ES-VC",
       "europarty": "EFA",
       "website": "https://mes.compromis.net/",
+      "verified": "2026-11-04"
+    },
+    {
+      "id": "es-vc-mes-compromis-compromisme",
+      "name": "COMPROMISME",
+      "region": "ES-VC",
+      "englishName": "Compromisme (unofficial Compromís channel)",
+      "translations": {
+        "es": "Compromisme (canal no oficial de Compromís)",
+        "pt": "Compromisme (canal não oficial do Compromís)",
+        "it": "Compromisme (canale non ufficiale di Compromís)",
+        "fr": "Compromisme (chaîne non officielle de Compromís)"
+      },
+      "parentId": "es-vc-mes-compromis",
       "channel": {
         "kind": "channel",
         "url": "https://www.whatsapp.com/channel/0029Va8cu6I17En2HY58S90J",
         "id": "0029Va8cu6I17En2HY58S90J",
-        "added": "2026-08-31"
+        "added": "2026-08-31",
+        "unofficial": true
       },
-      "verified": "2026-08-31"
+      "verified": "2026-11-04"
     },
     {
       "id": "es-vox",
