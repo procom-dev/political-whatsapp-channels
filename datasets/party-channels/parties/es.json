@@ -6,15 +6,16 @@
       "name": "Adelante Andalucía",
       "englishName": "Forward Andalusia",
       "region": "ES-AN",
+      "orientation": "left",
+      "orientationSource": "https://es.wikipedia.org/wiki/Adelante_Andaluc%C3%ADa_(partido_pol%C3%ADtico)",
       "website": "https://adelanteandalucia.org/",
       "channel": {
         "kind": "channel",
         "url": "https://www.whatsapp.com/channel/0029VaSwwDB5a23uHLiaYG2G",
         "id": "0029VaSwwDB5a23uHLiaYG2G",
-        "added": "2026-10-22",
-        "source": "https://www.whatsapp.com/channel/0029VaSwwDB5a23uHLiaYG2G"
+        "added": "2026-10-22"
       },
-      "verified": "2026-10-22"
+      "verified": "2026-11-17"
     },
     {
       "id": "es-an-rincon-de-la-victoria-iu-rincon-de-la-victoria",
@@ -510,6 +511,25 @@
       },
       "verified": "2026-08-29",
       "epGroup": "SD"
+    },
+    {
+      "id": "es-psoe-la-bola-roja",
+      "name": "LA BOLA ROJA",
+      "englishName": "The Red Ball (unofficial PSOE channel)",
+      "translations": {
+        "pt": "A Bola Vermelha (canal não oficial do PSOE)",
+        "it": "La palla rossa (canale non ufficiale del PSOE)",
+        "fr": "La boule rouge (chaîne non officielle du PSOE)"
+      },
+      "parentId": "es-psoe",
+      "channel": {
+        "kind": "channel",
+        "url": "https://www.whatsapp.com/channel/0029Vb9PixR7j6fyqN6foR2N",
+        "id": "0029Vb9PixR7j6fyqN6foR2N",
+        "added": "2026-11-17",
+        "unofficial": true
+      },
+      "verified": "2026-11-17"
     },
     {
       "id": "es-psoe-la-fuerza-de-la-gente",
